@@ -28,6 +28,10 @@ import yaml
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
+# where the raw Markdown lives, for the "Raw Markdown" link on every entry page
+REPO_BLOB = os.environ.get(
+    "TK_CORPUS_REPO_BLOB", "https://github.com/tk-reawakened/corpus/blob/main/corpus/")
+
 KINDS = [
     ("forum-thread", "Forum threads", "forums", "Every captured thread, with all its replies in order."),
     ("page", "Pages", "pages", "Everything else that was a page: home pages, news entries, member sites."),
@@ -268,7 +272,7 @@ def render_entry(rel, fm, body):
                  'the same content is filed under <code>%s</code>.</p>' % esc(str(fm["duplicate_of"])))
     h.append('<div class="body">%s</div>' % md_to_html(readme_of(fm, body)))
     h.append('<p class="raw">Raw Markdown: <a href="%s">%s</a></p>' % (
-        esc("../../corpus/" + rel), esc(rel)))
+        esc(REPO_BLOB + rel), esc(rel)))
     h.append("</article>")
     return page(str(title), "\n".join(h), depth=2)
 
