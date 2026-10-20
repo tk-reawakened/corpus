@@ -46,6 +46,9 @@ jobs:
           test -s _site/search/index.json
           test -s _site/index.html
 
+      - name: Check every internal link resolves
+        run: python3 site/check-links.py _site
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3

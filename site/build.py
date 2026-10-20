@@ -21,8 +21,10 @@ import html
 import json
 import os
 import re
+import shutil
 import sys
 import unicodedata
+import urllib.parse as up
 
 import yaml
 
@@ -54,7 +56,31 @@ def esc(s):
     return html.escape(s or "", quote=False)
 
 
-def inline(text):
+WB = re.compile(r"^(https?://web\.archive\.org/web/\d+[a-z_]*/)(.*)$", re.I)
+
+
+def resolve_link(u, base):
+    """a link from the captured page -> a link that still works
+
+    The corpus keeps the page's own relative links. They are resolved against
+    the archived page, so they lead into the Wayback Machine, where the rest of
+    that site still is.
+    """
+    if not base or not u or u.startswith(("http://", "https://", "mailto:", "#")):
+        return u
+    m = WB.match(base)
+    if not m:
+        return up.urljoin(base, u)
+    prefix, embedded = m.group(1), m.group(2)
+    if u.startswith("/"):                       # root-relative: the site's root
+        em = re.match(r"([a-z]+://[^/]+)", embedded, re.I)
+        if em:
+            return prefix + em.group(1) + u
+        return prefix + u
+    return prefix + up.urljoin(embedded, u)
+
+
+def inline(text, base=None):
     """markdown inline -> html (the corpus's own markdown, nothing exotic)"""
     spans = []
 
@@ -62,21 +88,33 @@ def inline(text):
         spans.append("<code>%s</code>" % esc(m.group(1)))
         return "\x00%d\x00" % (len(spans) - 1)
 
+    def resolve(u):
+        return resolve_link(u, base)
+
+    def linkify(m):
+        """a link - unless the 'url' is not a url at all"""
+        text, url = m.group(1), m.group(2)
+        if not url.isascii() or " " in url:
+            return text or url            # a broken link in the original page
+        return '<a href="%s">%s</a>' % (resolve(url), text or url)
+
+    def imageify(m):
+        url = m.group(2)
+        return '<img src="%s" alt="%s" loading="lazy">' % (resolve(url), m.group(1))
+
     text = re.sub(r"`([^`]+)`", stash, text)
     text = esc(text)
     # autolinks before anything else eats the brackets
     text = re.sub(r"&lt;(https?://[^\s&]+)&gt;", r'<a href="\1" rel="nofollow">\1</a>', text)
-    text = re.sub(r"!\[([^\]]*)\]\(([^)\s]+)\)",
-                  lambda m: '<img src="%s" alt="%s" loading="lazy">' % (m.group(2), m.group(1)), text)
-    text = re.sub(r"\[([^\]]*)\]\(([^)\s]+)\)",
-                  lambda m: '<a href="%s">%s</a>' % (m.group(2), m.group(1) or m.group(2)), text)
+    text = re.sub(r"!\[([^\]]*)\]\(([^)\s]+)\)", imageify, text)
+    text = re.sub(r"\[([^\]]*)\]\(([^)\s]+)\)", linkify, text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"(?<![\w*])\*([^*\n]+)\*(?![\w*])", r"<em>\1</em>", text)
     text = re.sub(r"\x00(\d+)\x00", lambda m: spans[int(m.group(1))], text)
     return text
 
 
-def md_to_html(text):
+def md_to_html(text, base=None):
     """the corpus's markdown -> html"""
     out = []
     lines = (text or "").split("\n")
@@ -109,13 +147,13 @@ def md_to_html(text):
             pm = re.match(r"^###\s+(.+?)\s+·\s+(.+?)\s+·\s+#(\S+)\s*$", m.group(2))
             if pm:
                 anchor = ' id="p-%s"' % esc(pm.group(3))
-            out.append("<h%d%s>%s</h%d>" % (lvl, anchor, inline(m.group(2)), lvl))
+            out.append("<h%d%s>%s</h%d>" % (lvl, anchor, inline(m.group(2), base), lvl))
             i += 1
             continue
         if re.match(r"^\s*[-*+]\s+", line):
             items = []
             while i < n and re.match(r"^\s*[-*+]\s+", lines[i]):
-                items.append("<li>%s</li>" % inline(re.sub(r"^\s*[-*+]\s+", "", lines[i])))
+                items.append("<li>%s</li>" % inline(re.sub(r"^\s*[-*+]\s+", "", lines[i]), base))
                 i += 1
             out.append("<ul>%s</ul>" % "".join(items))
             continue
@@ -124,11 +162,11 @@ def md_to_html(text):
             while i < n and re.match(r"^\s*>", lines[i]):
                 buf.append(re.sub(r"^\s*>\s?", "", lines[i]))
                 i += 1
-            out.append("<blockquote>%s</blockquote>" % inline(" ".join(buf)))
+            out.append("<blockquote>%s</blockquote>" % inline(" ".join(buf), base))
             continue
         # paragraph - the corpus puts one block per line, so a line is a paragraph
         if not re.match(r"^\s*(#{1,6}\s|[-*+]\s|>|```)", line):
-            out.append("<p>%s</p>" % inline(line.strip()))
+            out.append("<p>%s</p>" % inline(line.strip(), base))
         i += 1
     return "\n".join(out)
 
@@ -252,29 +290,37 @@ def render_entry(rel, fm, body):
     site = fm.get("site", "")
     title = fm.get("title") or "(untitled)"
     url = entry_url(rel)
+    # an entry lives at e/<kind>/<site>/<file>.html - three levels down
+    up3 = "../../../"
     h = []
     h.append('<article class="entry">')
     h.append("<h1>%s</h1>" % inline(str(title)))
-    h.append('<p class="crumbs"><a href="../browse/kind/%s/">%s</a> · %s</p>' % (
-        esc(kind), esc(kind), esc(str(site))))
+    h.append('<p class="crumbs"><a href="%sbrowse/kind/%s/">%s</a> · %s</p>' % (
+        up3, esc(kind), esc(kind), esc(str(site))))
     h.append(meta_table(fm))
     caps = fm.get("source_captures") or []
-    if caps:
-        links = []
-        for c in caps:
-            if isinstance(c, dict) and c.get("wayback_url"):
-                links.append('<a href="%s" rel="nofollow">%s</a>' % (
-                    esc(c["wayback_url"]), esc(str(c.get("captured") or "capture"))))
-        if links:
+    base = None
+    for c in caps:
+        if isinstance(c, dict) and str(c.get("wayback_url") or "").startswith("http"):
+            links = []
+            for c2 in caps:
+                if isinstance(c2, dict) and str(c2.get("wayback_url") or "").startswith("http"):
+                    links.append('<a href="%s" rel="nofollow">%s</a>' % (
+                        esc(c2["wayback_url"]), esc(str(c2.get("captured") or "capture"))))
             h.append('<p class="src">Wayback: %s</p>' % " · ".join(links))
+            if base is None:
+                base = c["wayback_url"]
+            break
+    if base is None and str(fm.get("original_url") or "").startswith("http"):
+        base = fm["original_url"]          # a page supplied by hand has no capture
     if fm.get("duplicate_of"):
         h.append('<p class="note">This page was also captured under another URL — '
                  'the same content is filed under <code>%s</code>.</p>' % esc(str(fm["duplicate_of"])))
-    h.append('<div class="body">%s</div>' % md_to_html(readme_of(fm, body)))
+    h.append('<div class="body">%s</div>' % md_to_html(readme_of(fm, body), base))
     h.append('<p class="raw">Raw Markdown: <a href="%s">%s</a></p>' % (
         esc(REPO_BLOB + rel), esc(rel)))
     h.append("</article>")
-    return page(str(title), "\n".join(h), depth=2)
+    return page(str(title), "\n".join(h), depth=3)
 
 
 def list_page(title, intro, items, depth=1, kind=None):
@@ -291,7 +337,7 @@ def list_page(title, intro, items, depth=1, kind=None):
     return page(title, "\n".join(h), depth=depth)
 
 
-def link_entry(rel, fm, extra=""):
+def link_entry(rel, fm, extra="", depth=1):
     title = fm.get("title") or "(untitled)"
     bits = []
     if fm.get("author"):
@@ -301,7 +347,7 @@ def link_entry(rel, fm, extra=""):
     if fm.get("site"):
         bits.append(esc(str(fm["site"])))
     return '<a href="%s">%s</a> <span class="m">%s</span>%s' % (
-        "../" * 1 + entry_url(rel), esc(str(title)), " · ".join(bits), extra)
+        "../" * depth + entry_url(rel), esc(str(title)), " · ".join(bits), extra)
 
 
 # ---------------------------------------------------------------- build
@@ -319,6 +365,10 @@ def build(corpus, out):
     TOTAL["entries"] = len(entries)
     print("entries: %d" % len(entries))
 
+    # start from an empty site: a page that is no longer generated (a person
+    # whose name changed, a kind that lost its last entry) must not linger
+    if os.path.isdir(out):
+        shutil.rmtree(out)
     for sub in ("e", "browse/kind", "browse/site", "browse/year", "people", "games",
                 "assets", "search", "about"):
         os.makedirs(os.path.join(out, sub), exist_ok=True)
@@ -377,15 +427,15 @@ def build(corpus, out):
         items = by_kind.get(kind, [])
         rows = []
         for rel, fm in sorted(items, key=lambda x: (str(x[1].get("written") or ""), x[0])):
-            rows.append("<li>%s</li>" % link_entry(rel, fm))
-        body = list_page(label, desc, rows, depth=2)
+            rows.append("<li>%s</li>" % link_entry(rel, fm, depth=3))
+        body = list_page(label, desc, rows, depth=3)
         os.makedirs(os.path.join(out, "browse/kind", kind), exist_ok=True)
         with open(os.path.join(out, "browse/kind", kind, "index.html"), "w", encoding="utf-8") as f:
             f.write(body)
 
     # ---- browse by site
     for site, items in sorted(by_site.items()):
-        rows = ["<li>%s</li>" % link_entry(rel, fm) for rel, fm in sorted(items)]
+        rows = ["<li>%s</li>" % link_entry(rel, fm, depth=3) for rel, fm in sorted(items)]
         body = list_page(site, "%d entries" % len(items), rows, depth=3)
         os.makedirs(os.path.join(out, "browse/site", slug(site)), exist_ok=True)
         with open(os.path.join(out, "browse/site", slug(site), "index.html"), "w", encoding="utf-8") as f:
@@ -393,7 +443,7 @@ def build(corpus, out):
 
     # ---- browse by year
     for year, items in sorted(by_year.items()):
-        rows = ["<li>%s</li>" % link_entry(rel, fm) for rel, fm in sorted(items)]
+        rows = ["<li>%s</li>" % link_entry(rel, fm, depth=3) for rel, fm in sorted(items)]
         body = list_page(year, "%d entries" % len(items), rows, depth=3)
         os.makedirs(os.path.join(out, "browse/year", year), exist_ok=True)
         with open(os.path.join(out, "browse/year", year, "index.html"), "w", encoding="utf-8") as f:
@@ -409,12 +459,12 @@ def build(corpus, out):
             if rel in seen:
                 continue
             seen.add(rel)
-            rows.append("<li>%s</li>" % link_entry(rel, fm))
+            rows.append("<li>%s</li>" % link_entry(rel, fm, depth=1))
         when = ("First dated item: %s" % p["first"][:10]) if p["first"] else "No dated items"
-        body = list_page(name, "%d entries · %s" % (len(p["items"]), when), rows, depth=2)
+        body = list_page(name, "%d entries · %s" % (len(p["items"]), when), rows, depth=1)
         with open(os.path.join(out, "people", sl + ".html"), "w", encoding="utf-8") as f:
             f.write(body)
-        plist.append('<li><a href="people/%s.html">%s</a> <span class="m">%d entries</span></li>' % (
+        plist.append('<li><a href="%s.html">%s</a> <span class="m">%d entries</span></li>' % (
             sl, esc(name), len(p["items"])))
     with open(os.path.join(out, "people/index.html"), "w", encoding="utf-8") as f:
         f.write(list_page("People", "%d people" % len(people), plist, depth=1))
@@ -428,7 +478,7 @@ def build(corpus, out):
     for t, items in sorted(bytitle.items()):
         for rel, fm in items:
             grows.append("<tr><td><a href=\"%s\">%s</a></td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>" % (
-                entry_url(rel), esc(str(fm.get("title") or "")),
+                "../" + entry_url(rel), esc(str(fm.get("title") or "")),
                 esc(str(fm.get("site") or "")),
                 esc(str(fm.get("f_led_by") or fm.get("author") or "")),
                 esc(str(fm.get("f_status") or "")),
@@ -475,6 +525,8 @@ def plausible_name(name):
     """not every author field holds a person (some hold a date, some a label)"""
     n = name.strip()
     if len(n) < 2 or len(n) > 40:
+        return False
+    if "redacted" in n.lower():
         return False
     if n.lower() in ("none", "null", "n/a", "unknown", "password", "username"):
         return False
