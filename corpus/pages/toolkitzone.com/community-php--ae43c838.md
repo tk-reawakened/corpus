@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 23rd, 2004"
-f_location: "Madison, Wisconsin"
+f_location: "(redacted: location)"
 f_name: "Drew"
 converter_version: "1"
 source_captures:

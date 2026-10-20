@@ -13,7 +13,6 @@ repliers: []
 authors: ["Artist Guild 2011 ASH"]
 comments_present: 0
 handle: "Artist Guild 2011 ASH"
-f_age: "10-15"
 f_country: "Indonesia"
 f_name: "alam"
 f_occupation: "Student"

@@ -27,10 +27,10 @@ source_captures:
 Medieval
 Three excellent sets for use in the assembly of medieval style town or village. Very much recommended! (1,728 tiles)
 [![TBD](thumb.php?src=forum/images/avatars/27194192641aab7989049a.jpg&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=4637)
-Xavier i think your tiles are the best around, with Linkin's, and I am just asking permisson to use this in a game i am making which could be distributed, though i will give you full credit for the tiles, comment back ASAP or send me an email at jarboy10@hotmail.com, thanks!
+Xavier i think your tiles are the best around, with Linkin's, and I am just asking permisson to use this in a game i am making which could be distributed, though i will give you full credit for the tiles, comment back ASAP or send me an email at (redacted: email), thanks!
 [![TBD](thumb.php?src=forum/images/avatars/534182259424e33252a190.jpg&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=4483)
 All downloadable files are for everone to use in there games, just use them. My game containes everything from this site, except a few MP3 tracks I made myself.
-I would also like to use these tiles in my game. you will get full credit and will be very grateful. my email is skater_guy_dude@hotmail.com and mightylink, you can download the tiles but u cant sell or publisize your game unless you get permission from the designer of the tile set
+I would also like to use these tiles in my game. you will get full credit and will be very grateful. my email is (redacted: email) and mightylink, you can download the tiles but u cant sell or publisize your game unless you get permission from the designer of the tile set
 [![TBD](thumb.php?src=forum/images/avatars/53968537645ccd61a69acb.jpg&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=6545)
 Just THought id let you know. It says 430.8 kb. i just down loaded it. its 530.8kb. no biggy but it kinda threw me off at about 467.TBD
 nooooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! damut i can't use it.

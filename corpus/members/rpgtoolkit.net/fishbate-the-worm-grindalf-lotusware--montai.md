@@ -13,7 +13,6 @@ repliers: []
 authors: ["Fishbate the Worm / Grindalf & Lotusware"]
 comments_present: 0
 handle: "Fishbate the Worm / Grindalf & Lotusware"
-f_age: "21-25"
 f_country: "United States"
 f_occupation: "Cleaner"
 f_username: "Fishbate the Worm / Grindalf & Lotusware"

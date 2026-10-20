@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "14"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/markofdragon.mysticsoftware.net/staff.html", captured: "20030411114219", sha256: "17c4cb8adfe65bb6743796110c313342bdd5e4b90e67051a47ac1ea4c993a27f", wayback_url: "https://web.archive.org/web/20030411114219/http://markofdragon.mysticsoftware.net/staff.html"}
@@ -21,13 +20,13 @@ source_captures:
 # Staff List
 
 **Mark of the Dragon**
-Real Name: Kenneth Howard
+Real Name: (redacted: name)
 Avatar: [![](mdragon.jpg)](mdragon.jpg)
 Age: 14
 Position: Webmaster, Composer, RPGCoder, Graphic Artist, Character Designer
 AIM: ExcalRPG
 **Zeros'**
-Real Name: Steven *last name omitted*
+Real Name: (redacted: name)
 Avatar:![](zeros.JPG)
 Age: 13
 Position: Composer, Board Layout, Graphic Artist

@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Video game design, Martial arts, Manga and something else."
 f_joined: "September 4th 2006"
 f_last_visit: "April 1st 2008"
-f_location: "Right here... I think"
+f_location: "(redacted: location)"
 f_occupation: "Future video game designer and Mangaka"
 f_rank: "Member"
 f_rankings: "No rankings."

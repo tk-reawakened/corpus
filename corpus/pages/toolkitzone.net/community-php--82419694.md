@@ -15,8 +15,8 @@ comments_present: 0
 f_interests: "Rock Music, Film Studies, my baby girl,"
 f_joined: "June 6th 2006"
 f_last_visit: "April 1st 2008"
-f_location: "Tennessee"
-f_name: "Josh L."
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Graphic/Web Designer, Film Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -29,13 +29,12 @@ source_captures:
 
 ![Avatar](forum/images/avatars/140488362847ec583e54786.jpg)
 June 6th 2006
-Josh L.
+(redacted: name)
 Tennessee
 Graphic/Web Designer, Film Student
 Rock Music, Film Studies, my baby girl,
 I am a Graphic Designer by trade, but I also have an interest in all other forms of multimedia. I also design websites professionally. If you need a logo designed or a website designed, hit me up for a quote!
 **E-Mail:**
-shadowalker_2005@yahoo.com
 Posted on Tuesday 4.09am, April 1st, 2008
 Very interesting looking... Not really my style, but great job anyway! [more![More](templates/default/images/icons/more.gif)](games.php?image=10792#c44858)
 Posted on Monday 6.20am, March 31st, 2008

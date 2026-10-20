@@ -13,11 +13,10 @@ repliers: []
 authors: ["Geoff"]
 comments_present: 0
 handle: "Geoff"
-f_age: "21 - 25"
 f_joined: "April 12th 2004"
 f_last_visit: "March 9th 2007"
-f_location: "Newcastle Upon Tyne"
-f_name: "Geoff Wilson"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

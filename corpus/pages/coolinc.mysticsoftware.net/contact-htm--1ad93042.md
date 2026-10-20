@@ -22,8 +22,8 @@ source_captures:
 :: :: ::![](img/banner.jpg)
 [![Free HTML Hit Counter](http://c5.amazingcounters.com/counter.php?i=1058888&c=3176977)](http://www.amazingcounters.com)
 ** Since April, 2nd 2006
-Msn: Gmail: Or you can contact me on the .Badkids83@msn.com
-Badkids.coolinc@gmail.com
+Msn: Gmail: Or you can contact me on the .(redacted: email)
+(redacted: email)
 Site Hosted By:
 [![](img/mysticsoftware.png)](http://mysticsoftware.net)
 Design downloaded from Free web design, web templates, web layouts, and website resources! [FreeWebTemplates.com](http://www.freewebtemplates.com)

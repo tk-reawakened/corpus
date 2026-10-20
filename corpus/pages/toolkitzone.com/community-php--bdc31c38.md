@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "May 1st, 2004"
-f_location: "hell"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4198", captured: "20070321215742", sha256: "d97fca0942561356be3d8a4c34a96041fcc68a6e9ed4618309496cad7c73c6ba", wayback_url: "https://web.archive.org/web/20070321215742/http://toolkitzone.com/community.php?blog=4198"}

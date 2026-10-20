@@ -21,7 +21,7 @@ source_captures:
 
 Posted on by (401 views, 0 ) Updates
 **Friday 2.53pm, March 9th 2007** **[justjokinaround2009](community.php?user=12953)**comments
-It has been awhile since I updated the news about my game. It has been pretty hard to work on with school and the OGTs that are next week. I've been doing so much studying it is not funny. Anyway about the game, 1. I have been working on the storyline for quite awhile and it is still not done. 2. I have also been trying to code my shop and a menu. 3. I still need help with making sprites. If anyone would like to help let me know. Contact me by PM or by email, justjokinaround2009@yahoo.com Anthony- Black Diamond Sphere Friday, March 9, 2007
+It has been awhile since I updated the news about my game. It has been pretty hard to work on with school and the OGTs that are next week. I've been doing so much studying it is not funny. Anyway about the game, 1. I have been working on the storyline for quite awhile and it is still not done. 2. I have also been trying to code my shop and a menu. 3. I still need help with making sprites. If anyone would like to help let me know. Contact me by PM or by email, (redacted: email) Anthony- Black Diamond Sphere Friday, March 9, 2007
 Keyword(s)
 All Games |- Profiles |- In-Depth |- News |- Images |- Files Have Your Say Media Jobs |- Adverts |- Resumes
 Game Menu

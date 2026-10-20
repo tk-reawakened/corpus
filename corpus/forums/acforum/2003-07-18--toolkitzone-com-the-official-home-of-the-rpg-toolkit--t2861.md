@@ -193,11 +193,11 @@ Heraldry Homesite
 
 ---
 **Contacts**
-E-mail: piartsco@yahoo.com
+E-mail: (redacted: email)
 ICQ: 346048923
 AIM aergheiz
-Landline: [redacted: phone number](I'm from the Philippines so this is a loooong distance call)
-Mobile: [redacted: phone number](txt or call me)
+Landline: (redacted: phone number)(I'm from the Philippines so this is a loooong distance call)
+Mobile: (redacted: phone number)(txt or call me)
 
 ---
 
@@ -326,7 +326,7 @@ because the current alpa of TK3 is bugy so a fresher version if anything would m
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -356,7 +356,7 @@ the beta they are not being forced to download they have a choice to wait till t
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -403,7 +403,7 @@ Programs:90%
 whats the point of another alpha?
 Conatct Me!
 AOL SN= danwr91
-MSN= dan_quickcat@hotmail.com
+MSN= (redacted: email)
 ![ed](http://images.quizilla.com/N/narcissistic/1038256020_uizPeecsed.jpg)
 [Cowboy Bebop Personality Quiz](http://quizilla.com/users/narcissistic/quizzes/Cowboy%20Bebop%20Personality%20Quiz/)
 
@@ -415,7 +415,7 @@ I'd rather wait a bit and get the beta. In the meantime, you could give us some 
 So you moved to New Brunswick, eh? Cool! I'll be in Moncton sometime in the first week of August (at the Magic Mountian/Magnetic Hill theme park).
 - Jason D.
 Pubilc Declare Function DoAllMyWorkForMe Lib "iamlazy.dll" (ByVal Time as Long, ByVal Quality As Long) as Executable
-MSN: jason_detchevery@hotmail.com
+MSN: (redacted: email)
 Website: I'm far too lazy to make one of those....yet.....
 
 ### matt72186 · 2003-07-18 15:34 · #A990-2887
@@ -521,7 +521,7 @@ friendly newbie
 Current project: ***Legacy of Origin: Uprising*** (formerly SFTSG)
 Working on: Board Design/Website
 **
-email original_name@msn.com ya muthas
+email (redacted: email) ya muthas
 
 ### thefirestarter · 2003-07-18 23:12 · #A990-2899
 
@@ -769,7 +769,7 @@ Feedback would be appreciated (^-^)
 I think that you should finsh the beta and then the alpha because the beta needs some bugs to get out, I usally finsh my work and then start on a new one.
 Anthony is COOL!!!
 Hey! Somebody be my RPG Toolkit Buddy!
-Aj12Gamer@aol.com
+(redacted: email)
 
 ### connor · 2003-07-21 16:34 · #A990-2937
 
@@ -851,7 +851,7 @@ it yourself :P
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -875,7 +875,7 @@ However a few magick practicers have seen the prophecy. Where a young boy will g
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -901,11 +901,11 @@ However a few magick practicers have seen the prophecy. Where a young boy will g
 
 Fellow programmers or toolkit players. If you use Adobe Photoshop 7.0 or higher or good at creating graphics, or is a great programmer, you've got to read on!
 *****If you want to be in part of my game, your graphics inside, your RPGCode/Progamming Code in it, email me at:
-MAIL: laser_overkill@lycos.com
-MSN Messenger: matthew_radcliffe@hotmail.com
+MAIL: (redacted: email)
+MSN Messenger: (redacted: email)
 AIM Messenger: Overkill2013
 Your name will be appeared on the CREDITS section at the end of my game, *our* game. Of course, no cash will be provided for your hard work. BUT, again, I'd like to remind you, once people start downloading the game, you'll be famous. ;)
-Oh, and BTW, I'm also looking for ideas contributers for storylines throughout the game. Locate the email above, and IF you don't have AIM or MSN Messenger, do not email through them. Mail me by laser_overkill@lycos.com.
+Oh, and BTW, I'm also looking for ideas contributers for storylines throughout the game. Locate the email above, and IF you don't have AIM or MSN Messenger, do not email through them. Mail me by (redacted: email).
 :Note
 Good luck to Dan in CORE and good luck to EB in Eternal Sphere, best regards! ;)
 :Respected
@@ -984,7 +984,7 @@ I just started a new game.
 
 **You can use the battle system im making, once its done...**
 
-or i could try to make you a custom bs. but ive got too many game ideas to work full time on a community game. i can do the bs, but nothing else. im too busy to email right now, but you can email me back. my email is Gamemaster_268@msn.com
+or i could try to make you a custom bs. but ive got too many game ideas to work full time on a community game. i can do the bs, but nothing else. im too busy to email right now, but you can email me back. my email is (redacted: email)
 Please Visit my Website:
 [Gamemastersoft page](http://www.angelfire.lycos.com/rpg2/gamemastersoft/index.html)
 Thanks

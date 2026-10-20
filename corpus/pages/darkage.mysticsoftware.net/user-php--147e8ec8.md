@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "SideEffect_139@hotmail.com"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_Avathar", captured: "20050503070118", sha256: "4d4049661a73cc5f8c528f050f46cf76765e51d231cf0626fd5dfeb6c959ed28", wayback_url: "https://web.archive.org/web/20050503070118/http://darkage.mysticsoftware.net/user.php?mode=6&name=Avathar"}

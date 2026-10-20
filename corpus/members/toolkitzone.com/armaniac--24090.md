@@ -13,11 +13,10 @@ repliers: []
 authors: ["armaniac"]
 comments_present: 0
 handle: "armaniac"
-f_age: "16 - 20"
 f_interests: "Revolutionary RPGs- the good kind."
 f_joined: "December 1st 2008"
 f_last_visit: "December 30th 2009"
-f_location: "Erm... don't turn around..."
+f_location: "(redacted: location)"
 f_name: "Matt"
 f_occupation: "Professional Amateur"
 f_rank: "Member"

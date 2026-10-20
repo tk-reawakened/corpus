@@ -14,7 +14,7 @@ authors: ["QuickCat"]
 comments_present: 0
 f_interests: "Martial Arts, Music, and Philosiphy"
 f_joined: "February 15, 2004"
-f_location: "Washington"
+f_location: "(redacted: location)"
 f_username: "QuickCat"
 converter_version: "1"
 source_captures:

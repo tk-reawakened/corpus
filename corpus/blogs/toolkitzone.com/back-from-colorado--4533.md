@@ -14,7 +14,7 @@ authors: ["Alex"]
 comments_present: 0
 f_interests: "Why do you want to know?"
 f_joined: "March 11, 2004"
-f_location: "Home Sweet Home"
+f_location: "(redacted: location)"
 f_username: "Alex"
 converter_version: "1"
 source_captures:

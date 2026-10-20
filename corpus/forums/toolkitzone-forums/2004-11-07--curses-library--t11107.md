@@ -37,7 +37,7 @@ In preparation for a rogue-like game I want to start writing someday (hehe), I'v
 I've wrote this library basically to make curses a little less C-style and a little more C++ style. The output and input is done through objects and streams. I like using it, at least. It might be a little helpful to some of the console coders here, too.
 It's missing a few things, like windows and the ability to redefine colors, but enough of it is there that somebody could use it effectively. If you've been struggling with using color or positioning text in your console programs, you might want to check it out.
 CursesLib: <http://users.bignet.net/~snoopy37/files/CursesLib.tar.gz>
-My documentation is kinda spotty, so if you have any questions, ask me here, email me at curtanderson@gmail.com or ersuistl@hotmail.com, or MSN instant messenger me at my hotmail.
+My documentation is kinda spotty, so if you have any questions, ask me here, email me at (redacted: email) or (redacted: email), or MSN instant messenger me at my hotmail.
 I'm not sure if the Windows compilers (which most of you use) will have a curses library included with them. If you're getting errors in your includes, try downloading PDCurses (Google it) and installing it. You'll have to also make sure you compile CursesLib.cpp with your project. The library uses operator overloading and namespaces, so those of you with ancient compilers might not be able to make use of this (MinGW [Dev C++'s default compiler] and VC++ should be fine).
 Here's some sample code using it:
 

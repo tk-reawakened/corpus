@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Holbert"
 f_joined: "March 11th 2004"
 f_last_visit: "June 8th 2005"
-f_location: "Fort Madison, Iowa"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Holbert"
@@ -29,6 +29,6 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-rcholbert@mchsi.com
+(redacted: email)
 Posted on Saturday 12.32am, March 13th, 2004
 These files are actually from Sim RPG Maker 95 - these are the default RTP. [more![More](templates/default/images/icons/more.gif)](files.php?file=113#c14294)

@@ -14,7 +14,7 @@ authors: ["Rhodes."]
 comments_present: 0
 f_interests: "World War II, Computers, Vampz, Women (not necessarily in that order)"
 f_joined: "May 11, 2004"
-f_location: "Nova Scotia, Canada"
+f_location: "(redacted: location)"
 f_username: "Rhodes."
 converter_version: "1"
 source_captures:

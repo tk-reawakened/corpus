@@ -16,7 +16,7 @@ handle: "Flamencos"
 f_interests: "2.4 % at the national bank"
 f_joined: "June 22nd 2005"
 f_last_visit: "January 7th 2007"
-f_location: "Zeeland, Netherlands"
+f_location: "(redacted: location)"
 f_occupation: "I like to take possession of money"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/55444544345a0e336477c5.gif)
 **MSN:**
-pwinfield2@msn.com
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 6.13pm, July 11th, 2006
 Again, I'll be gone for two weeks tomorrow, so if you don't get a reply to your PM or e-mail or anything alike, you know where I am. That's all folks. Byebye now. [more![More](templates/default/images/icons/more.gif)](community.php?blog=4601)

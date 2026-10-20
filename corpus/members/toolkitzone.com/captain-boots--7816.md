@@ -16,7 +16,7 @@ handle: "Captain_Boots"
 f_interests: "IT stuff, I'm a geek"
 f_joined: "August 27th 2005"
 f_last_visit: "October 8th 2006"
-f_location: "NKU- Highland Heights, KY (south of Cincinnati)"
+f_location: "(redacted: location)"
 f_occupation: "Computer Information Technology Major"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-klivetherisen@hotmail.com
+(redacted: email)
 Posted on Monday 11.47pm, September 11th, 2006
 if you wanna change the width with TSTtool just use it to change the TST into a BMP and then modifiy the size. [more![More](templates/default/images/icons/more.gif)](files.php?file=120#c14326)
 Posted on Monday 11.44pm, September 11th, 2006

@@ -26,6 +26,6 @@ Meridian 59: Day of Destruction
 **Patches Available:**
 [Client Update](Client001.rar)
 **Account Request:**
-beyondgoodandevil@blueyonder.co.uk
+(redacted: email)
 See you in game!
 Thanks to for generous hosting! [www.mysticsoftware.net](http://www.mysticsoftare.net/)

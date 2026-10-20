@@ -16,7 +16,7 @@ handle: "Budokizen"
 f_interests: "Swimming,Eatting,Sleeping,Hanging out with friends,Making video games, Reading, Chess."
 f_joined: "March 1st 2006"
 f_last_visit: "August 3rd 2006"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_occupation: "No job yet."
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-schoolsucks4evar@hotmail.com
+(redacted: email)
 Posted on Tuesday 8.50pm, August 1st, 2006
 Posted on Tuesday 6.04am, August 1st, 2006
 Posted on Tuesday 3.22am, August 1st, 2006

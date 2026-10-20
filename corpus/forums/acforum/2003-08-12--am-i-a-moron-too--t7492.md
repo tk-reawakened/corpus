@@ -47,7 +47,7 @@ the music, add what ever type of file it is saved as, so if you have an MP3 type
 and for editing story, open up start.prg in the program editor, and put in the stroy
 Conatct Me!
 AOL SN= danwr91
-MSN= dan_quickcat@hotmail.com
+MSN= (redacted: email)
 ![Hecate](http://images.quizilla.com/T/truly-dippy/1061402444_ktopmagic2.gif)
 ![Smirk](http://images.quizilla.com/V/vinacross/1045377151_StuffSmirk.gif)
 You're the smirk,a frown-smile hybrid that's a

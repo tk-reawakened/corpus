@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 16th, 2004"
-f_location: "Finland."
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2849", captured: "20070224065635", sha256: "1d8fdb497d7c86d3200c98e7f05d13e5d88e909996195f81231c7ab3c5b06488", wayback_url: "https://web.archive.org/web/20070224065635/http://toolkitzone.com/community.php?blog=2849"}

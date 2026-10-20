@@ -13,12 +13,11 @@ repliers: []
 authors: ["Occasionally_Correct"]
 comments_present: 0
 handle: "Occasionally_Correct"
-f_age: "16 - 20"
 f_interests: "Programming, music, cooking"
 f_joined: "January 28th 2004"
 f_last_visit: "January 20th 2007"
-f_location: "Norfolk, VA, USA"
-f_name: "Samuel Johnathan Bedwell"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Occasionally_Correct"

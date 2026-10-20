@@ -51,7 +51,7 @@ It probably does have sentimental value to people who have been in the community
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -90,7 +90,7 @@ In my opinion the Dark Age site has a better layout then the RPGCode Shack. Anyw
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -119,7 +119,7 @@ As I do not understand what is going on I am not going to comment. Oh, no! I hav
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -138,7 +138,7 @@ Agreed, it is annoying.
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -157,7 +157,7 @@ The layout is a bit claustrophobic. And there is a lot of space that could be us
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -176,7 +176,7 @@ Posting Freak Group: Members Posts: 1,025 Member No.: 98 Joined: November 18 200
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -195,7 +195,7 @@ I do not like 800x600 much, everything is too big and you can see the pixels.
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -215,7 +215,7 @@ Yay! Someone agreed with me!
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)
@@ -242,7 +242,7 @@ If there were competition it would still be good, as it might result in more tut
 :):):):):):):):) The smiles of the world shine down on Mystic Software - Haraldur Tristan Gunnarsson
 They said I was mad! Mad! Muhuhuahahauahauahuaaaaha! I will fill the world with my clones! *Eats straw* My E-Mail address is Check out Sophia's site: Check out Xorlak's site: Visit the site about Cyrus Martin's
 [Branch Off Yggdrasil Productions![user posted image](http://haraldur.mysticsoftware.net/logo2.jpg)](http://haraldur.mysticsoftware.net)
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 [![user posted image](http://gamestudio43.mysticsoftware.net/general/innerres486.gif)](http://www.innerres.tk/)
 [![user posted image](http://www.dawnoftwilight.com/dawnoftwilight_anim02.gif)](http://www.dawnoftwilight.com)
 ![Top](style_images/1/p_up.gif)

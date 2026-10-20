@@ -50,7 +50,7 @@ Saturday, February 8, 2003
 01:14.57 PM - EST (-0500)
 226
 66.196.72.17
-Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)
+Mozilla/5.0 (Slurp/cat; (redacted: email); http://www.inktomi.com/slurp.html)
 Saturday, February 8, 2003
 09:28.08 AM - EST (-0500)
 225
@@ -210,7 +210,7 @@ Monday, January 20, 2003
 07:41.17 PM - EST (-0500)
 194
 66.196.72.17
-Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi.com/slurp.html)
+Mozilla/5.0 (Slurp/cat; (redacted: email); http://www.inktomi.com/slurp.html)
 Sunday, January 19, 2003
 09:27.11 AM - EST (-0500)
 193

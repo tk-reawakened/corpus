@@ -34,7 +34,7 @@ links: []
 ### Rohfl · 2005-04-07 20:45 · #B191656
 
 I need a good artist to create a tileset for me... It needs to be a compilation of original medieval environment set, including sea, desert, forest, a castle (inside and out), a house (inside and out), a cave (inside [water too] and out), grass, mountains, and several objects found on these scenarios. The artist will get paid depending on the quality and quantity of the work, not by time spent.
-For more information please e-mail me at a_bosada@yahoo.com
+For more information please e-mail me at (redacted: email)
 Thanks to toolkit zone for this space.
 
 ### G_Dragon · 2005-04-08 03:05 · #B191825
@@ -43,7 +43,7 @@ What is your minimum ammount you'll pay, and what size tiles do you want? Do you
 
 ### Rohfl · 2005-04-08 20:31 · #B192012
 
-The minimum amount is going to be $50.00. However, it may raise depending on the quality of the work... Also, I reserve the right to refuse the service at any time, thus I'm not responsible for your loss of time. I am also soliciting character animators for my game, this would be an extra service, therefore extra cash. I will not be posting any more replies, so if you have any questions, please e-mail me at a_bosada@yahoo.com
+The minimum amount is going to be $50.00. However, it may raise depending on the quality of the work... Also, I reserve the right to refuse the service at any time, thus I'm not responsible for your loss of time. I am also soliciting character animators for my game, this would be an extra service, therefore extra cash. I will not be posting any more replies, so if you have any questions, please e-mail me at (redacted: email)
 Again, thanks to Toolkit Zone for this space.
 
 ### Caliber Mengsk · 2005-04-08 21:45 · #B192037

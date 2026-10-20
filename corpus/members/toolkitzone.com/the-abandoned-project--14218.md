@@ -13,12 +13,11 @@ repliers: []
 authors: ["the abandoned project"]
 comments_present: 0
 handle: "the abandoned project"
-f_age: "10 - 15"
 f_interests: "gaming obviously"
 f_joined: "November 1st 2006"
 f_last_visit: "October 9th 2007"
-f_location: "at the bottom of up and at the top of down"
-f_name: "Ryan White"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "school boy"
 f_rank: "Member"
 f_rankings: "No rankings."

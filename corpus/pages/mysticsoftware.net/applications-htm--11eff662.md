@@ -48,7 +48,7 @@ source_captures:
 ![](images/top-ne.gif)
 ![](images/top-w.gif)
 ![](images/applications.gif)
-This is one of the newest sections of Mystic Software. Here you'll find all sorts of applications to help make your game designing easier. If you have an application you'd like to submit or suggest, email us atspyder@mysticsoftware.net
+This is one of the newest sections of Mystic Software. Here you'll find all sorts of applications to help make your game designing easier. If you have an application you'd like to submit or suggest, email us (redacted: email)
 VorteX 3.08
 RPGCode Editor
 Creator: Cyranoid

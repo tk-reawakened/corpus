@@ -19,7 +19,7 @@ source_captures:
 
 # [ ] [ PROJECTS ] [ ] [ ] [ ] [ ] HOME STORIES DOWNLOADS SCREENSHOTS STAFF
 
-ALIAS: Xzar REAL NAME: Ian JOBS:President, Webmaster, Storyline, Ideas, Producer,Direction, Programmer. INTRESTS:Writing and Making Games. WEBSITE: CONTACT:
+ALIAS: Xzar REAL NAME: (redacted: name):President, Webmaster, Storyline, Ideas, Producer,Direction, Programmer. INTRESTS:Writing and Making Games. WEBSITE: CONTACT:
 STAFF
 here
 If you wish to join then email me. Give at least one position you think you would be good at and make the subject 'Join XzarSoftware'. I will try to get your name up on the list within three days of receiving the email.

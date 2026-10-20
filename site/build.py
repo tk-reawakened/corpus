@@ -591,7 +591,13 @@ def write_about(out, by_kind):
         "<p>The engine rebuild that this archive supports lives in "
         "<a href=\"https://github.com/tk-reawakened/rpgtoolkit-reawakened\">rpgtoolkit-reawakened</a>. "
         "The recovered games live in <a href=\"https://github.com/tk-reawakened/ludotheque\">ludotheque</a>.</p>",
-        "<h2>How it was made</h2>",
+        "<h2>Where it came from</h2>",
+        "<p><b>Everything here was captured by the Internet Archive's Wayback Machine, and "
+        "every page is still publicly readable there</b> — the same content, at the link "
+        "given on every entry. Nothing was gathered from private sources, from the forums' "
+        "own servers, or from anybody directly. This is a copy of material that was already "
+        "available to anyone, reorganised so it can be read and searched instead of being a "
+        "pile of captured HTML.</p>",
         "<ol>",
         "<li>The Wayback Machine's CDX index was read for every host, giving the full list of "
         "URLs that were ever captured.</li>",
@@ -599,20 +605,30 @@ def write_about(out, by_kind):
         "recording the capture timestamp, the SHA-256 of every file and the source URL.</li>",
         "<li>A converter walks the captures and writes one Markdown file per page, thread, "
         "profile or download, with the page's metadata in YAML frontmatter.</li>",
-        "<li>The site you are reading is generated from those files.</li>",
+        "<li>This site is generated from those files.</li>",
         "</ol>",
         "<h2>What is in it</h2>",
         '<table class="kinds"><tr><th>Kind</th><th>Entries</th></tr>', "".join(rows), "</table>",
         "<h2>Personal data</h2>",
-        "<p>This is a historical archive of a public forum, and it contains what that forum "
-        "contained: the handles people posted under, their email addresses where they posted "
-        "them, their member-profile details (join date, occupation, interests) and their "
-        "posts. The same pages are already public on the Wayback Machine, at the links given "
-        "on every entry. Nothing here was collected from anywhere else, and no address or "
-        "message was gathered that the forum itself did not already publish. No credentials "
-        "or working passwords are included.</p>",
-        "<p>If you are one of the people in here and would like something removed, open an "
-        "issue on the repository and it will be taken out.</p>",
+        "<p>This is a historical archive of a public forum. The handles stay — they are how "
+        "these people knew each other, and they are the community. What does not stay is the "
+        "material that points at somebody outside the forum: their real name, their email "
+        "address, their phone number, their street address, their location and their age. "
+        "Each removal leaves a marker in place, so you can tell a redaction from a gap in "
+        "the capture; search for <code>redacted</code> to see every one of them.</p>",
+        "<p>That was an automated pass, and it is not a guarantee. The redaction is pattern "
+        "matching, not judgement: it removes the categories of self-identifying information "
+        "these profiles and posts actually use, and it caught most of them — but a real name "
+        "that only ever appeared inside a post, a phone number written in an unusual way, or "
+        "a personal detail told as a story would not be recognised as what it is. Some of "
+        "these pages did contain self-identifying information, and some of it is still here. "
+        "The honest description of this archive is a de-identified copy of pages that were "
+        "already public, not a guaranteed-anonymised one.</p>",
+        "<p>Nothing here was collected from anywhere else, and no message was gathered that "
+        "the forum itself did not publish. The original pages are still on the Wayback "
+        "Machine, linked from every entry. If you are one of the people in here and would "
+        "like something else removed, open an issue on the repository and it will be taken "
+        "out.</p>",
         "<h2>Licence and copyright</h2>",
         "<p>The writing, artwork, game descriptions and everything else in <code>corpus/</code> "
         "remain the property of their original authors. They are reproduced here for "

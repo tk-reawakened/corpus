@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 15th, 2004"
-f_location: "Blug"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4876", captured: "20100102004115", sha256: "df4f93ed75f10c4297b6bee60929b52be38168995ad5dde81c086045f606bf4f", wayback_url: "https://web.archive.org/web/20100102004115/http://toolkitzone.com/community.php?blog=4876"}

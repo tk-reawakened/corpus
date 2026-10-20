@@ -51,39 +51,39 @@ source_captures:
 **Staff List:**
 **Position:**
 Spyder
-spyder@mysticsoftware.net
+(redacted: email)
 MS Owner/ Webmaster
 MrX
-xxphookaxx@aol.com
+(redacted: email)
 Reviewer/ Graphics/ Music
 Ersuis
-ersuis@yahoo.com
+(redacted: email)
 Writer/ Interviewer/ Tile Ripper/ New Site Design
 R043482
-r043482@hotmail.com
+(redacted: email)
 Reviewer
 Avantus
-avantus@hotmail.com
+(redacted: email)
 Co-Webmaster/ New Site Design
 Matt72186
-matt72186@hotmail.com
+(redacted: email)
 RPG Coder/webmaster
 acid.factor
-abovegod@hotmail.com
+(redacted: email)
 Music/ Graphics
 SSJGohan
-warrenw@inspire.net.nz
+(redacted: email)
 Reviewer
 MrG
-mike.young@intelec.com
+(redacted: email)
 Michael J. Hill
-auron9854@prodigy.net
+(redacted: email)
 File Manager/webmaster
 Seafroggys
-seafroggys@yahoo.com
+(redacted: email)
 Reviews
 Stalfospk
-Stalfospk@aol.com
+(redacted: email)
 RPGCoder
 Chris Reeves
 Head of Music Department
@@ -92,7 +92,7 @@ Head of Music Department
 Angela
 Head of Music Department
 Marcus Lewton
-unknownmarcus@hotmail.com
+(redacted: email)
 Reviewer
 ![](images/top-e.gif)
 ![](images/top-sw.gif)

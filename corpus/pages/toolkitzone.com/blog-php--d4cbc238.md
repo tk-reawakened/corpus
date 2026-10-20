@@ -14,7 +14,7 @@ authors: ["Devastation"]
 comments_present: 0
 f_interests: "Music, girls, tv, money and other crap I like."
 f_joined: "September 16, 2004"
-f_location: "Finland. Yes, I'm from Finland."
+f_location: "(redacted: location)"
 f_username: "Devastation"
 converter_version: "1"
 source_captures:

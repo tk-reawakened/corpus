@@ -14,7 +14,7 @@ authors: ["Dragonmaster"]
 comments_present: 0
 f_interests: "RPGs, Martial Arts"
 f_joined: "May 11, 2004"
-f_location: "Florida"
+f_location: "(redacted: location)"
 f_username: "Dragonmaster"
 converter_version: "1"
 source_captures:

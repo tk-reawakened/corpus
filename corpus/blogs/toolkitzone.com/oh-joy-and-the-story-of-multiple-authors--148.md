@@ -13,7 +13,7 @@ repliers: []
 authors: ["Chaos"]
 comments_present: 0
 f_joined: "May 3, 2004"
-f_location: "England"
+f_location: "(redacted: location)"
 f_username: "Chaos"
 converter_version: "1"
 source_captures:

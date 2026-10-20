@@ -13,12 +13,11 @@ repliers: []
 authors: ["(\\/)artin"]
 comments_present: 0
 handle: "(\\/)artin"
-f_age: "21 - 25"
 f_interests: "Waffles"
 f_joined: "February 22nd 2004"
 f_last_visit: "March 23rd 2007"
-f_location: "B E L G I U M"
-f_name: "Martin Pierlot"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Making waffles"
 f_rank: "Member"
 f_username: "(\\/)artin"
@@ -35,7 +34,7 @@ Male
 **Awards:**
 Total of 16 places and 47 users.
 **MSN:**
-mespoir@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (1)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/18.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=23)

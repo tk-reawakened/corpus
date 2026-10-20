@@ -27,5 +27,5 @@ source_captures:
 : My sister: Tanya (English spelling, á Ensku)/ Tanja (Icelandic spelling, á Íslensku) Sædís Gunnarsdóttir. **Siblings**
 : *removed due to paranoia* **Home**
 : Ljósheimar, Reykjavík **Previous address**
-: **E-Mail**haraldur_tristan_gunnarsson@hotmail.com
+: **E-Mail**(redacted: email)
 : Asperger syndrome, possible dispraxia, possible dislexia and possible (but very unlikely) schizophrenia. **Flaw**

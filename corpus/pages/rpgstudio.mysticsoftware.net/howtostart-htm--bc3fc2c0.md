@@ -20,7 +20,7 @@ source_captures:
 
 # How to Start
 
-This is a tutorial that guide you step by step, how to start creating a game. This is created by William: .bjorn_djdj@hotmail.com
+This is a tutorial that guide you step by step, how to start creating a game. This is created by William: .(redacted: email)
 Step 1, Download and extract:
 First of all, go to http://www.rpgtoolkit.com and download toolkit 2 or 3. I suggest you download toolkit 2. Its easier to use. And choose a folder there you want to put the zip file. Then when youve downloaded the file, double click on the setup.exe file and zip it up. Put it in the C:/Program/Toolkit or C:/Program Files/Toolkit folder. Choose what ever you want. Now you have it on your computer and lets begin. By the way, if it doesnt work. Then run regocx file. And try again. I have a lot of pictures in this tutorial and thats because one picture tell you more then thousands words.
 Step 2, Start a Project:
@@ -137,5 +137,5 @@ Pink  UNDER
 Remember that, its important. And now do the same but you shall come out to the start board. Use the warp file. If you like to change a warp tile, then open the program editor and open the warp tile, it could be named: warp00000000.prg.
 Now you know almost every thing to create a simple and funny game. The best thing should be to read the tutorial. Then press the help button on the top of the screen:
 ![](howtostart_files/image076.jpg)
-This was it. I think you can create a good game now. This tutorial is created by William.Bjorn_djdj@hotmail.com
+This was it. I think you can create a good game now. This tutorial is created by (redacted: email)
 2004-05-19

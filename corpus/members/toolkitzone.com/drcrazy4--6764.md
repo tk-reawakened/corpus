@@ -13,12 +13,11 @@ repliers: []
 authors: ["drcrazy4"]
 comments_present: 0
 handle: "drcrazy4"
-f_age: "10 - 15"
 f_interests: "Xavier, Taking over the Zone and.... thats it!"
 f_joined: "June 18th 2005"
 f_last_visit: "December 10th 2006"
-f_location: "Wouldn't you like to know....."
-f_name: "Joe Stephens"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Game and Web Design. High school student."
 f_rank: "Member"
 f_username: "drcrazy4"
@@ -33,7 +32,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-drcrazy4@gmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 3.08pm, December 5th, 2006
 I am doing a science essay about the existance of aliens etc and I need ideas. Does anybody know anything about a possibility of aliens? [more![More](templates/default/images/icons/more.gif)](community.php?blog=4996)

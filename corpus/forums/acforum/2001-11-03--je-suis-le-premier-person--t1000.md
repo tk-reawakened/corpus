@@ -430,7 +430,7 @@ People I Know:
 15. Tom (None)
 ******************************************
 Wanna Be on this List? Well Then MSN Me:
-GameHacker56@hotmail.com
+(redacted: email)
 ********************************************
 THE FEARLESS LEGACY UPDATE
 Story: 2%
@@ -454,8 +454,8 @@ Suggestions are supposed to make the TK or Site better... not giving it un-neede
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 Pattern? =P
 -Ever wanted to know what Kronspik means?
 Kron: The first part of my username
@@ -487,7 +487,7 @@ People I Know:
 15. Tom (None)
 ******************************************
 Wanna Be on this List? Well Then MSN Me:
-GameHacker56@hotmail.com
+(redacted: email)
 ********************************************
 THE FEARLESS LEGACY UPDATE
 Story: 2%
@@ -512,8 +512,8 @@ It's making new people feel not welcome and older people act like asses!
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 Pattern? =P
 -Ever wanted to know what Kronspik means?
 Kron: The first part of my username

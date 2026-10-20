@@ -16,7 +16,7 @@ handle: "Raven Ryan"
 f_interests: "Web Design, Arts"
 f_joined: "April 11th 2004"
 f_last_visit: "December 10th 2006"
-f_location: "Singapore"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -29,7 +29,7 @@ source_captures:
 # Raven Ryan
 
 **MSN:**
-raven.ryan@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 7.24am, January 10th, 2006
 Annoying someone via the Internet is now a federal crime. Source: News.com. Crazy. [more![More](templates/default/images/icons/more.gif)](community.php?blog=3836)

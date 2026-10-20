@@ -53,8 +53,8 @@ Hey, could you make a plugin that moves a board... like:
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 

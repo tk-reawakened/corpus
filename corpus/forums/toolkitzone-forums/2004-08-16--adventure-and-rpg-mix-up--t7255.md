@@ -104,7 +104,7 @@ _________________
 (formerly known as ares)
 [![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 I took the liberty of fertilizing your caviar.
 
 ### Cesque · 2004-08-16 13:08 · #B76486
@@ -136,7 +136,7 @@ _________________
 (formerly known as ares)
 [![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 I took the liberty of fertilizing your caviar.
 
 ### fireemblempridex · 2004-08-17 11:05 · #B77040

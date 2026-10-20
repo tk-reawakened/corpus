@@ -37,7 +37,7 @@ I have been getting quite bored with my current sites feel and was wondering if 
 ### joao_foscarini · 2004-08-26 20:36 · #B82252
 
 nope.. but I can help u if u want...
-contact me on MSN (joao_foscarini@hotmail.com)... I'll show u some of my 'old' sites and stuff... (I don't make sites anymore.. but yea.. sure I can help u)
+contact me on MSN ((redacted: email))... I'll show u some of my 'old' sites and stuff... (I don't make sites anymore.. but yea.. sure I can help u)
 EDITED
 
 ### Ross L. · 2004-08-26 20:52 · #B82261
@@ -45,7 +45,7 @@ EDITED
 **joao_foscarini wrote:**
 
 > nope.. but I can help u if u want...
-> contact me on MSN (joao_foscarini@hotmail.com)... I'll show u some of my 'old' sites and stuff... (I don't make sites anymore.. but yea.. sure I can help u)
+> contact me on MSN ((redacted: email))... I'll show u some of my 'old' sites and stuff... (I don't make sites anymore.. but yea.. sure I can help u)
 > EDITED
 >
 
@@ -59,7 +59,7 @@ Yay. I'll chat with you sometime. My schedule is very erratic right now. It will
 > **joao_foscarini wrote:**
 >
 > > nope.. but I can help u if u want...
-> > contact me on MSN (joao_foscarini@hotmail.com)... I'll show u some of my 'old' sites and stuff... (I don't make sites anymore.. but yea.. sure I can help u)
+> > contact me on MSN ((redacted: email))... I'll show u some of my 'old' sites and stuff... (I don't make sites anymore.. but yea.. sure I can help u)
 > > EDITED
 > >
 >

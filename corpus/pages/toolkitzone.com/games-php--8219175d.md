@@ -44,7 +44,7 @@ The main purpose of the demo is to:
 - No treasures yet; no mini-games. Only a minimal set of boards for you to wander around until you get tired. Please test the time as long as you could.
 - Progress can be saved. Just head to the inn and ask to save your game.
 - Installing and running the game has been tricky in our part. First, run the compressed file after dowloading it. Initially we imagined the game would automatically be included in the shortcut. Unfortunately it wasn't, so we had to browse and look for it. After finding it, we ran trans3.exe. After specifying the .gam file, we were able to play it. We just hope the results with you would be better. *Programs*
-We hope that lays everything down. If you have feedbacks, or suggestions, even reactions, feel free to e-mail us at , or . You can also get in touch with us through AOL Instant Messaging(contact either aergheiz, MoonAncient9,or pisoftco)piartsco@yahoo.comhighflyer927@yahoo.compisoftco@yahoo.com
+We hope that lays everything down. If you have feedbacks, or suggestions, even reactions, feel free to e-mail us at , or . You can also get in touch with us through AOL Instant Messaging(contact either aergheiz, MoonAncient9,or pisoftco)piartsco@(redacted: email)@yahoo.com
 Many thanks to mysticsoftware for hosting the game. For you interested parties, be sure to check out the . It contains the toolkit that was used to create this game. Download it and start creating your dream rpg! [Official RPGToolkit Site](http://www.toolkitzone.com)
 May 17 2004, 11:45 am
 after seeing the mediocre and even pretty good graphics of the other games in this community, i was stunned to see the quality of what you have here! your images are superb! keep it up!

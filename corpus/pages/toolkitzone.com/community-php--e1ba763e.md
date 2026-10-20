@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 7th, 2005"
-f_location: "America"
-f_name: "Matt Gajewski"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5125", captured: "20070225010426", sha256: "100a408bb3a5d30e3110db3f1045a9abb24f7a4acdfaf259f6cda17778a1ea9a", wayback_url: "https://web.archive.org/web/20070225010426/http://www.toolkitzone.com/community.php?blog=5125"}
@@ -45,7 +45,7 @@ Yeah, you could... but packs like the one I submitted (which has been included o
 lol, I know what you submitted. But I had a backtrack of a few months when I first began, so I have a bit more to go before I get to anything recent. So, more suggestions people?
 About Juice
 [![Juice](forum/images/avatars/177645351945dfc65a12cb3.png)](community.php?user=7931)
-Matt Gajewski
+(redacted: name)
 America
 September 7th, 2005
 Who's Online: , , , , , , , , , , , , , [7LegionArmy](community.php?user=7614) [Gooseboy](community.php?user=4937) [Joe the Outlaw](community.php?user=13032) [jpsmtm](community.php?user=2476) [Mephare](community.php?user=15477) [Moo Of Doom](community.php?user=334) [OBCT](community.php?user=412) [Oyerth](community.php?user=37) [rpg gamer 17](community.php?user=12066) [Sephy](community.php?user=4390) [seveneternal](community.php?user=1377) [spialot2](community.php?user=15780) [Talyn](community.php?user=1395) [Z](community.php?user=3094)

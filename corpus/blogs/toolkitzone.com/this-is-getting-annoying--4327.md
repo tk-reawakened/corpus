@@ -14,7 +14,7 @@ authors: ["Tetsuo"]
 comments_present: 0
 f_interests: "I am uniteresting."
 f_joined: "February 24, 2004"
-f_location: "Butfuckalo Wyoming...."
+f_location: "(redacted: location)"
 f_username: "Tetsuo"
 converter_version: "1"
 source_captures:

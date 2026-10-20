@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "10 - 15"
 f_joined: "January 12th 2008"
 f_last_visit: "April 1st 2008"
 f_occupation: "school"

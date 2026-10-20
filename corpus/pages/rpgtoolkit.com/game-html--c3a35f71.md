@@ -33,7 +33,7 @@ cbm
 cbm
 cbm
 cbm
-Cyrus Martin
+(redacted: name)
 Head Taker
 [Powerhouse Edition Licensing Info (does not spply to Standard Edition)](order/license.pdf)
 cbm

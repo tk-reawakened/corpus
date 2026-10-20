@@ -14,7 +14,7 @@ authors: ["Renegade"]
 comments_present: 0
 f_interests: "Lots of stuff, especially music"
 f_joined: "March 17, 2005"
-f_location: "Don't ask..."
+f_location: "(redacted: location)"
 f_username: "Renegade"
 converter_version: "1"
 source_captures:

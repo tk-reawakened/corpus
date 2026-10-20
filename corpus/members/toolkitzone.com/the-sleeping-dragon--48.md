@@ -28,7 +28,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/1537681252424d1aaa81e77.gif)
 **MSN:**
-commander_idaeus@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 7.19pm, January 3rd, 2007
 I have been traveling for about 20 hours though three countries. Most people would sleep. I catch up on webcomics. As such expect spelling mistakes etc It was a great holiday although I'm kinda glad to be back to the things I missed (Mephistos, Ticky(cat), The "subculture under the stairs", Inter... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5086)

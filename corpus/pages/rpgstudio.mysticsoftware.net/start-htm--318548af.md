@@ -22,7 +22,7 @@ source_captures:
 
 This is a Web page, created and designed by Bjorn Johansson. But I'am called William on the RPG Toolkit forum. I made this so I can show you my art, my games, story and a lot more. I have been using RPG Toolkit in two years now. And I think it's a great program. If you don't have it. Then go and download it here: . [www.rpgtoolkit.com](http://www.rpgtoolkit.com)
 You can use some of my things in your game. But only the things that I want. You can see that I wrote some over graphics and other stuffs and you can see what you can have and not have.
-. If you want to have your link on my site, then post it in the message board or e-mail me:bjorn_djdj@hotmail.com
+. If you want to have your link on my site, then post it in the message board or e-mail me:(redacted: email)
 DO NOT: Post anything in the "news and update message board" and not in the "links message board". That will cause me a lot of problems.
 I recommend this sites:
 - A great place to download programs, tutorials, tiles... [www.toolkitzone.com](http://www.toolkitzone.com)

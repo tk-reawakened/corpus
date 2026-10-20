@@ -72,7 +72,7 @@ friendly newbie
 Current project: ***Legacy of Origin: Uprising*** (formerly SFTSG)
 Working on: Board Design/Website
 **
-email original_name@msn.com ya muthas
+email (redacted: email) ya muthas
 
 ### forsakenmarz · 2003-07-06 26:34 · #A1002-10201
 

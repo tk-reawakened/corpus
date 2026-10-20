@@ -14,7 +14,7 @@ authors: ["DrakeLord"]
 comments_present: 0
 f_interests: "Middle Ages, dragons, games, all that good stuff"
 f_joined: "November 6, 2005"
-f_location: "In front of my computer"
+f_location: "(redacted: location)"
 f_username: "DrakeLord"
 converter_version: "1"
 source_captures:

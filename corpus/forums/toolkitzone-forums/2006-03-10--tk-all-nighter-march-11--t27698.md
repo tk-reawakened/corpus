@@ -125,7 +125,7 @@ Doing both... That's cool!
 ### ray · 2006-04-11 07:37 · #B312558
 
 Maybe i Can try it heres mine
-kailaelf@gmail.com
+(redacted: email)
 Join me on..hmmm..... everywhere??2 i think
 if just ok[/url]
 

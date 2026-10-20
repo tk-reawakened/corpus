@@ -13,11 +13,10 @@ repliers: []
 authors: ["Kabuki"]
 comments_present: 0
 handle: "Kabuki"
-f_age: "16 - 20"
 f_interests: "Drawing, Programming, Reading."
 f_joined: "April 3rd 2004"
 f_last_visit: "June 20th 2010"
-f_location: "My house"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Kabuki"
@@ -32,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-kabukimage@hotmail.com
+(redacted: email)
 Posted on Thursday 6.33am, June 17th, 2010
 Did you get it? Be circle. Start in the upper left. Go to upper right, go to bottom left and you win.more![More](templates/default/images/icons/more.gif)
 [I#U(2,shut[up!])](community.php?blog=2993#c7314)

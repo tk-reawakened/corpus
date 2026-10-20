@@ -88,4 +88,4 @@ I cant say that this test is good, because its not that good. But maybe you 
 - Its important to have a lot of secret areas, so make some in your game.
 I know its not easy to find out good things to a game. Because there are thousands of games created. But you have to think a lot. Its very important.
 Thank you for reading this tutorial created by William, 2004-02-29.
-If you have some questions, email me:bjorn_djdj@hotmail.com
+If you have some questions, email me:(redacted: email)

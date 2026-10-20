@@ -13,11 +13,10 @@ repliers: []
 authors: ["Cedrick Bryan Sagum"]
 comments_present: 0
 handle: "Cedrick Bryan Sagum"
-f_age: "26+"
 f_interests: "math and computers, online games, reading novels"
 f_joined: "November 15th 2004"
 f_last_visit: "July 30th 2009"
-f_location: "Manila, Philippines"
+f_location: "(redacted: location)"
 f_name: "Cedrick Bryan Sagum"
 f_occupation: "RPG ILE programmer"
 f_rank: "Member"

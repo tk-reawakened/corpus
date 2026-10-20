@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "sports , gaming"
 f_joined: "November 30th 2005"
 f_last_visit: "April 2nd 2008"
-f_location: "Ohio"
+f_location: "(redacted: location)"
 f_name: "Sean"
 f_rank: "Member"
 f_rankings: "No rankings."

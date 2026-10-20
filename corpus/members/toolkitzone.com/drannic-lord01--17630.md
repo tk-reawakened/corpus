@@ -13,11 +13,10 @@ repliers: []
 authors: ["Drannic_Lord01"]
 comments_present: 0
 handle: "Drannic_Lord01"
-f_age: "16 - 20"
 f_interests: "Stuff"
 f_joined: "July 16th 2007"
 f_last_visit: "August 6th 2008"
-f_location: "Wouldn't you like to know..."
+f_location: "(redacted: location)"
 f_name: "Joe"
 f_occupation: "Developement manager, programmer, pixel artist, musician, composer... you name it."
 f_rank: "Member"
@@ -37,7 +36,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-drannic_lord01@hotmail.com
+(redacted: email)
 ![Have Your Say](../templates/default/images/icons/forums/forum_say.gif) [Dark Age EX - 98%](forum/viewtopic.php?p=432161#432161)
 Posted on Monday 9.16am, July 16th, 2007
 Dark Age EX was the first game I'd ever played that was created by the toolkit, so I originally thought it was lame, but it turned out to be a great game, as far as toolkit standards go. [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=432161#432161)

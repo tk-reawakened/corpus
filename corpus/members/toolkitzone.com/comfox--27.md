@@ -16,7 +16,7 @@ handle: "comfox"
 f_interests: "Everything."
 f_joined: "January 28th 2004"
 f_last_visit: "March 2nd 2007"
-f_location: "Deutschland"
+f_location: "(redacted: location)"
 f_occupation: "Student Person o_O"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -29,7 +29,7 @@ source_captures:
 # comfox
 
 **MSN:**
-ultrahuman@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 1.34am, September 15th, 2004
 The purpose of government is commonly said to be "the promotion of order over chaos" (although it's usually phrased more like "TEH ORDER!!11"- but we won't go into that here :S). It can be seen that governments DO promote "order" over "chaos" in that organized societies draw their order from a gover... [more![More](templates/default/images/icons/more.gif)](community.php?blog=1301)

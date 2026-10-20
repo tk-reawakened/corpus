@@ -13,7 +13,6 @@ repliers: []
 authors: ["da beast"]
 comments_present: 0
 handle: "da beast"
-f_age: "16 - 20"
 f_interests: "Stuff...I like stuff"
 f_joined: "December 19th 2004"
 f_last_visit: "February 5th 2007"

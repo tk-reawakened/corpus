@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 MrB:
 When did you join the TK Community?
 Blob Dude:

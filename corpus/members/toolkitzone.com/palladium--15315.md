@@ -13,11 +13,10 @@ repliers: []
 authors: ["Palladium"]
 comments_present: 0
 handle: "Palladium"
-f_age: "16 - 20"
 f_interests: "Art&Music"
 f_joined: "January 23rd 2007"
 f_last_visit: "December 10th 2007"
-f_location: "Finland"
+f_location: "(redacted: location)"
 f_name: "Jose"
 f_rank: "Member"
 f_rankings: "No rankings."

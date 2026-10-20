@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_joined: "December 10th 2005"
 f_last_visit: "April 13th 2008"
 f_rank: "Member"

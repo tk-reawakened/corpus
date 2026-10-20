@@ -14,7 +14,7 @@ authors: ["Gnarf"]
 comments_present: 0
 handle: "Gnarf"
 f_joined: "February 15th, 2004"
-f_location: "Blug"
+f_location: "(redacted: location)"
 f_username: "Gnarf"
 converter_version: "1"
 source_captures:

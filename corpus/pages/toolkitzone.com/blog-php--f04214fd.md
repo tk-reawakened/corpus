@@ -14,7 +14,7 @@ authors: ["Rueben"]
 comments_present: 0
 f_interests: "Not really appropriate for a \"family-friendly\" forum ... \"stabs Marz\""
 f_joined: "April 14, 2004"
-f_location: "UK - Huddersfield/Shrewsbury"
+f_location: "(redacted: location)"
 f_username: "Rueben"
 converter_version: "1"
 source_captures:

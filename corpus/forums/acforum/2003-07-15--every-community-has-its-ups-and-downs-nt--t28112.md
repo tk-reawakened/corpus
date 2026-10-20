@@ -80,11 +80,11 @@ tnx again:)
 
 ---
 **Contacts**
-E-mail: piartsco@yahoo.com
+E-mail: (redacted: email)
 ICQ: 346048923
 AIM aergheiz
-Landline: [redacted: phone number](I'm from the Philippines so this is a loooong distance call)
-Mobile: [redacted: phone number](txt or call me)
+Landline: (redacted: phone number)(I'm from the Philippines so this is a loooong distance call)
+Mobile: (redacted: phone number)(txt or call me)
 
 ---
 
@@ -116,7 +116,7 @@ they brothers..twins if really need to know.
 
 ---
 **Wanna contact me? Then whack this on ur MSN list:
-mrlukeis@hotmail.com
+(redacted: email)
 or maybe u wanna ICQ me..
 [162531501](http://wwp.icq.com/162531501#pager)
 or even AIM at me (no not with that gun!)
@@ -353,7 +353,7 @@ Allan@AljoAllan@AljoAllan@AljoAllan@AljoAllan@AljoAllan@Aljo
 **sorry :'(.. I still think that ascii man is amazing allan. -nt-**
 
 **Contact info**
-**MSN** zbctfc@hotmail.com
+**MSN** (redacted: email)
 **AIM** zbretrodude
 
 - [Supernova games](http://sngames.tk)

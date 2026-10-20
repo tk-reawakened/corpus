@@ -22,7 +22,7 @@ source_captures:
 
 *About Pigments Arts![](images/bullet_blue.gif)*
 is an group of creative individuals excelling in various fields but share a common passion-- game making. **Pigments Arts Company**
-Hi. My name is and I am the leader of the PAC team. This website, although carrying the name Pigments Arts, was solely built by me and as such, all contents of this site were mine. I'm 23 years old with a Bachelor's Degree in Computer Engineering. I specialize in software development, especially games. I use this website to promote my software in hopes of a company (local or foreign) might take interest in my works. **Lorie-Jay Gutierrez**
+Hi. My name is and I am the leader of the PAC team. This website, although carrying the name Pigments Arts, was solely built by me and as such, all contents of this site were mine. I'm 23 years old with a Bachelor's Degree in Computer Engineering. I specialize in software development, especially games. I use this website to promote my software in hopes of a company (local or foreign) might take interest in my works. **(redacted: name)**
 I also do digital art, as well as pixel art. I don't have a degree in any art-related courses though. Drawing is just my hobby.
 The other members of PAC team are:
 . Same as me, she has a degree in Computer Engineering. **Jacquelyn Jacinto**

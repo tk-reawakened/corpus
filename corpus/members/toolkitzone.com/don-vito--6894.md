@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Don Vito"
 f_joined: "July 1st 2005"
 f_last_visit: "October 18th 2006"
-f_location: "Twilight Zone"
+f_location: "(redacted: location)"
 f_occupation: "Games all around"
 f_rank: "Member"
 f_rankings: "No rankings."

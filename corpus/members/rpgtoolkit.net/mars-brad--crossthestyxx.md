@@ -13,7 +13,6 @@ repliers: []
 authors: ["Mars / Brad"]
 comments_present: 0
 handle: "Mars / Brad"
-f_age: "26+"
 f_country: "United States"
 f_username: "Mars / Brad"
 converter_version: "1"

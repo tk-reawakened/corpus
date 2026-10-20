@@ -21,7 +21,7 @@ source_captures:
 # If Commands
 
 By William
-Bjorn_djdj@hotmail.com
+(redacted: email)
 There is a lot of different if commands. That you can change, and create as you like to. The most popular is #if (sword!=1). Not the sword, but that kind of If command. There are also some commands like this:
 #if (sword!=1)
 *The program to run if you found a sword.
@@ -109,4 +109,4 @@ That wasnt that hard to understand. You can do a lot with this kind of #if com
 #Wait()
 #MwinCls()
 You have two potions after this program. And you can change this as you like to. This was just a very simple beginning for all the newbies and for they who want to learn some basic skills with #if.
-Thanks for reading this tutorial. MSN and Email:Bjorn_djdj@hotmail.com
+Thanks for reading this tutorial. MSN and Email:(redacted: email)

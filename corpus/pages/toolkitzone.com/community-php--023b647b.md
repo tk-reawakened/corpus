@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 7th, 2005"
-f_location: "America"
-f_name: "Matt Gajewski"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5187", captured: "20070225010934", sha256: "cbf32f66fd7dfe0c06f7553ecd448b73707339513a57b108d2e73ad83ffc0fa0", wayback_url: "https://web.archive.org/web/20070225010934/http://www.toolkitzone.com/community.php?blog=5187"}
@@ -34,7 +34,7 @@ Haha, nice.TBD
 Half Term FTW... Sleeping_Dragon, us tea drinkers will be singing all the way home.
 About Juice
 [![Juice](forum/images/avatars/177645351945dfc65a12cb3.png)](community.php?user=7931)
-Matt Gajewski
+(redacted: name)
 America
 September 7th, 2005
 Who's Online: , , , , , , , , , , , , , [7LegionArmy](community.php?user=7614) [Gooseboy](community.php?user=4937) [Joe the Outlaw](community.php?user=13032) [jpsmtm](community.php?user=2476) [Mephare](community.php?user=15477) [Moo Of Doom](community.php?user=334) [OBCT](community.php?user=412) [Oyerth](community.php?user=37) [rpg gamer 17](community.php?user=12066) [Sephy](community.php?user=4390) [seveneternal](community.php?user=1377) [spialot2](community.php?user=15780) [yaim0310](community.php?user=14246) [Z](community.php?user=3094)

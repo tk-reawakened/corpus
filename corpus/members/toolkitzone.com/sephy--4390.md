@@ -13,12 +13,11 @@ repliers: []
 authors: ["sephy"]
 comments_present: 0
 handle: "sephy"
-f_age: "10 - 15"
 f_interests: "Death, girls, metal, violence, anime, games, writing, anti propaganda, our friends, our girlfriend, plotting revenge against the government ECT, swords, guns, being superior than our family, ruining things, making people feel bad, being outside the box,"
 f_joined: "October 14th 2004"
 f_last_visit: "January 20th 2007"
-f_location: "Nowhere"
-f_name: "Ian Fochs"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Serial killer"
 f_rank: "Member"
 f_rankings: "No rankings."

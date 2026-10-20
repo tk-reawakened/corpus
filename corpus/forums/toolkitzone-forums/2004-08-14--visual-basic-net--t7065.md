@@ -104,7 +104,7 @@ I guess TK3 as many people said before, is it's final release. By the time TK3 b
 I'm sorry to say this, but it's the truth. Crying or Very sad
 and yes, I'm sad. Sad
 _________________
-João Pedro |\__\_ - Phoenix Productions ----> joaofoscarini@gmail.com
+João Pedro |\__\_ - Phoenix Productions ----> (redacted: email)
 [![](http://www.mysticsoftware.net/images/tk_army.png)](http://www.cywh.com/ot/)
 [![](http://www.mysticsoftware.net/images/mscomm_02.png)](http://www.mysticsoftware.net/)
 [![](http://img.photobucket.com/albums/v491/Diddums/banner.png)](http://www.mr-diddums.tk)

@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "Website: Joindate: 27 Dec 2003spyder@mysticsoftware.net"
+f_email: "Website: Joindate: 27 Dec (redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/new.mysticsoftware.net/user.php__id_12", captured: "20040218061555", sha256: "a40f6d79b4b997f0eac7c670814085e3fc06de121bed0638db44575b6c497451", wayback_url: "https://web.archive.org/web/20040218061555/http://new.mysticsoftware.net/user.php?id=12"}
@@ -20,4 +20,4 @@ source_captures:
 
 # Spyder
 
-Email: Website: Joindate: 27 Dec 2003spyder@mysticsoftware.net
+Email: Website: Joindate: 27 Dec (redacted: email)

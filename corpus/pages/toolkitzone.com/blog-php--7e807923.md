@@ -13,7 +13,7 @@ repliers: []
 authors: ["Deathy"]
 comments_present: 0
 f_joined: "April 29, 2004"
-f_location: "Under the Mark"
+f_location: "(redacted: location)"
 f_username: "Deathy"
 converter_version: "1"
 source_captures:

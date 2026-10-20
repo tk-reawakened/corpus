@@ -13,7 +13,7 @@ repliers: []
 authors: ["hazard-9"]
 comments_present: 0
 f_joined: "July 20, 2005"
-f_location: "in your mind"
+f_location: "(redacted: location)"
 f_username: "hazard-9"
 converter_version: "1"
 source_captures:

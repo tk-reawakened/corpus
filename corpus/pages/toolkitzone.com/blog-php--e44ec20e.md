@@ -14,7 +14,7 @@ authors: ["Randy"]
 comments_present: 0
 f_interests: "sex, drugs, rock and roll"
 f_joined: "January 28, 2004"
-f_location: "Houston"
+f_location: "(redacted: location)"
 f_username: "Randy"
 converter_version: "1"
 source_captures:

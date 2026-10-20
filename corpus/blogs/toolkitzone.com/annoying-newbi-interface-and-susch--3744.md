@@ -14,7 +14,7 @@ authors: ["theLostShirt"]
 comments_present: 0
 f_interests: "Design, Fonts & Layout"
 f_joined: "December 4, 2005"
-f_location: "Sweden"
+f_location: "(redacted: location)"
 f_username: "theLostShirt"
 converter_version: "1"
 source_captures:

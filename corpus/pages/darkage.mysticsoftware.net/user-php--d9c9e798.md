@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "zenoman32@hotmail.com"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_zeno", captured: "20050504201305", sha256: "384277b508acf9b7775bfbbd34c0a72d86ea09c22c6814edc116cebf0a07a3e6", wayback_url: "https://web.archive.org/web/20050504201305/http://darkage.mysticsoftware.net/user.php?mode=6&name=zeno"}

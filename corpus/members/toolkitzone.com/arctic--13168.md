@@ -16,7 +16,7 @@ handle: "Arctic"
 f_interests: "Bass Guitar, Hunting, Pixel Art, Photography"
 f_joined: "August 1st 2006"
 f_last_visit: "March 4th 2007"
-f_location: "Minnesota"
+f_location: "(redacted: location)"
 f_occupation: "Gamer"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/154660842644d1472737f59.jpg)
 **MSN:**
-pauljames_2011@hotmail.com
+(redacted: email)
 Posted on Sunday 2.05am, February 11th, 2007
 Posted on Wednesday 3.51am, November 1st, 2006
 I might get one at christmas... not sure yet. But I definatly want one! [more![More](templates/default/images/icons/more.gif)](community.php?blog=4909#c13638)

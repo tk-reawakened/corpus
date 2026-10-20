@@ -26,7 +26,7 @@ source_captures:
 # Tru Killah
 
 **MSN:**
-Tru_Killah@hotmail.co.uk
+(redacted: email)
 Posted on Tuesday 2.12pm, August 8th, 2006
 i downloaded this 2, cos im a dumbass XD lol, i need a good coding program. i downloaded easymenu aswell, and i think, *voice turns deep* With these ultimate coding programs, i will be agle to create the ultimate shit game. lol [more![More](templates/default/images/icons/more.gif)](files.php?file=368#c14759)
 Posted on Tuesday 2.10pm, August 8th, 2006

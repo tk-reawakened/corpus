@@ -25,7 +25,7 @@ source_captures:
 
 # Street Fighter II
 
-40 Street Fighter midis here - would be very useful for anyone making one of the fighting type games which I hear about from time to time. The big dissapointment with this pack is the lack of any voice effects like 'Hadoken', 'Yoga Flame' etc. as fans will remeber. Still, some useful fisticuff sounds though
+(redacted: address) Fighter midis here - would be very useful for anyone making one of the fighting type games which I hear about from time to time. The big dissapointment with this pack is the lack of any voice effects like 'Hadoken', 'Yoga Flame' etc. as fans will remeber. Still, some useful fisticuff sounds though
 posted by on 2004-10-05 05:39:05 [TK Game Boy](forums/profile.php?mode=viewprofile&u=304)
 The voices are in a different pack but it seems its still being pended. If you reviewed this one how did you miss the other one?
 posted by on 2004-10-06 11:21:35 [Xavier](forums/profile.php?mode=viewprofile&u=6)

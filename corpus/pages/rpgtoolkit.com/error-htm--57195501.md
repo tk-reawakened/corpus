@@ -29,7 +29,7 @@ by Xavier The bugfix only release is here to address a whole array of issues in 
 toolkit 3.x > news
 **Latest Documents**
 In the previous chapters, Frap and Tano find each other and head on over to the House of the Jewel where they find it stolen. Allan@Aljo's version of the Toolkit demo game continues with chapters three and four.
-Cyrus Martin continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
+(redacted: name) continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
 Latest part of the community sstory from TKGB based on his own comic rants. Cyrus and |3lue make their entrances during this weeks tale.
 **Latest Resources**
 submitted by John@aljo

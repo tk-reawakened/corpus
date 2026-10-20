@@ -16,7 +16,7 @@ handle: "Con Safos"
 f_interests: "Munchies, Mac Dre and that stick-icky."
 f_joined: "September 19th 2005"
 f_last_visit: "June 2nd 2006"
-f_location: "At your local zoo."
+f_location: "(redacted: location)"
 f_occupation: "Stalking you."
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/222256605447fcc2d93b60.jpg)
 **MSN:**
-jonathan33088@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Finding Freedom: Between the Devil and the deep blue sea](forum/viewtopic.php?p=303101#303101)
 Posted on Friday 4.51pm, March 3rd, 2006
 Red Mage IS from Final Fantasy. I'm basing alot of my game's elements on FF, but without it being aimed at younger people. These are origional sprites though, eventhough I might incoperate other elements from different games I try to have the look be origional. [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=303101#303101)

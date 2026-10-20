@@ -16,7 +16,7 @@ handle: "Rhodes."
 f_interests: "World War II, Computers, Vampz, Women (not necessarily in that order)"
 f_joined: "May 11th 2004"
 f_last_visit: "January 18th 2008"
-f_location: "Nova Scotia, Canada"
+f_location: "(redacted: location)"
 f_occupation: "Oberstgruppenfuehrer in the Vampz S.S."
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/288735291423e51c9b7e9b.jpg)
 **MSN:**
-rhodes51166db@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 6.23am, January 9th, 2008
 Well i'm sure I mentioned that I was sold the wrong type of memory by some 60 year old guy at G&G computers that had no idea what he was doing and it ended up blowing up my old computer. And the manager said it wasn't their fault - even though they were the ones who made the mistake and installed it... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5615)

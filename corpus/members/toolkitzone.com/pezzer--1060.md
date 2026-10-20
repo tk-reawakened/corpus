@@ -16,7 +16,7 @@ handle: "Pezzer"
 f_interests: "Gamemaking, rpgs, Massivly Multiplayer Online Games, Music Creation"
 f_joined: "March 20th 2004"
 f_last_visit: "January 25th 2007"
-f_location: "London - Enfield"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_username: "Pezzer"
@@ -31,7 +31,7 @@ source_captures:
 **Awards:**
 Total of 16 places and 47 users.
 **MSN:**
-Pezzervenga@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (3)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/7.jpg&iar=1&aoe=1&bw=1&h=80)](../community.php?award=6)

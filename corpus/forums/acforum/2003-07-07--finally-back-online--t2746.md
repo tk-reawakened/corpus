@@ -185,7 +185,7 @@ There seems to be less space now.
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -291,7 +291,7 @@ you'll dance with the Reaper!
 **No subject**
 
 Hmm, yeah, for the cursor, the one shaped like the hand, it is blocking the first letter of the word. And, TK2 is basically better, but if you put TK2 + TK3 it'll definitely be the best TK made. As I was saying, you might be asking, what is the good reason for adding TK2 into TK3? Well, the board editor is btter in TK2, game engine also. And for TK3 there is this isometric tiles, which is better, and the RPGCode editor enables coloured codes. And others, like the new menu and battle systems for TK3 is definitely better than the ones in TK2. And some of the RPGCodes like #Fade from tk2 can't be used in TK3, those helpfiles doesn't work in TK3, and you might considering upgrading it. Of course, I *might* want to buy TK3 Powerhouse Edition IF only, you could invent something that could change plugins into PURE RPGCode, something like VorteX. And, the powerhouse also must enable us to use more RPGCode and of course, an editoral for the menu sys, eg. image or layout of it. Better board editor and easier interface for making RPG.
-I am starting to save up my money and making a good progress, if you don't mind, email laser_overkill@lycos.com and tell me what is Singapore currency for payment for the Toolkit, Powerhouse edition.
+I am starting to save up my money and making a good progress, if you don't mind, email (redacted: email) and tell me what is Singapore currency for payment for the Toolkit, Powerhouse edition.
 :Note
 Good luck to Dan in CORE and good luck to EB in Eternal Sphere, best regards! ;)
 :Respected
@@ -350,7 +350,7 @@ Sprite tutorial on hold indefinately until I can be arsed to do it, put simply.
 
 ---
 **Contact**
-MSN: Orange_Krunch@hotmail.com
+MSN: (redacted: email)
 
 ### gstick · 2003-07-08 04:06 · #A990-2770
 
@@ -479,7 +479,7 @@ use TK2's layout and add the features to the editors, we all love the TK2 layout
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -615,7 +615,7 @@ That's all I can think of.
 ---
 YAHOO : cedrickbryan
 AIM : cedrickbryan
-E-MAIL : cedrickbryan_sagum@yahoo.com
+E-MAIL : (redacted: email)
 Those who doesn't have any idea what my real name is so stupid.
 
 ### mrcool2035 · 2003-07-11 04:11 · #A990-2804
@@ -677,7 +677,7 @@ i like the container but i think there should be a option to detach the windows 
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -707,7 +707,7 @@ having containers or not
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -986,7 +986,7 @@ Posted by
 ---
 YAHOO : cedrickbryan
 AIM : cedrickbryan
-E-MAIL : cedrickbryan_sagum@yahoo.com
+E-MAIL : (redacted: email)
 Those who doesn't have any idea what my real name is so stupid.
 
 ### thebenevolentone · 2003-07-18 00:09 · #A990-2859
@@ -1016,5 +1016,5 @@ Current Game
 
 **Looking For Suggestions**
 
-I'm looking for suggestions for my game: Harry Potter & The Sorcerer's Stone: An Epic RP Adventure. If you have any ideas, please, e-mail them to punkrockbladerboy88@Hotmail.com, or IM me on AIM at: PunkRockBlader88. Thank-you. I'm also looking for Graphics and Programing help.
+I'm looking for suggestions for my game: Harry Potter & The Sorcerer's Stone: An Epic RP Adventure. If you have any ideas, please, e-mail them to (redacted: email), or IM me on AIM at: PunkRockBlader88. Thank-you. I'm also looking for Graphics and Programing help.
 `Connor`

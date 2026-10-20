@@ -21,7 +21,7 @@ source_captures:
 
 The developers are actively working on version 3.0.7. This version is principally a migration of the engine from VB to C++. You can view the source online by choosing a module below, or you can use anonymous CVS.
 : cvs.sf.net **Server**
-: anonymous@cvs.sf.net **User name**
+: (redacted: email) **User name**
 : /cvsroot/rpgtoolkit **Cvsroot**
 We are assembling the new engine in . [/vc/trans3](?mp=/vc/trans3/)
 [![DIR](/source/Themes/Default/Images/folder.png)](?mp=/build/)

@@ -16,7 +16,7 @@ handle: "NearFatel"
 f_interests: "Sk8ing Video Games"
 f_joined: "September 15th 2004"
 f_last_visit: "September 15th 2004"
-f_location: "California"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "NearFatel"
@@ -29,6 +29,6 @@ source_captures:
 # NearFatel
 
 **MSN:**
-cobrakiller2020@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Hey im the newest member to cursed software](forum/viewtopic.php?p=94018#94018)
 Posted on Wednesday 1.01am, September 15th, 2004

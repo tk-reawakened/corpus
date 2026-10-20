@@ -13,11 +13,10 @@ repliers: []
 authors: ["jackyboy"]
 comments_present: 0
 handle: "jackyboy"
-f_age: "16 - 20"
 f_interests: "reading, writing (in a grammatically incorrect way of course), chess (i stink), some programming"
 f_joined: "June 8th 2007"
 f_last_visit: "November 17th 2007"
-f_location: "Minnesota"
+f_location: "(redacted: location)"
 f_name: "Jacky"
 f_occupation: "Cashier"
 f_rank: "Member"

@@ -13,7 +13,6 @@ repliers: []
 authors: ["Eternal Sphere / EB"]
 comments_present: 0
 handle: "Eternal Sphere / EB"
-f_age: "21-25"
 f_country: "France"
 f_occupation: "Student"
 f_username: "Eternal Sphere / EB"

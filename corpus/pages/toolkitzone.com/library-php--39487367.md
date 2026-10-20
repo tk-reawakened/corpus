@@ -39,10 +39,10 @@ October 25 2005, 11:42 am
 "Early in the 24th Century, Space, as it had once been called, had become a battlefield. Stars and constellations that had once been given the names of God's were now half whispered, the whisperers terrified of the battles that accompanied their names."
 Library > Fiction > Short Story Contest: Summer 05
 August 22 2005, 2:30 pm
-A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
+A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
 Library > Fiction > Short Story Contest: Summer 05
 August 20 2005, 1:33 pm
-After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by Cyrus Martin inside.
+After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by (redacted: name) inside.
 The library contains a wide range of articles, tutorials, interviews and columns on all manner of Toolkit and other subjects.
 **Single Keyword**
 **Search In**

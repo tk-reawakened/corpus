@@ -42,4 +42,4 @@ Mystic Software secures your personal information from unauthorized access, use 
 Changes to this Statement
 Mystic Software will occasionally update this Statement of Privacy to reflect company and customer feedback. Mystic Software encourages you to periodically review this Statement to be informed of how Mystic Software is protecting your information.
 Contact Information
-Mystic Software welcomes your comments regarding this Statement of Privacy. If you believe that Mystic Software has not adhered to this Statement, please contact Mystic Software at . We will use commercially reasonable efforts to promptly determine and remedy the problem.host@change.me
+Mystic Software welcomes your comments regarding this Statement of Privacy. If you believe that Mystic Software has not adhered to this Statement, please contact Mystic Software at . We will use commercially reasonable efforts to promptly determine and remedy the (redacted: email)

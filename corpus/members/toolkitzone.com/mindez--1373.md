@@ -16,7 +16,7 @@ handle: "Mindez"
 f_interests: "Wouldn't you like to know? Yes? Me too."
 f_joined: "April 3rd 2004"
 f_last_visit: "May 23rd 2005"
-f_location: "In the deepest darkest pits of hell"
+f_location: "(redacted: location)"
 f_occupation: "Professional evil"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-daniellyon1989@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Monday 10.16pm, May 23rd, 2005
 In memory of the old toolkitzone tradition (An old blogging tradition started about a year ago on toolkitzone, it seems to have stopped now, but I intend to continue it ) I'm listening to: Evanescence I'm drinking: Pepsi Max I'm feeling: Bored I'm doing: Blogging I'm watching: Doctor Who W... [more![More](templates/default/images/icons/more.gif)](community.php?blog=2664)

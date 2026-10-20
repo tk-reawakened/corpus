@@ -13,11 +13,10 @@ repliers: []
 authors: ["joenorton"]
 comments_present: 0
 handle: "joenorton"
-f_age: "16 - 20"
 f_joined: "April 7th 2004"
 f_last_visit: "May 21st 2007"
-f_location: "Donalsonville,GA"
-f_name: "Joey Norton"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_username: "joenorton"
 converter_version: "1"
@@ -37,7 +36,7 @@ Male
 Total of 16 places and 48 users.
 **E-Mail:**
 **MSN:**
-joenorton@softhome.com
+(redacted: email)
 ![RPG Toolkit](../templates/default/images/icons/forums/forum_toolkit.gif) [WHY????](forum/viewtopic.php?p=392879#392879)
 Posted on Monday 6.15am, May 14th, 2007
 Yeah vista sucks as of right now. http://free-game-downloads.mosw.com/ [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=392879#392879)

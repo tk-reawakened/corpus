@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "a0358626@hud.ac.uk"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_Rueben", captured: "20050321160553", sha256: "d9c07967268623edc504627b514dc4a9e28bae2776bcb8cbc188de432a408477", wayback_url: "https://web.archive.org/web/20050321160553/http://darkage.mysticsoftware.net/user.php?mode=6&name=Rueben"}

@@ -13,11 +13,10 @@ repliers: []
 authors: ["Mineat"]
 comments_present: 0
 handle: "Mineat"
-f_age: "21 - 25"
 f_interests: "Adobe Flash, video games, Mario"
 f_joined: "July 22nd 2007"
 f_last_visit: "June 19th 2010"
-f_location: "USA"
+f_location: "(redacted: location)"
 f_name: "Urie"
 f_occupation: "Certified CCG Maker"
 f_rank: "Über Members"

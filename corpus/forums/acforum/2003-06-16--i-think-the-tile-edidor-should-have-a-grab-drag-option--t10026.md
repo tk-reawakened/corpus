@@ -37,7 +37,7 @@ links:
 
 i would have saved me a big hunk of tyme(mabey an hour or 2)
 you wanna be a proud member of HexidecimalSoft?
-e mail me or IM me @ UserMax755@AOL.com
+e mail me or IM me @ (redacted: email)
 being a HexidecimalSoft member is a great thing! please become a member!
 i beg of you!!!
 oh and i eat lusangia with meatballs and lusangia !

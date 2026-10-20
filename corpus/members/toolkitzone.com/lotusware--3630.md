@@ -13,12 +13,11 @@ repliers: []
 authors: ["Lotusware"]
 comments_present: 0
 handle: "Lotusware"
-f_age: "16 - 20"
 f_interests: "Kites"
 f_joined: "July 28th 2004"
 f_last_visit: "December 31st 2009"
-f_location: "PE, Can...Pecan"
-f_name: "Dana Harris"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Designer, DJ, Electrician"
 f_rank: "Member"
 f_username: "Lotusware"
@@ -39,7 +38,7 @@ Can I put anything here? What?
 Total of 23 places and 66 users.
 **E-Mail:**
 **MSN:**
-harris_damian@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Monday 7.47am, June 1st, 2009
 Okay, well I guess I've been searching youtube for some songs that left an impact on me in some way or another and that I draw inspiration from in my own work for music in regards to indie game making. Promontory by Randy Edelman and Trevor Jones ~The Last of the Mohicans Castle in the San... [more![More](templates/default/images/icons/more.gif)](community.php?blog=6020)

@@ -13,7 +13,6 @@ repliers: []
 authors: ["misticatol"]
 comments_present: 0
 handle: "misticatol"
-f_age: "10 - 15"
 f_interests: "Making games."
 f_joined: "July 1st 2006"
 f_last_visit: "March 17th 2007"

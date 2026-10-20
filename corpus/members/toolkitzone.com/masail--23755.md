@@ -16,7 +16,7 @@ handle: "masail"
 f_interests: "Fantasy, cartoons, philosophy, Discovery Channel, weird tales"
 f_joined: "November 14th 2008"
 f_last_visit: "December 19th 2008"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_name: "Alex"
 f_occupation: "Technical Support"
 f_rank: "Member"
@@ -36,7 +36,7 @@ Male
 I'm a reader at heart, I mostly enjoy fantasy stories, weird tales, detective stories, science fiction, and some horror fiction. I enjoy writing as well, especially short stories, and one of my personal resolutions is to be in print before 35. Writing games is new territory for me, I've never seriously embarked on this type of "quest" before, mostly because the effort required in programming seemed beyond me for years. I've since learned that it was mostly a stubborn self-consciousness that held me back--computers have been an interest to me since the Commodore 64. As I've said on the boards, I consider myself a competent enduser with most software, the RPG Toolkit has proven the rule to me, and I've been brave enough to expand out and use Microsoft's Visual Studio Express tools to experiment with in making a game. I've two games in mind, a traditional fantasy RPG which I want to be playable before the end of 2009, and shorter demo "fannish" beta that will use the same style of combat and magic in the modern world.TBD
 **E-Mail:**
 **MSN:**
-chipper.atmacneil@yahoo.ca
+(redacted: email)
 Posted on Thursday 10.55pm, December 18th, 2008
 Well, I'm not ready to rate it yet, but thus far I'm inclined to agree with most of Marz's assessment. It has been fun so far, but my only real complaint is the crashing. I'd just gotten to the end of the first encounter and brought the Dragoon to town when the game crashed shortly... so yes, save y...more![More](templates/default/images/icons/more.gif)
 Posted on Wednesday 8.18pm, December 17th, 2008

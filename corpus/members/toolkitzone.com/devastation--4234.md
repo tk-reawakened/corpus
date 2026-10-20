@@ -16,7 +16,7 @@ handle: "Devastation"
 f_interests: "Alot of things."
 f_joined: "September 16th 2004"
 f_last_visit: "February 23rd 2007"
-f_location: "Finland."
+f_location: "(redacted: location)"
 f_occupation: "Musician"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -37,7 +37,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-jalopenolordi@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [...So I had this idea for a movie...](forum/viewtopic.php?p=381537#381537)
 Posted on Tuesday 8.52pm, February 20th, 2007
 jpsmtm wrote: jpsmtm wrote: Two gnomes find this 'Bracelet of Power' and must take it to the Burning Steppes and cast it into the Cauldron. Along the way, they're followed by a murloc named 'Gollum', who is obsessed with the bracelet, and nine Bracelet Boogeymen. This could be a 3-parter: the firs... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=381537#381537)

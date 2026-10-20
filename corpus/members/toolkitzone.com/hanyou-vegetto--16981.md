@@ -13,12 +13,11 @@ repliers: []
 authors: ["Hanyou-Vegetto"]
 comments_present: 0
 handle: "Hanyou-Vegetto"
-f_age: "16 - 20"
 f_interests: "Game Developing, Scripting, Spriting, girls, mathmatics"
 f_joined: "May 25th 2007"
 f_last_visit: "August 24th 2009"
-f_location: "United States"
-f_name: "Erick Sitter"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

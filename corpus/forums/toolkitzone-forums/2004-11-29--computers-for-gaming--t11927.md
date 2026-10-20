@@ -33,7 +33,7 @@ links: []
 ### battousai1509 · 2004-11-29 21:18 · #B131698
 
 Do you think this system is decent for gaming?
-60 GB Hard Drive
+(redacted: address)
 AMD Athlon XP Processer
 S3 ProSavage DDR Video Card
 (256 MB System Memory)
@@ -50,7 +50,7 @@ For light gaming, yes. You didn't post the speed of your processor or RAM though
 **battousai1509 wrote:**
 
 > Do you think this system is decent for gaming?
-> 60 GB Hard Drive
+> (redacted: address)
 > AMD Athlon XP Processer
 > S3 ProSavage DDR Video Card
 > (256 MB System Memory)

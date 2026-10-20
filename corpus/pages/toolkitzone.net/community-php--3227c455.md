@@ -12,10 +12,9 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "21 - 25"
 f_joined: "March 21st 2008"
 f_last_visit: "April 1st 2008"
-f_location: "South East England"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 converter_version: "1"

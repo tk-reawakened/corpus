@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "21 - 25"
 f_interests: "Music, Women, Video Games, Web/Multimedia Design"
 f_joined: "January 28th 2004"
 f_last_visit: "April 16th 2008"
-f_location: "Leeds, United Kingdom"
-f_name: "Emmanuel Burton"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "IT Network Technician"
 f_rank: "Member"
 converter_version: "1"
@@ -30,7 +29,7 @@ source_captures:
 ![Avatar](forum/images/avatars/107978653144bda65667c1e.jpg)
 January 28th 2004
 April 16th 2008
-Emmanuel Burton
+(redacted: name)
 Leeds, United Kingdom
 IT Network Technician
 Music, Women, Video Games, Web/Multimedia Design
@@ -38,7 +37,6 @@ I really really like cinnamon rolls.
 **Awards:**
 Total of 17 places and 56 users.
 **E-Mail:**
-eb_rct@hotmail.com
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/43.gif&iar=1&aoe=1&bw=1&h=80)](../community.php?award=44)
 Winner

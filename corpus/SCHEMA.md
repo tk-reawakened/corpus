@@ -26,6 +26,25 @@ converter_version: ""
 
 Body: `# title`, the content as Markdown, then comments/replies as `### author · date · #id` blocks (the same shape as forum posts), so "everything by X" is one grep for every kind.
 
+## Redaction
+
+The published corpus is de-identified. These are removed from every file, with a
+`(redacted: …)` marker left in place so the loss is visible rather than silent:
+
+| Removed | Marker |
+|---|---|
+| Real names (the `Name` field of a profile, the `Real Name` field of a member site, and any later mention of them) | `(redacted: name)` |
+| Email addresses | `(redacted: email)` |
+| Phone numbers | `(redacted: phone number)` |
+| Street addresses | `(redacted: address)` |
+| The `f_location` field | `(redacted: location)` |
+| The `f_age` field | dropped entirely |
+
+The **handles stay** — `author`, `authors`, `repliers` and `handle` are how these people
+knew each other, and they are the community. The rules live in `tools/redact.py` and the
+list of names in `data/real-names.txt`; `tools/verify-redaction.py` checks a built corpus
+against them and is the gate before publishing.
+
 ## Per-kind fields (added to the envelope)
 
 | kind | sources | extra frontmatter | body |

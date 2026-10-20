@@ -15,7 +15,7 @@ comments_present: 0
 handle: "serpentine lord"
 f_joined: "August 6th 2004"
 f_last_visit: "July 22nd 2005"
-f_location: "Dark Lair Somewhere"
+f_location: "(redacted: location)"
 f_occupation: "Head of Wyvern Fang"
 f_rank: "Member"
 f_rankings: "No rankings."

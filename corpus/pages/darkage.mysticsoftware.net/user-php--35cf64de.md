@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "grandcezque@hotmail.com"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_Cesque", captured: "20050321163131", sha256: "3f5f1b50b7ff0b0bd2ce96b052b2ae439b52d673a505dc0fcbf65091d6eff83a", wayback_url: "https://web.archive.org/web/20050321163131/http://darkage.mysticsoftware.net/user.php?mode=6&name=Cesque"}

@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "Website: Company Website: AIM Name: RuebenChandler MSN Address: ruebenchandler@hotmail.com"
+f_email: "Website: Company Website: AIM Name: RuebenChandler MSN Address: (redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/mages.mysticsoftware.net/downloads/readme.htm", captured: "20030222082520", sha256: "a78238ca7bcdc57f3e7a9a52186013009ce057e22b63205b3fb4e7e04e7807bc", wayback_url: "https://web.archive.org/web/20030222082520/http://mages.mysticsoftware.net/downloads/readme.htm"}
@@ -49,7 +49,7 @@ System Requirements
 The computer I created and tested this game on was a 950Mhz Duron with 128Mb RAM. Therefore I have pretty much by default optomised the game for that computer. You may need to play around with some internal settings in-game to get the desired performance.
 Installation should be fairly straightforward, just follow the on-screen instructions like any normal installation program. If you experience any problems please email me at .
 Installation
-mages@mysticsoftware.net
+(redacted: email)
 Here is the list of the game's controls:
 Game Components
 Game Controls
@@ -71,7 +71,7 @@ However, there are a couple of hiccups with the menu system. Firstly, because of
 The Battle System for "The Fourth Dimension" has been hand-written in RPG Code. Granted, it's not the greatest and most innovative of systems ever, but it does the job to the standard of which I desire. It is in the style of Phantasy Star/RPG Maker 2K (I shudder in saying the latter) but with a few notable points.
 The Battle System
 First off, before anything happens, you decide what of your characters are going to do that turn. If you make a mistake, you can change everything if you so desire at the end of your selections. However, bear in mind that if you try to or you to use a special (usually lack of SMP power) you will be able to recitify mistakes. So bear that in mind! *all* run fail not
-On the subject of running, everybody on each of their goes will get the chance to attempt to run from battle. If you are successful then you escape from battle unhurt. However, if you fail, then that character does that turn (effectively leaving them vulnerable to serious damage). However, everybody will get a chance to run each turn if one fails and you weren't happy. I am thinking of changing this a little, any comments are welcome at . nothingmages@mysticsoftware.net
+On the subject of running, everybody on each of their goes will get the chance to attempt to run from battle. If you are successful then you escape from battle unhurt. However, if you fail, then that character does that turn (effectively leaving them vulnerable to serious damage). However, everybody will get a chance to run each turn if one fails and you weren't happy. I am thinking of changing this a little, any comments are welcome at . (redacted: email)
 Once everybody has decided what they will be doing, it is then randomised who will attack first, the enemies, or you. Then everything happens, and you have pretty much no influence over what happens! :)
 By pressing [C] in game you will call up the Comm-Shades menu. With this you will be able to access a series of questions related to your mission to recive detailed information on what you do. The usage is fairly self-explanatory.
 The Comm-Shades
@@ -87,7 +87,7 @@ Known Bugs
 - If you find that the menu freezes when you use items, try using the [SPACE] key to activate the default menu and use items from there.
 - Sometimes after the fight with Kane, Kane doesn't seem to move when he should. This shouldn't affect performance.
 - Upon testing after creating the setup, I encountered numerous bugs in the internal engine (trans2). You'll probably recognise these, my advise when encountering them is to save, quit and restart the game.
-Email: Website: Company Website: AIM Name: RuebenChandler MSN Address: ruebenchandler@hotmail.com
+Email: Website: Company Website: AIM Name: RuebenChandler MSN Address: (redacted: email)
 Game Tips
 - Although it's a generally story-driven game, I am including as many RPG elements in it a possible. So bear in mind there are chests all over the place. Some may look unreachable, but check out the place, you may be suprised!
 - As with the above, exploration is the key to this game. If you wiz through the game without exploring the locations properly, you won't have gained the full satisfation of what I have worked very hard on, there are a lot of interactive pieces of scenary if you search as well! Also, remember that there are some nifty items not just in chests as well!
@@ -100,7 +100,7 @@ Game Tips
 Credits
 The Author
 **David "Rueben" Smith**
-mages@myticsoftware.net
+(redacted: email)
 <http://mages.mysticsoftware.net>
 <http://steelsoftware.0catch.com>
 David "Rueben" Smith MrG, Xorlak Liam Harper, Bret "Arcturus" Allen, Robert "Tanith" Smith

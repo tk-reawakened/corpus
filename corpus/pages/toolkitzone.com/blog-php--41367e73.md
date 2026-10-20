@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 I got my new comp!!
 Posted by - Sat 14 August, 2004 4:50pm [Horizon](forums/profile.php?mode=viewprofile&u=50)
 Two days early!! :D :D :D Isn't it cool? Almost as cool as the ham sandwich resting on a stool :P Have some cake! ^_^ It's dragon cake.

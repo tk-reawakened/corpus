@@ -13,11 +13,10 @@ repliers: []
 authors: ["SirWillis"]
 comments_present: 0
 handle: "SirWillis"
-f_age: "16 - 20"
 f_interests: "RPG creation and playing"
 f_joined: "October 5th 2006"
 f_last_visit: "November 29th 2007"
-f_location: "Cornwall"
+f_location: "(redacted: location)"
 f_name: "Will"
 f_occupation: "Student"
 f_rank: "Member"
@@ -35,7 +34,7 @@ source_captures:
 Male
 **E-Mail:**
 **MSN:**
-sirwillis@hotmail.co.uk
+(redacted: email)
 ![RPG Toolkit](../templates/default/images/icons/forums/forum_toolkit.gif) [Learn me on canvas](forum/viewtopic.php?p=423164#423164)
 Posted on Thursday 10.59am, November 29th, 2007
 in toolkit 3.06 the command setimage didnt need a canvas but with the new upgrade the command now needs a cnv! i am unsure on how to use canvases in creating and using them and the tutorial on canvases doesn't help me either examples on how it works would be greatly appreciated [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=423164#423164)

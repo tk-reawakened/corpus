@@ -13,11 +13,10 @@ repliers: []
 authors: ["omegalpha"]
 comments_present: 0
 handle: "omegalpha"
-f_age: "10 - 15"
 f_interests: "Computers"
 f_joined: "September 26th 2006"
 f_last_visit: "March 24th 2007"
-f_location: "Greece"
+f_location: "(redacted: location)"
 f_name: "OmegAlpha"
 f_occupation: "Student"
 f_rank: "Member"

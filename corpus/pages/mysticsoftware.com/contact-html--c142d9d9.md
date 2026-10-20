@@ -31,24 +31,24 @@ Appointments are available prior to and after regular business hours. Call for y
 **Telephone: 1-949-595-7980**
 **Fax: 1-949-595-7982**
 ![](images/BttnWebDevelopment.gif)
-WebDevelopment@MysticSoftware.com
+(redacted: email)
 ![](images/BttnProgramming.gif)
-CustomProgramming@MysticSoftware.com
+(redacted: email)
 ![](images/BttnDatabases.gif)
-DatabaseInfo@MysticSoftware.com
+(redacted: email)
 ![](images/BttnNetworking.gif)
-NetworkingServices@MysticSoftware.com
+(redacted: email)
 ![](images/BttnGeneralInquiries.gif)
-Sales@MysticSoftware.com
-Information@MysticSoftware.com
+(redacted: email)
+(redacted: email)
 **![](images/DiamondSm.gif) [Fill-Out Contact Form](mailform.html)**
 *Appointments may be made for prior to and after regular business hours. Please Phone to Schedule an Appointment.*
 >
-> ***Mystic Software*** 22471 Aspan, Suite 201 Lake Forest, CA. 92630
+> ***Mystic Software*** 22471 Aspan, (redacted: address) Lake Forest, CA. 92630
 >
 > ![](images/Map.gif)
 >
 > Mystic Software is located in the heart of the Digital Coastline in Lake Forest, CA. Please call for exact directions and your appointment.
 >
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

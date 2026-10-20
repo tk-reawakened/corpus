@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "December 13th, 2004"
-f_location: "Wisconsin"
-f_name: "Clay Schlegel"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_6010", captured: "20100101215450", sha256: "e7ee861151ba44866cad0ab28ebff93828f943b8ef5c432ed5f0da7eb0bfdcd0", wayback_url: "https://web.archive.org/web/20100101215450/http://toolkitzone.com/community.php?blog=6010"}
@@ -33,7 +33,7 @@ Wow. This has to be the shortest time span in between blogs I've written. Wait, 
 The tank has almost the same weight as me(yes, I'm that light). Wow.
 About Bagel
 [![Bagel](forum/images/avatars/197574015647bb62fd9d5a9.png)](community.php?user=4798)
-Clay Schlegel
+(redacted: name)
 Wisconsin
 December 13th, 2004
 Site:

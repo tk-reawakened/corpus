@@ -13,7 +13,6 @@ repliers: []
 authors: ["DragnBreth"]
 comments_present: 0
 handle: "DragnBreth"
-f_age: "16 - 20"
 f_interests: "God, the Bible, computers, video games, music, writing, drawing..."
 f_joined: "January 28th 2004"
 f_last_visit: "July 1st 2009"

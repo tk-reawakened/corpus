@@ -70,7 +70,7 @@ Gamemaster_268
 **do it your self get RPGCode exp. sombody help this kid! nt**
 
 you wanna be a proud member of HexidecimalSoft?
-e mail me or IM me @ UserMax755@AOL.com
+e mail me or IM me @ (redacted: email)
 being a HexidecimalSoft member is a great thing! please become a member!
 i beg of you!!!
 oh and i eat lusangia with meatballs and lusangia !
@@ -123,7 +123,7 @@ and coming soon...
 Check out one of these great sites:
 
 **For the best hosting on the web check out: [www.Cywh.com](http://www.cywh.com)**
-Contact me on **MSN: kosker@hotmail.com** or **AIM: mastervagrant**
+Contact me on **MSN: (redacted: email)** or **AIM: mastervagrant**
 
 ### kronical · 2003-06-15 18:26 · #A1002-10017
 
@@ -133,8 +133,8 @@ If you really need help... i can help you out on AIM. Its "kronspik"
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 Pattern? =P
 -Ever wanted to know what Kronspik means?
 Kron: The first part of my username
@@ -162,7 +162,7 @@ The Game King
 **mmmmmmmm.... battle systemmmm (homer simpson moment) nt**
 
 you wanna be a proud member of HexidecimalSoft?
-e mail me or IM me @ UserMax755@AOL.com
+e mail me or IM me @ (redacted: email)
 being a HexidecimalSoft member is a great thing! please become a member!
 i beg of you!!!
 oh and i eat lusangia with meatballs and lusangia !

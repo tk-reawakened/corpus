@@ -147,7 +147,7 @@ Ah, you're using backgrounds... my mistake...
 Well actually, for a background, It kinda does suck. But who am I to tell you that?
 _________________
 http://www.toolkitzone.com/mygames/images/121/893.jpg <http://img17.exs.cx/img17/3476/Drink7E.jpg>
-:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.seveneternal@gmail.com.:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
+:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.(redacted: email).:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
 
 ### Tao-Kun · 2004-08-09 06:48 · #B72070
 

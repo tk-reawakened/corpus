@@ -14,7 +14,7 @@ authors: ["Sir Pimpalot"]
 comments_present: 0
 f_interests: "Art, Pixel Art, Literature, etc..."
 f_joined: "June 25, 2006"
-f_location: "The Tarheel State"
+f_location: "(redacted: location)"
 f_username: "Sir Pimpalot"
 converter_version: "1"
 source_captures:

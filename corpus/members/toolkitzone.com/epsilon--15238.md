@@ -13,7 +13,6 @@ repliers: []
 authors: ["Epsilon"]
 comments_present: 0
 handle: "Epsilon"
-f_age: "10 - 15"
 f_interests: "football, games, piano"
 f_joined: "January 18th 2007"
 f_last_visit: "May 20th 2007"

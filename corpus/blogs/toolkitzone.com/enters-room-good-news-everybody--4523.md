@@ -14,7 +14,7 @@ authors: ["Cuzit"]
 comments_present: 0
 f_interests: "Skateboarding, Rapping, Toolkit, Games, Gurls :P"
 f_joined: "April 28, 2004"
-f_location: "Cedar Bluff, AL"
+f_location: "(redacted: location)"
 f_username: "Cuzit"
 converter_version: "1"
 source_captures:

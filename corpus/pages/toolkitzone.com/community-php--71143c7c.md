@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "May 30th, 2006"
-f_location: "In a barrel"
+f_location: "(redacted: location)"
 f_name: "RPG 17"
 converter_version: "1"
 source_captures:

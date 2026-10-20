@@ -14,7 +14,7 @@ authors: ["Blob Dude"]
 comments_present: 0
 f_interests: "All sorts..!"
 f_joined: "February 10, 2004"
-f_location: "Devon, UK"
+f_location: "(redacted: location)"
 f_username: "Blob Dude"
 converter_version: "1"
 source_captures:

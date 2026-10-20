@@ -16,7 +16,7 @@ handle: "Hablethorn"
 f_interests: "Game Development, 3D Design and Animation"
 f_joined: "January 28th 2004"
 f_last_visit: "May 13th 2006"
-f_location: "Glendale(Denver) CO - USA"
+f_location: "(redacted: location)"
 f_occupation: "Web Designer/Developer"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-hablethorn@hotmail.com
+(redacted: email)
 Posted on Thursday 10.45pm, March 11th, 2004
 Posted on Thursday 12.09am, February 19th, 2004
 UPDATE: khin has updated this tile set with a new charactor. [more![More](templates/default/images/icons/more.gif)](files.php?file=266#c14538)

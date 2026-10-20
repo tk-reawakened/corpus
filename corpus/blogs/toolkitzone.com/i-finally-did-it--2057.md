@@ -14,7 +14,7 @@ authors: ["zeno"]
 comments_present: 0
 f_interests: "Video Games"
 f_joined: "February 27, 2004"
-f_location: "Sol Sanctum....Posts: 250"
+f_location: "(redacted: location)"
 f_username: "zeno"
 converter_version: "1"
 source_captures:

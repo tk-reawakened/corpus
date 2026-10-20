@@ -57,7 +57,7 @@ I have succeeded in everything but one: failure.
 **yeah, I heard about that (more)**
 
 they made it base 10 and each day has like 40 hours each with 100 minutes, except seconds are longer and this also takes away the need for daylight savings time (if you're going by the metric calendar)
-| [Email Me](maito:matt72186@hotmail.com) | [RPG Makers Anonymous](http://rma.mysticsoftware.net/) | [TK Community](http://tkcommunity.mysticsoftware.net/) | [Double Negative Productions](http://www.tkarea.d2g.com/DNP/) |
+| [Email Me](maito:(redacted: email)) | [RPG Makers Anonymous](http://rma.mysticsoftware.net/) | [TK Community](http://tkcommunity.mysticsoftware.net/) | [Double Negative Productions](http://www.tkarea.d2g.com/DNP/) |
 [![My Online Status](http://12.232.241.200/onlinestatus.gif)](http://12.232.241.200/screens/)
 
 ### dont_think_so · 2002-08-01 31:00 · #A1000-49049

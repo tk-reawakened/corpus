@@ -30,7 +30,7 @@ sort by
 author date added title type
 Library > Community > A Weekly Word
 March 31 2005, 8:35 am
-New weekly column from author and film maker Cyrus Martin, who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business.
+New weekly column from author and film maker (redacted: name), who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business.
 Library > Community > The Meridian Weekly
 March 7 2005, 6:43 pm
 With Meridian taking a indefinate hiatus, it's a nice time to potentially conclude the series with a list of all the users to have ever registered, along with some of their character pictures.

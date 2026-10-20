@@ -15,7 +15,7 @@ comments_present: 0
 handle: "anniehall"
 f_joined: "November 1st 2005"
 f_last_visit: "November 2nd 2005"
-f_location: "buenos aires"
+f_location: "(redacted: location)"
 f_occupation: "saleswoman"
 f_rank: "Member"
 f_rankings: "No rankings."

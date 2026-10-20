@@ -93,4 +93,4 @@ Networking and IT support
 [![](images/BttnWebProjects.gif)](PlanningWebSite.htm)
 [![](images/BttnOurClients.gif)](Clients.html)
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

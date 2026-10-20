@@ -14,7 +14,7 @@ authors: ["rpgmaster24"]
 comments_present: 0
 f_interests: "Video Games, RPG Making"
 f_joined: "November 6, 2004"
-f_location: "Midgar"
+f_location: "(redacted: location)"
 f_username: "rpgmaster24"
 converter_version: "1"
 source_captures:

@@ -20,7 +20,7 @@ source_captures:
 
 # RPG Toolkit related Websites
 
-Want to have your site linked here? Then email me at with the banner you wish to have as an attachment or a link to it.mages@mysticsoftware.net
+Want to have your site linked here? Then email me at with the banner you wish to have as an attachment or a link to (redacted: email)
 RPG Toolkit related Websites
 [![RPG Toolkit Home](images/banner-rpg.png)](http://www.rpgtoolkit.com)
 [![STEEL Software](steel.png)](http://steelsoftware.0catch.com)

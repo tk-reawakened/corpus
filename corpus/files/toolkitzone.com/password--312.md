@@ -25,7 +25,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 -------------------------------------------------------------
 KSNiloc's VB SDK FAQ
 For those of use who like things simple
@@ -55,4 +55,4 @@ EnabledByDefault=1 or 0 - Set to 1 if you want to use the plugin without the men
 Author= -These two are things you can set to display AuthorEmail= stuff on the startup screen.
 ---Closing Words---
 Now that I've written this, I won't be including explicit instructions on how to setup my VB Plugins anymore. But you'll know how...
---KSNiloc cjf@mail15.com
+--KSNiloc (redacted: email)

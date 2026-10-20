@@ -13,11 +13,10 @@ repliers: []
 authors: ["slipknot_hellraiser"]
 comments_present: 0
 handle: "slipknot_hellraiser"
-f_age: "21 - 25"
 f_interests: "game making, Football \"GO STEELERS\", slipknotTBD"
 f_joined: "August 27th 2004"
 f_last_visit: "January 1st 2010"
-f_location: "Van Wert Oh"
+f_location: "(redacted: location)"
 f_name: "Sean"
 f_rank: "Member"
 f_rankings: "No rankings."

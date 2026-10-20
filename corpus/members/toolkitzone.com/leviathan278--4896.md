@@ -15,7 +15,7 @@ comments_present: 0
 handle: "leviathan278"
 f_joined: "January 3rd 2005"
 f_last_visit: "March 27th 2007"
-f_location: "Twilight Void of the NeverRealm"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "leviathan278"

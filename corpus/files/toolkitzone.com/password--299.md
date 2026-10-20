@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 **
 Creative Writing
 Session 2:
@@ -43,7 +43,7 @@ A writer who can learn to wait is a master. When you are able to write your stor
 How you write and what you write are up to you.
 T hese are but words of advice
 Thank you.
-**Cyrus Martin**
+**(redacted: name)**
 ** Author of Deceit and Conquest
 **
 Writer/Director of Dawn of Twilight

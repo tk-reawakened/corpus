@@ -23,34 +23,34 @@ source_captures:
 
 Position
 Spyder
-spyder@mysticsoftware.net
+(redacted: email)
 Owner
 Matt72186
-matt72186@hotmail.com
+(redacted: email)
 Webmaster
 Angela Carvan
 Head of Music
 Chris Reeves
-craig.reeves@verizon.net
+(redacted: email)
 Head of Music
 Craig Reeves
-craig.reeves@verizon.net
+(redacted: email)
 Head of Music
 Mike Hill
-auron9854@prodigy.net
+(redacted: email)
 Resources
 Mike Young
-mike.young@intelec.com
+(redacted: email)
 Webmaster
 Marcus Lewton
-unknownmarcus@hotmail.com
+(redacted: email)
 Reviews
 MrX
-xxphookaxx@aol.com
+(redacted: email)
 Reviews/Music
 Ersuis
-ersuis@yahoo.com
+(redacted: email)
 Misc
 Seafroggys
-seafroggys@yahoo.com
+(redacted: email)
 Reviews

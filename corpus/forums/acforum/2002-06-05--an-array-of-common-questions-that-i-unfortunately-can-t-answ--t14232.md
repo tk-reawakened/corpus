@@ -12,9 +12,9 @@ written: "2002-06-05T25:16:00"
 last_post: "2002-06-05T27:43:00"
 date_confidence: "exact"
 captured: ["20020618214207", "20020620163929", "20020623113949"]
-author: "Kreativity Int@Aol.com"
+author: "Kreativity (redacted: email)"
 repliers: ["maverick", "jer1400"]
-authors: ["Kreativity Int@Aol.com", "maverick", "jer1400"]
+authors: ["Kreativity (redacted: email)", "maverick", "jer1400"]
 posts_present: 3
 pages_present: []
 pages_total: null
@@ -32,7 +32,7 @@ links: []
 
 # An array of common questions that I unfortunately can't answer.
 
-### Kreativity Int@Aol.com · 2002-06-05 25:16 · #A1001-14232
+### Kreativity (redacted: email) · 2002-06-05 25:16 · #A1001-14232
 
 I understand that many RPGToolkit users get these questions a lot and I unfortunately cannot find answers for some of my questions through the manual and through online sources. Unfortunately my manual is from a very old RPGToolkit version abd the help files of the latest version I have (2.20) is not working for whatever reasons. Anyhow, I know many of you have answered questions like these a million times so I do not expect an answer at all but any help is naturally appreciated. For background information before answering the questions I have the registered version of the RPGToolkit 2.20. It is on a Windows 98 (I know, it's old) computer and the requirements for the game to run are entirely met. I hope perhaps some of you can help me with my questions. Thank you for you time, and let the gaming continue!
 1.Is there anyway I can contact a RPGToolkit user called Jer1400?
@@ -54,16 +54,16 @@ I understand that many RPGToolkit users get these questions a lot and I unfortun
 #5 Yes you can click on the edit main file button again and click on the graphics button and click the radio button beside where it says disable parallexing. That should make the character move a bit better.
 #6 Very common question! Make your bitmap 608x480 pixels There is a boarder built into the Toolkit that makes images smaller than the resolution.
 #7 Whats happening is that the toolkit is still trying to call up the demo(see #4) if you create a new game and save it then delete the demo and close the TK then it should stop doing that.
-I hope this helps you out a bit If you have anymore question please feel free to email me at maverickman1981@hotmail.com or goto http://www.starflare.cjb.net/ and leave a post for mr in the forum.
+I hope this helps you out a bit If you have anymore question please feel free to email me at (redacted: email) or goto http://www.starflare.cjb.net/ and leave a post for mr in the forum.
 Maverick
-Email me Maverickman1981@hotmail.com Also My MSN
+Email me (redacted: email) Also My MSN
 
 ### jer1400 · 2002-06-05 27:43 · #A1001-14250
 
 **Since maverik's got the rest covered...**
 
 ...I'll tell you how you can contact me.
-1. jer1400@mysticsoftware.net *email*
+1. (redacted: email) *email*
 2. jer1400.proboards12.com *my forums*
 3. forums.mysticsoftware.net *send me a pm*
 4. Just post and I might see it.

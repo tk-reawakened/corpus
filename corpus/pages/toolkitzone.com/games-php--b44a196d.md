@@ -30,6 +30,6 @@ A young woman awakens in the untamed forest world of Kalahan, unsure of her orig
 **Illicit Soul**
 **truth**
 August 7 2005, 7:34 pm
-Perhaps I can help umliak@aol.com I like the whole spiritual feel, I have some ideas and maybe I can help with GFX not sure but I'd like to do something with my life
+Perhaps I can help (redacted: email) I like the whole spiritual feel, I have some ideas and maybe I can help with GFX not sure but I'd like to do something with my life
 No Replies
 [![View from the Balcony](games/phpThumb.php?src=../mygames/images/58/2060.jpg&w=175)](games.php?image=2060)

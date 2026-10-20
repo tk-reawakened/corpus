@@ -64,11 +64,11 @@ JUST GIVE IT TO ME PM
 ### Ross L. · 2004-12-14 21:15 · #B139616
 
 Boaz
-regulatorsweetcakes@verizon.net
+(redacted: email)
 If you spam my Inbox, prepare your emminent doom fool. Razz
 
 ### akura davis · 2004-12-15 14:06 · #B140094
 
 Can i still sign up? Good.
 Akura
-arkinsfantasy@gmail.com
+(redacted: email)

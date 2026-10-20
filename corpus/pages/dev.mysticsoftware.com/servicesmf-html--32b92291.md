@@ -141,4 +141,4 @@ Network Hardware
 [![](images/B_Programming.gif)
 ![](images/B_Databases.gif)[
 ![](images/B_NetworkingServices.gif)
-Sales@MysticSoftware.com
+(redacted: email)

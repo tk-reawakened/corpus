@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "August 7th, 2004"
-f_location: "Awesomeville and i'm mayor of it."
+f_location: "(redacted: location)"
 f_name: "Ryan"
 converter_version: "1"
 source_captures:

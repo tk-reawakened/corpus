@@ -29,13 +29,13 @@ sort by
 author date added title type
 Library > Community > A Weekly Word
 April 19 2005, 8:04 pm
-Cyrus Martin continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
+(redacted: name) continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
 Library > Community > A Weekly Word
 April 6 2005, 9:57 pm
 Ever wondered what it would be like to write a script, cast, direct, edit and release an actual motion picture? Cyrus discusses the beginnings of his debut film project.
 Library > Community > A Weekly Word
 March 31 2005, 8:35 am
-New weekly column from author and film maker Cyrus Martin, who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business.
+New weekly column from author and film maker (redacted: name), who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business.
 The library contains a wide range of articles, tutorials, interviews and columns on all manner of Toolkit and other subjects.
 **Single Keyword**
 **Search In**

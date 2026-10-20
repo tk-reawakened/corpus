@@ -14,7 +14,7 @@ authors: ["BlackPanther"]
 comments_present: 0
 f_interests: "Mating with lady panthers, skateboarding, basketball, programming, art, and video games."
 f_joined: "February 8, 2004"
-f_location: "The jungle. Post Count: 3751"
+f_location: "(redacted: location)"
 f_username: "BlackPanther"
 converter_version: "1"
 source_captures:

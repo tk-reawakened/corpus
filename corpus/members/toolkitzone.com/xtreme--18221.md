@@ -13,11 +13,10 @@ repliers: []
 authors: ["Xtreme"]
 comments_present: 0
 handle: "Xtreme"
-f_age: "10 - 15"
 f_interests: "weight lifting, girls , gaming and dare i say it learning"
 f_joined: "October 10th 2007"
 f_last_visit: "November 21st 2007"
-f_location: "in hells arcade"
+f_location: "(redacted: location)"
 f_name: "Ryan"
 f_occupation: "school boy"
 f_rank: "Member"

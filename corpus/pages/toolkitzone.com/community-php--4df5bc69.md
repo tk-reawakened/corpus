@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "December 13th, 2004"
-f_location: "Wisconsin"
-f_name: "Clay Schlegel"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_6041", captured: "20100101215412", sha256: "be65d9a5ff16530b73838a39afabe781515f4c3a8e8a54f5133ce756f7ea4c07", wayback_url: "https://web.archive.org/web/20100101215412/http://toolkitzone.com/community.php?blog=6041"}
@@ -32,7 +32,7 @@ Shinedown - "Fly from the Inside" There's a little event that occurs at the lake
 All i read was the tittle of this blog and instantly liked it. One of my favorite songs.
 About Bagel
 [![Bagel](forum/images/avatars/197574015647bb62fd9d5a9.png)](community.php?user=4798)
-Clay Schlegel
+(redacted: name)
 Wisconsin
 December 13th, 2004
 Site:

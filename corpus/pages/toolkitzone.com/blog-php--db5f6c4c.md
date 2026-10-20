@@ -14,7 +14,7 @@ authors: ["Brad"]
 comments_present: 0
 f_interests: "Games... Oh god games!"
 f_joined: "March 26, 2004"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_username: "Brad"
 converter_version: "1"
 source_captures:

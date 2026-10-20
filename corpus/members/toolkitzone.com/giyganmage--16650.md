@@ -13,7 +13,6 @@ repliers: []
 authors: ["GiyganMage"]
 comments_present: 0
 handle: "GiyganMage"
-f_age: "16 - 20"
 f_joined: "April 30th 2007"
 f_last_visit: "September 10th 2007"
 f_rank: "Member"

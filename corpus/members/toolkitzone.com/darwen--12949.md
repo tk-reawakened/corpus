@@ -13,12 +13,11 @@ repliers: []
 authors: ["Darwen"]
 comments_present: 0
 handle: "Darwen"
-f_age: "16 - 20"
 f_interests: "making RPG's, writing poems & books, making and mixing music, making weblayout, software development, pc dj-ing, music composition"
 f_joined: "July 12th 2006"
 f_last_visit: "March 21st 2007"
-f_location: "Blackhole of Europe"
-f_name: "Ciocan Paul Andrew"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "student"
 f_rank: "Member"
 f_rankings: "No rankings."

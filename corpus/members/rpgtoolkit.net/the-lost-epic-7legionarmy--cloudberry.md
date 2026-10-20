@@ -14,7 +14,7 @@ authors: ["The Lost Epic / 7LegionArmy"]
 comments_present: 0
 handle: "The Lost Epic / 7LegionArmy"
 f_country: "United States"
-f_name: "Nimbus Cloud"
+f_name: "(redacted: name)"
 f_username: "The Lost Epic / 7LegionArmy"
 converter_version: "1"
 source_captures:

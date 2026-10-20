@@ -77,7 +77,7 @@ mwincls()
 gotItem! = 1
 ```
 **Conclusion**
-words.so.leisured@gmail.com
+(redacted: email)
 John@aljo
 December 31, 2004, 7:55 pm
 hehe I remeber finding that out on my own when I was a noob bout 4 years ago. Interesting stuff you got there. Wish the tutorials would of been this good :P.

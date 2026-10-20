@@ -16,7 +16,7 @@ handle: "ivocoumans"
 f_interests: "Computer Games, Children of Bodom"
 f_joined: "January 9th 2005"
 f_last_visit: "December 9th 2006"
-f_location: "Netherlands"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "ivocoumans"
@@ -28,7 +28,7 @@ source_captures:
 # ivocoumans
 
 **MSN:**
-ivocoumans@hotmail.com
+(redacted: email)
 Posted on Wednesday 4.06pm, May 31st, 2006
 Really superb, cant wait for the release, the new system is gonna be great! [more![More](templates/default/images/icons/more.gif)](library.php?doc=41#c31874)
 Posted on Thursday 2.50pm, March 17th, 2005

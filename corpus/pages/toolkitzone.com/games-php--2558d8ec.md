@@ -38,4 +38,4 @@ November 19 2005, 3:24 pm
 you might want it to have abit more light
 November 21 2005, 3:22 pm
 It looks pretty good at night. Also, the image darkens on the internet.
-[![Cave 1 (room 2)](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)
+[![Cave 1 ((redacted: address))](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)

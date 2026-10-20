@@ -23,14 +23,14 @@ source_captures:
 
 Position
 Spyder
-spyder@mysticsoftware.net
+(redacted: email)
 Owner
 Matt72186
-matt72186@hotmail.com
+(redacted: email)
 Webmaster
 Michael J. Hill
-auron9854@prodigy.net
+(redacted: email)
 Forum Admin.
 Xorlak
-xorlak@mysticsoftware.net
+(redacted: email)
 Resources

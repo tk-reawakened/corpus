@@ -14,7 +14,7 @@ authors: ["Zap!"]
 comments_present: 0
 f_interests: "Software Dev / Game Design"
 f_joined: "March 6, 2005"
-f_location: "Kentucky Avatar By: Pearl"
+f_location: "(redacted: location)"
 f_username: "Zap!"
 converter_version: "1"
 source_captures:

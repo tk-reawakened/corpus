@@ -133,7 +133,7 @@ stop flammin tacofernandez
 
 ### Judas · 2005-03-12 17:36 · #B179537
 
-Aiel_Blade@hotmail.com
+(redacted: email)
 
 ### Minion · 2005-03-12 17:37 · #B179538
 
@@ -144,7 +144,7 @@ are you signed in?
 
 ### War Torn · 2005-03-15 03:19 · #B180706
 
-So, Send up to date files of the MMORPG in an email so I can get started sticking the sprites in. Smile Email Addy: phelpsjd@earthlink.net
+So, Send up to date files of the MMORPG in an email so I can get started sticking the sprites in. Smile Email Addy: (redacted: email)
 
 ### Minion · 2005-03-15 03:23 · #B180707
 

@@ -56,7 +56,7 @@ there still bugs in it there for it would still be a alpha
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---
@@ -93,7 +93,7 @@ need to work out the final bugs. If he thought there were no bugs then a beta wo
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---

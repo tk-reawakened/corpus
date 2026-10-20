@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "14"
 f_interests: "Obviously RPG Toolkit"
 f_name: "dreammakermaster"
 f_rank: "Overlord Administrator"
@@ -42,7 +41,7 @@ It contains the following the old version didnt have:
 -----------------------------------------------------------------------------------------------------------
 **Current Site Administrators:**
 Name: dreammakermaster
-Real Name: Anthony
+Real Name: (redacted: name)
 Age: 14
 Rank: Overlord Administrator
 Obviously RPG Toolkit
@@ -54,7 +53,7 @@ Typing Stories(formerly.)
 MSN Messenger
 ---------------------------------------------------------------------------------------------------------------
 Name: Vladeamir
-Real Name: Evan
+Real Name: (redacted: name)
 Age: 14
 Rank: Second in Command
 Obviously RPG Toolkit
@@ -64,7 +63,7 @@ New England Patriots
 Other Sports
 -------------------------------------------------------------------------------------------------------------------
 Name: The Man from Everywhere!
-Real Name: Jay
+Real Name: (redacted: name)
 Age: Unknown
 Rank: Third in Command
 SODA!!!!!!!!!!1111

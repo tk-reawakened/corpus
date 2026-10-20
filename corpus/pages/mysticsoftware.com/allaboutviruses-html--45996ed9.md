@@ -199,4 +199,4 @@ Unfortunately, the important files on the server are the data, and you haven't p
 The next thing you can do is run an anti-virus on the server. This can be scheduled to check the files on the server. The use of a server-based on access scanner provides a multi-layered defense against virus infection, checking files as they are passed to and from the workstations. In addition, users can be denied access to the server unless their workstation is protected.
 Some anti-virals provide on-demand scanning and a Scheduler, to check the system at pre-defined times. Some provide constant background protection, checking files and disks before they are accessed.
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

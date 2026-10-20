@@ -354,7 +354,7 @@ source_captures:
 *Buenos Aires, Argentina
 *You can send me messages on the RPG Toolkit Message board, or
 *via E-mail to
-*colotto@fibertel.com.ar
+*(redacted: email)
 *Thanks!
 *Matias Programming S.A.
 *Matias

@@ -218,7 +218,7 @@ Neat right. Right?
 
 ... Pues la verdad, no se... tal vez el hawaiano?? El hawaiano tiene nada mas 7 silabas, creo..
 - The truth, I don't know.. is it maybe Hawaiian? Hawaiian has only 7 syllables, I think.. -
-Msn: prilium@hotmail.com
+Msn: (redacted: email)
 Yahoo: aspartame7
 AIM: muesohjin
 >>>Yes, I draw my sprites with MSPaint with a Celeron at 560 MHz... and I do it well<<<
@@ -328,8 +328,8 @@ Gamemaster_268
 
 *Do you want to know what i'm working on? my secret project? Well... I can only tell you that I am replicating something. Thats all...*
 AIM: OpticalExplosion
-AOL: Mallow98027@aol.com
-MSN: Mallow98027@aol.com
+AOL: (redacted: email)
+MSN: (redacted: email)
 Boy Meets World...nazi enthusiast?
 Some may spectulate...
 **B**oy **M**eets **W**orld...

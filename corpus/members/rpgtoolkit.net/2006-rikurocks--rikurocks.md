@@ -13,7 +13,6 @@ repliers: []
 authors: ["2006 rikurocks"]
 comments_present: 0
 handle: "2006 rikurocks"
-f_age: "16-20"
 f_country: "United States"
 f_name: "David T"
 f_occupation: "Student"

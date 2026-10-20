@@ -13,11 +13,10 @@ repliers: []
 authors: ["riryoku"]
 comments_present: 0
 handle: "riryoku"
-f_age: "16 - 20"
 f_interests: "Games, Graphics, Guitar Playing"
 f_joined: "January 10th 2007"
 f_last_visit: "February 16th 2007"
-f_location: "Las Vegas"
+f_location: "(redacted: location)"
 f_name: "R. Mendez"
 f_occupation: "Student/Musician"
 f_rank: "Member"

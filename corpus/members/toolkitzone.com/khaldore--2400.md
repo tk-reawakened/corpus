@@ -16,7 +16,7 @@ handle: "khaldore"
 f_interests: "You're looking at them."
 f_joined: "May 21st 2004"
 f_last_visit: "March 23rd 2007"
-f_location: "Susquehanna, Pennsylvania"
+f_location: "(redacted: location)"
 f_occupation: "Dismantling old electronics for recycling"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/200460275341e6086359dff.jpg)
 **MSN:**
-mbaril79@yahoo.com
+(redacted: email)
 Recent Blog Entries
 Added on Thursday 9.43am, July 27th, 2006
 Yeah, it's been a *long* time since I've made any entries here, which kinda sucks. But, between my job and those other nasty things (like MMOs), I rarely have time to sit down and do anything constructive anymore. *sighs* Anyhow, all is not lost, as I still have the Toolkit and the community in min... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4636)

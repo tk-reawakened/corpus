@@ -13,11 +13,10 @@ repliers: []
 authors: ["Galenloke"]
 comments_present: 0
 handle: "Galenloke"
-f_age: "16 - 20"
 f_interests: "Living"
 f_joined: "June 8th 2008"
 f_last_visit: "October 11th 2009"
-f_location: "In space, gathering power!"
+f_location: "(redacted: location)"
 f_name: "James"
 f_occupation: "CIA oooh can't say that. Forget you read this. Now."
 f_rank: "Member"

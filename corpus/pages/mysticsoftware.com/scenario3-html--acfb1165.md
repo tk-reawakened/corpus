@@ -38,4 +38,4 @@ source_captures:
 > ** Custom tools = Greater Productivity = Increased Bottom Line
 >
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

@@ -44,7 +44,7 @@ links:
 This is a monster I made called earth eater that i colored in photoshop.
 [Earth Eater](http://www.websamba.com/Monaicorp/earth%20eater.jpg)
 This is a character I colored in photoshop for grant.
-[A character from a group game](ftp://Monaicorp:yJ7239@ftp13.websamba.com/Character1.TIF)
+[A character from a group game](ftp://Monaicorp:(redacted: email)/Character1.TIF)
 Progress shots*******************************
 [Test shot1](http://www.websamba.com/Monaicorp/Progress%20shot1.JPG)
 [Test shot2](http://www.websamba.com/Monaicorp/Progress%20shot2.JPG)
@@ -56,9 +56,9 @@ Mmcflamestar
 Eternal Flaivies
 YIM
 Mmcfirestar2001\Mmcflamestar
-E-mails-Mmcflamestar@aol.com
-Mmcflamestar@yahoo.com
-Mmcfirestar2001@yahoo.com
+(redacted: email)
+(redacted: email)
+(redacted: email)
 [![Free Web Counters](http://bar.freelogs.com/counter/index.php?u=montie&s=bauhaus)
 
 ### r043482 · 2003-10-02 29:25 · #A1000-522

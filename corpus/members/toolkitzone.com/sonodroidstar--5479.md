@@ -13,11 +13,10 @@ repliers: []
 authors: ["SonodroidStar"]
 comments_present: 0
 handle: "SonodroidStar"
-f_age: "10 - 15"
 f_interests: "True Christianity, games, music composition, programming."
 f_joined: "March 18th 2005"
 f_last_visit: "January 21st 2007"
-f_location: "The Sanctuary of Passion (My mind. In the US)"
+f_location: "(redacted: location)"
 f_name: "Prefered to be called CJ... even though those two letters aren't in my name."
 f_occupation: "Serving God (and school)"
 f_rank: "Member"

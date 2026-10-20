@@ -45,7 +45,7 @@ links:
 
 **Game's Website:** [Http://ailbt.tripod.com](http://ailbt.tripod.com)
 **Estimated Percent Completed:** 2%
-**E-mail and MSN Messenger:** arhal@msn.com
+**E-mail and MSN Messenger:** (redacted: email)
 [
 ![](http://users.domaindlx.com/Arhal/arhalinc55.jpeg)
 Arhal Incorporated

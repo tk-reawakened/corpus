@@ -13,7 +13,7 @@ repliers: []
 authors: ["Bagel"]
 comments_present: 0
 f_joined: "December 13, 2004"
-f_location: "Wisconsin"
+f_location: "(redacted: location)"
 f_username: "Bagel"
 converter_version: "1"
 source_captures:

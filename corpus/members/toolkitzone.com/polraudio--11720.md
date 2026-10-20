@@ -13,11 +13,10 @@ repliers: []
 authors: ["polraudio"]
 comments_present: 0
 handle: "polraudio"
-f_age: "16 - 20"
 f_interests: "Making games and playing them"
 f_joined: "May 14th 2006"
 f_last_visit: "February 20th 2007"
-f_location: "The Dream World"
+f_location: "(redacted: location)"
 f_name: "Luke"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +32,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-polraudio77@hotmail.com
+(redacted: email)
 Posted on Tuesday 10.45pm, February 20th, 2007
 I almost had to change my pants after looking at this. there is some things that you could fix like the walls in the left side are to plain and the floor looks to plain what you could do to fix this make it have stones. other than that great job don't think i could do better. (i have no art talent ... [more![More](templates/default/images/icons/more.gif)](games.php?image=8538#c34409)
 Posted on Tuesday 12.15am, February 13th, 2007

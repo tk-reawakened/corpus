@@ -74,7 +74,7 @@ Man...
 I think MMORPG stuff should be banned...
 <http://www.toolkitzone.com/forums/viewtopic.php?t=5821>
 _________________
-João Pedro |\__\_ - Phoenix Productions ----> joaofoscarini@gmail.com
+João Pedro |\__\_ - Phoenix Productions ----> (redacted: email)
 [![](http://www.mysticsoftware.net/images/tk_army.png)](http://www.cywh.com/ot/)
 [![](http://img.photobucket.com/albums/v491/Diddums/banner.png)](http://www.mr-diddums.tk)
 [![](http://www.mysticsoftware.net/images/mscomm_02.png)](http://www.mysticsoftware.net/)
@@ -98,7 +98,7 @@ and my drive C has 996MB but XP plus some stuff are using 897MB so that means 98
 I hate automatic download! it should be asked before where you want to save it...
 O well
 _________________
-João Pedro |\__\_ - Phoenix Productions ----> joaofoscarini@gmail.com
+João Pedro |\__\_ - Phoenix Productions ----> (redacted: email)
 [![](http://www.mysticsoftware.net/images/tk_army.png)](http://www.cywh.com/ot/)
 [![](http://img.photobucket.com/albums/v491/Diddums/banner.png)](http://www.mr-diddums.tk)
 [![](http://www.mysticsoftware.net/images/mscomm_02.png)](http://www.mysticsoftware.net/)

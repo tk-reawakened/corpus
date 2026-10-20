@@ -16,7 +16,7 @@ handle: "Whist"
 f_interests: "Fun things and some things that aren't fun, and in my spare time I like to go to the TK Evolution site.......TBD"
 f_joined: "May 12th 2004"
 f_last_visit: "February 18th 2007"
-f_location: "Ottawa,Ontario Post count: 810"
+f_location: "(redacted: location)"
 f_occupation: "Getting flamed."
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -32,7 +32,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-I_Smell_pickles@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Monday 4.11am, August 21st, 2006
 Computer seems to be working mostly fine now. I was still getting some CRC errors which were messing up some things because I hadn't completely removed the firewall that comes with my motherboard that was screwing things up. I just deleted the registries that started it (some website told me to..lol... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4722)

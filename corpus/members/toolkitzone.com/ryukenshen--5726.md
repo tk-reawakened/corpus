@@ -13,11 +13,10 @@ repliers: []
 authors: ["Ryukenshen"]
 comments_present: 0
 handle: "Ryukenshen"
-f_age: "10 - 15"
 f_interests: "...If only you knew..."
 f_joined: "April 5th 2005"
 f_last_visit: "January 21st 2007"
-f_location: "Emma Watson."
+f_location: "(redacted: location)"
 f_name: "James"
 f_occupation: "Occupation? Is that some sort of disease?"
 f_rank: "Member"
@@ -36,7 +35,7 @@ Male
 Total of 15 places and 38 users.
 **E-Mail:**
 **MSN:**
-ravelarrin@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (1)**
 My Awards
 Third Place

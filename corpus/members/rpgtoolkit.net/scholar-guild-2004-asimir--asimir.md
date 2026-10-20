@@ -13,7 +13,6 @@ repliers: []
 authors: ["Scholar Guild 2004 Asimir"]
 comments_present: 0
 handle: "Scholar Guild 2004 Asimir"
-f_age: "21-25"
 f_country: "United Kingdom"
 f_occupation: "Student"
 f_username: "Scholar Guild 2004 Asimir"

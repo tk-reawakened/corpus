@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Kraiger"
 f_joined: "February 8th 2010"
 f_last_visit: "February 10th 2010"
-f_location: "around somewhere"
+f_location: "(redacted: location)"
 f_name: "Kraiger"
 f_occupation: "student"
 f_rank: "Member"

@@ -27,6 +27,6 @@ source_captures:
 
 ![Avatar](forum/images/avatars/19751524544528af8eab586.gif)
 **MSN:**
-twelve_year_old_hunter@hotmail.com
+(redacted: email)
 Posted on Sunday 6.27am, July 13th, 2008
 ^o) I downloaded this and it isn't letting me test any of my games, or even the demo game. [more![More](templates/default/images/icons/more.gif)](library.php?doc=332#c46424)

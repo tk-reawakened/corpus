@@ -14,7 +14,7 @@ authors: []
 comments_present: 0
 f_interests: "Computers, music, acting"
 f_joined: "June 29, 2004"
-f_location: "Somewhere Sex:Yes Please.... Post Count:1840"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/blog.php__mode_view_view_user_user_3094", captured: "20051031040014", sha256: "9fd877633311d2293ed06f2323fe66da0a8efc21465f9c4eb458c66b410d946e", wayback_url: "https://web.archive.org/web/20051031040014/http://www.toolkitzone.com/blog.php?mode=view&view=user&user=3094"}

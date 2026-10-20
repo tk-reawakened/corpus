@@ -21,5 +21,5 @@ source_captures:
 # Download
 
 You can download and use this stuffs however you want. You can use them in your game and you can sell your game with it. But I would be very happy if you could write in the credits about this page. Thanks!
-- The things on this download section is not created by me. I put a space for you to upload some nice programs, tiles... Send the stuff to my mail: . And when my next update will appear. Then I put your stuff in this section. [Other](other.htm)bjorn_djdj@hotmail.com
+- The things on this download section is not created by me. I put a space for you to upload some nice programs, tiles... Send the stuff to my mail: . And when my next update will appear. Then I put your stuff in this section. [Other](other.htm)(redacted: email)
 Maybe it could me hard to understand some of the programs. If so, then ask me and I will do everything to help you. And if you know a nice program that you want in your game. But you don't know how to create it. Then just write it in my message board, and write your mail so I know ere to send it. And when I have some time over, then I will write the program for you. Thanks!

@@ -21,9 +21,9 @@ source_captures:
 
 Use this page to contact us for further information. **Contact Us**
 **Beautiful Bengals by Spencer**
-- 1338 Barclay Drive
+- (redacted: address)
 - Carrollton , TX 75007
 - Phone: 972 939 9731
 - Fax: 972 236 8457
-- E-Mail: enquires@spencerbengals.com
+- E-Mail: (redacted: email)
 ![image](images/cat3.gif)

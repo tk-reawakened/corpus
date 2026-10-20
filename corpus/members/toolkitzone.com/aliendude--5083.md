@@ -13,11 +13,10 @@ repliers: []
 authors: ["AlienDude"]
 comments_present: 0
 handle: "AlienDude"
-f_age: "21 - 25"
 f_interests: "Learning, foamfighitng, games, etc."
 f_joined: "January 28th 2005"
 f_last_visit: "February 7th 2007"
-f_location: "In your head"
+f_location: "(redacted: location)"
 f_occupation: "Frightener"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -38,7 +37,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-residentgrey@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Your Development Soundtrack](forum/viewtopic.php?p=368120#368120)
 Posted on Monday 2.37am, December 25th, 2006
 for fast times anything by elwood, and for slow times, basehead, also the vg and anime music i have. ff7 Dirge of Cerberus OST is a good pick. GWAR and DragonForce are also good choices!!! TROGDOR!!!!!!!!! [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=368120#368120)

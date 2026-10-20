@@ -16,7 +16,7 @@ handle: "Horizon"
 f_interests: "RPG's, fantasy (and fantasy RPG's ), castrating MarcTBD"
 f_joined: "January 28th 2004"
 f_last_visit: "September 21st 2006"
-f_location: "In the doghouse"
+f_location: "(redacted: location)"
 f_occupation: "Guard Dog"
 f_rank: "Member"
 f_username: "Horizon"
@@ -32,7 +32,7 @@ source_captures:
 Total of 16 places and 41 users.
 **ICQ:**
 **MSN:**
-siriah@passport.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (2)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/26.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=19)

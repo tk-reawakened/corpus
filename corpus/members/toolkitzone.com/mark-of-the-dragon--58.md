@@ -14,7 +14,7 @@ authors: ["Mark_of_the_Dragon"]
 comments_present: 0
 handle: "Mark_of_the_Dragon"
 f_joined: "January 28th, 2004"
-f_location: "Columbia, MD"
+f_location: "(redacted: location)"
 f_username: "Mark_of_the_Dragon"
 converter_version: "1"
 source_captures:

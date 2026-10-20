@@ -14,7 +14,7 @@ authors: ["TK Game Boy"]
 comments_present: 0
 f_interests: "lots of stuff"
 f_joined: "February 9, 2004"
-f_location: "Los Angeles"
+f_location: "(redacted: location)"
 f_username: "TK Game Boy"
 converter_version: "1"
 source_captures:

@@ -36,7 +36,7 @@ November 23 2004, 7:00 pm
 To open his new weekly column, Khin details how he began his life in art from his first comic about an intelligent, cape wearing monkey, something Asimir would surely appreciate, through to more modern work such as comic book series Hexrhoc, which now has three books completed out of a planned ten.
 Library > Creativity > Creative Writing
 November 22 2004, 9:58 am
-Cyrus Martin looks at the importance of pace and timing in the latest installment of his creative writing series.
+(redacted: name) looks at the importance of pace and timing in the latest installment of his creative writing series.
 Library > Creativity > Creative Writing
 November 22 2004, 9:56 am
 Session six, titled "Crafting Your Words", concentrates on aspects such as narrative tone and intellectual targeting.

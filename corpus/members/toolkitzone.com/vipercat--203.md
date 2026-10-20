@@ -27,7 +27,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/76666487443dc29f3539f4.jpg)
 **MSN:**
-GameElement@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 7.46pm, June 2nd, 2004
 Well for my first blog in a LONG time I would like to post a scene for my up and coming game,Mythological Chronicles(AKA Myth Chron) Nitrious:What are they Triven? Triven:They are Goldargs. Nitrious:Goldargs?! Triven:Yes.One of the strongest Mythos in the land.Whatever you do,do not touch the ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=487)

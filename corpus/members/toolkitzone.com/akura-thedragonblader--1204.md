@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Akura_TheDragonBlader"
 f_joined: "March 27th 2004"
 f_last_visit: "March 13th 2007"
-f_location: "I don't know, but there sure is a lot of fire and guys with pitchforks."
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Akura_TheDragonBlader"

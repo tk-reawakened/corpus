@@ -14,7 +14,7 @@ authors: ["nova11"]
 comments_present: 0
 f_interests: "Beverly Hills...That's where I wanna be."
 f_joined: "August 14, 2004"
-f_location: "Why you ask?"
+f_location: "(redacted: location)"
 f_username: "nova11"
 converter_version: "1"
 source_captures:

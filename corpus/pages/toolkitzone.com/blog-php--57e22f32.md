@@ -14,7 +14,7 @@ authors: ["p90m16mp5a4"]
 comments_present: 0
 f_interests: "Computer: Screens, mice, games."
 f_joined: "November 13, 2004"
-f_location: "The thrityth ring of hell, Apple HQ."
+f_location: "(redacted: location)"
 f_username: "p90m16mp5a4"
 converter_version: "1"
 source_captures:

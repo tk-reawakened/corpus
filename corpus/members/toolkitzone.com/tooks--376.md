@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Tooks"
 f_joined: "February 15th 2004"
 f_last_visit: "February 22nd 2007"
-f_location: "My house"
+f_location: "(redacted: location)"
 f_occupation: "Amatuer Artist, like Hamtaro!"
 f_rank: "Member"
 f_rankings: "No rankings."

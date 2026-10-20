@@ -16,7 +16,7 @@ handle: "Notsosuperhero"
 f_interests: "Skateboarding, Playin guitar, programming,"
 f_joined: "April 20th 2005"
 f_last_visit: "February 17th 2007"
-f_location: "Rand McNally"
+f_location: "(redacted: location)"
 f_occupation: "Hopeless Romantic"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-Notsosuperhero@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Favourite anti-war song](forum/viewtopic.php?p=380527#380527)
 Posted on Saturday 4.54am, February 17th, 2007
 Z wrote: Machine Gun - Band of Gypsies (A.k.a Jimi Hendrix after the Jimi Hendrix Experience) One of the most amazing songs ever recorded, war related or not. [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=380527#380527)

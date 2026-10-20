@@ -50,7 +50,7 @@ no, I don't have a signature
 **what is the -nt- for? -nt-**
 
 AIM: lither666
-MSN: lither666@yahoo.com
+MSN: (redacted: email)
 Yahoo: lither666
 I have a new server for my website please check it out you'll be amazed that it's free!!
 "Give a man a torch and he'll be warm for a day, light a man on fire and he'll be warm for the rest of his life" Mr. Wallace

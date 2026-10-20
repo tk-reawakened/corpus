@@ -47,7 +47,7 @@ links:
 
 ### Master Tamer · 2004-08-03 16:05 · #B69111
 
-Me and Word2(and I guess Dexter, but he seems be taking a long time. I think he's learning OpenGL .) are working on a game maker in VB 2005 express. If you wanna help, PM, AIM, or MSN(tame5x0@hotmail.com is MSN) or e-mail me (tamexplayer@yahoo.com). And will give you a copy of the source code Razz
+Me and Word2(and I guess Dexter, but he seems be taking a long time. I think he's learning OpenGL .) are working on a game maker in VB 2005 express. If you wanna help, PM, AIM, or MSN((redacted: email) is MSN) or e-mail me ((redacted: email)). And will give you a copy of the source code Razz
 _________________
 MMORPG creation
 [![](http://www.rpgadev.com/header1.jpg)](http://www.rpgadev.com)
@@ -121,7 +121,7 @@ VBScript is not Visual Basic.
 _________________
 .:: [Get Firefox!](http://www.mozilla.org/products/firefox/)::.
 .:: [Off-Topicness!](http://cywh.com/ot/)::.
-.::smc42190@gmail.com::.
+.::(redacted: email)::.
 [
 ![](http://www.mg.geahost.com/small_theproject.gif)
 ![](http://rpgtoolkithole.000k2.com/images/antianti.png)

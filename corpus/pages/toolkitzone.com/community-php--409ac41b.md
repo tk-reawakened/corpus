@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Somewhere over the rainbow"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_25", captured: "20070312091408", sha256: "f992f636fced70469281c5054dc3da1cfa44ebd7ff9fab262a1ff82dddd0dbc0", wayback_url: "https://web.archive.org/web/20070312091408/http://toolkitzone.com/community.php?blog=25"}

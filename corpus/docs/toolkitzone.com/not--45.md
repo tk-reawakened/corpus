@@ -14,7 +14,7 @@ authors: ["Cyrus"]
 comments_present: 0
 f_author: "Cyrus"
 f_date: "November 22, 2004, 9:54 am"
-f_description: "Cyrus Martin explains the importance of consistancy in your writing in the fourth article of the series."
+f_description: "(redacted: name) explains the importance of consistancy in your writing in the fourth article of the series."
 f_section: "Creativity > Creative Writing"
 f_title: "Session 4"
 converter_version: "1"
@@ -42,11 +42,11 @@ Continuity is the responsibility of the author. It is up to you to keep your sto
 How you write and what you write are up to you.
 These are but words of advice
 Thank you.
-**Cyrus Martin**
+**(redacted: name)**
 ** Author of Deceit and Conquest
 **
 Writer/Director of Dawn of Twilight
-Cyrus Martin explains the importance of consistancy in your writing in the fourth article of the series.
+(redacted: name) explains the importance of consistancy in your writing in the fourth article of the series.
 Nov 22, '04
 Nov 22, '04
 Nov 22, '04

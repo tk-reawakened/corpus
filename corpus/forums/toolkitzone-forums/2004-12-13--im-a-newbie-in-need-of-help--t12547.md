@@ -71,7 +71,7 @@ I'm a TK2 master and TK3 I'm O.K. at (not that good at tk3 though)
 ### Brad · 2004-12-18 15:33 · #B141573
 
 Sure! i'll help you with TK2!
-bradseguin@hotmail.com
+(redacted: email)
 Not TK3!
 Or PM me with questions.
 -I don't have Yahoo messengar or AOL.

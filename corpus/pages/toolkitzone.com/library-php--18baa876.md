@@ -33,7 +33,7 @@ May 6 2005, 9:06 am
 Taking the reigns of his role model, Mr. Whatamunchkins was blessed with an opportunity. His journey is getting more and more interesting as he continues his exploration to find MrG. And even though Cyrus will not air the all important footage, Mr. Whatamunchkins could not be any happier.
 Library > Community > A Weekly Word
 April 19 2005, 8:04 pm
-Cyrus Martin continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
+(redacted: name) continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
 Library > Community > Ranter's Dream
 April 18 2005, 7:18 pm
 Latest part of the community sstory from TKGB based on his own comic rants. Cyrus and |3lue make their entrances during this weeks tale.

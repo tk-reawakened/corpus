@@ -32,7 +32,7 @@ links: []
 
 ### guest 2 · 2004-12-10 00:14 · #B137168
 
-is their any one who would be interested in trying to make an online game? if so please email me at daght@gamerskey.net with a sample of your work and the name of the toolkit version you are working with
+is their any one who would be interested in trying to make an online game? if so please email me at (redacted: email) with a sample of your work and the name of the toolkit version you are working with
 right now what i think i will need are:
 1. programers
 2. tile makers

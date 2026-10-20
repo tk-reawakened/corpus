@@ -14,7 +14,7 @@ authors: ["ericzgao"]
 comments_present: 0
 f_interests: "Computer stuff, the violin, the piano."
 f_joined: "December 31, 2004"
-f_location: "My bedroom"
+f_location: "(redacted: location)"
 f_username: "ericzgao"
 converter_version: "1"
 source_captures:

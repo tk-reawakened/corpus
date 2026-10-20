@@ -14,7 +14,7 @@ authors: ["Gurgan Dellik"]
 comments_present: 0
 f_interests: "Running!!! It's my [insert explicit word here] life!"
 f_joined: "July 19, 2004"
-f_location: "Washington(State), USA"
+f_location: "(redacted: location)"
 f_username: "Gurgan Dellik"
 converter_version: "1"
 source_captures:

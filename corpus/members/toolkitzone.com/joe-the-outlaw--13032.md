@@ -13,12 +13,11 @@ repliers: []
 authors: ["Joe the Outlaw"]
 comments_present: 0
 handle: "Joe the Outlaw"
-f_age: "16 - 20"
 f_interests: "...."
 f_joined: "July 20th 2006"
 f_last_visit: "January 28th 2007"
-f_location: "New York"
-f_name: "Joe Adamczyk"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Joe the Outlaw"

@@ -16,7 +16,7 @@ handle: "Symphonia"
 f_interests: "Nothing"
 f_joined: "May 1st 2004"
 f_last_visit: "April 19th 2007"
-f_location: "hell"
+f_location: "(redacted: location)"
 f_occupation: "Lonely"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -32,7 +32,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/18528851284442a6f587290.png)
 **MSN:**
-meowy@hell.com
+(redacted: email)
 ![My Things](../templates/default/images/icons/forums/forum_mythings.gif) [Girl Archer](forum/viewtopic.php?p=363765#363765)
 Posted on Sunday 1.23am, December 3rd, 2006
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [My Dad's convinced our network is being hacked, lol](forum/viewtopic.php?p=362431#362431)

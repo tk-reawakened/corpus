@@ -14,7 +14,7 @@ authors: ["TKGB"]
 comments_present: 0
 f_interests: "I dunno, Stuff?"
 f_joined: "May 24, 2004"
-f_location: "Los Angeles"
+f_location: "(redacted: location)"
 f_username: "TKGB"
 converter_version: "1"
 source_captures:

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "venstor"
 f_joined: "April 19th 2004"
 f_last_visit: "May 24th 2006"
-f_location: "North American Continent"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_username: "venstor"
 converter_version: "1"

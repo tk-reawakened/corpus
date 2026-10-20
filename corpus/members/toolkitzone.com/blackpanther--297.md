@@ -13,12 +13,11 @@ repliers: []
 authors: ["BlackPanther"]
 comments_present: 0
 handle: "BlackPanther"
-f_age: "16 - 20"
 f_interests: "Mating with lady panthers, skateboarding, basketball, programming, art, and video games."
 f_joined: "February 8th 2004"
 f_last_visit: "February 28th 2007"
-f_location: "The jungle. Post Count: 3948"
-f_name: "Rashad Hill"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "The black panther"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -34,7 +33,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-rashad_hill@yahoo.com
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 7.22am, April 4th, 2006
 Man first I'll start off by sayin I miss you guys lol. I've been lurking more than bein active but freakin Ragnarok Online has taken my soul. When the new version of TK comes out I will be more active because that's what I've been waiting for this whole time. Shit a lot of probably don't know or rem... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4166)

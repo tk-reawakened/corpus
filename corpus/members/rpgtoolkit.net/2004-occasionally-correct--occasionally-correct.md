@@ -13,7 +13,6 @@ repliers: []
 authors: ["2004 Occasionally_Correct"]
 comments_present: 0
 handle: "2004 Occasionally_Correct"
-f_age: "21-25"
 f_country: "United States"
 f_name: "Sam"
 f_username: "2004 Occasionally_Correct"

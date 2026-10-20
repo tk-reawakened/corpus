@@ -14,7 +14,7 @@ authors: ["Marc"]
 comments_present: 0
 f_interests: "stuff"
 f_joined: "February 15, 2004"
-f_location: "Detroit, Michigan, USA, NorthAmerica"
+f_location: "(redacted: location)"
 f_username: "Marc"
 converter_version: "1"
 source_captures:

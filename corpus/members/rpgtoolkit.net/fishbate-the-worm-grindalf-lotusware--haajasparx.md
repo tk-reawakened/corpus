@@ -13,8 +13,7 @@ repliers: []
 authors: ["Fishbate the Worm / Grindalf & Lotusware"]
 comments_present: 0
 handle: "Fishbate the Worm / Grindalf & Lotusware"
-f_age: "21-25"
-f_author: "website by © 2011 additional icons by and phil carty"
+f_author: "website by © 2011 additional icons by and (redacted: name)"
 f_country: "United States"
 f_name: "HaajaSparx"
 f_username: "Fishbate the Worm / Grindalf & Lotusware"

@@ -27,6 +27,6 @@ source_captures:
 
 **ICQ:**
 **MSN:**
-phillipe_eminemfan@hotmail.com
+(redacted: email)
 Posted on Monday 2.56pm, April 10th, 2006
 i've seen the game and the concept simply blows me away. now i see you dont have much of a story..... i was wondering if you needed any help in that direction? i mean i can write custom stories. oh, and with custom stories i mean you tell me what you want, and i whip it up exactly the way you wa... [more![More](templates/default/images/icons/more.gif)](games.php?page=803#c27888)

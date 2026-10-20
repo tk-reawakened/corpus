@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-TKCyberWolf1@Hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Oi!](forum/viewtopic.php?p=273552#273552)
 Posted on Monday 8.54pm, November 21st, 2005
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Ho hum, ho hum, great fun, great fun.](forum/viewtopic.php?p=269520#269520)

@@ -13,12 +13,11 @@ repliers: []
 authors: ["TheMuse"]
 comments_present: 0
 handle: "TheMuse"
-f_age: "10 - 15"
 f_interests: "Gaming, films"
 f_joined: "February 15th 2007"
 f_last_visit: "March 18th 2007"
-f_location: "London, England"
-f_name: "David Huzzard"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "School"
 f_rank: "Member"
 f_rankings: "No rankings."

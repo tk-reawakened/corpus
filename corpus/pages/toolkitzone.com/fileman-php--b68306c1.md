@@ -19,5 +19,5 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 Image used in online version.

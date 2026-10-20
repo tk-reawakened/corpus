@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Rocco"
 f_joined: "February 2nd 2006"
 f_last_visit: "January 26th 2007"
-f_location: "Michigan, USA"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -29,7 +29,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/164935043345acea14dfa8b.png)
 **MSN:**
-forensixman@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 6.30am, January 3rd, 2007
 So after a rather full day I am feeling quite accomplished. First of all, I beat Trauma Center: Second Opinion today on my Wii. For those of your that have played it, that means the hard as hell "X" missions, which are FREAKING IMPOSSIBLE. Except I'm just amazing. Secondly, I pre-ordered "Phoe... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5084)

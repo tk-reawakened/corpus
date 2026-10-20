@@ -36,7 +36,7 @@ It's because its not very fast, but I might work something out to make it faster
 as I'm looking at the manual it looks like the fights have to be planned I want a zelda type game
 my character (turned it to 32,64 pixel)the top half is surounded by pink and each time i move it leave the image behind whatsup with that?
 [![TBD](thumb.php?src=forum/images/avatars/18383992414513cd3bcd1c4.png&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=65)
-Johansson_tk@hotmail.com Just ask for help. It is not planned, it can be realtime or turnbased
+(redacted: email) Just ask for help. It is not planned, it can be realtime or turnbased
 I tried to open the board that came with it but it said this has been made with tk 2.0.3 and it didn't work so I don't know what to do.
 [![TBD](thumb.php?src=forum/images/avatars/18383992414513cd3bcd1c4.png&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=65)
 The board? Thats wierd since I made it with tk3. It should work. well you can contact me on MSN, I provided above.

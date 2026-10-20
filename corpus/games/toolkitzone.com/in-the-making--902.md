@@ -53,5 +53,5 @@ March 8, 2005
 February 28 2005, 8:37 pm
 stuff about what the game is going to be like and what it will include.
 February 28 2005, 8:25 pm
-if you would like to join the authoritive anarchy inc. team and help us out with our current project, asgard Royal Knights, please contact me at skater_guy_dude@hotmail.com
+if you would like to join the authoritive anarchy inc. team and help us out with our current project, asgard Royal Knights, please contact me at (redacted: email)
 [![Gnome](games/phpThumb.php?src=../mygames/images/902/2700.jpg&w=175)](games.php?image=2700)

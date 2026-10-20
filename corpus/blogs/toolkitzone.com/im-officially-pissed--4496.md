@@ -14,7 +14,7 @@ authors: ["ddl2829"]
 comments_present: 0
 f_interests: "swimming, programming, making out with my gf"
 f_joined: "June 12, 2005"
-f_location: "Frankfort Kentucky (USA)"
+f_location: "(redacted: location)"
 f_username: "ddl2829"
 converter_version: "1"
 source_captures:

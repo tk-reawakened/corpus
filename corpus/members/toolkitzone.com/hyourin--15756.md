@@ -13,11 +13,10 @@ repliers: []
 authors: ["Hyourin"]
 comments_present: 0
 handle: "Hyourin"
-f_age: "16 - 20"
 f_interests: "gaming and animation"
 f_joined: "February 21st 2007"
 f_last_visit: "February 21st 2007"
-f_location: "Where I don't want to be."
+f_location: "(redacted: location)"
 f_name: "Travis"
 f_occupation: "Doing what I hate the most."
 f_rank: "Member"

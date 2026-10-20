@@ -13,7 +13,6 @@ repliers: []
 authors: ["2009 playsoon"]
 comments_present: 0
 handle: "2009 playsoon"
-f_age: "21-25"
 f_country: "United States"
 f_name: "Anthony"
 f_username: "2009 playsoon"

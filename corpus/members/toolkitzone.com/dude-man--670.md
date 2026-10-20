@@ -16,8 +16,8 @@ handle: "Dude Man"
 f_interests: "Stuff"
 f_joined: "February 28th 2004"
 f_last_visit: "January 30th 2007"
-f_location: "Canada"
-f_name: "Tim R."
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "None"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -36,7 +36,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-icewarrior68@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [ZOMG I figured something out!](forum/viewtopic.php?p=368710#368710)
 Posted on Thursday 11.41pm, December 28th, 2006
 Makes sense I guess. But I don't think it's THAT big of a deal. Yet I will keep that in mind. [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=368710#368710)

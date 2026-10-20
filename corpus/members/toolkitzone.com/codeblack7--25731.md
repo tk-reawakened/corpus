@@ -13,7 +13,6 @@ repliers: []
 authors: ["CodeBlack7"]
 comments_present: 0
 handle: "CodeBlack7"
-f_age: "10 - 15"
 f_interests: "internet, games (playing, and making, of course lol), guns, food"
 f_joined: "April 11th 2009"
 f_last_visit: "October 29th 2009"

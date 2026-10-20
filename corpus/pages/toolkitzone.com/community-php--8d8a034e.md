@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "April 29th, 2004"
-f_location: "Under the Mark"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_1356", captured: "20070323045605", sha256: "ee7a61b5d34b24d14d1cf5edc487dfb376d09b7d5c369939f6a670e13993e33c", wayback_url: "https://web.archive.org/web/20070323045605/http://toolkitzone.com/community.php?blog=1356"}

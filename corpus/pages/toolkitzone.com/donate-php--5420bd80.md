@@ -23,4 +23,4 @@ source_captures:
 **password**
 Support the site and make a donation!
 ToolkitZone.com is run by community members for community members, and is expanding at a fast rate. Help keep the site running smoothly and donate a small amount! If you're American - why not donate a couple of dollers? Or maybe if you hail from England, you can spare a pound or two? It's totally up to you!
-Thank you, Phil Carty (aka Vampz), ToolkitZone.com Webmaster.
+Thank you, (redacted: name) (aka Vampz), ToolkitZone.com Webmaster.

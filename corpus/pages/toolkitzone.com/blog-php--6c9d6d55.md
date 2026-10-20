@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 The New Zenon Character
 Posted by - Fri 02 July, 2004 5:43am [computerdude800](forums/profile.php?mode=viewprofile&u=73)
 I am creating orginal with this game, so I have started with the main character Zenon, unfoutuanly after about 3 days on different styles of sprites I have concluded that I suck at creating Sprites. So I have enlisted the help of Montai, I just PM'ed him and I am awaiting his response.....

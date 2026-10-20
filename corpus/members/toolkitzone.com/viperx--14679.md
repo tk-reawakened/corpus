@@ -13,7 +13,6 @@ repliers: []
 authors: ["ViperX"]
 comments_present: 0
 handle: "ViperX"
-f_age: "16 - 20"
 f_joined: "December 9th 2006"
 f_last_visit: "February 21st 2007"
 f_rank: "Member"

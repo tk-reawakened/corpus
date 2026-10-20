@@ -14,7 +14,7 @@ authors: ["Xavier"]
 comments_present: 0
 f_author: "Xavier"
 f_date: "July 26, 2005, 12:11 pm"
-f_description: "Think you could write an enjoyable tale in at least five paragraphs about a man, a horse and a magical item? Well then, flex your writing muscles in our short story contest, judged by community member and novelist Cyrus Martin."
+f_description: "Think you could write an enjoyable tale in at least five paragraphs about a man, a horse and a magical item? Well then, flex your writing muscles in our short story contest, judged by community member and novelist (redacted: name)."
 f_section: "Community"
 f_title: "Short Story Contest"
 converter_version: "1"
@@ -26,7 +26,7 @@ source_captures:
 
 Short Story Contest
 Summer 2005
-Role-Playing Games, more so than other game genres, revolve around good stories and without one, it's likely people will give up on your game after one or two plays. As a result a community such as ours has a large number of talented members who enjoy writing not just for their game projects but in general. In partnership with published novelist and community member Cyrus Martin, we are launching a short story competition for the community.
+Role-Playing Games, more so than other game genres, revolve around good stories and without one, it's likely people will give up on your game after one or two plays. As a result a community such as ours has a large number of talented members who enjoy writing not just for their game projects but in general. In partnership with published novelist and community member (redacted: name), we are launching a short story competition for the community.
 From the official start date of 26th July, 2005 you will have exactly two weeks to send us your short story of at least five paragraphs involving a horse, a man and a magic item of some description. At the end of the two weeks all submitted entries will be published for public voting and those with the most votes will be form a shortlist from which Cyrus will review each entry and pick a winner.
 Not only is this a great way to flex your writing muscles and get feedback from Cyrus himself, but the winner will receive the first ever TKZ Short Story trophy that will sit in their profile for all to see, have their story published on the frontpage and receive a few other small site goodies such as their stuff folder limit being raised to 10mb.
 Rules
@@ -38,7 +38,7 @@ Rules
 - It must be at least 5 paragraphs long.
 - No foul language.
 - No explicit sexual content.
-Send your short story to: shortstory@toolkitzone.com
+Send your short story to: (redacted: email)
 **Deadline: 9th August, 2005**
 Cyrus
 July 26, 2005, 1:39 pm
@@ -51,7 +51,7 @@ July 26, 2005, 2:41 pm
 What if two people wanted to co - write and submit the story? Would this be acceptable?
 Cyrus
 July 26, 2005, 3:05 pm
-to the first question... To enter the competition, write the story and then send it to this email address: shortstory@toolkitzone.com As for the second... I would rather not have people co-writing stories in this competition. That just sounds like a mess waiting to happen. Let's stick with 1 author per story. -Cy
+to the first question... To enter the competition, write the story and then send it to this email address: (redacted: email) As for the second... I would rather not have people co-writing stories in this competition. That just sounds like a mess waiting to happen. Let's stick with 1 author per story. -Cy
 Colin
 July 26, 2005, 4:16 pm
 There should be a maximum limit, not a minimum. It's harder to write short pieces than long ones, and now we have no clue what length you want. I personally find the final two rules quite infantile too, but I probably won't enter, so it's not a concern. :p
@@ -166,7 +166,7 @@ Ah good! I need today to finish my story, I'll have it in later :D
 Xavier
 August 10, 2005, 6:49 am
 Deadline passed. Watch the frontpage over coming days as we bit by bit release the stories for everyone to read and in a week or so a shortlist of 5 from the 20 entries will be voted for by the public.
-Think you could write an enjoyable tale in at least five paragraphs about a man, a horse and a magical item? Well then, flex your writing muscles in our short story contest, judged by community member and novelist Cyrus Martin.
+Think you could write an enjoyable tale in at least five paragraphs about a man, a horse and a magical item? Well then, flex your writing muscles in our short story contest, judged by community member and novelist (redacted: name).
 Dec 31, '04
 Dec 15, '05
 Sep 15, '05

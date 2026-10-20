@@ -92,10 +92,10 @@ Edit 1:*REPLY DELETED*
 > Bandwidth?
 > you still have the code?
 > I my friend said he would host my new php forum site on his server but i think this may be more important. I know hed understand.
-> his name:real name:Matt Goss
+> his name:real name:(redacted: name)
 > site: [www.0x41.com](http://www.0x41.com)
 > his username on his forum:syrrus
-> syrrus@0x41.com
+> (redacted: email)
 > tell him Steven Woods(Aka- Me, Hamsterbob) wants you to host the site.
 > hope i can help if you need me
 >

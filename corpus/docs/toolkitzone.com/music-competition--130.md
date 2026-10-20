@@ -27,7 +27,7 @@ source_captures:
 # Music Competition
 
 By Doc_Wellsy
-There's been a drop in the number of submissions to the sound resource section recently, so, in order to add at least one new and interesting music pack, I have organised a little competition for the more musical amongst you. The task is simple, you have to compose a midi track. At the end of the competition, all the entries will be compiled into a pack which will be uploaded to the music section for the community to use. There are naturally a few simple rules, these are as follows: Please e-mail your entries to: wellsyis@hotmail.com, you can discuss the competition .
+There's been a drop in the number of submissions to the sound resource section recently, so, in order to add at least one new and interesting music pack, I have organised a little competition for the more musical amongst you. The task is simple, you have to compose a midi track. At the end of the competition, all the entries will be compiled into a pack which will be uploaded to the music section for the community to use. There are naturally a few simple rules, these are as follows: Please e-mail your entries to: (redacted: email), you can discuss the competition .
 - You must create a music track for an RPG- this can be pretty much anything, from an opening title track, to battle music or menu music. The RPG doesnt have to be an existing one, or even one you are working on- just that type of music.
 - There is no minimum or maximum length of track, however I would advise something between 1 and 3 minutes.
 - There is no minimum or maximum number or instruments or tracks you can use, however, I would advise that you use more than one, and not too many

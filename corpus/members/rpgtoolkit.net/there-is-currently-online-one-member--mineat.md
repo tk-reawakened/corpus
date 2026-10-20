@@ -13,7 +13,6 @@ repliers: []
 authors: ["there is currently online one member"]
 comments_present: 0
 handle: "there is currently online one member"
-f_age: "26+"
 f_country: "United States"
 f_name: "Urie"
 f_username: "there is currently online one member"

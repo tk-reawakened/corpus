@@ -42,7 +42,7 @@ Just curious...
 
 **Yo :D -nt-**
 
-Msn: prilium@hotmail.com
+Msn: (redacted: email)
 Yahoo: aspartame7
 AIM: muesohjin
 >>>Yes, I draw my sprites with MSPaint with a Celeron at 560 MHz... and I do it well<<<

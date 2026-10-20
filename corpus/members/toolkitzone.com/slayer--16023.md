@@ -13,12 +13,11 @@ repliers: []
 authors: ["Slayer"]
 comments_present: 0
 handle: "Slayer"
-f_age: "16 - 20"
 f_interests: "Jesus, swordfighting, zelda, final Fantasy, airsoft wars, making games, programming, rpg's"
 f_joined: "March 12th 2007"
 f_last_visit: "March 21st 2007"
-f_location: "in finalfantasy somewhere"
-f_name: "Teh Phyre"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "whatever"
 f_rank: "Member"
 f_rankings: "No rankings."

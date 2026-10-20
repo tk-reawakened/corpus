@@ -33,7 +33,7 @@ Male
 **About Me:**
 I was really wanting to find a good decent program to make a game. But there was one teeny problem. I wanted a program for FREE. I searched and searched, nothin. That was, until on download.com i came across a program called RPGtoolkit 1.2. I read the notes, and someone had written there "THIS IS NOT UP TO DATE, GO TO TOOLKITZONE.COM FOR THE UP TO DATE VERSION" so i did, and i was amazed. A warm community of users, and a FREE game creation program! I was taken. I downloaded ang got to work. Now here i am. 1 year later and I am still lovin it! (BAH BAH BAH BAH BAH! I'm lovin' it!)
 **MSN:**
-Gamerdude12@bellsouth.net
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 2.36am, August 15th, 2006
 Who's Online: , , , , , , , , , , , [7LegionArmy](community.php?user=7614) [crashdandicoot](community.php?user=14881) [decker666](community.php?user=5071) [Gamerdude](community.php?user=13174) [Joe the Outlaw](community.php?user=13032) [Moo Of Doom](community.php?user=334) [Oyerth](community.php?user=37) [postmodern_boy](community.php?user=13359) [Sephy](community.php?user=4390) [The_Sleeping_Dragon](community.php?user=48) [valermos5](community.php?user=10533) [yaim0310](community.php?user=14246)

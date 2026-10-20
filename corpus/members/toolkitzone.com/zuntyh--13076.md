@@ -34,7 +34,7 @@ Male
 **About Me:**
 Not much to say ive been searching for a program to begin getting the feel of programming games to equip me for the future.
 **MSN:**
-j.sewell@hotmail.co.uk
+(redacted: email)
 Posted on Tuesday 1.16pm, October 24th, 2006
 one minute....so this update....it comes with 3.07 yeah? just the sound of upfdate makes it sound like you can download this rigyt now [more![More](templates/default/images/icons/more.gif)](library.php?doc=207#c32089)
 Posted on Tuesday 11.42pm, August 8th, 2006

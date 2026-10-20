@@ -21,4 +21,4 @@ source_captures:
 
 # | | | | Navigation
 
-AOL IM : matt72186 MSN IM : matt72186@hotmail.com Yahoo IM : matt72186 | | | **Contact**
+AOL IM : matt72186 MSN IM : (redacted: email) Yahoo IM : matt72186 | | | **Contact**

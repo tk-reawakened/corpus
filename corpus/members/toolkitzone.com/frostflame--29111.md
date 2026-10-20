@@ -13,11 +13,10 @@ repliers: []
 authors: ["FrostFlame"]
 comments_present: 0
 handle: "FrostFlame"
-f_age: "16 - 20"
 f_interests: "Video Games, Programming, Winter"
 f_joined: "June 10th 2010"
 f_last_visit: "June 20th 2010"
-f_location: "Fort Wayne, Indiana"
+f_location: "(redacted: location)"
 f_name: "Justin"
 f_rank: "Member"
 f_rankings: "No rankings."

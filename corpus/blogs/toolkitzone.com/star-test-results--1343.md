@@ -14,7 +14,7 @@ authors: ["Dont_Think_So"]
 comments_present: 0
 f_interests: "Programming, Robotics"
 f_joined: "January 28, 2004"
-f_location: "California Gender:Male"
+f_location: "(redacted: location)"
 f_username: "Dont_Think_So"
 converter_version: "1"
 source_captures:

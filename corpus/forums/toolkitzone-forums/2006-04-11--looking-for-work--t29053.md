@@ -33,11 +33,11 @@ links: []
 ### MrB · 2006-04-11 23:19 · #B312720
 
 I'm back! ... for about two minutes.
-Last month I swore to myself that I'd never make a game by myself again, and so it looks like I'm going to need some people to work with. If you're looking for help with your game or want to start something brand new with me, send me an email at bforbes@tennessee.edu.
+Last month I swore to myself that I'd never make a game by myself again, and so it looks like I'm going to need some people to work with. If you're looking for help with your game or want to start something brand new with me, send me an email at (redacted: email).
 I'll either do pixeling or programming. Whichever I do, I want to do it all. So if I'm doing the art, I'm doing it all. If you need a battle system, I'm coding a menu system and shop system too. And you're gonna use it... and like it! Wink
 If you wanna start a new project, I don't care to be the leader, in fact I'd rather not. Though there does need to be a project leader, especially if it's more than just me and whoever the hell you are. No more than a trio though, that's just ugly.
 I'm not here to waste time, and I mean business. I want to make something worth playing, and I want to get it done fast and efficiently. I want realistic goals. The second you mention triple-digit boards or twenty hour storylines, I'm out. It's all about having fun, but the fun comes by working hard and getting results. Most people around here are still dreaming and have their heads stuck in the clouds - that's not what I'm looking for. I want someone who's been knocked down before and gotten back up.
-Email me at bforbes@tennessee.edu if you're interested, and I'll get back to you if I'm interested too.
+Email me at (redacted: email) if you're interested, and I'll get back to you if I'm interested too.
 Do not reply here if you're interested. I don't plan to revisit this topic.
 And Goon is coming. Oy's plugin is being a bitch. Razz
 

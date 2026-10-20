@@ -13,11 +13,10 @@ repliers: []
 authors: ["kainismine"]
 comments_present: 0
 handle: "kainismine"
-f_age: "10 - 15"
 f_interests: "Music, Friends, and Games."
 f_joined: "January 10th 2007"
 f_last_visit: "January 22nd 2007"
-f_location: "Vermont"
+f_location: "(redacted: location)"
 f_name: "Josh"
 f_occupation: "UM school makeing video games i guess."
 f_rank: "Member"

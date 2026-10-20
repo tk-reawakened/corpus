@@ -34,7 +34,7 @@ links: []
 
 ### Chocobo · 2005-04-03 19:32 · #B189856
 
-How do i create a video game.Send help to quick_blade@hotmail.com
+How do i create a video game.Send help to (redacted: email)
 Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad Crying or Very sad
 
 ### RDemusX · 2005-04-03 20:12 · #B189890

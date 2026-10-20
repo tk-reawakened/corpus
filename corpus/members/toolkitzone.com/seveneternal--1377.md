@@ -32,7 +32,7 @@ Total of 15 places and 38 users.
 **AIM:**
 **YIM:**
 **MSN:**
-seveneternal@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (3)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/41.gif&iar=1&aoe=1&bw=1&h=80)](../community.php?award=42)

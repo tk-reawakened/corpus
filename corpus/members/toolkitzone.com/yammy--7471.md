@@ -13,12 +13,11 @@ repliers: []
 authors: ["Yammy"]
 comments_present: 0
 handle: "Yammy"
-f_age: "16 - 20"
 f_interests: "I'm interested in my interests"
 f_joined: "August 7th 2005"
 f_last_visit: "February 11th 2007"
-f_location: "I'm located at my location"
-f_name: "Wallace Venderauf"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "I'm occupied with my occupation"
 f_rank: "Member"
 f_rankings: "No rankings."

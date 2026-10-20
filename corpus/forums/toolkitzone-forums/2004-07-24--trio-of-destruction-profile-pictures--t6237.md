@@ -343,7 +343,7 @@ Signature could not be displayed
 
 ### Ross L. · 2004-08-07 10:01 · #B71270
 
-All right I'll get to it sometime. I just got done with my rough sketching of Gnarf's profile. I borrowed the design for his armor from [here.](http://parn.hidoshi.com/misc/Paladin@20Artifact.jpeg) It will look similar but it will not be a paste a new face over the current one and call it mine. I am going to freehand the armor and then do some customizing. But that is the general feel of his armor.
+All right I'll get to it sometime. I just got done with my rough sketching of Gnarf's profile. I borrowed the design for his armor from [here.](http://parn.hidoshi.com/misc/(redacted: email)) It will look similar but it will not be a paste a new face over the current one and call it mine. I am going to freehand the armor and then do some customizing. But that is the general feel of his armor.
 _________________
 ロス レランド Ross Leland
 -------------------------------------------------
@@ -419,7 +419,7 @@ Mwahahah... no one can beat the spiky hair...
 I like it. Interesting shoes too...
 _________________
 http://www.toolkitzone.com/mygames/images/121/893.jpg <http://img17.exs.cx/img17/3476/Drink7E.jpg>
-:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.seveneternal@gmail.com.:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
+:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.(redacted: email).:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
 
 > [!missing] gap:106-120 · http://toolkitzone.com/forums/viewtopic.php?t=6237&start=105 · never-captured
 > Page 8 of 11 was not recovered.

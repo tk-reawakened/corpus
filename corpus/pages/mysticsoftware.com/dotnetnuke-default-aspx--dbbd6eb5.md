@@ -28,7 +28,7 @@ Welcome to DotNetNuke...
 **Host Login:**
 **Open Source License:**
 <http://www.dotnetnuke.com>
-sales@perpetualmotion.ca
+(redacted: email)
 <http://www.perpetualmotion.ca>
 Sponsors
 [![Perpetual Motion Interactive Systems Inc.](/DotNetNuke/Portals/0/PerpetualMotion.gif)](http://www.perpetualmotion.ca)

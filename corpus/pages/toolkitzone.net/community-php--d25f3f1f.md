@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Computer Software"
 f_joined: "December 11th 2006"
 f_last_visit: "April 1st 2008"
@@ -35,7 +34,6 @@ Student
 Computer Software
 **AIM:**
 **YIM:**
-furyx639@hotmail.com
 Posted on Monday 7.55am, February 25th, 2008
 Nice tutorial, covers a lot of basic mistakes in code posted in Newbie Haven or RPG Code. I'm adding this to my signature, maybe I'll get less private messages now... [more![More](templates/default/images/icons/more.gif)](library.php?doc=328#c44063)
 Posted on Wednesday 8.06pm, February 20th, 2008

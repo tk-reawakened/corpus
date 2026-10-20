@@ -14,7 +14,7 @@ authors: ["machsprinter"]
 comments_present: 0
 f_interests: "computer games, videogames, running, and drawing"
 f_joined: "July 5, 2004"
-f_location: "Western New York"
+f_location: "(redacted: location)"
 f_username: "machsprinter"
 converter_version: "1"
 source_captures:

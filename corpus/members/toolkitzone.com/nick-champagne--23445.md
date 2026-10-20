@@ -13,11 +13,10 @@ repliers: []
 authors: ["Nick-Champagne"]
 comments_present: 0
 handle: "Nick-Champagne"
-f_age: "16 - 20"
 f_interests: "Games, Music, TV, Friends"
 f_joined: "October 29th 2008"
 f_last_visit: "December 19th 2008"
-f_location: "Memphis, TN"
+f_location: "(redacted: location)"
 f_name: "Nick Champagne"
 f_occupation: "Student"
 f_rank: "Member"

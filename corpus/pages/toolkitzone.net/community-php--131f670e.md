@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Interesting stuff"
 f_joined: "October 16th 2006"
 f_last_visit: "September 21st 2010"
-f_location: "In space, gathering power"
+f_location: "(redacted: location)"
 f_name: "Yo'el"
 f_occupation: "Biting off more than I can chew"
 f_rank: "Member"

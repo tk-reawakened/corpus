@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 17th, 2004"
-f_location: "USA, MO, Near STLTBD"
-f_name: "Lewis N. Reed"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5732", captured: "20100102003947", sha256: "159f5da3b29d88413d8ecc1680109f4f9ae34300e55f43104677015637d7d29f", wayback_url: "https://web.archive.org/web/20100102003947/http://toolkitzone.com/community.php?blog=5732"}
@@ -44,7 +44,7 @@ Yeah I really need to get contacts again... like Talyn, contacts made a giant di
 TBD
 About zzz
 [![zzz](forum/images/avatars/28573802249a527d07d547.jpg)](community.php?user=428)
-Lewis N. Reed
+(redacted: name)
 USA, MO, Near STLTBD
 February 17th, 2004
 Site:

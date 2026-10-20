@@ -22,7 +22,7 @@ source_captures:
 # Joe Somebody Gender: Male Age: 25 Hair: Brown Eyes: Blue Race: Caucasian Height: 5'7" Weight: 130 lbs. Class: Thief
 
 **password**
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 Or, How to make believable characters. **Characters and You**
 By Brenton Dinsmore AKA Walker-san
 **Table of Contents**

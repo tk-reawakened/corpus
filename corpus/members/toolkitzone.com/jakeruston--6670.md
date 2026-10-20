@@ -16,7 +16,7 @@ handle: "jakeruston"
 f_interests: "Football And Computer Games"
 f_joined: "June 12th 2005"
 f_last_visit: "June 26th 2006"
-f_location: "Rotherham"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 # jakeruston
 
 **MSN:**
-jakeruston@hotmail.co.uk
+(redacted: email)
 ![RPG Toolkit](../templates/default/images/icons/forums/forum_toolkit.gif) [Multiplayer Online](forum/viewtopic.php?p=255896#255896)
 Posted on Saturday 9.50am, September 10th, 2005
 Is there anyway of making a Multiplayer Online game with toolkitzone because i really want to make a multiplayer online game? [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=255896#255896)

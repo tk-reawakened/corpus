@@ -13,11 +13,10 @@ repliers: []
 authors: ["datwonguy"]
 comments_present: 0
 handle: "datwonguy"
-f_age: "16 - 20"
 f_interests: "stuffs"
 f_joined: "October 25th 2009"
 f_last_visit: "November 15th 2009"
-f_location: "Somewhere"
+f_location: "(redacted: location)"
 f_name: "Greg"
 f_occupation: "Student/Musician/Lazy bum"
 f_rank: "Member"

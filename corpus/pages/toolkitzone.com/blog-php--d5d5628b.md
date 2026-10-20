@@ -13,7 +13,7 @@ repliers: []
 authors: ["G_Dragon"]
 comments_present: 0
 f_joined: "May 9, 2004"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_username: "G_Dragon"
 converter_version: "1"
 source_captures:

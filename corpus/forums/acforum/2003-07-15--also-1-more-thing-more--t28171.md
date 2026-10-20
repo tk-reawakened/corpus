@@ -53,7 +53,7 @@ stuff
 }
 you just have an arrow that you use the arrow keys to move around? thanks
 Hey would anyone wana help me make an online game? It's gonna be like Graal was but better and have a good server but i need help with online coding and things... HELP!
-URGENT! I am currently looking for someone to help with art, to put my game online, and to make website. If you are interested with helping e-mail me at danwr91@aol.com
+URGENT! I am currently looking for someone to help with art, to put my game online, and to make website. If you are interested with helping e-mail me at (redacted: email)
 Thank you and have a nice day!
 
 ### noadi · 2003-07-15 21:56 · #A1000-28176

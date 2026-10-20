@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "21 - 25"
 f_interests: "Drumming, Songwriting, Gaming, Drawing, Lovemaking, Writing, telling people my password in IRC"
 f_joined: "January 28th 2004"
 f_last_visit: "April 1st 2008"
-f_location: "Edge of Nowhere"
-f_name: "Justin Radford"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Sales Floor, Target"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +29,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/184682840247f2bfb1c8f4a.gif)
 January 28th 2004
-Justin Radford
+(redacted: name)
 Edge of Nowhere
 Sales Floor, Target
 Drumming, Songwriting, Gaming, Drawing, Lovemaking, Writing, telling people my password in IRC

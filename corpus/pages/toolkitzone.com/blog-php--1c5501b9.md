@@ -14,7 +14,7 @@ authors: ["William"]
 comments_present: 0
 f_interests: "RPG Games and coding."
 f_joined: "January 28, 2004"
-f_location: "Sweden"
+f_location: "(redacted: location)"
 f_username: "William"
 converter_version: "1"
 source_captures:

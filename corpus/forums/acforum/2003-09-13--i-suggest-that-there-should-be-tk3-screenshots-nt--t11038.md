@@ -74,4 +74,4 @@ They'll most likely be up when the stable version comes out because it's still g
 
 [![](http://gra.midco.net/johnk/graphics_tk/tkgamer3.jpg)](http://tkgamer.vagrantsoftware.com)
 [![](http://gra.midco.net/johnk/graphics_vs/logo2.png)](http://www.vagrantsoftware.com)
-Contact me on **MSN: kosker@hotmail.com** or **AIM: mastervagrant**
+Contact me on **MSN: (redacted: email)** or **AIM: mastervagrant**

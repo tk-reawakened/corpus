@@ -13,11 +13,10 @@ repliers: []
 authors: ["subliminalman"]
 comments_present: 0
 handle: "subliminalman"
-f_age: "16 - 20"
 f_interests: "Programming, Gaming, Movies, Books, Drawing, Writing, Go"
 f_joined: "June 8th 2006"
 f_last_visit: "January 7th 2007"
-f_location: "Burque"
+f_location: "(redacted: location)"
 f_name: "Ryan \"Subliminalman\""
 f_occupation: "Student and Indie Game Dev"
 f_rank: "Member"

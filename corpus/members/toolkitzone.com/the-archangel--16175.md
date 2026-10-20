@@ -13,11 +13,10 @@ repliers: []
 authors: ["The_Archangel"]
 comments_present: 0
 handle: "The_Archangel"
-f_age: "16 - 20"
 f_interests: "creating video games \" i hope to some day be able to go to a college for it\""
 f_joined: "March 23rd 2007"
 f_last_visit: "March 29th 2007"
-f_location: "Fresno, California"
+f_location: "(redacted: location)"
 f_name: "Jessi"
 f_occupation: "destruction and chaos"
 f_rank: "Member"

@@ -36,4 +36,4 @@ links: []
 
 ### kramer · 2003-07-31 10:30 · #A990-2985
 
-You said to leave your e-mail if i wanted to get that stuff from you so here it is........yoshi@futbol.zzn.com
+You said to leave your e-mail if i wanted to get that stuff from you so here it (redacted: email)

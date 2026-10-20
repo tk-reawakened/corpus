@@ -13,10 +13,9 @@ repliers: []
 authors: ["WhosFluffin"]
 comments_present: 0
 handle: "WhosFluffin"
-f_age: "16 - 20"
 f_joined: "December 6th 2008"
 f_last_visit: "December 19th 2008"
-f_location: "Ontario, Canada"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "WhosFluffin"

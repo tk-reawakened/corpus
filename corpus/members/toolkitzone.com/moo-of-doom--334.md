@@ -16,7 +16,7 @@ handle: "Moo Of Doom"
 f_interests: "Gaming, drawing, programming, among other things..."
 f_joined: "February 14th 2004"
 f_last_visit: "March 22nd 2007"
-f_location: "California"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_username: "Moo Of Doom"
@@ -37,7 +37,7 @@ Total of 16 places and 47 users.
 **AIM:**
 **YIM:**
 **MSN:**
-mooofdoom@hotmail.com
+(redacted: email)
 ![Coding](../templates/default/images/icons/forums/forum_coding.gif) [More efficient way?](forum/viewtopic.php?p=386682#386682)
 Posted on Friday 3.05am, March 23rd, 2007
 The idea behind that would be pretty much the same. Instead of character$ = wait(), just have the player select the character and press enter. Instead of waiting for an enter key press to end the loop, simply wait for the user to select end. Backspace can be handled with but you have to do a l... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=386682#386682)

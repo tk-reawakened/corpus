@@ -14,7 +14,7 @@ authors: ["DarkMoon"]
 comments_present: 0
 f_interests: "Obviously videogames..."
 f_joined: "July 24, 2005"
-f_location: "The corner of here and there..."
+f_location: "(redacted: location)"
 f_username: "DarkMoon"
 converter_version: "1"
 source_captures:

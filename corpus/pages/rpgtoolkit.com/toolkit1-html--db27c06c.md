@@ -39,4 +39,4 @@ Here are some old shots of version 1...
 ![](images/rpgfight.png)
 ![](images/rpgboard_ver1.png)
 ![](images/screen2.png)
-cbm@cs.dal.ca
+(redacted: email)

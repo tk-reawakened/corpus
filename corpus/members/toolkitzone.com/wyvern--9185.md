@@ -13,12 +13,11 @@ repliers: []
 authors: ["Wyvern"]
 comments_present: 0
 handle: "Wyvern"
-f_age: "16 - 20"
 f_interests: "Video Games, Writing, Drawing, Reading, and of course TK"
 f_joined: "November 28th 2005"
 f_last_visit: "February 11th 2007"
-f_location: "USA - Iowa"
-f_name: "Joe S."
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -36,7 +35,7 @@ Male
 **About Me:**
 I've been using Toolkit for a while now, so I'm not really a noob. I know how to do stuff, and I'm working on a game. But I am in no way a master of artwork, music, or programming systems. I'm good at writing plotlines and stories, and pretty good with programming most anything (except battle and menu systems), and I'm pretty good with computers. The Toolkit is just about my level for game designing...prolly the best thing that ever happened to me on the PC.TBD
 **MSN:**
-vikingscap@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Sunday 6.54pm, February 4th, 2007
 My family's getting a new computer soon, which is a very good thing for me. My mom's a typist, and she works on here all the time, so I barely have any time during the week to surf the web, work on my game, etc. Now that we're getting a new computer, we can move this one downstairs, so I'll be on ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5166)

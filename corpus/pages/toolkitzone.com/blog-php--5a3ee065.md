@@ -13,7 +13,7 @@ repliers: []
 authors: ["icalledfrog"]
 comments_present: 0
 f_joined: "November 26, 2005"
-f_location: "Somewhere in CA..."
+f_location: "(redacted: location)"
 f_username: "icalledfrog"
 converter_version: "1"
 source_captures:

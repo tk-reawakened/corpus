@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "December 13th, 2004"
-f_location: "Wisconsin"
-f_name: "Clay Schlegel"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_6006", captured: "20100101215430", sha256: "f366149d3a419a45095a9811518313c647a1aaca6987d1630635b721501d7780", wayback_url: "https://web.archive.org/web/20100101215430/http://toolkitzone.com/community.php?blog=6006"}
@@ -40,7 +40,7 @@ TBD
 Rugby was the only sport I enjoyed playing in schoolTBD
 About Bagel
 [![Bagel](forum/images/avatars/197574015647bb62fd9d5a9.png)](community.php?user=4798)
-Clay Schlegel
+(redacted: name)
 Wisconsin
 December 13th, 2004
 Site:

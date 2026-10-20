@@ -16,7 +16,7 @@ handle: "ashe"
 f_interests: "Programming, Games, Computers"
 f_joined: "February 20th 2004"
 f_last_visit: "December 6th 2006"
-f_location: "Philippines"
+f_location: "(redacted: location)"
 f_occupation: "Computer Engineer"
 f_rank: "Member"
 f_username: "ashe"
@@ -34,7 +34,7 @@ Total of 16 places and 47 users.
 **AIM:**
 **YIM:**
 **MSN:**
-pisoftco@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (6)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/9.jpg&iar=1&aoe=1&bw=1&h=80)](../community.php?award=8)

@@ -13,11 +13,10 @@ repliers: []
 authors: ["Colosseus"]
 comments_present: 0
 handle: "Colosseus"
-f_age: "16 - 20"
 f_interests: "Programming, gaming, football (soccer), arts & drawing, music and design"
 f_joined: "March 2nd 2004"
 f_last_visit: "February 19th 2007"
-f_location: "Norway"
+f_location: "(redacted: location)"
 f_occupation: "High School"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +32,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-wedvich@gmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Sunday 4.19pm, August 29th, 2004
 I went out and bought D-12 World yesterday, and it's simply fantastic. Especially Good Die Young. It really makes me think about what it would be like to lose someone you really love. I can't even imagine how it would feel if my baby Rebecca (my GF, not my daughter) had died. I'd seriously kill myse... [more![More](templates/default/images/icons/more.gif)](community.php?blog=1155)

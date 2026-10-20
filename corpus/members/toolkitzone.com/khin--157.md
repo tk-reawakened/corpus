@@ -13,12 +13,11 @@ repliers: []
 authors: ["Khin"]
 comments_present: 0
 handle: "Khin"
-f_age: "21 - 25"
 f_interests: "Programming, Basketball, Art, Games, Tennis"
 f_joined: "January 28th 2004"
 f_last_visit: "January 18th 2007"
-f_location: "Philippines"
-f_name: "Lorie-Jay Gutierrez"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Computer Engineer/ Software Developer"
 f_rank: "Member"
 f_username: "Khin"
@@ -40,7 +39,7 @@ Total of 15 places and 38 users.
 **AIM:**
 **YIM:**
 **MSN:**
-piartsco@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (6)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/9.jpg&iar=1&aoe=1&bw=1&h=80)](../community.php?award=8)

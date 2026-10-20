@@ -13,8 +13,7 @@ repliers: []
 authors: ["there are currently online two members"]
 comments_present: 0
 handle: "there are currently online two members"
-f_age: "16-20"
-f_name: "Geare Lansouile"
+f_name: "(redacted: name)"
 f_username: "there are currently online two members"
 converter_version: "1"
 source_captures:

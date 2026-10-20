@@ -14,7 +14,7 @@ authors: ["spoopryme"]
 comments_present: 0
 f_interests: "game creation, cats, theoretical physics, spicy chips"
 f_joined: "March 5, 2004"
-f_location: "the dark side of the moon"
+f_location: "(redacted: location)"
 f_username: "spoopryme"
 converter_version: "1"
 source_captures:

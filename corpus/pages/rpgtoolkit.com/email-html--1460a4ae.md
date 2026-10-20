@@ -41,4 +41,4 @@ You're probably here because you want to (Chris Matthews), the creator of the RP
 *I don't know. It will be done when it's done :)*
 - **Can you write a program for me that does XXXX?**
 *Sorry, no. The Toolkit, University (and probably Immerse) take up too much of my time. I can't work on other side projects as well.*
-cbm@cs.dal.ca
+(redacted: email)

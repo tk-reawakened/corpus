@@ -23,7 +23,7 @@ source_captures:
 [![Click here!](http://adfarm.mediaplex.com/ad/bn/711-600-1123-1?44941)](http://click.go2net.com/adclick?cid=0002cb1f0f5e301400000000&area=DIR.ISPTOOLS&site=VA&shape=banner&pass_random=44941)
 Home of the RPG Toolkit Development System for the Creation and Play of your own RPG Games
 **RPG Toolkit Demos**
-If you would like to have your game placed in this list or hosted on my site, email me atcbm@cs.dal.ca
+If you would like to have your game placed in this list or hosted on my site, email me (redacted: email)
 ***File***
 ***Description/Size***
 Deceit and Conquest, Chapter 1 (62 MB)
@@ -57,7 +57,7 @@ Phenominal Demo
 Delta Comix
 [pb062.zip](www.generalchaos.f2s.com/files/pb062.zip)
 Platinum Blade
-Geoff Wilson
+(redacted: name)
 [godiva.exe](http://godiva.hypermart.net/games/Godiva.exe)
 Godiva: Alpha (approx 11 MB)
 Spyder

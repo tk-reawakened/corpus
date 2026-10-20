@@ -13,12 +13,11 @@ repliers: []
 authors: ["Reck"]
 comments_present: 0
 handle: "Reck"
-f_age: "16 - 20"
 f_interests: "Cricket,Rugby,American football"
 f_joined: "February 22nd 2004"
 f_last_visit: "February 16th 2007"
-f_location: "Asimirs Dungeon"
-f_name: "Harry Ball"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_username: "Reck"
@@ -36,7 +35,7 @@ Male
 **Awards:**
 Total of 16 places and 41 users.
 **MSN:**
-Reckish@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Squall's Jacket?](forum/viewtopic.php?p=380256#380256)
 Posted on Friday 9.56am, February 16th, 2007
 you should kill your cat for its fur its cheap and no loss but lots of gain [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=380256#380256)

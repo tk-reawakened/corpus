@@ -23,7 +23,7 @@ source_captures:
 Contact the administrator
 Having trouble with the site? Have a suggestion or a question about the website? Please fill out this form and include an email address so the administrator can contact you with an answer.
 Your Email Address: Questions, comments, concerns:
-If you wish to contact the site administrator, please send an email torowadmin@fastmail.fm
-If you wish to contact Romar the guild leader, please send an email torowguildleader@fastmail.fm
-If you wish to speak to the entire guild, please send an email torowgeneral@fastmail.fm
+If you wish to contact the site administrator, please send an email (redacted: email)
+If you wish to contact Romar the guild leader, please send an email (redacted: email)
+If you wish to speak to the entire guild, please send an email (redacted: email)
 Note: Clicking on the links above to email will bring up your default mail client. If you wish not to use this client, then copy the email address(es) into your preferred email client.

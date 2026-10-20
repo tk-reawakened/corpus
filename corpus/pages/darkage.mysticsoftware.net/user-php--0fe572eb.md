@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "xorlak@mysticsoftware.net"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_Xorlak", captured: "20050325041158", sha256: "4e4175ccf7523103c8cfc1ef091a127ac45d02c312b54ce6d60e4658e851330d", wayback_url: "https://web.archive.org/web/20050325041158/http://darkage.mysticsoftware.net/user.php?mode=6&name=Xorlak"}

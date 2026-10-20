@@ -13,11 +13,10 @@ repliers: []
 authors: ["NewbieG"]
 comments_present: 0
 handle: "NewbieG"
-f_age: "16 - 20"
 f_interests: "Avoiding homework at all costs"
 f_joined: "May 16th 2007"
 f_last_visit: "November 19th 2007"
-f_location: "Northern California"
+f_location: "(redacted: location)"
 f_name: "Michael"
 f_occupation: "Bored college student"
 f_rank: "Member"

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Colin"
 f_joined: "January 28th 2004"
 f_last_visit: "February 24th 2007"
-f_location: "Edmonton, Alberta, Canada"
+f_location: "(redacted: location)"
 f_rank: "Toolkit 3.x Developers"
 f_rankings: "No rankings."
 f_username: "Colin"

@@ -21,15 +21,15 @@ source_captures:
 
 Contact Information
 Telephone
-: (714) 595-7980
+: (redacted: phone number)
 **Fax**
-**: (714) 363-9959**
+**: (redacted: phone number)**
 Address :
 **
 15560 #C Rockfield Blvd. Irvine, CA 92618 STE 210
 **Electronic mail** **:**
 General Information: Sales: Customer Support: Webmaster:
-Info@MysticSoftware.com
-Sales@MysticSoftware.com
-Support@MysticSoftware.com
-webmaster@MysticSoftware.com
+(redacted: email)
+(redacted: email)
+(redacted: email)
+(redacted: email)

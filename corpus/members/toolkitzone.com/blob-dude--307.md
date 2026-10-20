@@ -13,11 +13,10 @@ repliers: []
 authors: ["Blob Dude"]
 comments_present: 0
 handle: "Blob Dude"
-f_age: "21 - 25"
 f_interests: "Gaming, photography, comics, art, painting, graphic design, theology, God, etc........."
 f_joined: "February 10th 2004"
 f_last_visit: "May 10th 2008"
-f_location: "Devon, UK"
+f_location: "(redacted: location)"
 f_name: "Luke"
 f_occupation: "Student at Bible College!"
 f_rank: "Member"
@@ -44,7 +43,7 @@ Total of 17 places and 56 users.
 **AIM:**
 **YIM:**
 **MSN:**
-mrlukeis@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (3)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/49.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=52)

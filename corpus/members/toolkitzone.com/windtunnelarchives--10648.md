@@ -16,7 +16,7 @@ handle: "windtunnelarchives"
 f_interests: "rpgs of course,mainly final fantasy,anime,flashmaking,"
 f_joined: "March 13th 2006"
 f_last_visit: "May 17th 2007"
-f_location: "sexsmith,ab"
+f_location: "(redacted: location)"
 f_occupation: "welding tradership"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/457652213442dd4ddbec6d.gif)
 **MSN:**
-dailencaudron@hotmail.com
+(redacted: email)
 Posted on Friday 7.42pm, May 5th, 2006
 i didnt get these from rpg maker 2000....there from rpg maker 2003 [more![More](templates/default/images/icons/more.gif)](files.php?file=1275#c15842)
 Posted on Saturday 10.28am, April 1st, 2006

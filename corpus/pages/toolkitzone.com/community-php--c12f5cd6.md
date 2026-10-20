@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 16th, 2004"
-f_location: "Use your imagination"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_1445", captured: "20100101221035", sha256: "95321d599d6b64d3f2831e297fa1cf905fb2599308c5f2bbd3d2ce45f33cc2fa", wayback_url: "https://web.archive.org/web/20100101221035/http://toolkitzone.com/community.php?blog=1445"}

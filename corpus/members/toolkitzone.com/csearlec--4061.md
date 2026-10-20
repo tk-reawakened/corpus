@@ -26,6 +26,6 @@ source_captures:
 # csearlec
 
 **MSN:**
-mynameisneoish@hotmail.com
+(redacted: email)
 Posted on Sunday 5.27pm, September 5th, 2004
 Who's Online: , , , , , , , , , [7LegionArmy](community.php?user=7614) [Bad Kids](community.php?user=335) [cloud13](community.php?user=16110) [Desh](community.php?user=11101) [Icbim](community.php?user=3770) [kainismine](community.php?user=15078) [Night_Elf](community.php?user=69) [Piper730](community.php?user=15602) [Reck](community.php?user=536) [ViperX](community.php?user=14679)

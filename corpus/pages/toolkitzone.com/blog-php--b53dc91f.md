@@ -14,7 +14,7 @@ authors: ["Haraldur"]
 comments_present: 0
 f_interests: "RPG Toolkit, computer games, computers, books, TV, physics"
 f_joined: "January 28, 2004"
-f_location: "Southampton, England"
+f_location: "(redacted: location)"
 f_username: "Haraldur"
 converter_version: "1"
 source_captures:

@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Sweden"
+f_location: "(redacted: location)"
 f_name: "Johansson"
 converter_version: "1"
 source_captures:

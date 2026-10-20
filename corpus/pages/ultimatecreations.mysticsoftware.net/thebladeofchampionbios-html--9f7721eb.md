@@ -12,9 +12,8 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "14"
 f_description: "The young heir of a great war hero"
-f_name: "Aminaga Ragtunos"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/ultimatecreations.mysticsoftware.net/TheBladeofChampionBios.html", captured: "20050306163623", sha256: "bb999a8d4dca3125dfe0f0cae71d4c64981fafea243e35c07bfa1e19fa140d57", wayback_url: "https://web.archive.org/web/20050306163623/http://ultimatecreations.mysticsoftware.net/TheBladeofChampionBios.html"}
@@ -23,7 +22,7 @@ source_captures:
 # The Blade of Champion!
 
 Character Bios:
-Name: Aminaga Ragtunos
+Name: (redacted: name)
 Age: 14
 Weapon(s): Basic Sword, Blade of Champion.
 Birthday (not in real life): July 6 th

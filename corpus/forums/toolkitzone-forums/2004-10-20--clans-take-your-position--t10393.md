@@ -68,7 +68,7 @@ CROISSANS can only place their base on MAGICK CONTINENT. When research is comple
 4. A castle is built once the race completes the research. This takes up four (4) blocks. land requirements should still be met. Only one castle can be built per race. The castle gives the race additional rewards. It can also accomodate the whole population of the race at any given time.
 5. The base of the clan who chooses to reside in the castle will not be forfeited and can still function, this time as an encampment for traveling clans.
 6. If the block has more than 1/2 of the needed land-type (e.g. more than 1/2 is water, forest, etc.), the land requirement is met.
-For 3dsmax users with version 5.1 or lower or any 3d modeller that can export *.3DS files, you can submit your own base design. Send the 3dsmax file (*.max) or *.3DS to highflyer927@yahoo.com, or give me a link.
+For 3dsmax users with version 5.1 or lower or any 3d modeller that can export *.3DS files, you can submit your own base design. Send the 3dsmax file (*.max) or *.3DS to (redacted: email), or give me a link.
 That is all...for now...
 
 ### khin · 2004-10-22 07:20 · #B115122

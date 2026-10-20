@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "10 - 15"
 f_interests: "Art , playing games , hanging out with friends , biking , swimming, game development, being better then you."
 f_joined: "October 7th 2007"
 f_last_visit: "April 1st 2008"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_name: "Zack"
 f_occupation: "going to school"
 f_rank: "Member"

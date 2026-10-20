@@ -14,7 +14,7 @@ authors: ["MrB"]
 comments_present: 0
 f_interests: "Anything outdoors, history, movies, TK"
 f_joined: "April 3, 2004"
-f_location: "Atlanta, GA"
+f_location: "(redacted: location)"
 f_username: "MrB"
 converter_version: "1"
 source_captures:

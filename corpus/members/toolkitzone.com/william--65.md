@@ -13,11 +13,10 @@ repliers: []
 authors: ["William"]
 comments_present: 0
 handle: "William"
-f_age: "16 - 20"
 f_interests: "vb Programming"
 f_joined: "January 28th 2004"
 f_last_visit: "March 22nd 2007"
-f_location: "Sweden"
+f_location: "(redacted: location)"
 f_name: "Johansson"
 f_occupation: "Student"
 f_rank: "Member"
@@ -43,7 +42,7 @@ Owner of: www.miragesource.com A Online Role-Playing Game Source Code made in vi
 **AIM:**
 **YIM:**
 **MSN:**
-Johansson_Tk@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Updated Real Time Battle System](forum/viewtopic.php?p=386643#386643)
 Posted on Thursday 11.36pm, March 22nd, 2007
 Introduction The battle system I created in 2005 has now been updated, you could almost say completed. It is somehow similar to the real Zelda battle system. You move around a new map fighting 1-4 enemies. Using sword or arrow attack, it also lets you use potions. Although there is yet no animation... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=386643#386643)

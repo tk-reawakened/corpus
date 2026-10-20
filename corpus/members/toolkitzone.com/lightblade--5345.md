@@ -27,7 +27,7 @@ source_captures:
 # Lightblade
 
 **MSN:**
-Lightbladepower@hotmail.com
+(redacted: email)
 Posted on Wednesday 6.33am, July 12th, 2006
 Posted on Tuesday 1.59pm, July 11th, 2006
 I liked the other style better, on your first boards. More realistic [more![More](templates/default/images/icons/more.gif)](games.php?image=6829#c27598)

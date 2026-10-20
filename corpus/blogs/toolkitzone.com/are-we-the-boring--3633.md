@@ -13,7 +13,7 @@ repliers: []
 authors: ["Ryan"]
 comments_present: 0
 f_joined: "April 16, 2004"
-f_location: "Anywhere but here."
+f_location: "(redacted: location)"
 f_username: "Ryan"
 converter_version: "1"
 source_captures:

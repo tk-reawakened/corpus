@@ -21,7 +21,7 @@ source_captures:
 # Contact Me
 
 You can write on my message board if you need help or just want to write. You can also contact me via E-mail and MSN:
-My e-mail is: Bjorn_djdj@hotmail.com
-My MSN is: Bjorn_djdj@hotmail.com
+My e-mail is: (redacted: email)
+My MSN is: (redacted: email)
 Two characters from my game:
 ![](boys.PNG)

@@ -13,10 +13,9 @@ repliers: []
 authors: ["Xavier_Stone"]
 comments_present: 0
 handle: "Xavier_Stone"
-f_age: "10 - 15"
 f_joined: "January 13th 2007"
 f_last_visit: "January 21st 2007"
-f_location: "The land of Moogles and Chocobos."
+f_location: "(redacted: location)"
 f_name: "Xavier Stone (not really but who cares!)"
 f_rank: "Member"
 f_rankings: "No rankings."

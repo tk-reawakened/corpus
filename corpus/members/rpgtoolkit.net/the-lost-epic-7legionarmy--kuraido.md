@@ -13,7 +13,6 @@ repliers: []
 authors: ["The Lost Epic / 7LegionArmy"]
 comments_present: 0
 handle: "The Lost Epic / 7LegionArmy"
-f_age: "21-25"
 f_country: "Philippines"
 f_username: "The Lost Epic / 7LegionArmy"
 converter_version: "1"

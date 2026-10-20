@@ -29,4 +29,4 @@ Use of Cookies
 Security of your Personal Information
 Changes to this Statement
 Contact Information
-Support@mysticsoftware.com
+(redacted: email)

@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Mating with lady panthers, skateboarding, basketball, programming, art, and video games."
 f_joined: "February 8th 2004"
 f_last_visit: "April 1st 2008"
-f_location: "The jungle. Post Count: 3948"
-f_name: "Rashad Hill"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "The black panther"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,13 +29,12 @@ source_captures:
 
 ![Avatar](forum/images/avatars/158257115943225eb57d609.jpg)
 February 8th 2004
-Rashad Hill
+(redacted: name)
 The jungle. Post Count: 3948
 The black panther
 Mating with lady panthers, skateboarding, basketball, programming, art, and video games.
 **AIM:**
 **YIM:**
-rashad_hill@yahoo.com
 Added on Tuesday 7.22am, April 4th, 2006
 Man first I'll start off by sayin I miss you guys lol. I've been lurking more than bein active but freakin Ragnarok Online has taken my soul. When the new version of TK comes out I will be more active because that's what I've been waiting for this whole time. Shit a lot of probably don't know or rem... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4166)
 Added on Monday 3.13am, January 9th, 2006

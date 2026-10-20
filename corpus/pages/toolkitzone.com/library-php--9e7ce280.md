@@ -30,10 +30,10 @@ sort by
 author date added title type
 Library > Fiction > Short Story Contest: Summer 05
 August 22 2005, 2:30 pm
-A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
+A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
 Library > Fiction > Short Story Contest: Summer 05
 August 20 2005, 1:33 pm
-After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by Cyrus Martin inside.
+After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by (redacted: name) inside.
 Library > Fiction > Short Story Contest: Summer 05
 August 17 2005, 10:07 am
 The twenty entries have all been on display for you to read over the last few days and now it's time for you to vote on your favourite stories for the final shortlist.

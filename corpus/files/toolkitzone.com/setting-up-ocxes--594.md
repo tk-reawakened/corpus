@@ -47,5 +47,5 @@ a) Search on Google for "download " then the OCX. b) Search your hard-drive
 "regsvr32.exe C:\OCXes\[ocx name]"
 ---Closing---
 I hope this helps everyone. Thank you for reading!
---KSNiloc ksniloc@loggerdelta.tk
+--KSNiloc (redacted: email)
 **Browse Sections**

@@ -13,7 +13,6 @@ repliers: []
 authors: ["Bubble Ghost / Grindalf"]
 comments_present: 0
 handle: "Bubble Ghost / Grindalf"
-f_age: "21-25"
 f_country: "United Kingdom"
 f_name: "Jamie"
 f_occupation: "Accountant"

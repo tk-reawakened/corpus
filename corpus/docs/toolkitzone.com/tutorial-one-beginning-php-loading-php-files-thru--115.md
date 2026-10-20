@@ -41,7 +41,7 @@ Finally, point to the top toolbar, and point to Run --> Run and Debug, or simply
 ![](http://www.toolkitzone.com/library/images/docs/125.png)
 Fig. 1-4
 Final Words There you go. Questions and enquiries shall be directed to . Good luck.
-bluezane@hotmail.co.uk
+(redacted: email)
  Koh Wei Zane
 Extra document that accompanies Koh Wei Zane's Beginning PHP tutorial, explaining how to setup his editor of choice for the language.
 Jul 16, '05

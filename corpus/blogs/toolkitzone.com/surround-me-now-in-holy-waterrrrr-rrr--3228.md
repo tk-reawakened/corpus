@@ -14,7 +14,7 @@ authors: ["Roadkill Incorporated"]
 comments_present: 0
 f_interests: "Playing Video Games"
 f_joined: "April 28, 2005"
-f_location: "Somewhere in Indiana"
+f_location: "(redacted: location)"
 f_username: "Roadkill Incorporated"
 converter_version: "1"
 source_captures:

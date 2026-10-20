@@ -23,7 +23,7 @@ source_captures:
 ![](/images/updates.png)
 January 01, 2004
 HAPPY NEW YEAR!
-Happy New Year everyone! Welcome to 2004. This will definately be no less than an interesting year for the TK community with the open-sourcing of the TK, the return of , and much more to come. Instead of making some kind of new years resolution for the site, I'm just going to offer hosting again to the first 15 people who email . Make sure you check the hosting page before you email me for details on our hosting package and policy. [The Toolkit Zone](http://www.toolkitzone.com)hosting@mysticsoftware.net
+Happy New Year everyone! Welcome to 2004. This will definately be no less than an interesting year for the TK community with the open-sourcing of the TK, the return of , and much more to come. Instead of making some kind of new years resolution for the site, I'm just going to offer hosting again to the first 15 people who email . Make sure you check the hosting page before you email me for details on our hosting package and policy. [The Toolkit Zone](http://www.toolkitzone.com)(redacted: email)
 **ATTN: Game Authors!**
 If you have your game hosted on mysticsoftware.net, and you are linking to it from your website, forum profile, etc; make sure you change your link to the new server. The new URL's should point to http://msgames.rackhost.net/games/gamename.exe. Where gamename.exe is the filename of your game. If you want, you can just find your game in the Games Department, and copy the link from there.
 [Download D&C: Ch2](http://msgames.rackhost.net/games/deceitandconquest.exe)

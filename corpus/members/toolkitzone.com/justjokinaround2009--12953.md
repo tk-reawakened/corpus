@@ -13,11 +13,10 @@ repliers: []
 authors: ["justjokinaround2009"]
 comments_present: 0
 handle: "justjokinaround2009"
-f_age: "10 - 15"
 f_interests: "Baseball, Basketball, Football, Golf, Video Games"
 f_joined: "July 12th 2006"
 f_last_visit: "March 10th 2007"
-f_location: "OHIO GO BUCKYES! NUMBER 1!"
+f_location: "(redacted: location)"
 f_name: "Anthony"
 f_occupation: "Student-It sucks"
 f_rank: "Member"
@@ -38,7 +37,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-aj913@hotmail.com
+(redacted: email)
 ![Newbie Haven](../templates/default/images/icons/forums/forum_newbie.gif) [WMV](forum/viewtopic.php?p=383630#383630)
 Posted on Saturday 3.08am, March 3rd, 2007
 ![Newbie Haven](../templates/default/images/icons/forums/forum_newbie.gif) [WMV](forum/viewtopic.php?p=383309#383309)

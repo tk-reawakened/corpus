@@ -13,12 +13,11 @@ repliers: []
 authors: ["Treefrog_programmer"]
 comments_present: 0
 handle: "Treefrog_programmer"
-f_age: "16 - 20"
 f_interests: "computers, guitar, rock and metal music"
 f_joined: "July 4th 2005"
 f_last_visit: "February 24th 2007"
-f_location: "England"
-f_name: "Dayne Jamie Salt"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "unemployed/ computer programmer"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -38,7 +37,7 @@ source_captures:
 Male
 **E-Mail:**
 **MSN:**
-Pagandude89@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [TreeFrog Needs some feedback](forum/viewtopic.php?p=380881#380881)
 Posted on Sunday 10.44am, February 18th, 2007
 He is not my Programmer, I'm part of *his* team If that is the case maybe i should be informed that these were ripped? So that I could make the decission as wether or not to release them? I was never informed of this, or the fact that you didnt want them released. I put a message on the forums sa... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=380881#380881)

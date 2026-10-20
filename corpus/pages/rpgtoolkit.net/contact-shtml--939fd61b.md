@@ -25,4 +25,4 @@ You're probably here because you want to email me (Chris Matthews), the creator 
 - Submit bugs on the bugreport form.
 - I will not debug your RPGCode programs for you.
 - I generally will not answer questions if the answers can be easily found in the help files for the Toolkit.
-cbm@cs.dal.ca
+(redacted: email)

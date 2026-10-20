@@ -13,11 +13,10 @@ repliers: []
 authors: ["Final-Knight"]
 comments_present: 0
 handle: "Final-Knight"
-f_age: "16 - 20"
 f_interests: "MMORPGs, RPGs, games in general, bowling"
 f_joined: "February 7th 2007"
 f_last_visit: "March 1st 2007"
-f_location: "Middle of nowhere"
+f_location: "(redacted: location)"
 f_occupation: "Haha... yeah right..."
 f_rank: "Member"
 f_rankings: "No rankings."

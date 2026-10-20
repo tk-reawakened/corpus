@@ -13,7 +13,6 @@ repliers: []
 authors: ["ZMarth"]
 comments_present: 0
 handle: "ZMarth"
-f_age: "10 - 15"
 f_interests: "games ,music"
 f_joined: "December 29th 2006"
 f_last_visit: "January 6th 2007"

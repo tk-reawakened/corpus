@@ -80,14 +80,14 @@ It´s ok if you post a message in spanish.
 Do you know what are you talking?
 go to study spanish and then come again and post all messages you want
 (I didn´t understand that message you posted)
-maxi441@hotmail.com ---icq: 147346554
+(redacted: email) ---icq: 147346554
 
 ### mue · 2003-06-07 24:17 · #A1005-1083
 
 **eso ya lo se, TODOS son 32x32 pixeles (more)**
 
 ...pero ninguno los salva bien... ni siquiera los que trae incluidos se salvan del revoltijo de colores :'( asi que no creo que sean mis archivos..
-Msn: prilium@hotmail.com
+Msn: (redacted: email)
 Yahoo: aspartame7
 AIM: muesohjin
 >>>Yes, I draw my sprites with MSPaint with a Celeron at 560 MHz... and I do it well<<<
@@ -102,7 +102,7 @@ Yo tengo unos preguntas que espero puedes contestar. (did I phrase that right?)
 (like the impersonal se.. I really don't grasp that whole concept...)
 ¿Comó usas las frases de preposición?
 (like the whole ti thing...)
-Gracias por toda la ayuda. Yo ha ayudarme mucho. Tú no es que mucho que me. Yo tengo quince años. Si es más facíl, puedes contactar con me a arhal@msn.com. Tal vez, ¡gracias!
+Gracias por toda la ayuda. Yo ha ayudarme mucho. Tú no es que mucho que me. Yo tengo quince años. Si es más facíl, puedes contactar con me a (redacted: email). Tal vez, ¡gracias!
 Oh. and it is really easy to get your computer to type accents. If your are interested... just tell me!
 ![](http://main.tk-x.com/imagehost/images/MedlandBanner.jpg)
 

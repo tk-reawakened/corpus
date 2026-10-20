@@ -29,6 +29,6 @@ Even more retrospect - Futakoi, Futakoi Alternative (Shirogane twins!), anything
 On a completely unrelated note, my collection of Otakon 2005 memories is still in processing. I'll post as soon as I finish, so until then, ja ne!
 Edmonton dominated the Carolina Hurricanes on Saturday night and the 4-0 margin in Game 6 makes it hard to imagine the Oilers not hoisting hockey's Holy Grail above their heads in less than 48 hours. And it would not come as any shock to see defenseman Chris Pronger, who had another 31-minute night, take the honors for the Conn Smythe Trophy as the playoff MVP.
 Posted by: | [aureaaur](http://beam.to/youngteenboy/)June 26, 2006 04:31 AM
-ya pidoras, pizu chujie doors, zaabuzte moi url - http://greatpharmacies.com/ a suda pishite pisma i spamte - admass@pisem.net
+ya pidoras, pizu chujie doors, zaabuzte moi url - http://greatpharmacies.com/ a suda pishite pisma i spamte - (redacted: email)
 Posted by: | [ya pidoras](http://greatpharmacies.com/)July 26, 2006 03:38 PM
 July 2006

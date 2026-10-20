@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Drums, Rock & Metal, Games"
 f_joined: "February 3rd 2006"
 f_last_visit: "April 1st 2008"
-f_name: "Andrew Worthington"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -29,10 +28,9 @@ source_captures:
 
 ![Avatar](forum/images/avatars/141533142444a77edcc4491.png)
 February 3rd 2006
-Andrew Worthington
+(redacted: name)
 Student
 Drums, Rock & Metal, Games
-Andtoallaverygoodmorning@hotmail.co.uk
 Posted on Monday 11.40pm, March 24th, 2008
 I managed to cut a whole in it to allow the awesome to leak out to avoid permanent damage. Unfortunately, I had not the time to afford the same solution to my left eye before it was sprayed across my room. [more![More](templates/default/images/icons/more.gif)](games.php?image=10706#c44752)
 Posted on Sunday 1.04pm, March 23rd, 2008

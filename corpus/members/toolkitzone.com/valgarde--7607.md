@@ -13,11 +13,10 @@ repliers: []
 authors: ["Valgarde"]
 comments_present: 0
 handle: "Valgarde"
-f_age: "16 - 20"
 f_joined: "August 15th 2005"
 f_last_visit: "January 23rd 2008"
-f_location: "Ipswich, England"
-f_name: "Finn Keenan"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Valgarde"
@@ -33,7 +32,7 @@ source_captures:
 Male
 **E-Mail:**
 **MSN:**
-Finnan1@hotmail.com
+(redacted: email)
 Posted on Monday 5.09am, October 15th, 2007
 Awesome stuff as usual phantom brave like eh? even better although i keep drawing parallels to vandal hearts, now that is a fantastic tactical role playing game. [more![More](templates/default/images/icons/more.gif)](games.php?image=9971#c40468)
 Posted on Sunday 4.17am, September 2nd, 2007

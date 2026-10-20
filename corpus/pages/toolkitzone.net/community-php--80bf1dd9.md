@@ -14,7 +14,7 @@ authors: []
 comments_present: 0
 f_joined: "May 9th 2004"
 f_last_visit: "April 2nd 2008"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_rank: "Staff"
 converter_version: "1"
 source_captures:

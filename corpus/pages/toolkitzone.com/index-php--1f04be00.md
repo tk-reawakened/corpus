@@ -30,7 +30,7 @@ A pack of over 50 various sound effects ranging from animal noises to the clashi
 submitted by on 16 November, 2004 [TK Game Boy](forums/profile.php?mode=viewprofile&u=304)
 Another Capcom collection submitted by TKGB, these from 1992 game Quiz and Dragons. 31 effects in total, a varied mix of almost magical like sounds, could be useful for spells or level-ups/upgrades, and various shouts and grunts.
 submitted by on 16 November, 2004 [TK Game Boy](forums/profile.php?mode=viewprofile&u=304)
-40 Street Fighter midis here - would be very useful for anyone making one of the fighting type games which I hear about from time to time. The big disappointment with this pack is the lack of any voice effects like 'Hadoken', 'Yoga Flame' etc. as fans will remeber. Still, some useful fisticuff sounds though
+(redacted: address) Fighter midis here - would be very useful for anyone making one of the fighting type games which I hear about from time to time. The big disappointment with this pack is the lack of any voice effects like 'Hadoken', 'Yoga Flame' etc. as fans will remeber. Still, some useful fisticuff sounds though
 What more needs to be said - 27 sound effects from Mario 3 - what more can you ask for...
 submitted by on 02 April, 2004 [TK Game Boy](forums/profile.php?mode=viewprofile&u=304)
 A set of 69 effects taken from the Capcom game The Punisher.

@@ -13,11 +13,10 @@ repliers: []
 authors: ["Darkreason"]
 comments_present: 0
 handle: "Darkreason"
-f_age: "10 - 15"
 f_interests: "rpg making, zelda ;p"
 f_joined: "July 4th 2007"
 f_last_visit: "November 9th 2007"
-f_location: "Germany - NRW"
+f_location: "(redacted: location)"
 f_name: "Andre"
 f_rank: "Member"
 f_rankings: "No rankings."

@@ -13,7 +13,7 @@ repliers: []
 authors: ["Ersuis"]
 comments_present: 0
 f_joined: "January 28, 2004"
-f_location: "Mt. Pleasant, Michigan"
+f_location: "(redacted: location)"
 f_username: "Ersuis"
 converter_version: "1"
 source_captures:

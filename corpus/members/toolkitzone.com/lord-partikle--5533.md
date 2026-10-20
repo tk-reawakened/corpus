@@ -27,7 +27,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/208497864243b998be01a1e.jpg)
 **MSN:**
-nexxus@chroniclesofmaru.net
+(redacted: email)
 Posted on Monday 4.52am, December 19th, 2005
 He added double quotes on the link above I think... Anyways, just copy/paste this into your address bar: http://tkexpo.indreams-studios.com/ [more![More](templates/default/images/icons/more.gif)](library.php?doc=196#c31791)
 Posted on Wednesday 3.46am, July 20th, 2005

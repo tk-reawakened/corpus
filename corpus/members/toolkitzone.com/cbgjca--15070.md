@@ -13,11 +13,10 @@ repliers: []
 authors: ["cbgjca"]
 comments_present: 0
 handle: "cbgjca"
-f_age: "16 - 20"
 f_interests: "gaming,writing games and learning to program games"
 f_joined: "January 9th 2007"
 f_last_visit: "March 23rd 2007"
-f_location: "Jax,Fl"
+f_location: "(redacted: location)"
 f_name: "Justin"
 f_occupation: "leader of C.B.G.(Chaotic Blader Games)"
 f_rank: "Member"

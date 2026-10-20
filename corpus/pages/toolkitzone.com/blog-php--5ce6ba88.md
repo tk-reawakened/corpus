@@ -15,7 +15,7 @@ comments_present: 0
 f_format: "n00b uses Google search and finds TKZ, needs help with something other than the TK, posts, \"Where can I find a website to learn flash?\" n00b uses Google search and finds TKZ, starts a web log because he/she knows it's free, and make an entry. The previous n00b goes off. *Hours:Minutes:Seconds"
 f_interests: "Web Design, Arts"
 f_joined: "April 10, 2004"
-f_location: "Singapore"
+f_location: "(redacted: location)"
 f_username: "Raven Ryan"
 converter_version: "1"
 source_captures:

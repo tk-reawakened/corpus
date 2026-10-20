@@ -38,6 +38,12 @@ rebuild** this archive supports is in
 
 ## How it was made
 
+**Everything here was captured by the Internet Archive's Wayback Machine, and every page is
+still publicly readable there** — the same content, at the link given on every entry. Nothing
+was gathered from private sources, from the forums' own servers, or from anybody directly.
+This is a copy of material that was already available to anyone, reorganised so it can be
+read and searched instead of being a pile of captured HTML.
+
 1. The Wayback Machine's CDX index was read for every host, giving the full list of URLs
    that were ever captured.
 2. Each URL was fetched and stored byte-for-byte, with a manifest recording the capture
@@ -55,18 +61,37 @@ by hand; the only authored parts are the site generator and this README.
 
 ## Personal data
 
-This is a historical archive of a public forum, and it contains what that forum contained:
-the handles people posted under, their email addresses where they posted them, their
-member-profile details (join date, occupation, interests, age band, location) and their
-posts. **The same pages are already public on the Wayback Machine**, at the link given on
-every entry — nothing here was collected from anywhere else, and no message or address
-was gathered that the forum itself did not already publish. No working credentials or
-passwords are included.
+This is a historical archive of a public forum. **The handles stay** — "Xorlak", "Zorlac",
+"Vampz" are how these people knew each other, and they are the community. What does not
+stay is the material that points at somebody outside the forum:
 
-One exception was made, because it was a re-identification risk rather than archive
-content: **two phone numbers** that a member posted in a forum signature in 2003 are
-redacted in the corpus, and the marker `[redacted: phone number]` is left in their place
-so the loss is visible rather than silent. Search for `redacted` to see every redaction.
+| Removed | How |
+|---|---|
+| Real names | The names people published in their profile's *Name* field, or as *Real Name* on their own site. Removed from the profile field and from every later mention of them in a post. |
+| Email addresses | Everywhere, in every file. |
+| Phone numbers | Everywhere, in the formats these forums used. |
+| Street addresses | Everywhere. |
+| Location | The member profile's *Location* field (`f_location`) is blanked. |
+| Age | The member profile's age band (`f_age`) is dropped entirely. |
+
+Each removal leaves a marker in place — `(redacted: email)`, `(redacted: name)` — so the
+loss is visible rather than silent, and so you can tell a redaction from a gap in the
+capture. Search for `redacted` to see every one of them.
+
+The rules live in the archive's own build — `tools/redact.py` and `data/real-names.txt` —
+so they can be reviewed and extended without touching this repository.
+
+**This was an automated pass, and it is not a guarantee.** The redaction is pattern
+matching, not judgement: it removes the categories of self-identifying information these
+profiles and posts actually use, and it caught most of them. But a real name that only
+ever appeared inside a post, a phone number written in an unusual way, or a personal
+detail told as a story would not be recognised as what it is. **Some of these pages did
+contain self-identifying information, and some of it is still here.**
+
+So the honest description of this repository is *a de-identified copy of pages that were
+already public*, not a guaranteed-anonymised archive. The original pages are still on the
+Wayback Machine, linked from every entry, and nothing here was collected from anywhere
+else — no message was gathered that the forum itself did not publish.
 
 If you are one of the people in here and would like something removed, open an issue on
 this repository and it will be taken out.
@@ -79,7 +104,9 @@ preservation, research and engine-compatibility work, exactly as the Wayback Mac
 reproduces them. This includes the official RPG Toolkit v2 User's Guide and the TK3 help
 system, which are part of the archive and the most useful reference material in it.
 
-The site generator in `site/` is MIT licensed.
+The site generator in `site/` is MIT licensed (see `site/LICENSE`). The corpus itself is
+not covered by a licence: the material in `corpus/` belongs to its original authors, as
+described above.
 
 ## Building the site
 

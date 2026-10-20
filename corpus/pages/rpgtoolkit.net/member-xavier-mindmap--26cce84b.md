@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_date: "forgotten"
-f_location: "programming"
+f_location: "(redacted: location)"
 f_section: "avoid"
 f_website: "tried"
 converter_version: "1"

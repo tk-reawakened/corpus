@@ -14,7 +14,7 @@ authors: ["Euix"]
 comments_present: 0
 f_interests: "Programming, Games, Music"
 f_joined: "January 28, 2004"
-f_location: "United States"
+f_location: "(redacted: location)"
 f_username: "Euix"
 converter_version: "1"
 source_captures:

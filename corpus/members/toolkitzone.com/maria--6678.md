@@ -13,10 +13,9 @@ repliers: []
 authors: ["Maria"]
 comments_present: 0
 handle: "Maria"
-f_age: "10 - 15"
 f_joined: "June 13th 2005"
 f_last_visit: "March 4th 2007"
-f_location: "in the yesterday after tommorow"
+f_location: "(redacted: location)"
 f_name: "Maria"
 f_occupation: "Student"
 f_rank: "Member"

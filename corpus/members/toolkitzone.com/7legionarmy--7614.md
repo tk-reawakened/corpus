@@ -32,7 +32,7 @@ source_captures:
 **Awards:**
 Total of 16 places and 41 users.
 **MSN:**
-babylon104@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Sprite Animation](forum/viewtopic.php?p=356279#356279)
 Posted on Tuesday 5.19am, October 24th, 2006
 Some attempts at battle animations. FOCUS: ATK UP. TAUNT: LOWER TARGET'S FAITH [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=356279#356279)

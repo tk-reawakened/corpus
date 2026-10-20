@@ -14,7 +14,7 @@ authors: ["Cyranoid"]
 comments_present: 0
 f_interests: "Programming, Music"
 f_joined: "February 14, 2004"
-f_location: "USA, California"
+f_location: "(redacted: location)"
 f_username: "Cyranoid"
 converter_version: "1"
 source_captures:

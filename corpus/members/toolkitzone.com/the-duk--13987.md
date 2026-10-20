@@ -13,10 +13,9 @@ repliers: []
 authors: ["The_duk"]
 comments_present: 0
 handle: "The_duk"
-f_age: "10 - 15"
 f_joined: "October 13th 2006"
 f_last_visit: "March 24th 2007"
-f_location: "guernsey"
+f_location: "(redacted: location)"
 f_occupation: "school"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +29,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/16322480664600542fa1c85.jpg)
 **MSN:**
-joshtulie@hotmail.co.uk
+(redacted: email)
 Posted on Thursday 10.04pm, March 22nd, 2007
 nice! Did you use a specific programe for this, if so what was it. Im havin a bit of troble with map makin. [more![More](templates/default/images/icons/more.gif)](games.php?image=8735#c35122)
 Posted on Thursday 8.44am, October 26th, 2006

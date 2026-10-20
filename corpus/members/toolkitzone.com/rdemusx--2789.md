@@ -13,11 +13,10 @@ repliers: []
 authors: ["RDemusX"]
 comments_present: 0
 handle: "RDemusX"
-f_age: "26+"
 f_interests: "college and my kids ... along with RPG's of course"
 f_joined: "June 13th 2004"
 f_last_visit: "November 19th 2008"
-f_location: "Clarksville 10"
+f_location: "(redacted: location)"
 f_occupation: "American Standard"
 f_rank: "Member"
 f_username: "RDemusX"
@@ -38,7 +37,7 @@ Male
 **Awards:**
 Total of 23 places and 66 users.
 **MSN:**
-RDemusX@gmail.com
+(redacted: email)
 ![RPG Toolkit](../templates/default/images/icons/forums/forum_toolkit.gif) [Help me test Shao's plugin](forum/viewtopic.php?p=435233#435233)
 Posted on Friday 7.42am, March 28th, 2008
 7E used the plug in his demo, and I never had any problems with it. Running Vista 32 bit RDX [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=435233#435233)

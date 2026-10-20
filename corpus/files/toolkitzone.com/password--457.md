@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 ***THE KAMAYA CHARACTER CLASSIFICATION***
 Below are the instructions for my Character Classification system. This is best done on a spreadsheet document in the order that follows:
 **1.** *NAME*

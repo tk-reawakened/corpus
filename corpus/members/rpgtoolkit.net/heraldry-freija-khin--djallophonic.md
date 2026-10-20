@@ -13,7 +13,6 @@ repliers: []
 authors: ["Heraldry: Freija / Khin"]
 comments_present: 0
 handle: "Heraldry: Freija / Khin"
-f_age: "21-25"
 f_name: "Alan"
 f_username: "Heraldry: Freija / Khin"
 converter_version: "1"

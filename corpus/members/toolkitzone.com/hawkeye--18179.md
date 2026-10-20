@@ -13,11 +13,10 @@ repliers: []
 authors: ["Hawkeye"]
 comments_present: 0
 handle: "Hawkeye"
-f_age: "10 - 15"
 f_interests: "too many... sigh"
 f_joined: "October 5th 2007"
 f_last_visit: "June 7th 2008"
-f_location: "I am right on top of you!"
+f_location: "(redacted: location)"
 f_name: "No name, just a face"
 f_occupation: "Living"
 f_rank: "Member"

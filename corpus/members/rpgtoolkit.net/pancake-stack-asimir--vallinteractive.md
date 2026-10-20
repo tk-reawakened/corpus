@@ -13,7 +13,6 @@ repliers: []
 authors: ["Pancake Stack / Asimir"]
 comments_present: 0
 handle: "Pancake Stack / Asimir"
-f_age: "21-25"
 f_country: "Philippines"
 f_name: "Jonh Kevin Yee Valladolid"
 f_occupation: "Web designer/developer"

@@ -29,7 +29,7 @@ author date added title type
 **{Section Root}**
 **Featured Sub-Categories**
 7 documents
-Series of articles written by Cyrus Martin explaining the various elements of creative writing. Cyrus himself is writing novels based on his Toolkit games.
+Series of articles written by (redacted: name) explaining the various elements of creative writing. Cyrus himself is writing novels based on his Toolkit games.
 (7) **Documents**
 results per page
 5 10 20 30 40 50
@@ -37,7 +37,7 @@ sort by
 author date added title type
 Library > Literature > Creative Writing
 November 22 2004, 2:58 pm
-Cyrus Martin looks at the importance of pace and timing in the latest installment of his creative writing series.
+(redacted: name) looks at the importance of pace and timing in the latest installment of his creative writing series.
 Library > Literature > Creative Writing
 November 22 2004, 2:56 pm
 Session six, titled "Crafting Your Words", concentrates on aspects such as narrative tone and intellectual targeting.
@@ -46,7 +46,7 @@ November 22 2004, 2:55 pm
 Suspension of disbelief is the topic for the latest installment of Cyrus Martin's creative writing series.
 Library > Literature > Creative Writing
 November 22 2004, 2:54 pm
-Cyrus Martin explains the importance of consistancy in your writing in the fourth article of the series.
+(redacted: name) explains the importance of consistancy in your writing in the fourth article of the series.
 Library > Literature > Creative Writing
 November 22 2004, 2:52 pm
 Third installment of Cyrus Martin's series on creative writing considers your target audience and what impact this will have on your writing style.

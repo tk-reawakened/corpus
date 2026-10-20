@@ -13,7 +13,7 @@ repliers: []
 authors: ["Lisha"]
 comments_present: 0
 f_joined: "February 8, 2006"
-f_location: "On a horse...or at the barn... or...um...thinking about horses somewhere else"
+f_location: "(redacted: location)"
 f_username: "Lisha"
 converter_version: "1"
 source_captures:

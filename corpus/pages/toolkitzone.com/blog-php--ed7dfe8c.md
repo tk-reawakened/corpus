@@ -14,7 +14,7 @@ authors: ["Neol"]
 comments_present: 0
 f_interests: "Computer Gaming, lucid dreaming, transformations, learning how to mix Pepsi with orange."
 f_joined: "January 28, 2004"
-f_location: "USA"
+f_location: "(redacted: location)"
 f_username: "Neol"
 converter_version: "1"
 source_captures:

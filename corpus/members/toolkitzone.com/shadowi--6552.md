@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Shadowi"
 f_joined: "June 3rd 2005"
 f_last_visit: "August 20th 2005"
-f_location: "Finland, Kerava"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Shadowi"
@@ -28,5 +28,5 @@ source_captures:
 
 ![Avatar](forum/images/avatars/201231710342a0793a33ca9.jpg)
 **MSN:**
-shadoxi@hotmail.com
+(redacted: email)
 Posted on Friday 4.48pm, October 14th, 2005

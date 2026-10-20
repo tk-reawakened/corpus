@@ -13,11 +13,10 @@ repliers: []
 authors: ["sasuke"]
 comments_present: 0
 handle: "sasuke"
-f_age: "10 - 15"
 f_interests: "coding, games,writting and wrestling,"
 f_joined: "November 29th 2006"
 f_last_visit: "March 1st 2007"
-f_location: "Napa, California"
+f_location: "(redacted: location)"
 f_name: "Sasuke uchiha"
 f_occupation: "High school Student"
 f_rank: "Member"

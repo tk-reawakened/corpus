@@ -13,12 +13,11 @@ repliers: []
 authors: ["ageofpies"]
 comments_present: 0
 handle: "ageofpies"
-f_age: "10 - 15"
 f_interests: "Boxing, Rugby, Football, Chinese History"
 f_joined: "April 8th 2006"
 f_last_visit: "December 2nd 2006"
-f_location: "Doncaster, England"
-f_name: "David Huzzard"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "School"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -37,7 +36,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-guiltygloopofdung@hotmail.co.uk
+(redacted: email)
 ![My Things](../templates/default/images/icons/forums/forum_mythings.gif) [WIP Who says you can't do anything in paint?](forum/viewtopic.php?p=363665#363665)
 Posted on Saturday 5.19pm, December 2nd, 2006
 move the left arm up the battle axe a little and round the base of the nose off, make one side of it more pointy depending on which way the person is looking ... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=363665#363665)

@@ -28,4 +28,4 @@ source_captures:
 
 Tao-Kun has undertaken the large task of explaining how to use Triuken's flash plugin to good effect. Included are example program and flash file and a step-by-step tutorial taking you through the process of including a flash movie in your game. A much needed tutorial for what should be a popular plugin, but could do with a facelift to make it easier to follow the text.
 posted by on 2004-07-17 07:32:09 [Tao-Kun](forums/profile.php?mode=viewprofile&u=2389)
-Gee, Thanks for the Comment ^^;; If you People still don't understand how to use the pulgin, then Email me(Not PM) And I will try to explain more Legionaries_Neko@hotmail.com
+Gee, Thanks for the Comment ^^;; If you People still don't understand how to use the pulgin, then Email me(Not PM) And I will try to explain more (redacted: email)

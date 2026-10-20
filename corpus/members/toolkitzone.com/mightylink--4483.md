@@ -16,7 +16,7 @@ handle: "MightyLink"
 f_interests: "Zelda, Hacking."
 f_joined: "October 29th 2004"
 f_last_visit: "June 21st 2005"
-f_location: "Palmerston, Ontario, Canada."
+f_location: "(redacted: location)"
 f_occupation: "Computer Technician"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/534182259424e33252a190.jpg)
 **MSN:**
-mightylink@gmail.com
+(redacted: email)
 ![RPG Toolkit](../templates/default/images/icons/forums/forum_toolkit.gif) [Disturbing ~_~](forum/viewtopic.php?p=189473#189473)
 Posted on Saturday 11.05pm, April 2nd, 2005
 All my characters go super crazy fast in every game I play and make even when I set all the speeds to slow, is there any way I can regulate the speed? [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=189473#189473)

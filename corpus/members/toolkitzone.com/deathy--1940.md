@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Deathy"
 f_joined: "April 29th 2004"
 f_last_visit: "March 17th 2007"
-f_location: "Under the Mark"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Deathy"

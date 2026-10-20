@@ -36,7 +36,7 @@ You should really release the source. That would be an even bigger help!
 14 July, 2004
 te commands ////////////////////// #WSStatus(dest!) ////////////////////// and the other thing... idont now how to use it...
 02 August, 2004
-Hey where do i put the commands????? and it works on ToolKit3 right? anyone knows how, add my MSN necry_Andreas@hotmail.com ;)
+Hey where do i put the commands????? and it works on ToolKit3 right? anyone knows how, add my MSN (redacted: email) ;)
 19 August, 2004
 This is the MOST FRUSTRAITING plugin i have ever used. I do recoomend it if you can get it to work. IF you havent been with tk for a year or more, dont try it.
 28 February, 2005
@@ -44,5 +44,5 @@ hay y dont you make one for version 2.2 ok sound good i need for my new game.
 06 January, 2006
 Why did this get such a low rating?
 12 January, 2006
-It doesen't work, I get an error after I added tkplug0.dll and run the game "Main Plugin directory not found. No plugins will be loaded. ". I done everything in the read-me file but it still don't work, please help, I really need this plugin to work. Right now I use TK 3.0.6 u can PM me or send a mail to: santas_littlehelper@hotmail.com
+It doesen't work, I get an error after I added tkplug0.dll and run the game "Main Plugin directory not found. No plugins will be loaded. ". I done everything in the read-me file but it still don't work, please help, I really need this plugin to work. Right now I use TK 3.0.6 u can PM me or send a mail to: (redacted: email)
 **Browse Sections**

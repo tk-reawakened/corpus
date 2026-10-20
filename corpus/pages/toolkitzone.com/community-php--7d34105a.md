@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 2nd, 2004"
-f_location: "Yes Please"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_1209", captured: "20070312091935", sha256: "b29282d03660c83be5b3b4977469a3a899be4aa2f01c506e05b747647de92763", wayback_url: "https://web.archive.org/web/20070312091935/http://toolkitzone.com/community.php?blog=1209"}

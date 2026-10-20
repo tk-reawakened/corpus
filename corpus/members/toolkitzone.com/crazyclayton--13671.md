@@ -13,12 +13,11 @@ repliers: []
 authors: ["CrazyClayton"]
 comments_present: 0
 handle: "CrazyClayton"
-f_age: "16 - 20"
 f_interests: "Making games, Blender, and rpg puzzles"
 f_joined: "September 17th 2006"
 f_last_visit: "February 21st 2007"
-f_location: "Minnesota"
-f_name: "Clayton Eugene Kent"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -35,7 +34,7 @@ Male
 **About Me:**
 I love Rpg's. I just bought FFIII woot. Umm I like Blender i downloaded it recently and i am getting quite good at it. I wanna learn how to use thing rpg toolkit better cause i just can't seem to grasp the programming side.
 **MSN:**
-clayton_kent@hotmail.com
+(redacted: email)
 Posted on Monday 7.13pm, March 12th, 2007
 Posted on Wednesday 6.58pm, December 20th, 2006
 To tell you how good this is. I would personally wet myself if i came up against a monster that looked like that. [more![More](templates/default/images/icons/more.gif)](games.php?image=6420#c32624)

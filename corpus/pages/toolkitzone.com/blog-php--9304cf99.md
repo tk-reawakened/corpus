@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 gezundheit!
 Posted by - Thu 12 August, 2004 3:30am [iLoveFluffyPuppy](forums/profile.php?mode=viewprofile&u=2937)
 listening to: battle-axe - deftones. my mood: uhh...i don't know? i'm really tired. bongo monkeys are cool. ... i had something to say, really.XD "If you ever fall off the Sears Tower, just go real limp, because maybe you'll look like a dummy and people will try to catch you because, hey, free dummy." byebye.

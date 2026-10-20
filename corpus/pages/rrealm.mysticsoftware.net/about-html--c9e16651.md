@@ -13,8 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_about: "Reverie Realm"
-f_age: "16"
-f_location: "Somewhere in Wisconsin…"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/rrealm.mysticsoftware.net/about.html", captured: "20020702120329", sha256: "d6e3d82196b6ee1db0d0c4e7584a72806f2b901e351147bbef091a9e4a360a88", wayback_url: "https://web.archive.org/web/20020702120329/http://rrealm.mysticsoftware.net/about.html"}
@@ -29,9 +28,9 @@ Last year as I was "strolling" through the internet, I came across a cool little
 Contact me:
 AIM: L300LVL
 YIM: E_t_e_r_n_a_l_l3lue
-MSN: ly_chia_shia@hotmail.com
+MSN: (redacted: email)
 **********
-Real name: Chia
+Real name: (redacted: name)
 Age: 16
 Gender: F
 Birthday: November 2

@@ -14,7 +14,7 @@ authors: ["YSayianZ IIXII"]
 comments_present: 0
 f_interests: "Girls,Church,God,reading the Bible,etc"
 f_joined: "September 6, 2004"
-f_location: "The 180 shed post count:the sideways 8 thingy lol"
+f_location: "(redacted: location)"
 f_username: "YSayianZ IIXII"
 converter_version: "1"
 source_captures:

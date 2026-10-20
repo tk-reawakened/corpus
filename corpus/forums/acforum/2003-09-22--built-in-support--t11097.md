@@ -94,7 +94,7 @@ Also, it would be less cumbersome if all those commands were built into the tool
 
 [![](http://gra.midco.net/johnk/graphics_tk/tkgamer3.jpg)](http://tkgamer.vagrantsoftware.com)
 [![](http://gra.midco.net/johnk/graphics_vs/logo2.png)](http://www.vagrantsoftware.com)
-Contact me on **MSN: kosker@hotmail.com** or **AIM: mastervagrant**
+Contact me on **MSN: (redacted: email)** or **AIM: mastervagrant**
 
 ### forsakenmarz · 2003-09-23 15:51 · #A1002-11108
 

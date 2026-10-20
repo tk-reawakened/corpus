@@ -14,7 +14,7 @@ authors: ["Oyerth"]
 comments_present: 0
 f_interests: "Games"
 f_joined: "January 28, 2004"
-f_location: "Toms River, NJ"
+f_location: "(redacted: location)"
 f_username: "Oyerth"
 converter_version: "1"
 source_captures:

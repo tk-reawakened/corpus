@@ -13,9 +13,8 @@ repliers: []
 authors: ["2006 anbumakura"]
 comments_present: 0
 handle: "2006 anbumakura"
-f_age: "21-25"
 f_country: "United States"
-f_name: "Ben Schnagl"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_username: "2006 anbumakura"
 converter_version: "1"

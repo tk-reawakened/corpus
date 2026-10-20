@@ -113,7 +113,7 @@ case 3: printf("\nYou selected Option C"); break;
 case 4: printf("\nYou selected Exit"); return; : printf("\nInvalid!!"); break;
 default
 There you have it. You are now capable of building a basic console-based menu. Be reminded that there are still several ways to achieve the same output by utilizing the different capabilities of the looping techniques as well as different selection techniques.
-If you have any questions, comments, suggestions, or reactions, just e-mail me atpiartsco@yahoo.com
+If you have any questions, comments, suggestions, or reactions, just e-mail me (redacted: email)
 Colin
 December 1, 2004, 12:09 am
 I hate C. :) C++ is far better. Oh, and "while (1)" means "while (1 != 0)" not while it is 1.

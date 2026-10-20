@@ -89,7 +89,7 @@ Falcon
 
 > Devastus
 > Race: Immortal
-> In=3 St=6 Sp=4 Af=6 Dx=1 Wt=4 Lf=15
+> In=(redacted: address)=6 Sp=4 Af=6 Dx=1 Wt=4 Lf=15
 > Armor kit: Chest Armor
 > Background: Shortly, abandoned by Xavicon, he went to the hideout of Keen Shadows to be transformed into a Shadowlancer. After that day, he hasn't given any mercy for members of Xavicon, neither their partner clans.
 > Mercenary(2)
@@ -142,7 +142,7 @@ There we go! I guess I'll be joining your game then. Smile Wow, I hope other peo
 
 > Name: Kyoji
 > race: human
-> In=3 St=2 Sp=2 Af=4 Dx=2 Wt=3 Lf=3
+> In=(redacted: address)=2 Sp=2 Af=4 Dx=2 Wt=3 Lf=3
 > Job: Intergalactic Police officer (2)
 > Vehicle: USS Knight Wing
 >

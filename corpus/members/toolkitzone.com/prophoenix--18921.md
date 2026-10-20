@@ -13,7 +13,6 @@ repliers: []
 authors: ["ProPhoenix"]
 comments_present: 0
 handle: "ProPhoenix"
-f_age: "16 - 20"
 f_joined: "February 24th 2008"
 f_last_visit: "November 27th 2008"
 f_rank: "Member"

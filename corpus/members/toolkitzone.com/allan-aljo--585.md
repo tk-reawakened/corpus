@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Allan@Aljo"
 f_joined: "February 24th 2004"
 f_last_visit: "December 4th 2006"
-f_location: "Dallas, TX"
+f_location: "(redacted: location)"
 f_occupation: "Butcher Block Supervisor"
 f_rank: "Member"
 f_rankings: "No rankings."

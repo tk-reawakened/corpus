@@ -13,7 +13,6 @@ repliers: []
 authors: ["TheAirborne"]
 comments_present: 0
 handle: "TheAirborne"
-f_age: "16 - 20"
 f_interests: "Fencing, Guitar, Games, Programming, and so on..."
 f_joined: "January 21st 2007"
 f_last_visit: "January 26th 2007"

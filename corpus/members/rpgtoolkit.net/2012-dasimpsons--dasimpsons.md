@@ -13,7 +13,6 @@ repliers: []
 authors: ["2012 DaSimpsons"]
 comments_present: 0
 handle: "2012 DaSimpsons"
-f_age: "10-15"
 f_country: "Netherlands"
 f_name: "Isabella"
 f_occupation: "Student"

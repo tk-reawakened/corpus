@@ -21,5 +21,4 @@ source_captures:
 
 Michael J. Hill
 " "
-: : : ssj2songohan_rpgtk@hotmail.com : **Private Message** [Michael J. Hill](?rid=9&uid=22)
-**Email**ssj2songohan_rpgtk@hotmail.com
+: : : (redacted: email) : **Private Message** [Michael J. Hill](?rid=9&uid=22)

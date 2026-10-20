@@ -62,7 +62,7 @@ links:
 > 5) You may work in teams if you wish.
 > 8) Your allowed one submitted piece. Updates to the submitted piece is fine but creating a new submitted piece is not.
 > 7) Entries must be received no later than May 5th, 2006
-> Submitted pieces need to be emailed to John@aljo.afraid.org, any problems can be discussed with me by IM which is conveniently on my profile.
+> Submitted pieces need to be emailed to (redacted: email), any problems can be discussed with me by IM which is conveniently on my profile.
 >
 
 All related discussion here.

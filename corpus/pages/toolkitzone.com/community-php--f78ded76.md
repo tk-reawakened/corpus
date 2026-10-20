@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 18th, 2008"
-f_location: "The land of Moogles and Chocobos."
-f_name: "Grant Ayles"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5848", captured: "20100102011915", sha256: "4c2c9a84638db6622b3dcbf6fa835d6474ca147e358847a01eb0afc80be79395", wayback_url: "https://web.archive.org/web/20100102011915/http://toolkitzone.com/community.php?blog=5848"}
@@ -34,6 +34,6 @@ Ah, western/near Pitt at all?I'm about 45 minutes west of Pitt and we lost power
 An hour north of Pittsburgh a few minutes east of Youngstown, OH. I lost mine on Sunday and got it back on Thursday.
 About Lyfe
 [![Lyfe](forum/images/avatars/118720767448d4131b72525.gif)](community.php?user=22864)
-Grant Ayles
+(redacted: name)
 The land of Moogles and Chocobos.
 September 18th, 2008

@@ -13,11 +13,10 @@ repliers: []
 authors: ["OBCT"]
 comments_present: 0
 handle: "OBCT"
-f_age: "16 - 20"
 f_interests: "Programming, RPGs"
 f_joined: "February 16th 2004"
 f_last_visit: "February 19th 2007"
-f_location: "Pennsylvania"
+f_location: "(redacted: location)"
 f_name: "Steve"
 f_occupation: "Student"
 f_rank: "Member"

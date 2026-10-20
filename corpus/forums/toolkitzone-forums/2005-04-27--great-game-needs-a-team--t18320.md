@@ -35,7 +35,7 @@ links: []
 Ok, I started my game since last week and I almost made all of the intro
 But I'm realist and I see that I will need a team to finish this game one day.
 The game's name is Dragon Lord. If you want to learn more about the game just mail me or you could catch me on msn
-This is my e-mail and msn adress barret01@hotmail.com
+This is my e-mail and msn adress (redacted: email)
 I already have a good idea of the game. There is just a lot of work to do and I need people to help me.
 
 ### lavarock09 · 2005-04-27 19:11 · #B200341

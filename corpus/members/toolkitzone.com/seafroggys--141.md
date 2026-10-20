@@ -13,12 +13,11 @@ repliers: []
 authors: ["Seafroggys"]
 comments_present: 0
 handle: "Seafroggys"
-f_age: "16 - 20"
 f_interests: "Drumming, Songwriting, Gaming, Drawing, Lovemaking, Writing"
 f_joined: "January 28th 2004"
 f_last_visit: "March 6th 2007"
-f_location: "Edge of Nowhere"
-f_name: "Justin Radford"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Sales Floor, Target"
 f_rank: "Member"
 f_rankings: "No rankings."

@@ -13,12 +13,11 @@ repliers: []
 authors: ["daman"]
 comments_present: 0
 handle: "daman"
-f_age: "16 - 20"
 f_interests: "Motocross, Snowmobiling, bmx, computers, gaming"
 f_joined: "July 7th 2005"
 f_last_visit: "March 8th 2007"
-f_location: "Indiana"
-f_name: "Jimmy Ross"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student/WebSiteDesigner/Prick (Part Time)"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -35,7 +34,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-Rossboyjr91@hotmail.com
+(redacted: email)
 Posted on Tuesday 11.03pm, February 6th, 2007
 This image is the funniest thing I have ever seen on the toolkit website! Is this game a joke? I have attached a picture of a board that my pet nerd made. He can design really good mazes too! Lol... [img=http://img404.imageshack.us/img404/5606/betterthanyouoc9.th.png] BTW - I beat your har... [more![More](templates/default/images/icons/more.gif)](games.php?image=8414#c33973)
 Posted on Saturday 4.42am, January 27th, 2007

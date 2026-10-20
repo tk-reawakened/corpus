@@ -51,4 +51,4 @@ Luckily for you and me, the servers know who they are, and they know where the o
 **![](images/DiamondSm.gif) [Internet Terms](InternetTerms.html)**
 **![](images/DiamondSm.gif)**[** All About Viruses
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

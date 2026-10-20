@@ -47,7 +47,7 @@ No votes.
 The second edition of the now popular pixelling contest from way back in July. Within you can find all the entries plus the eventual winner and runners-up after voting on the ... [![Thumb](thumb.php?src=vault/documents/1052.png&iar=1&aoe=1&bw=1&w=65&h=65)](library.php?doc=51) [Pixel Art Competition - July Edition](library.php?doc=51)
 By on September 1st, 2005 [Khin](community.php?user=157)
 No votes.
-A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each e... [![Thumb](thumb.php?src=vault/documents/1058.png&iar=1&aoe=1&bw=1&w=65&h=65)](library.php?doc=50) [Short Story Contest: The Results](library.php?doc=50)
+A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each e... [![Thumb](thumb.php?src=vault/documents/1058.png&iar=1&aoe=1&bw=1&w=65&h=65)](library.php?doc=50) [Short Story Contest: The Results](library.php?doc=50)
 No votes.
 After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by Cyrus ... [![Thumb](thumb.php?src=vault/documents/1057.png&iar=1&aoe=1&bw=1&w=65&h=65)](library.php?doc=33) [Short Story Contest: Final Shortlist](library.php?doc=33)
 No votes.

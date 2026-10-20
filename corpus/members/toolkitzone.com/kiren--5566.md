@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Kiren"
 f_joined: "March 27th 2005"
 f_last_visit: "October 26th 2006"
-f_location: "At the computer"
+f_location: "(redacted: location)"
 f_occupation: "7th Grade Student"
 f_rank: "Member"
 f_rankings: "No rankings."

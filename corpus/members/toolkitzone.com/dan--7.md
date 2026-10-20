@@ -13,10 +13,9 @@ repliers: []
 authors: ["Dan"]
 comments_present: 0
 handle: "Dan"
-f_age: "16 - 20"
 f_joined: "January 28th 2004"
 f_last_visit: "March 18th 2007"
-f_location: "York, England"
+f_location: "(redacted: location)"
 f_name: "Dan"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -35,7 +34,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-mrdanis@msn.com
+(redacted: email)
 Recent Blog Entries
 Added on Sunday 11.48pm, July 25th, 2004
 I edit the blog homepage to look a little more like the website homepage, it's much better than it was, I reckon. [more![More](templates/default/images/icons/more.gif)](community.php?blog=890)

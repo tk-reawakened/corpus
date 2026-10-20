@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Peoria, AZ, USA"
-f_name: "John Barber"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5775", captured: "20100102032508", sha256: "6421f95951bbd7a5655173a573afd886c38b6772c77d54386bbb511ab1daf98c", wayback_url: "https://web.archive.org/web/20100102032508/http://toolkitzone.com/community.php?blog=5775"}
@@ -53,7 +53,7 @@ Isn't Whist still around, only under a different name? Either way, neither of th
 TBD
 About Spyder
 [![Spyder](forum/images/avatars/158838120745a6a00ea9569.jpg)](community.php?user=148)
-John Barber
+(redacted: name)
 Peoria, AZ, USA
 January 28th, 2004
 Site:

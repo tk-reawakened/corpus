@@ -13,12 +13,11 @@ repliers: []
 authors: ["Citytorial_Virus"]
 comments_present: 0
 handle: "Citytorial_Virus"
-f_age: "16 - 20"
 f_interests: "i like playin random shit on my guitar."
 f_joined: "August 15th 2007"
 f_last_visit: "November 24th 2007"
-f_location: "St. Francis"
-f_name: "Mars Killger"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Vocals/Rythm Guitar of a band"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -36,7 +35,7 @@ Male
 **About Me:**
 i am the vocals and rythm guitar of a band. that band is known as Salad Fork. check us out at http://www.myspace.com/saladfork we dont have an album made yet but we are working on it. and i made another band called Metal Death. here is the link: http://www.myspace.com/metaldeathrules
 **MSN:**
-marshalldilger_10@hotmail.com
+(redacted: email)
 Posted on Thursday 3.38am, November 1st, 2007
 acctually, i did draw this. not with my feet. then i scanned the pic on the computer. then i used paint to put brutality were it is. [more![More](templates/default/images/icons/more.gif)](games.php?image=10066#c41184)
 Posted on Thursday 3.34am, November 1st, 2007

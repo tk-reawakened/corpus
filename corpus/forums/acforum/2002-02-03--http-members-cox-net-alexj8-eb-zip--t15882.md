@@ -46,7 +46,7 @@ Tailz, KrazyGames Entertainment
 **Are you the same Tailz we all remember? -nt-**
 
 nt
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [![](http://www.whiteboy.barrysworld.net/images/whiteboy.jpg)](http://WhiteBoyOnline.cjb.net)
 Above image created by M. Scott Wilson (Thanks Smallsip)
 

@@ -48,7 +48,7 @@ and do that over and over...
 right?
 Conatct Me!
 AOL SN= danwr91
-MSN= dan_quickcat@hotmail.com
+MSN= (redacted: email)
 ![Hecate](http://images.quizilla.com/T/truly-dippy/1061402444_ktopmagic2.gif)
 ![Smirk](http://images.quizilla.com/V/vinacross/1045377151_StuffSmirk.gif)
 You're the smirk,a frown-smile hybrid that's a

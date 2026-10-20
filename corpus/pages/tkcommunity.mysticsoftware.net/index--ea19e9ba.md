@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_location: ": January 3, 2003 | 12:15.33 AM Join Date"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/tkcommunity.mysticsoftware.net/__rid_3_uid_20", captured: "20030527114213", sha256: "b719e261b539385d6bda69eadc8028a63d0ee125cf3550d258050df55f302ecc", wayback_url: "https://web.archive.org/web/20030527114213/http://tkcommunity.mysticsoftware.net/?rid=3&uid=20"}
@@ -24,5 +24,4 @@ E_t_e_r_n_a_l_l3lue
 " " No, i am not Lunar 2 :P
 ![](http://cy.dynu.com/rrealm/l3lue8.gif)
 : : : l300lvl : ???Currently Unnamed??? : : CHEESE **Private Message** [E_t_e_r_n_a_l_l3lue](?rid=9&uid=20)
-**Email**ly_chia_shia@hotmail.com
 : January 3, 2003 | 12:15.33 AM **Join Date**

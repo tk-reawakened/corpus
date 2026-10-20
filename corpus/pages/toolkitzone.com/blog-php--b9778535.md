@@ -14,7 +14,7 @@ authors: ["AAV"]
 comments_present: 0
 f_interests: "Playing Guitar and producing"
 f_joined: "April 28, 2005"
-f_location: "Mine of Judgement"
+f_location: "(redacted: location)"
 f_username: "AAV"
 converter_version: "1"
 source_captures:

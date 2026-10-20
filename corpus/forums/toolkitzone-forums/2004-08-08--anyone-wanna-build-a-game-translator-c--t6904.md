@@ -89,7 +89,7 @@ _________________
 I'm doing the same thing as u guys... but a RPG MAKER...
 but it's being made on delphi and the translator CPP...
 _________________
-João Pedro |\__\_ - Phoenix Productions ----> joaofoscarini@gmail.com
+João Pedro |\__\_ - Phoenix Productions ----> (redacted: email)
 [![](http://www.mysticsoftware.net/images/tk_army.png)](http://www.cywh.com/ot/)
 [![](http://www.mysticsoftware.net/images/mscomm_02.png)](http://www.mysticsoftware.net/)
 [![](http://img.photobucket.com/albums/v491/Diddums/banner.png)](http://www.mr-diddums.tk)

@@ -13,10 +13,9 @@ repliers: []
 authors: ["Hamster"]
 comments_present: 0
 handle: "Hamster"
-f_age: "16 - 20"
 f_joined: "March 12th 2004"
 f_last_visit: "February 25th 2007"
-f_location: "College Station,Texas"
+f_location: "(redacted: location)"
 f_name: "Steven"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +30,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-TXSteveW@Gmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Friday 9.00pm, January 26th, 2007
 Havent posted much around here lately it looks like I'll be able to get a job paying 10 < an hr. doing surveying stuff, so when I start that and it turns out to be a regular thing, I'll be able to quit my crappy fast food job, though in some ways I don't want to because I've gotten to be good frie... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5145)

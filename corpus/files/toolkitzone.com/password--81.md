@@ -26,8 +26,8 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
-Written by W.L.Burgett (figement68@hotmail.com) BASIC SPRITE CREATION : TUTORIAL 1
+beta version - report any problems to (redacted: email)
+Written by W.L.Burgett ((redacted: email)) BASIC SPRITE CREATION : TUTORIAL 1
 *Edited by Vampz for Toolkit Zone*
 Note: Click to download the templates needed for this tutorial and extract them to the tilesets folder. If you are viewing this file offline, then the tilesets should be included in the download, simply copy & paste them to the tilesets folder. [here](fileman.php?id=3&file=82)
 So you need some help with creating original sprites for your “RPG toolkit” game? There are a number of ways to do so. If you are attempting to find readymade sprites, this tutorial is not for you. To find out more about where to obtain readymade sprites, go to the “Twisted Karma” web site. But if you are wanting to learn more about creating your own high quality, one of a kind sprites, designed specifically for your own game, then this tutorial will supply you with everything that you will need. So get the caffeine, kick your shoes off and let’s get started!
@@ -73,4 +73,4 @@ If you are still not ready to create your own original tiles then visit my site 
 ![](fileman/images/45.jpg)
 http://www.geocities.com/figment_1968/TwistedKarma.html
 http://www.geocities.com/figment_1968/figment68.html
-Contact the author via e-mail at figment68@hotmail.com .
+Contact the author via e-mail at (redacted: email) .

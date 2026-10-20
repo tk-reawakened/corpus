@@ -55,14 +55,14 @@ I was about to find a map with just three seconds of googling.
 >
 
 I had found out his Email but I think ill just ban the IP lol heres the email...
-JaiAlaiUSA@aol.com
+(redacted: email)
 
 ### God · 2005-03-18 05:12 · #B182113
 
 I give u the ARIN report:
 OrgName: America Online, Inc
 OrgID: AMERIC-59
-Address: 22080 Pacific Blvd
+Address: (redacted: address)
 City: Sterling
 StateProv: VA
 PostalCode: 20166
@@ -80,8 +80,8 @@ RegDate: 1998-04-18
 Updated: 1998-04-27
 TechHandle: AOL-NOC-ARIN
 TechName: America Online, Inc.
-TechPhone: +1-703-265-4670
-TechEmail: domains@aol.net
+TechPhone: (redacted: phone number)
+TechEmail: (redacted: email)
 
 ### YSayianZ IIXII · 2005-03-18 06:06 · #B182122
 
@@ -93,7 +93,7 @@ if im getting this straight AOL IS HACKING ME!? no couldnt be maybe its just som
 
 > OrgName: America Online, Inc
 > OrgID: AMERIC-59
-> Address: 22080 Pacific Blvd
+> Address: (redacted: address)
 > City: Sterling
 > StateProv: VA
 > PostalCode: 20166

@@ -28,7 +28,7 @@ source_captures:
 
 Very nice "Step by Step Tutorials" to ease you through the process. In this case there are no terribly complicated topics discussed, but when I was a nooby I remember having problems with these same issues. Excellent job Marz.
 **Step-by-Step Tutorials**
-A load of step-by-step tutorials brought to you by Marz for your aid in doing the simple things with the Toolkit. This version is 1.00, and is compatible with the last version of TK2, but has not yet been tested with TK3. If you have any suggestions or would like to see another step-by-step tutorial, then don’t hesitate to email me at: forsakenmarz@msn.com
+A load of step-by-step tutorials brought to you by Marz for your aid in doing the simple things with the Toolkit. This version is 1.00, and is compatible with the last version of TK2, but has not yet been tested with TK3. If you have any suggestions or would like to see another step-by-step tutorial, then don’t hesitate to email me at: (redacted: email)
 Adding Enemies
 : Select the 'Edit Enemies' box from the left hand side of the screen. **Step 1**
 : Give it a name, and fill in the remaining fields. Max Health Points is how much HP the enemy will have. Special Move Power will determine how many magic or special moves your enemy can have. Fighting Power will determine how much damage will be inflicted on the player. Defense Power is the number of defense points the enemy has. **Step 2**

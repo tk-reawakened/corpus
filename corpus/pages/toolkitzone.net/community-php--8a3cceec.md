@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Drawing, Gaming, Playing guitar/bass 'n other stuff."
 f_joined: "October 6th 2006"
 f_last_visit: "April 2nd 2008"
-f_location: "The frozen northwest of America (Idaho)"
+f_location: "(redacted: location)"
 f_name: "Alex"
 f_occupation: "I lay tile/stone."
 f_rank: "Member"
@@ -37,7 +36,6 @@ I lay tile/stone.
 Drawing, Gaming, Playing guitar/bass 'n other stuff.
 ',:]
 **E-Mail:**
-kotholos@gmail.com
 Posted on Thursday 6.20am, March 27th, 2008
 Sharmandra wrote:Its a shame, this seemed to be the most promising of the fangames in a qhile. quoted for truth. [more![More](templates/default/images/icons/more.gif)](games.php?news=5382#c44804)
 Posted on Wednesday 10.21pm, March 26th, 2008

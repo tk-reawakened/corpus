@@ -22,5 +22,5 @@ source_captures:
 * Simple Web Designed Screens * Task Driven * Simplified Data Entry * Fast and Flexible Searches * Comprehensive Reporting * Flexible and Filterable Displays * Interfaces with other Software
 ***The Smart Choice!***
 >
-> Sales@MysticSoftware.com
+> (redacted: email)
 >

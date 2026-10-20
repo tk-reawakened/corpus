@@ -13,11 +13,10 @@ repliers: []
 authors: ["Dave the Hamster"]
 comments_present: 0
 handle: "Dave the Hamster"
-f_age: "21 - 25"
 f_interests: "Final Fantasy, cartoons, Zelda, games in general, movies, MASH, Red Green Show"
 f_joined: "April 17th 2007"
 f_last_visit: "January 6th 2009"
-f_location: "California"
+f_location: "(redacted: location)"
 f_name: "Jon"
 f_occupation: "Student"
 f_rank: "Member"

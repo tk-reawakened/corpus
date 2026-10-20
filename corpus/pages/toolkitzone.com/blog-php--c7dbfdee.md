@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 I'm back!
 Posted by - Fri 13 August, 2004 10:15pm [Twin Keyblade](forums/profile.php?mode=viewprofile&u=1395)
 Hey, TK's back! I'm now seriously considering buying Visual Basic so as to help the community develop Toolkit 3. Also, it'd be cool to create dll's for TK2. I'm now on the forums asking for advice!

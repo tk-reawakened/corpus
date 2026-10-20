@@ -13,7 +13,7 @@ repliers: []
 authors: ["RPGLand2000"]
 comments_present: 0
 f_joined: "February 22, 2004"
-f_location: "Madison, Wisconsin"
+f_location: "(redacted: location)"
 f_username: "RPGLand2000"
 converter_version: "1"
 source_captures:

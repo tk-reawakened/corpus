@@ -13,10 +13,9 @@ repliers: []
 authors: ["Gurgan Dellik"]
 comments_present: 0
 handle: "Gurgan Dellik"
-f_age: "16 - 20"
 f_joined: "July 20th 2004"
 f_last_visit: "February 24th 2007"
-f_location: "Washington(State), USA"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Gurgan Dellik"
@@ -37,7 +36,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-gurgan_dellik_12@hotmail.com
+(redacted: email)
 ![My Things](../templates/default/images/icons/forums/forum_mythings.gif) [Unofficial TKZ Art Dump](forum/viewtopic.php?p=381712#381712)
 Posted on Wednesday 3.00pm, February 21st, 2007
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Anticipated Games of 2007?](forum/viewtopic.php?p=377642#377642)

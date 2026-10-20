@@ -13,7 +13,6 @@ repliers: []
 authors: ["Night_Elf"]
 comments_present: 0
 handle: "Night_Elf"
-f_age: "16 - 20"
 f_interests: "Internet, programming, music"
 f_joined: "January 28th 2004"
 f_last_visit: "January 5th 2007"
@@ -32,7 +31,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-funnylittleman88@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 6.18pm, May 23rd, 2006
 Well im back using TKZ now.. but as you've probably seen I've fallen behind with RPG Toolkit in terms of programming, and my game was pretty hopeless. I still think the story had potential, but im still living in 2004/05 in terms of the kinds of things im doing with it, so I've taken the short-li... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4426)

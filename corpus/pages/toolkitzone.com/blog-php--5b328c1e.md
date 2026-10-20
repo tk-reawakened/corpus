@@ -14,7 +14,7 @@ authors: ["Dominea"]
 comments_present: 0
 f_interests: "Games...Duh"
 f_joined: "January 25, 2005"
-f_location: "I found my long lost Grandpa!"
+f_location: "(redacted: location)"
 f_username: "Dominea"
 converter_version: "1"
 source_captures:

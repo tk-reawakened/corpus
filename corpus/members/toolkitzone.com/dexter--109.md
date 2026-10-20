@@ -13,12 +13,11 @@ repliers: []
 authors: ["DEXTER"]
 comments_present: 0
 handle: "DEXTER"
-f_age: "10 - 15"
 f_interests: "Programming"
 f_joined: "January 28th 2004"
 f_last_visit: "February 8th 2007"
-f_location: "Bran's Castle"
-f_name: "Xedret Belmont"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "VOL Tech"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -37,7 +36,7 @@ Male
 A guy with nothing else to do but to program stuff.
 **E-Mail:**
 **MSN:**
-Ultra_DEXTER@HOTMAIL.COM
+(redacted: email)
 Posted on Friday 9.07pm, May 21st, 2004
 *Kicks Word2 and ZZZURDEADZZZ* I made something nicer that looks like 3D I started the gradent thingys and then u followed my lead [more![More](templates/default/images/icons/more.gif)](files.php?file=614#c15113)
 Posted on Friday 7.58pm, April 16th, 2004

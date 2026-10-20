@@ -13,7 +13,6 @@ repliers: []
 authors: ["playsoon"]
 comments_present: 0
 handle: "playsoon"
-f_age: "21 - 25"
 f_joined: "June 24th 2009"
 f_last_visit: "December 14th 2009"
 f_name: "Anthony"

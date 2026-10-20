@@ -18,7 +18,7 @@ f_name: "Slime"
 f_size: "30.2 kb"
 f_submitted_by: "ligayasu"
 f_version: "3/5"
-f_website: "ligayasu@yahoo.com"
+f_website: "(redacted: email))"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/fileman.php__id_3_file_643", captured: "20041101041348", sha256: "3358509c96bf1d5a9eaa17f66abb026d230ab7a71f2f93924f35cc764a200cda", wayback_url: "https://web.archive.org/web/20041101041348/http://www.toolkitzone.com/fileman.php?id=3&file=643"}

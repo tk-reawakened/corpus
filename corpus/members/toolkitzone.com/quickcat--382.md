@@ -13,11 +13,10 @@ repliers: []
 authors: ["QuickCat"]
 comments_present: 0
 handle: "QuickCat"
-f_age: "16 - 20"
 f_interests: "Martial Arts, Music, and Philosiphy"
 f_joined: "February 15th 2004"
 f_last_visit: "March 1st 2007"
-f_location: "Washington Post Count: lol"
+f_location: "(redacted: location)"
 f_name: "Daniel"
 f_occupation: "Student"
 f_rank: "Member"
@@ -36,7 +35,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-dan_quickcat@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Sunday 7.41pm, February 4th, 2007
 First off, I went to the school Friday to do my finals and pick up homework. Also, I learned my punishment. 36 days suspended from school, pay 1/4 of the cost of damages (which is undetermined), 50 hours of community service, and a letter of apology (as if I'm sorry o.o) 36 days is crazy, but ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5167)

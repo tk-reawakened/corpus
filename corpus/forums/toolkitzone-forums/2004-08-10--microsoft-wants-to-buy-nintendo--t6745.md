@@ -95,7 +95,7 @@ Poor hygiene/JPEG compression/Final Fantasy/Microsoft/Rock music/praise/coffee i
 (formerly known as ares)
 [![](http://www.mg.geahost.com/small_rg.gif)](http://mg.geahost.com/rg)[![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 im speshul
 
 ### Gnarf · 2004-08-11 07:03 · #B73129

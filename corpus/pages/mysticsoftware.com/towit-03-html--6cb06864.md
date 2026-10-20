@@ -22,5 +22,5 @@ source_captures:
 * Each screen provides all the data you need to complete a task. * Reminders ensure all important data gets entered. * Drop down lists ensure accurate and uniform data entry. * You define and maintain codes and types for drop down list. * Charge rates are set by company / agency.
 ***The Smart Choice!***
 >
-> Sales@MysticSoftware.com
+> (redacted: email)
 >

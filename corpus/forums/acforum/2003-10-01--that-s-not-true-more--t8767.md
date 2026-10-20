@@ -60,8 +60,8 @@ HELO!1111 OMG MAH NMA IS KR0NICUL AND I PREFER CHIKEN OV3R PEI!111!!11 WTF I DON
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 
@@ -91,8 +91,8 @@ HELO!1111 OMG MAH NMA IS KR0NICUL AND I PREFER CHIKEN OV3R PEI!111!!11 WTF I DON
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 
@@ -112,4 +112,4 @@ it's hard to look good when you have people shitting and pissing in you...
 
 [![](http://gra.midco.net/johnk/graphics_tk/tkgamer3.jpg)](http://tkgamer.vagrantsoftware.com)
 [![](http://gra.midco.net/johnk/graphics_vs/logo2.png)](http://www.vagrantsoftware.com)
-Contact me on **MSN: kosker@hotmail.com** or **AIM: mastervagrant**
+Contact me on **MSN: (redacted: email)** or **AIM: mastervagrant**

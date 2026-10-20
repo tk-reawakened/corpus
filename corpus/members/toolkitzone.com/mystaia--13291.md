@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Mystaia"
 f_joined: "August 14th 2006"
 f_last_visit: "August 29th 2006"
-f_location: "Brighton, UK"
+f_location: "(redacted: location)"
 f_occupation: "Person"
 f_rank: "Member"
 f_rankings: "No rankings."

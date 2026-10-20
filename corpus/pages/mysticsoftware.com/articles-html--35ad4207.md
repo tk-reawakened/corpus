@@ -32,4 +32,4 @@ source_captures:
 >
 > **SORRY !** This area of the site is not yet live. Just like the cobbler who's children have no shoes, our own site is the last to get attention. **Here at Mystic Software the client always come first !**
 >
-Sales@MysticSoftware.com
+(redacted: email)

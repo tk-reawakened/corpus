@@ -13,13 +13,12 @@ repliers: []
 authors: ["Sammwi2emz"]
 comments_present: 0
 handle: "Sammwi2emz"
-f_age: "16 - 20"
 f_interests: "Video Games, Making Video Games, Playing Video Games, and Watching Horror Movies."
 f_joined: "April 9th 2008"
 f_last_visit: "April 18th 2008"
-f_location: "Right behind you."
-f_name: "The Samm"
-f_occupation: "The Samm"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
+f_occupation: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Sammwi2emz"

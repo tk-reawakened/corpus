@@ -13,11 +13,10 @@ repliers: []
 authors: ["Hitcher"]
 comments_present: 0
 handle: "Hitcher"
-f_age: "16 - 20"
 f_interests: "Music, Games"
 f_joined: "April 16th 2008"
 f_last_visit: "May 12th 2008"
-f_location: "My room..."
+f_location: "(redacted: location)"
 f_name: "Hitcher (That's all you need to know)"
 f_occupation: "Student / Aspiring Game Designer"
 f_rank: "Member"
@@ -36,7 +35,7 @@ Male
 **About Me:**
 I'm an aspiring game designer... That's what I am here for... I had always liked the older 2D top-down RPGs look forward to making an epic adventure with a team someday.
 **MSN:**
-th3_hitchhiker@hotmail.com
+(redacted: email)
 ![Newbie Haven](../templates/default/images/icons/forums/forum_newbie.gif) [SUPER NUBbY qUesTiOn](forum/viewtopic.php?p=439549#439549)
 Posted on Wednesday 3.24am, May 7th, 2008
 Basically, what I think Fury is saying is, that the only reason the Kill() command is there to prevent an 'overflow' error. So basically unless you don't have any destinations for the variables, and you loop it to no end, you don't have to worry about it... But then again, I could be, and possibly ... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=439549#439549)

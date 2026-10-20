@@ -13,11 +13,10 @@ repliers: []
 authors: ["seanad"]
 comments_present: 0
 handle: "seanad"
-f_age: "16 - 20"
 f_interests: "Games, music"
 f_joined: "February 5th 2007"
 f_last_visit: "March 9th 2007"
-f_location: "Georgia"
+f_location: "(redacted: location)"
 f_name: "Seana"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -34,7 +33,7 @@ source_captures:
 Female
 **E-Mail:**
 **MSN:**
-poisonmushroom@mail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Helper on the project "spore" cursed the wii off](forum/viewtopic.php?p=384581#384581)
 Posted on Friday 1.16pm, March 9th, 2007
 That acually makes me mad, Hes just an ass. Wii is the best! [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=384581#384581)

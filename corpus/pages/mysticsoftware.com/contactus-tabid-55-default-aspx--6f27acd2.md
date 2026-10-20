@@ -20,11 +20,11 @@ source_captures:
 # Â Â Â Â Â Â Â Â Â Â Â Â Â Products
 
 Monday - Friday 8:00 AM - 5.00 PM Saturday Closed Sunday Closed*** Office Hours:
-Voice (949) 595-7980 Toll Free (888) 595-7980 Fax (949) 666-7763 (949) 595-7980 extension 252
+Voice (redacted: phone number) Toll Free (redacted: phone number) Fax (redacted: phone number) (redacted: phone number) extension 252
 Contacts:
 ** Main Office
 ** Sales:
-[ Sales@MysticSoftware.com
-(949) 595-7980 extension 251 **Customer Service & Technical Support:**
-Support@MysticSoftware.com
+[ (redacted: email)
+(redacted: phone number) extension 251 **Customer Service & Technical Support:**
+(redacted: email)
 ![](/images/print.gif)

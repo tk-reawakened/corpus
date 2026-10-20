@@ -42,7 +42,7 @@ Plug-ins
 ![](../images/top-w.gif)
 OVERALL SCORE: 90 *Highly reccomended*
 **Godiva: Alpha 1.1b**
-Reviewer: Cyrus Martin
+Reviewer: (redacted: name)
 First off, let me say that I have played several TK games over the years and I am evaluating this game in comparison to those games. So, the scale is based on What I've seen so far in Tk games.
 The Scale of measurement is 1-100 (100 being the highest)
 Godiva: Alpha has been in production for a long time and it shows. Spyder has gone alot of work on the various areas of the game and has reached a level of quality few other games have been able to. When playing through GA I paid particular to some of the specific design areas and the following is my impressions of each...

@@ -43,8 +43,8 @@ And I made it into a method just now ^_^
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 

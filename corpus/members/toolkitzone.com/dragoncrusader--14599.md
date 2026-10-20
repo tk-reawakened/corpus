@@ -13,11 +13,10 @@ repliers: []
 authors: ["DragonCrusader"]
 comments_present: 0
 handle: "DragonCrusader"
-f_age: "10 - 15"
 f_interests: "Martial Arts(Black Belt)"
 f_joined: "November 29th 2006"
 f_last_visit: "February 13th 2007"
-f_location: "Nevada, America"
+f_location: "(redacted: location)"
 f_name: "Taylor"
 f_rank: "Member"
 f_rankings: "No rankings."

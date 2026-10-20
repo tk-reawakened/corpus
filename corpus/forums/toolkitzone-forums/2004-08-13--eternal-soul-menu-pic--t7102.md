@@ -151,8 +151,8 @@ For my other work, see my website below:
 
 It's really nice Juankc Corp. Even if it is a bit plain but it looks great anyway, I suggest you keep it that way. Really like the blue color.
 _________________
-New Hotmail: Johansson_Tk@hotmail.com
-Old Hotmail: Bjorn_djdj@hotmail.com
+New Hotmail: (redacted: email)
+Old Hotmail: (redacted: email)
 [![](http://www.rpgstudio.mysticsoftware.net/Banner.PNG)](http://www.rpgstudio.mysticsoftware.net)
 [Visit My Forum, need help with a battle system, custom menu?](http://ibforums.mysticsoftware.net/index.php?s=ab2146418122d629695b29590a7adb6a&showforum=40)
 [Need help with graphic?](http://www.rpgstudio.mysticsoftware.net/graphichelp.htm)
@@ -195,7 +195,7 @@ _________________
 
 looks nice.
 _________________
-João Pedro |\__\_ - Phoenix Productions ----> joaofoscarini@gmail.com
+João Pedro |\__\_ - Phoenix Productions ----> (redacted: email)
 
 ### -*khaos*- · 2004-08-15 07:18 · #B75754
 

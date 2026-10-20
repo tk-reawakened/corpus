@@ -64,7 +64,7 @@ nt
 
 **The new development wouldn't happen to be my post would it?(more**
 
-At any rate, I wasn't trying to be an ass, but it probably sounded like I was. I was just letting you know what I knew. As far as game reviews, it's a pain in the ass for me to update Mystic Software at the moment, but feel free to email any reviews you write to spyder@mysticsoftware.net, and I'll try to put them up ASAP. I also don't mind you submitting your reviews to other resource sites (if any others still exist)
+At any rate, I wasn't trying to be an ass, but it probably sounded like I was. I was just letting you know what I knew. As far as game reviews, it's a pain in the ass for me to update Mystic Software at the moment, but feel free to email any reviews you write to (redacted: email), and I'll try to put them up ASAP. I also don't mind you submitting your reviews to other resource sites (if any others still exist)
 *Spyder*
 
 ### dan · 2003-07-15 12:55 · #A1000-28106

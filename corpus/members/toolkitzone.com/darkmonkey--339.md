@@ -26,7 +26,7 @@ source_captures:
 # Darkmonkey
 
 **MSN:**
-demonicnature@hotmail.com
+(redacted: email)
 Posted on Sunday 4.15pm, February 15th, 2004
 Fantastic set, really fit's in with my new game project. I wuld say loose those wierd character tiles that are mixed in with the interior on the screen shot, they creep me out lol [more![More](templates/default/images/icons/more.gif)](files.php?file=218#c14503)
 Posted on Sunday 4.12pm, February 15th, 2004

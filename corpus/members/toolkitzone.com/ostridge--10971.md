@@ -13,11 +13,10 @@ repliers: []
 authors: ["Ostridge"]
 comments_present: 0
 handle: "Ostridge"
-f_age: "16 - 20"
 f_interests: "3D Modeling and Animation"
 f_joined: "April 3rd 2006"
 f_last_visit: "February 20th 2007"
-f_location: "Hayward,CA"
+f_location: "(redacted: location)"
 f_name: "Chris"
 f_occupation: "Student"
 f_rank: "Member"
@@ -36,7 +35,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-Chris_delong510@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Show your PC contest](forum/viewtopic.php?p=323310#323310)
 Posted on Sunday 1.19am, May 28th, 2006
 lol, i am not lying. i bought the alienware alx computer, go look at it. www.alienware.com [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=323310#323310)

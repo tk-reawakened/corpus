@@ -57,7 +57,7 @@ links:
 Im tired of all the good games coming out on Tk3. Evil or Very Mad
 Why cant they make more and better games with Tk2. Twisted Evil
 I need help to make one to blow the people that use Tk3 out of the water.
-If anyone wants to help just e-mail me at: mumbojumbobiggyfry@yahoo.com
+If anyone wants to help just e-mail me at: (redacted: email)
 Most of the stuff i need help with is concepts for boards, names, and escpecially programing. (I suck at it)
 I also have a good idea for a story/plot but can be twicked.
 If you want what i have of the story so far just say so in an e-mail.

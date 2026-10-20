@@ -16,7 +16,7 @@ handle: "spitfire"
 f_interests: "Girls, Computers, Music, Gaming"
 f_joined: "January 28th 2004"
 f_last_visit: "December 25th 2006"
-f_location: "Northern Minnesota"
+f_location: "(redacted: location)"
 f_occupation: "Web Design"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-dragonfire117@msn.com
+(redacted: email)
 Recent Blog Entries
 Added on Thursday 5.23am, December 29th, 2005
 WOW. It's been.. eight months since my last blog? Ironically, about an hour after I posted that, Kara calls me, and breaks up with me. Heh. No biggie, I went out with her best friend for about 4 months afterwords. But that's beside the point. skArt has evolved into blackflamemedia. www.blackflam... [more![More](templates/default/images/icons/more.gif)](community.php?blog=3786)

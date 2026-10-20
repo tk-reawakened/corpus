@@ -14,7 +14,7 @@ authors: ["comfox"]
 comments_present: 0
 f_interests: "Everything."
 f_joined: "January 28, 2004"
-f_location: "Deutschland"
+f_location: "(redacted: location)"
 f_username: "comfox"
 converter_version: "1"
 source_captures:

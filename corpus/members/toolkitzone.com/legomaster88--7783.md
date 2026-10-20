@@ -16,7 +16,7 @@ handle: "legomaster88"
 f_interests: "Programming, Games, Programming Games, TCG's, stuff like that."
 f_joined: "August 25th 2005"
 f_last_visit: "January 22nd 2007"
-f_location: "TKZ and the Aljo Newbie haven."
+f_location: "(redacted: location)"
 f_occupation: "Newbie Caretaker, if it counts"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/8202838834523a9aab794a.gif)
 **MSN:**
-Legomaster88@hotmail.com
+(redacted: email)
 Posted on Wednesday 11.21pm, October 25th, 2006
 For some odd reason, those tiles look ripped and/or familar.... Alos, that door does not fit at all. it's a new steel door in ruins [more![More](templates/default/images/icons/more.gif)](games.php?image=7762#c29487)
 Posted on Friday 12.18pm, October 20th, 2006

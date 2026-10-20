@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 Oh joy
 Posted by - Sat 14 August, 2004 1:06am [Asimir](forums/profile.php?mode=viewprofile&u=310)
 I found an old Amiga game called Pushover today. I played this game ages and ages ago, then tried to find it again and couldn't. Probably because I couldn't remember the name of the game, and I thought you controlled a bee and the game was sponsered by Sugar Puffs. You actually control an ant and the game is sponsered by Quavers. So it was rather hard for me to find it. I've been searching for it for years. Now I finally have it. I'm a happy bunny :D I also saw I Robot today. Cool movie.

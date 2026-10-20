@@ -27,7 +27,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/892475321436a85bf4be23.gif)
 **MSN:**
-Danwatkins2@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Im trying to make my first game...anyone interested?](forum/viewtopic.php?p=268648#268648)
 Posted on Thursday 9.47pm, November 3rd, 2005
 no no....i just found this site downloaded a toolkit and tryed....i gave up....that was ahile ago.....i want to leanr how to. but i dont like the way the fighting and the ppl look on the toolkit....although i think i used a older version of rpgtoolkite...but idk......i have final fantasy music...all... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=268648#268648)

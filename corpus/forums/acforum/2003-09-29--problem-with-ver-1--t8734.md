@@ -51,4 +51,4 @@ with version 1. It's an outdated version that, as far as I know, is only ther fo
 
 [![](http://gra.midco.net/johnk/graphics_tk/tkgamer3.jpg)](http://tkgamer.vagrantsoftware.com)
 [![](http://gra.midco.net/johnk/graphics_vs/logo2.png)](http://www.vagrantsoftware.com)
-Contact me on **MSN: kosker@hotmail.com** or **AIM: mastervagrant**
+Contact me on **MSN: (redacted: email)** or **AIM: mastervagrant**

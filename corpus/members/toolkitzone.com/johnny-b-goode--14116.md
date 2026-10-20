@@ -13,12 +13,11 @@ repliers: []
 authors: ["Johnny B Goode"]
 comments_present: 0
 handle: "Johnny B Goode"
-f_age: "21 - 25"
 f_interests: "any art: music, drawing, pixeling, or whatever."
 f_joined: "October 23rd 2006"
 f_last_visit: "January 17th 2007"
-f_location: "USA"
-f_name: "David Smith"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Psychedelic Rocker"
 f_rank: "Member"
 f_rankings: "No rankings."

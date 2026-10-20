@@ -16,7 +16,7 @@ handle: "Steve-o"
 f_interests: "My Virgo! <3,Video Games, NINTENDO, Movies, Plays, Metal Gear, Armored Core, RPG Toolkit, Anime, Manga, Anime Conventions, etc."
 f_joined: "February 24th 2004"
 f_last_visit: "January 19th 2007"
-f_location: "USA"
+f_location: "(redacted: location)"
 f_occupation: "Programmer, Writer, Editor, Director"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -35,7 +35,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-zakatheus@hotmail.com
+(redacted: email)
 ![Coding](../templates/default/images/icons/forums/forum_coding.gif) [A problem retaining variable values...](forum/viewtopic.php?p=359090#359090)
 Posted on Thursday 8.33pm, November 9th, 2006
 Couldn't I do this with a .prg file instead of a .txt file?? I got the variable to save, but I couldn't recall it! Does anyone have any solutions to this problem? [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=359090#359090)

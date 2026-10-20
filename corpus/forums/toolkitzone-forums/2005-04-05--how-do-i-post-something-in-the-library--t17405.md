@@ -36,7 +36,7 @@ The subject tells all Very Happy
 
 ### Xavier · 2005-04-05 21:08 · #B190724
 
-Submit it as a resource or e-mail it to me (webmaster@toolkitzone.com).
+Submit it as a resource or e-mail it to me ((redacted: email)).
 
 ### Ryukenshen · 2005-04-05 23:00 · #B190783
 

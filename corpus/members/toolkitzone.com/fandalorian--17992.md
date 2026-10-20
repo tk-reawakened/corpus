@@ -13,12 +13,11 @@ repliers: []
 authors: ["Fandalorian"]
 comments_present: 0
 handle: "Fandalorian"
-f_age: "10 - 15"
 f_interests: "Small children"
 f_joined: "August 30th 2007"
 f_last_visit: "November 12th 2009"
-f_location: "New York, US"
-f_name: "Steven Cinnamondic"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Failing Student"
 f_rank: "Member"
 f_rankings: "No rankings."

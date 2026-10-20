@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Cerberus"
 f_joined: "June 20th 2006"
 f_last_visit: "June 23rd 2006"
-f_location: "Gate to hell"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Cerberus"

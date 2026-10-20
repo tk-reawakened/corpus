@@ -33,4 +33,4 @@ You will need Acrobat Reader to read and/or print out your F.I.T. 2000 User Manu
 [![](../images/getacro.gif)](downloads/ar405eng.exe)
 [** Version 4.05C 6.05MB
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

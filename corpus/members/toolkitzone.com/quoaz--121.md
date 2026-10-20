@@ -16,7 +16,7 @@ handle: "quoaz"
 f_interests: "CAP,Soccer,Programing"
 f_joined: "January 28th 2004"
 f_last_visit: "April 6th 2005"
-f_location: "Hiding from you!"
+f_location: "(redacted: location)"
 f_occupation: "Programming"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/188925983413a54e2a1be8.gif)
 **MSN:**
-quoaz@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [I'm mad about MMORPGS](forum/viewtopic.php?p=97791#97791)
 Posted on Monday 11.08pm, September 20th, 2004
 its not MM but is is free.... its... http://www.battleon.com [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=97791#97791)

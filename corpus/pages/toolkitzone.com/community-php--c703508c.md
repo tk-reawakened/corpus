@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "July 20th, 2004"
-f_location: "Washington(State), USA"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4042", captured: "20070225010821", sha256: "7a986b8b464d87917d114176426c52d6e2a2b30a25183047b69e28d1ecdff000", wayback_url: "https://web.archive.org/web/20070225010821/http://www.toolkitzone.com/community.php?blog=4042"}

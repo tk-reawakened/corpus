@@ -13,7 +13,7 @@ repliers: []
 authors: ["(1 , 1 view) Friday 1.59am, May 7th 2004"]
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Somewhere over the rainbow"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_67", captured: "20070312091431", sha256: "4cdd287995a21790cdd5f204e27ff1b5d78e81918e75ecf380f8366aee976b8a", wayback_url: "https://web.archive.org/web/20070312091431/http://toolkitzone.com/community.php?blog=67"}

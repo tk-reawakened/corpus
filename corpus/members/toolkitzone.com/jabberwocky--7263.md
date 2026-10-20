@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Jabberwocky"
 f_joined: "July 20th 2005"
 f_last_visit: "January 27th 2007"
-f_location: "somewhere Uberness:9,999,999 Godness: 9,999,999 Power: 999,999,999 Element: Aqua"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Jabberwocky"

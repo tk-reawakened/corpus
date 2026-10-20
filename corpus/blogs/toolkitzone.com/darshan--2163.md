@@ -14,7 +14,7 @@ authors: ["Slasher"]
 comments_present: 0
 f_interests: "Drawing, Reading, Learning Languages"
 f_joined: "August 18, 2004"
-f_location: "The States"
+f_location: "(redacted: location)"
 f_username: "Slasher"
 converter_version: "1"
 source_captures:

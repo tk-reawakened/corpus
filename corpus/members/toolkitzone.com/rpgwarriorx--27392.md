@@ -13,11 +13,10 @@ repliers: []
 authors: ["RPGWarriorX"]
 comments_present: 0
 handle: "RPGWarriorX"
-f_age: "10 - 15"
 f_interests: "Video Games, Music, Ranged Weapons, ETC..."
 f_joined: "September 4th 2009"
 f_last_visit: "January 1st 2010"
-f_location: "Who knows? Not me!"
+f_location: "(redacted: location)"
 f_name: "Nah, Don't feel like telling you!"
 f_occupation: "When the time comes, you will LEARN the answer!"
 f_rank: "Member"

@@ -13,11 +13,10 @@ repliers: []
 authors: ["rpg gamer 17"]
 comments_present: 0
 handle: "rpg gamer 17"
-f_age: "10 - 15"
 f_interests: "rpg code and C++ and anything that can make a game"
 f_joined: "May 30th 2006"
 f_last_visit: "February 23rd 2007"
-f_location: "in a chair"
+f_location: "(redacted: location)"
 f_name: "RPG 17"
 f_occupation: "games and gamemaking"
 f_rank: "Member"

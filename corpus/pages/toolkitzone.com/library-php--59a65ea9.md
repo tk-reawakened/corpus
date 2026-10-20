@@ -39,7 +39,7 @@ August 1 2005, 11:32 am
 In his last adventure, Mr. Whatamunchkins met Colin and was taken as his apprentice. Later in the night, a stranger appeared before Mr. Whatamunchkins and gave him a strange plugin. Now an outcast from Colin's home, our hero is trying to find a tutorial to help him use this mysterious plugin.
 Library > Community
 July 26 2005, 12:11 pm
-Think you could write an enjoyable tale in at least five paragraphs about a man, a horse and a magical item? Well then, flex your writing muscles in our short story contest, judged by community member and novelist Cyrus Martin.
+Think you could write an enjoyable tale in at least five paragraphs about a man, a horse and a magical item? Well then, flex your writing muscles in our short story contest, judged by community member and novelist (redacted: name).
 Library > Community > Ranter's Dream
 July 19 2005, 6:24 pm
 TKGB's series based on his popular community comic strip continues as our hero, Mr. Whatamunchkins begints to learn the magical ways of RPG Code.

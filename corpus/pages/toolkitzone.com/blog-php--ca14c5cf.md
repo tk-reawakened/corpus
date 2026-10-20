@@ -14,7 +14,7 @@ authors: ["Darwin"]
 comments_present: 0
 f_interests: "Phat Lewt"
 f_joined: "February 2, 2004"
-f_location: "Yes Please"
+f_location: "(redacted: location)"
 f_username: "Darwin"
 converter_version: "1"
 source_captures:

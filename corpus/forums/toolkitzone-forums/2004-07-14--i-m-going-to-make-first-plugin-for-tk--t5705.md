@@ -238,7 +238,7 @@ Which is why you download a good compiler(MinGW is a common one)
 _________________
 .:: [Get Firefox!](http://www.mozilla.org/products/firefox/)::.
 .:: [Off-Topicness!](http://cywh.com/ot/)::.
-.::smc42190@gmail.com::.
+.::(redacted: email)::.
 [
 ![](http://www.mg.geahost.com/small_theproject.gif)
 ![](http://rpgtoolkithole.000k2.com/images/antianti.png)

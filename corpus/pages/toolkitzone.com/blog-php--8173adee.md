@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 ^_^
 Posted by - Thu 12 August, 2004 9:52pm [Euix](forums/profile.php?mode=viewprofile&u=9)
 I'm feeling: Very happy I'm listening to: Nothing Word of the Day: movie I'm thinking about quitting my word of the day feature, it's not that great anyway. Well, as you know... Stephanie came over today. She only stayed for a few hours. It didn't seem so long-- it went by so fast! We watched movies, cuddled, It was really great ^_^. Her mom came around 4:30, and Stephanie tried to convince her to leave and come back later. But, it didn't happen. I think she was thinking that we had a plan or something XD Oh well, it was still a great time. We didn't exactly do everything that we wanted to do, but I still liked it. Well, that's all I have to say today. Cya =)

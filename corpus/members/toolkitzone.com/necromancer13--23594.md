@@ -13,11 +13,10 @@ repliers: []
 authors: ["necromancer13"]
 comments_present: 0
 handle: "necromancer13"
-f_age: "10 - 15"
 f_joined: "November 6th 2008"
 f_last_visit: "April 15th 2009"
-f_location: "Beirut"
-f_name: "Mikeal Semaan"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "March 17th, 2005"
-f_location: "Don't ask..."
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_3200", captured: "20070321215705", sha256: "e2efd58eedfd94dd58a4243d51afae7ee8e135b79dee68d126fd5e182a51c7bd", wayback_url: "https://web.archive.org/web/20070321215705/http://toolkitzone.com/community.php?blog=3200"}

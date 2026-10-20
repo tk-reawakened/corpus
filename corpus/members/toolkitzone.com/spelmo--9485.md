@@ -13,11 +13,10 @@ repliers: []
 authors: ["spelmo"]
 comments_present: 0
 handle: "spelmo"
-f_age: "16 - 20"
 f_interests: "football,fishing,games developing"
 f_joined: "December 21st 2005"
 f_last_visit: "January 6th 2007"
-f_location: "liverpool uk"
+f_location: "(redacted: location)"
 f_occupation: "college"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +32,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-spelmosh@hotmail.com
+(redacted: email)
 Posted on Wednesday 8.18pm, August 16th, 2006
 Posted on Monday 10.27pm, August 14th, 2006
 Posted on Monday 2.30pm, August 14th, 2006

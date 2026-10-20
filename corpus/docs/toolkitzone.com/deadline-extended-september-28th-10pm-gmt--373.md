@@ -32,7 +32,7 @@ Anyone can enter and the rules are as follows;
 - Can be any writing style.
 - Between 500 and 5000 words.
 - Must be your own work and in the English language.
-- in plaintext or rtf/doc format Submit entries via e-mail to xavier@toolkitzone.com
+- in plaintext or rtf/doc format Submit entries via e-mail to (redacted: email)
 - **Dea dline is September 28th, 10pm GMT**
 If you have any questions then feel free to post them as a comment here or message me, I look forward to receiving your entries.
 Happy writing!
@@ -44,7 +44,7 @@ what format does it need to be in (word,notepad) or doesn't it matter?
 [![TBD](thumb.php?src=forum/images/avatars/202350491243172dcbd2811.png&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=6)
 It tells you; plaintext or doc/rtf.
 [![TBD](thumb.php?src=forum/images/avatars/13515268214a3818b533389.png&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=37)
-"Submit entries via e-mail to xavier@toolkitzone.com in " Edit: Curse you, Xavier. CURSE YOU!
+"Submit entries via e-mail to (redacted: email) in " Edit: Curse you, Xavier. CURSE YOU!
 aeroflames games wrote:
 > what format does it need to be in (word,notepad) or doesn't it matter?
 >

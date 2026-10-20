@@ -13,7 +13,7 @@ repliers: []
 authors: ["Heraldry: Freija / Khin"]
 comments_present: 0
 handle: "Heraldry: Freija / Khin"
-f_name: "Andrew P. Hammerson"
+f_name: "(redacted: name)"
 f_username: "Heraldry: Freija / Khin"
 converter_version: "1"
 source_captures:

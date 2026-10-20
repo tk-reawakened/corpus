@@ -16,7 +16,7 @@ handle: "Caliber Mengsk"
 f_interests: ".... everything that I like."
 f_joined: "March 13th 2004"
 f_last_visit: "March 12th 2007"
-f_location: "home as usual."
+f_location: "(redacted: location)"
 f_occupation: "Student/Graphics and Publications"
 f_rank: "Member"
 f_username: "Caliber Mengsk"
@@ -33,7 +33,7 @@ Total of 16 places and 47 users.
 **AIM:**
 **YIM:**
 **MSN:**
-Caliber_mengsk@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (3)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/36.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=15)

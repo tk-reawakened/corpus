@@ -13,10 +13,9 @@ repliers: []
 authors: ["Johnstein"]
 comments_present: 0
 handle: "Johnstein"
-f_age: "26+"
 f_joined: "February 14th 2004"
 f_last_visit: "December 20th 2009"
-f_location: "Seattle"
+f_location: "(redacted: location)"
 f_occupation: "Aerospace Engineering"
 f_rank: "Member"
 f_rankings: "No rankings."

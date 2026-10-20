@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Mr.Troublesome"
 f_joined: "September 4th 2005"
 f_last_visit: "February 14th 2007"
-f_location: "Germany"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Mr.Troublesome"

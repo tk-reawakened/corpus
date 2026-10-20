@@ -16,7 +16,7 @@ handle: "Linkin"
 f_interests: "Motorcycles, Electric Gutiars,Computers, And Money!!"
 f_joined: "February 16th 2004"
 f_last_visit: "February 9th 2008"
-f_location: "Use your imagination"
+f_location: "(redacted: location)"
 f_occupation: "Lover, Writer, Guitarist, scottish irish norwegian french canadian american"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -32,7 +32,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/664148653419da35c201e0.jpg)
 **MSN:**
-gothphanatic@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [free midi sequencer?](forum/viewtopic.php?p=221199#221199)
 Posted on Sunday 3.52am, June 19th, 2005
 does anyone kno where i can get one? i wiped my com a bit ago and now i miss just goofing around on the one i had on there cant remem what it was called, want one now cause i cant seem to find any good ones :( , any recommendations for one? o yah and hi to everyone who knows me, its been a whi... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=221199#221199)

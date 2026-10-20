@@ -14,7 +14,7 @@ authors: ["P-WURM"]
 comments_present: 0
 f_interests: "2.4 % at the national bank"
 f_joined: "June 22, 2005"
-f_location: "I'm a worm.... you too?"
+f_location: "(redacted: location)"
 f_username: "P-WURM"
 converter_version: "1"
 source_captures:

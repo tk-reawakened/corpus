@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 12th, 2004"
-f_location: "England"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5151", captured: "20100101185014", sha256: "3c54174a65e6eea8f2268d464660cbc41fd233e891eb50f2863ee8c40af5a320", wayback_url: "https://web.archive.org/web/20100101185014/http://toolkitzone.com/community.php?blog=5151"}

@@ -13,11 +13,10 @@ repliers: []
 authors: ["pirate clanks"]
 comments_present: 0
 handle: "pirate clanks"
-f_age: "10 - 15"
 f_interests: "This,art,sailing,and ninjas..."
 f_joined: "June 5th 2007"
 f_last_visit: "October 25th 2007"
-f_location: "My ship or my house..."
+f_location: "(redacted: location)"
 f_name: "James"
 f_occupation: "hopefully mechanical engineering"
 f_rank: "Member"

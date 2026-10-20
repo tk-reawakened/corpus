@@ -13,12 +13,11 @@ repliers: []
 authors: ["Xavier"]
 comments_present: 0
 handle: "Xavier"
-f_age: "21 - 25"
 f_interests: "Sports, coding, films..."
 f_joined: "January 28th 2004"
 f_last_visit: "February 26th 2007"
-f_location: "Stoke, England"
-f_name: "Phil Carty"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Administrator"
 f_rankings: "No rankings."
 f_username: "Xavier"

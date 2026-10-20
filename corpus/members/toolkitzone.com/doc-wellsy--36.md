@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Doc_Wellsy"
 f_joined: "January 28th 2004"
 f_last_visit: "June 23rd 2008"
-f_location: "Cumbria UK"
+f_location: "(redacted: location)"
 f_occupation: "Pilot"
 f_rank: "Member"
 f_username: "Doc_Wellsy"
@@ -33,7 +33,7 @@ source_captures:
 **Awards:**
 Total of 23 places and 66 users.
 **MSN:**
-wellsyis@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Happy birth day Asimir!](forum/viewtopic.php?p=438834#438834)
 Posted on Sunday 6.38pm, April 27th, 2008
 Happy Birthday Spider. By the way, does anyone have a copy of that cartoon with the grim reaper counting off another year? I always feel that it's very apt on these occasions... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=438834#438834)

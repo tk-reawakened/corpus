@@ -13,12 +13,11 @@ repliers: []
 authors: ["nephira1"]
 comments_present: 0
 handle: "nephira1"
-f_age: "26+"
 f_interests: "Writing this game and a book to go with it"
 f_joined: "December 9th 2006"
 f_last_visit: "May 3rd 2008"
-f_location: "Lake Charles, LA"
-f_name: "Elizabeth Hock"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Nothing Special, I used to be an aircraft mechanic till I lost my fingers in an accident."
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -39,7 +38,7 @@ Female
 **AIM:**
 **YIM:**
 **MSN:**
-lizzyhock@hotmail.com
+(redacted: email)
 Posted on Monday 7.47pm, April 28th, 2008
 No! one of the screenshots in the pack shows a character, but that is my custom made hero. She is not available as she is a edited sprite from Reiner Prokiem's sprites. The only reason I put her in one screenshot was to show the scale. [more![More](templates/default/images/icons/more.gif)](files.php?file=1605#c45330)
 Posted on Tuesday 10.10am, April 22nd, 2008

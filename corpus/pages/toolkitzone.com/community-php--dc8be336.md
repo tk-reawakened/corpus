@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Dallas Tx"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2774", captured: "20070321214718", sha256: "7b2d2cfb4585d5ad4308bf0ed76478f8269a9f4ddcf82e70760f385dfe4ab05b", wayback_url: "https://web.archive.org/web/20070321214718/http://toolkitzone.com/community.php?blog=2774"}

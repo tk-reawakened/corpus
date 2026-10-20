@@ -213,7 +213,7 @@ Request: Anyone know where I can find a TTF of a DOS 8x16 ROM font?
 [
 ![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 im speshul
 
 ### -*khaos*- · 2004-08-15 07:24 · #B75759

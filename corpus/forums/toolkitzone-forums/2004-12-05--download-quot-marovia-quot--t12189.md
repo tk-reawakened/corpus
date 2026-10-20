@@ -83,14 +83,14 @@ i played a bit of Marovia. unless i can find a better game, William, i think thi
 ### William · 2004-12-10 23:26 · #B137711
 
 sure I can help you.. Go to my forum: [www.rpgstudio.mysticsoftware.net](http://www.rpgstudio.mysticsoftware.net)
-or add my msn: johansson_tk@hotmail.com
+or add my msn: (redacted: email)
 
 ### arcticsalem · 2004-12-10 23:28 · #B137713
 
 **William wrote:**
 
 > sure I can help you.. Go to my forum: [www.rpgstudio.mysticsoftware.net](http://www.rpgstudio.mysticsoftware.net)
-> or add my msn: johansson_tk@hotmail.com
+> or add my msn: (redacted: email)
 >
 
 thanks.

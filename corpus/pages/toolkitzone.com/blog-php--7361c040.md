@@ -15,7 +15,7 @@ comments_present: 0
 duplicate_of: "toolkitzone.com/toolkitzone.com/blog.php?mode=view&page=1&user=76&view=user"
 f_interests: "puters"
 f_joined: "January 28, 2004"
-f_location: "Dallas Tx"
+f_location: "(redacted: location)"
 f_username: "John@aljo"
 converter_version: "1"
 source_captures:

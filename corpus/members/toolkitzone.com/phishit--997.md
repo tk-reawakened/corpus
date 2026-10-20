@@ -15,7 +15,7 @@ comments_present: 0
 handle: "phishit"
 f_joined: "March 16th 2004"
 f_last_visit: "December 1st 2006"
-f_location: "New York"
+f_location: "(redacted: location)"
 f_occupation: "SLUG!!!!!!!!!!!!"
 f_rank: "Member"
 f_rankings: "No rankings."

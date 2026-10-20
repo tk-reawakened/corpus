@@ -13,11 +13,10 @@ repliers: []
 authors: ["SuperIsoRPG"]
 comments_present: 0
 handle: "SuperIsoRPG"
-f_age: "16 - 20"
 f_interests: "Drums, Rock & Metal, Games"
 f_joined: "February 3rd 2006"
 f_last_visit: "February 27th 2007"
-f_name: "Andrew Worthington"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -38,7 +37,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-Andtoallaverygoodmorning@hotmail.co.uk
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [What's your saddest movie/book/videogame moment?](forum/viewtopic.php?p=383050#383050)
 Posted on Tuesday 10.33pm, February 27th, 2007
 Seafroggys wrote: I cried after I finished reading the Return of the King, because it took me over 4 years to finally read through the LotR (well, it was broken up alot too), it was like closure for me. Haha.. I felt kinda sad, but I didn't cry. The only book that's actually made me cry is the en... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=383050#383050)

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Trent"
 f_joined: "February 15th 2004"
 f_last_visit: "February 16th 2007"
-f_location: "Burlington, KY"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_username: "Trent"
 converter_version: "1"
@@ -32,7 +32,7 @@ Total of 16 places and 41 users.
 **AIM:**
 **YIM:**
 **MSN:**
-EternalEoN01@aol.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (1)**
 My Awards
 Runner-Up

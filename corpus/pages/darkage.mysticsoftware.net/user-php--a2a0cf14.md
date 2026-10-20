@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "icewarrior68@hotmail.com"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_Dude_Man", captured: "20050321163639", sha256: "7edc776a0d94d1b18e17bd2ea4188afa67b8e6057039d052abdbe6a7f6f1a6d6", wayback_url: "https://web.archive.org/web/20050321163639/http://darkage.mysticsoftware.net/user.php?mode=6&name=Dude+Man"}

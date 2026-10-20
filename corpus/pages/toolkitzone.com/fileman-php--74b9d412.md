@@ -22,5 +22,5 @@ source_captures:
 **password**
 : mysql_fetch_array(): supplied argument is not a valid MySQL result resource in on line
 **Warning** **/home/triplece/public_html/fileman/dl.html** **7**
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 please wait for your file to begin downloading

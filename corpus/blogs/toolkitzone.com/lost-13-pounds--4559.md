@@ -14,7 +14,7 @@ authors: ["Icbim"]
 comments_present: 0
 f_interests: "playing the guitar, singing, swimming, hackey sack, soccer, that handsome dude in the mirror, and....not to forget that damn good toolkit"
 f_joined: "August 6, 2004"
-f_location: "In my fort of pillows and blankets."
+f_location: "(redacted: location)"
 f_username: "Icbim"
 converter_version: "1"
 source_captures:

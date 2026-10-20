@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "October 31st, 2009"
-f_location: "Herndon, Virginia"
+f_location: "(redacted: location)"
 f_name: "Stalk me on Facebook"
 converter_version: "1"
 source_captures:

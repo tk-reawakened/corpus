@@ -26,4 +26,4 @@ Wednesday, June 5 2002
 New site is launched!
 In other news, I have an all new project, , more info can be found in the Games section. I have cancelled & , but I plan to make those at a later date. Other planned projects, or at least ideas for projects are in the Ideas section. ***Pirates*** ***Thug Life*** ***Scary Video Game***
 Also, 3 new screenshots of are in the Games section. ***Pirates***
-If you have any problems with this website, please contact me atoutlawz_games@hotmail.com
+If you have any problems with this website, please contact me (redacted: email)

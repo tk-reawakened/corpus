@@ -13,12 +13,11 @@ repliers: []
 authors: ["Halibkar"]
 comments_present: 0
 handle: "Halibkar"
-f_age: "16 - 20"
 f_interests: "video games, animes and mangas, pen spinning!"
 f_joined: "August 7th 2007"
 f_last_visit: "August 18th 2007"
-f_location: "Turkey"
-f_name: "Halil Kara"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student, Gamer ! : )"
 f_rank: "Member"
 f_rankings: "No rankings."

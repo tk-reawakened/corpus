@@ -43,7 +43,7 @@ There are many other factors that you may wish to consider when writing your tal
 How you write and what you write are up to you.
 These are but words of advice
 Thank you.
-**Cyrus Martin**
+**(redacted: name)**
 ** Author of Deceit and Conquest
 **
 Writer/Director of Dawn of Twilight

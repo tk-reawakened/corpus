@@ -39,8 +39,8 @@ Like AND, OR, Partial word searching, username, IP, subject message, signature, 
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 

@@ -13,10 +13,9 @@ repliers: []
 authors: ["thing"]
 comments_present: 0
 handle: "thing"
-f_age: "16 - 20"
 f_joined: "March 20th 2004"
 f_last_visit: "March 28th 2007"
-f_location: "England"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "thing"

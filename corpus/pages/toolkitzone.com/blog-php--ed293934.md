@@ -14,7 +14,7 @@ authors: ["I_Cant_Believe_Its_Me"]
 comments_present: 0
 f_interests: "playing the guitar, singing, swimming, hackey sack, soccer, football, that handsome dude in the mirror, and....not to forget that damn good toolkit"
 f_joined: "August 6, 2004"
-f_location: "If I didnt know any better I would say you have a fetish for feet."
+f_location: "(redacted: location)"
 f_username: "I_Cant_Believe_Its_Me"
 converter_version: "1"
 source_captures:

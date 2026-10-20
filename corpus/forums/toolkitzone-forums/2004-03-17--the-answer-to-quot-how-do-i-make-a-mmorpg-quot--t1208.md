@@ -73,7 +73,7 @@ _________________
 (formerly known as ares)
 [![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 I took the liberty of fertilizing your caviar.
 
 ### Woozy · 2004-08-17 11:08 · #B77041

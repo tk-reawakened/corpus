@@ -39,7 +39,7 @@ links:
 
 ### fecoman · 2002-06-02 22:37 · #A1005-1111
 
-hola , la pagina " lA FORTALEZA RPG " busca webmaster para seccion de RPGTOOLKIT , los requisitos serian nadamas saber crear juegos con este maravilloso sistema y seber algo de paginas web , si tu cumples con esta condicion puedes mandarme un mail a : fecoman@stermedia.com , o dejar tu pedido directamente en el foro , hasta luego fecoman
+hola , la pagina " lA FORTALEZA RPG " busca webmaster para seccion de RPGTOOLKIT , los requisitos serian nadamas saber crear juegos con este maravilloso sistema y seber algo de paginas web , si tu cumples con esta condicion puedes mandarme un mail a : (redacted: email) , o dejar tu pedido directamente en el foro , hasta luego fecoman
 www.fortalezarpg.galeon.com
 fecoman
 

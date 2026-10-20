@@ -16,7 +16,7 @@ handle: "Simon Burdfield"
 f_interests: "Computers And Swords"
 f_joined: "October 11th 2004"
 f_last_visit: "July 28th 2005"
-f_location: "Portsmouth"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/853828168424eb52cdebf8.jpg)
 **MSN:**
-Simonburdfield@hotmail.com
+(redacted: email)
 Posted on Monday 8.59am, February 28th, 2005
 Posted on Sunday 2.33pm, January 30th, 2005
 Sry pcinternet went down for two months and i cound not get round to making more sry [more![More](templates/default/images/icons/more.gif)](files.php?file=864#c15521)

@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "21 - 25"
 f_interests: "lots of stuff"
 f_joined: "February 9th 2004"
 f_last_visit: "April 1st 2008"
-f_location: "Los Angeles"
+f_location: "(redacted: location)"
 f_name: "Juan"
 f_occupation: "Being TK Game Boy"
 f_rank: "Member"

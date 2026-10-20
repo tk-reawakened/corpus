@@ -29,7 +29,7 @@ source_captures:
 **EuixCode²**
 Second version of EuixCode - and it's setting the trend for smooth and reliable editors, with an array of features such as plugins, project files and command references. Colour codes at an extremely fast rate, I didn't even notice it! Very impressive indeed. I very much enjoy the light mode as it gives all the features with the lowest usage of space.
 12 April, 2004
-This is an entire recode project, you can ask CyberWolf or Colosseus, they saw the whole development process. But anyway.. I worked hard on this to make it as good as I can. Expect later versions to include plugin updates (Like wizards). PLease let me know if you find any bugs by e-mailing them to ooeuixoo@aol.com. THanks everyone! ^_^
+This is an entire recode project, you can ask CyberWolf or Colosseus, they saw the whole development process. But anyway.. I worked hard on this to make it as good as I can. Expect later versions to include plugin updates (Like wizards). PLease let me know if you find any bugs by e-mailing them to (redacted: email). THanks everyone! ^_^
 18 April, 2004
 My computer says runtime error and says the comdlg32.ocx file is out dated and i should use the file that came with it but that is the file. i need help with it.
 20 April, 2004
@@ -45,11 +45,11 @@ When i do that it doesnt work and that the files may not be there or not all the
 26 April, 2004
 If you would please give me your e-mail address, i'll be glad to write a simple "registration program" to register the files you need for EuixChat².
 26 April, 2004
-okeydokey my e-mail is chaos_angel_1@MSN.com
+okeydokey my e-mail is (redacted: email)
 07 May, 2004
 still waitin for that e-mail if your not busy^_^
 17 June, 2004
-please send me too your registration form because your euixcode doesn't run in my system just like justin jackson. my e-amail add is willydavidjr@yahoo.com
+please send me too your registration form because your euixcode doesn't run in my system just like justin jackson. my e-amail add is (redacted: email)
 19 July, 2004
 Well guys, I've fixed the comdlg32.ocx error. The editor now uses a Class to handle common dialogs. It also accesses the API instead of the ActiveX Control's functions. So that error should be resolved :D Have fun ^-^
 06 February, 2005

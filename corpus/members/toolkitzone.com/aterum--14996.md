@@ -13,11 +13,10 @@ repliers: []
 authors: ["Aterum"]
 comments_present: 0
 handle: "Aterum"
-f_age: "10 - 15"
 f_interests: "History"
 f_joined: "January 3rd 2007"
 f_last_visit: "March 10th 2007"
-f_location: "Europe/Romania/Bucarest"
+f_location: "(redacted: location)"
 f_name: "Aterum"
 f_occupation: "School and graphics"
 f_rank: "Member"

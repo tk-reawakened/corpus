@@ -13,12 +13,11 @@ repliers: []
 authors: ["Cyrus"]
 comments_present: 0
 handle: "Cyrus"
-f_age: "26+"
 f_interests: "creative writing, photography, image editing, audio processing, video games, movies and music"
 f_joined: "January 28th 2004"
 f_last_visit: "August 2nd 2007"
-f_location: "Dallas, Tx"
-f_name: "Cyrus Martin"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Writer, Film Producer"
 f_rank: "Member"
 f_rankings: "No rankings."

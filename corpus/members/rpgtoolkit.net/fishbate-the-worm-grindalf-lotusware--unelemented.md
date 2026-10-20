@@ -13,7 +13,6 @@ repliers: []
 authors: ["Fishbate the Worm / Grindalf & Lotusware"]
 comments_present: 0
 handle: "Fishbate the Worm / Grindalf & Lotusware"
-f_age: "26+"
 f_country: "New Zealand"
 f_name: "Matt"
 f_username: "Fishbate the Worm / Grindalf & Lotusware"

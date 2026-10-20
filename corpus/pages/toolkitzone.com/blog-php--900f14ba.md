@@ -14,7 +14,7 @@ authors: ["Acra"]
 comments_present: 0
 f_interests: "RPGToolkit"
 f_joined: "March 7, 2005"
-f_location: "Alberta, Canada"
+f_location: "(redacted: location)"
 f_username: "Acra"
 converter_version: "1"
 source_captures:

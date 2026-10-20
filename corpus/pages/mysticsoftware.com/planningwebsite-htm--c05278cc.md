@@ -63,4 +63,4 @@ Each of the individual items in the 8-step Quote worksheet represents a specific
 - On-line promotion
 - Search engine indexing
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

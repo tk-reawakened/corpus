@@ -13,12 +13,11 @@ repliers: []
 authors: ["dj_gregsta"]
 comments_present: 0
 handle: "dj_gregsta"
-f_age: "16 - 20"
 f_interests: "RPG Games, Music, clubbing, dancing."
 f_joined: "November 7th 2007"
 f_last_visit: "December 24th 2007"
-f_location: "England"
-f_name: "Greg Wheeler"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Barman/DJ"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -36,7 +35,7 @@ Male
 **About Me:**
 Im a very enthusiastic, bubbly guy and I have a good sense of humour,or so I like to think so! I listen to a variety of different myusic genres and have always been interested in role-playing games. I primarily like to start projects but find it difficult to follow my "masterpieces" through to the very end. If you wanna know more PM meTBD
 **MSN:**
-dagregsta69@hotmail.com
+(redacted: email)
 Posted on Tuesday 4.29pm, December 4th, 2007
 very very nice! only thing ill say is that i had to look really closely to actually notice the right bit was water....i thought it was a wall! LOL. anyway, very very nice work man! [more![More](templates/default/images/icons/more.gif)](games.php?image=10281#c42128)
 Posted on Monday 4.41pm, November 12th, 2007

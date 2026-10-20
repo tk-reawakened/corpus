@@ -50,7 +50,7 @@ make a bunch of players with different grraphics, and use #newplayer(other.tem) 
 
 ---
 AIM: DBZ Fan Y2K
-MSN: DBZFANY2K@hotmail.com
+MSN: (redacted: email)
 YIM: Dbzfany2k
 
 ---

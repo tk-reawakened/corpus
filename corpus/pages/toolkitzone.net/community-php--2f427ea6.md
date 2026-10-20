@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Games, programming, art"
 f_joined: "February 17th 2004"
 f_last_visit: "April 1st 2008"
-f_location: "USA, MO, Near STLTBD"
-f_name: "Lewis N. Reed"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student/Programer/Artist"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +29,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/135154640347a5294d73a25.jpg)
 February 17th 2004
-Lewis N. Reed
+(redacted: name)
 USA, MO, Near STLTBD
 Student/Programer/Artist
 Games, programming, art
@@ -38,7 +37,6 @@ Games, programming, art
 **ICQ:**
 **AIM:**
 **YIM:**
-zzzurdeadzzz@hotmail.com
 Added on Saturday 3.32pm, February 16th, 2008
 So, I put my PSP up on Ebay, $250, great deal. (shameless plug) I got a question about it via Ebay, here is what it was. Quote:Hello Seller, Regarding your advert on "eBay" which i happened to be very much interested in and i would like to purchase the item for $250.00USD, including shipping fee.... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5654)
 Added on Tuesday 4.46am, February 5th, 2008

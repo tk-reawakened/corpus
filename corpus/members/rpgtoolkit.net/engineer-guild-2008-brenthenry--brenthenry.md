@@ -13,7 +13,6 @@ repliers: []
 authors: ["Engineer Guild 2008 brenthenry"]
 comments_present: 0
 handle: "Engineer Guild 2008 brenthenry"
-f_age: "10-15"
 f_country: "United States"
 f_occupation: "Student"
 f_username: "Engineer Guild 2008 brenthenry"

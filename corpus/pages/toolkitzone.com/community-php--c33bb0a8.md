@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "October 6th, 2006"
-f_location: "West coast hawaii"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4931", captured: "20070228095417", sha256: "d362d0b53224db1e7c0e5be6d9038d001dc53dee5c951cba13987ecd967e1fda", wayback_url: "https://web.archive.org/web/20070228095417/http://www.toolkitzone.com/community.php?blog=4931"}

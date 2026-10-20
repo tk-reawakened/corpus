@@ -16,7 +16,7 @@ handle: "Chris Reeves"
 f_interests: "Video Games, Sports, Music, Programming"
 f_joined: "January 20th 2005"
 f_last_visit: "October 18th 2007"
-f_location: "Texas, USA"
+f_location: "(redacted: location)"
 f_occupation: "Musician, Composer, Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -32,6 +32,6 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-ChrisReeves8518@hotmail.com
+(redacted: email)
 Posted on Friday 11.03pm, October 12th, 2007
 Who's Online: , , , , , , , , , [Citytorial_Virus](community.php?user=17887) [Falce](community.php?user=10658) [gta_fido](community.php?user=13474) [izumichan31](community.php?user=18284) [Seafroggys](community.php?user=141) [TheTwig](community.php?user=17673) [TK Game Boy](community.php?user=304) [Xtreme](community.php?user=18221) [Zappy](community.php?user=18194) [zyrshnikashnu](community.php?user=254)

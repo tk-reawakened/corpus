@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_location: "routines"
+f_location: "(redacted: location)"
 f_platform: "loop"
 f_type: "january"
 f_website: "love"

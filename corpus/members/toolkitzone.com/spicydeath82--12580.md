@@ -13,12 +13,11 @@ repliers: []
 authors: ["spicydeath82"]
 comments_present: 0
 handle: "spicydeath82"
-f_age: "26+"
 f_interests: "Games, books, movies..."
 f_joined: "June 22nd 2006"
 f_last_visit: "July 28th 2009"
-f_location: "California"
-f_name: "Robert Foster"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Carpenter"
 f_rank: "Member"
 f_rankings: "No rankings."

@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "April 17th, 2004"
-f_location: "Anywhere but here."
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_3624", captured: "20070317063738", sha256: "e03c210a2750257705ff59967c0972bc7e803af7eaef3886a9b48cf8df849757", wayback_url: "https://web.archive.org/web/20070317063738/http://toolkitzone.com/community.php?blog=3624"}

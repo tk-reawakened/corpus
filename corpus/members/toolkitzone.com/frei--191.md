@@ -13,12 +13,11 @@ repliers: []
 authors: ["Frei"]
 comments_present: 0
 handle: "Frei"
-f_age: "16 - 20"
 f_interests: "Drawing, animation, photography, etc."
 f_joined: "January 28th 2004"
 f_last_visit: "January 24th 2007"
-f_location: "Philippines"
-f_name: "Jhulian G."
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Film Student"
 f_rank: "Member"
 f_rankings: "No rankings."

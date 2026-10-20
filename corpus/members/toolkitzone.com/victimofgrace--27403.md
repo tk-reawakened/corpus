@@ -13,7 +13,6 @@ repliers: []
 authors: ["victimofgrace"]
 comments_present: 0
 handle: "victimofgrace"
-f_age: "10 - 15"
 f_interests: "VIDEO GAMES( playing and making )"
 f_joined: "September 8th 2009"
 f_last_visit: "December 26th 2009"

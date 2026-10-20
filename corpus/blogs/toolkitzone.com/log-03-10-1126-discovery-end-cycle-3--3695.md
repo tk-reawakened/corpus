@@ -14,7 +14,7 @@ authors: ["UltimaWizard"]
 comments_present: 0
 f_interests: "3D Art/Rendering, Composing, Game Development, Gaming, Ladies"
 f_joined: "February 20, 2005"
-f_location: "Spamspamspam. Find me now, beeotches!"
+f_location: "(redacted: location)"
 f_username: "UltimaWizard"
 converter_version: "1"
 source_captures:

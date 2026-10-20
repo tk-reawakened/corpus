@@ -13,11 +13,10 @@ repliers: []
 authors: ["Kobold"]
 comments_present: 0
 handle: "Kobold"
-f_age: "21 - 25"
 f_joined: "November 13th 2005"
 f_last_visit: "February 5th 2009"
-f_location: "Kentucky USA"
-f_name: "Shaun Kennedy"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Resteraunt Manager"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,5 +32,5 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-aozgolo@hotmail.com
+(redacted: email)
 Posted on Tuesday 5.32am, November 15th, 2005

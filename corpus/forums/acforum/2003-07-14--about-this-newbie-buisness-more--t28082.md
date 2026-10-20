@@ -139,7 +139,7 @@ If the above link is down, go to the [Direct URL](http://saoghal.cywh.com/index.
 
 [![](http://saoghal.cywh.com/images/GameGraphics.gif)](http://gamegraphics.tk)
 
-ServerGreen Status: ![](ftp://guest:guest@ftp.saoghal.dynu.com/GreenLight.jpg)
+ServerGreen Status: ![](ftp://guest:(redacted: email)/GreenLight.jpg)
 
 ### cy · 2003-07-15 14:26 · #A1000-28109
 
@@ -192,7 +192,7 @@ People I Know:
 14. Tom (None)
 ******************************************
 Wanna Be on this List? Well Then MSN Me:
-GameHacker56@hotmail.com
+(redacted: email)
 ********************************************
 THE FEARLESS LEGACY UPDATE
 Story: 2%

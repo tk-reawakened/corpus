@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 23rd, 2005"
-f_location: "North Carolina"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2599", captured: "20070317193330", sha256: "f326a334f8e6c9071f41bfc6a06deeb7faccbf2f05df10917f178895c8e9d218", wayback_url: "https://web.archive.org/web/20070317193330/http://toolkitzone.com/community.php?blog=2599"}

@@ -37,7 +37,7 @@ links:
 Short Story Contest
 Summer 2005
 So we've come to the end of the road for our first try at a writing contest here at TKZ, twenty users took up the challenge of writing a short story, those entries were whittled down to a shortlist of five and now we have the final results. Thanks to everyone who entered, we hope to see you again in the next contest this winter. But without further delay, lets get into the results...
-Please understand that these reviews contain the opinions of me, Cyrus Martin and if you do not agree with what is said then I apologize and welcome your comments at cyrusmartin@yahoo.com or talk generally about the contest at the writing forum here at TKZ. I rated each entry on a set of categories to determine an average score out of 100. The results are as follows;
+Please understand that these reviews contain the opinions of me, (redacted: name) and if you do not agree with what is said then I apologize and welcome your comments at (redacted: email) or talk generally about the contest at the writing forum here at TKZ. I rated each entry on a set of categories to determine an average score out of 100. The results are as follows;
 Results
 5th. UltimaWizard - 74
 4th. Ersuis - 76

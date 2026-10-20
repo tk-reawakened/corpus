@@ -31,8 +31,8 @@ source_captures:
 >
 ![](../CAR/Images/Notices.jpg)
 ** Customer Support for F.I.T. 2000 is Live! F.I.T. 2000 Customer Support:
-Phone: [redacted: phone number] Extension 251 Email:
-brs_support@mysticsoftware.com
+Phone: (redacted: phone number) Extension 251 Email:
+(redacted: email)
 Hours: 7:00 a.m. to 7:00 p.m. PST
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

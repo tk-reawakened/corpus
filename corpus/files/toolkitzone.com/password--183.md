@@ -23,7 +23,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 ** IAOP1 : Color
 **(Important Aspect of Pixeling)**
 ** Written by Xontu (Brad Forbes) 1/2/04
@@ -41,6 +41,6 @@ All this talk about gray sure makes it seem important, huh? Good, because it is.
 **Part 5: Cheating with variation by using colors**
 So you got fifty sprites to do? When you say fifty, I say five. Why? Thanks to our handy dandy.... Un-contiguous Paint Fill... it's easy! So this guy has a red shirt and green pants on? Well, now he has a green shirt and blue pants. You got a new sprite in about six clicks! Of course, you'll have to change his hair and maybe give him a couple more pounds or years on him every so often, but it really does work. You don't think the people that made Morrowind didn't do that when they were creating those 20,000 something NPCs? It may have taken them more than 6 clicks, but hey, they get paid. You can also use the paint fill with pretty much anything you need variation to. You can have two more colors of flowers in about a minute with the color fill. Obviously you don't want to overuse it, especially with the most tempted objects like sprites and flowers, but it really does help to give a bit of variation to your game. You don't need to be a Morrowind, but you also don't want to be a FF1 and find your audience commenting "you sure look like the three thiefs I killed in the last town and the five I killed before that town."
 **Author's Contact Info:**
-**Email :** xontu@hotmail.com
-**MSN Email :** xontu@hotmail.com
+**Email :** (redacted: email)
+**MSN Email :** (redacted: email)
 **AIM :** XxontuU

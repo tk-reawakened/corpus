@@ -29,7 +29,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-Palin1@hotmail.com
+(redacted: email)
 Posted on Wednesday 7.31pm, June 21st, 2006
 Not a bad article. I'm not sure about a comment or two but as you said it's a personal take and no one is the same. One good thing to stress here, though, is that it's better to write a piece of crap your first time through and edit it later than to try to build a masterpiece right off the bat. M... [more![More](templates/default/images/icons/more.gif)](library.php?doc=147#c31941)
 Posted on Monday 8.36pm, February 14th, 2005

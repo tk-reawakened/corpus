@@ -19,6 +19,6 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 ![](fileman/images/242.png)
 Pheonix v2.0 Interface

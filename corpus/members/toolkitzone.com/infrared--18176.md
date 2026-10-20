@@ -13,12 +13,11 @@ repliers: []
 authors: ["InfraRed"]
 comments_present: 0
 handle: "InfraRed"
-f_age: "10 - 15"
 f_interests: "Acting, Singing, Writing"
 f_joined: "October 4th 2007"
 f_last_visit: "October 27th 2007"
-f_location: "USA"
-f_name: "Stephen Adams"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

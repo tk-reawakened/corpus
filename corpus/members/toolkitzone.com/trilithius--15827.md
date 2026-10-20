@@ -13,11 +13,10 @@ repliers: []
 authors: ["Trilithius"]
 comments_present: 0
 handle: "Trilithius"
-f_age: "16 - 20"
 f_interests: "Life, Liberty, and the pursuit of all things Edible..."
 f_joined: "February 26th 2007"
 f_last_visit: "March 1st 2007"
-f_location: "California"
+f_location: "(redacted: location)"
 f_name: "Joshua"
 f_occupation: "Student"
 f_rank: "Member"

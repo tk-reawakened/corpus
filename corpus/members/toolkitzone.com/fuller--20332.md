@@ -13,11 +13,10 @@ repliers: []
 authors: ["Fuller"]
 comments_present: 0
 handle: "Fuller"
-f_age: "16 - 20"
 f_interests: "History, friends, guitar, games, movies, and television."
 f_joined: "June 7th 2008"
 f_last_visit: "June 12th 2008"
-f_location: "Texas"
+f_location: "(redacted: location)"
 f_name: "Kyle"
 f_occupation: "Student/Courtesy Clerk"
 f_rank: "Member"

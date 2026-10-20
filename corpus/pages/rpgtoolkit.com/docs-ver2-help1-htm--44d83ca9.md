@@ -465,7 +465,7 @@ The system requirements for this program are as follows:
 -32MB RAM
 -Windows 95+
 -A creative mind (theoretically you already have one of these).
-Much work has gone into the development of this new Version, and I sincerely hope you enjoy it. As always, I am open to suggestions for improvements and changes. You can email me at cbm@borg.cs.dal.ca, or just visit the RPG Toolkit homepage (http://rpgtoolkit.pyar.com).
+Much work has gone into the development of this new Version, and I sincerely hope you enjoy it. As always, I am open to suggestions for improvements and changes. You can email me at (redacted: email), or just visit the RPG Toolkit homepage (http://rpgtoolkit.pyar.com).
 Christopher B. Matthews
 RPG Toolkit Online
 October 23, 1999

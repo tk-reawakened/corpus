@@ -38,7 +38,7 @@ Well anyways, I just wanted to let you know that Calvin and Hobbes is going fair
 Also, I've got meself a new computer (almost, we've got it mostly put togethor(cept for a final fan to install that it didn't come with), but we don't have any software installed yet). It's a 1.3 ghz athlon processor, with a 40 gig harddrive, 256 megs of ddr ram, 8 megs of video memory (temporary), 17 inch monitor, etc. Not the best, but a pretty good deal for $750.
 That will help me make the game, but also hinder it, since I will be buying The Sims :D
 Well, just wanted to promote my game, rant about my personal life, and announce one last thing below:
-I'm going to be needing some music for this game, aye? So I'm going to hold a contest (sort of) for the music that I'll use. Email me you're music to Calvin4life99@hotmail.com if you're interested.
+I'm going to be needing some music for this game, aye? So I'm going to hold a contest (sort of) for the music that I'll use. Email me you're music to (redacted: email) if you're interested.
 I'll need quite a few songs for this game, i.e. the seasons, inside and outside, G.R.O.S.S. meetings, school, etc. So submit all the songs you want. Please!! Pleeeasssse!
 It should be fairly exciting, or at least interesting, fun, and/or comical music.
 Yeah that's all. I'll pick whichever songs I think would fit well, and give you credit in the game somewhere.

@@ -16,7 +16,7 @@ handle: "RPGuru"
 f_interests: "Music, Comuters"
 f_joined: "August 16th 2004"
 f_last_visit: "March 3rd 2007"
-f_location: "Indiana, USA"
+f_location: "(redacted: location)"
 f_occupation: "Student, Program Writer"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-XRPGuruX@Hotmail.com
+(redacted: email)
 ![RPG Toolkit](../templates/default/images/icons/forums/forum_toolkit.gif) [Wierd Saving Lag](forum/viewtopic.php?p=383687#383687)
 Posted on Saturday 10.48am, March 3rd, 2007
 /bump It looks as though someone else has had the same problem... http://toolkitzone.com/forum/viewtopic.php?t=34635&postdays=0&postorder=asc&start=0 There were some suggestions given to him, but no post was made as to what the eventual solution was. to further reiterate ... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=383687#383687)

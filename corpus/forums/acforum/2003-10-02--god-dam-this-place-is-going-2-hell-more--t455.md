@@ -74,4 +74,4 @@ perfectionist; dashing; imaginative
 **[ [Final Fantasy Tactics Job Class](http://www.insomniel.com/quizzes/ffclassesquiz.html)]**
 
 Death comes and goes but it never stays.
-MSN: johnallan15@hotmail.com
+MSN: (redacted: email)

@@ -13,11 +13,10 @@ repliers: []
 authors: ["ligayasu"]
 comments_present: 0
 handle: "ligayasu"
-f_age: "16 - 20"
 f_interests: "Rpg toolkit,drawing,computers"
 f_joined: "May 24th 2004"
 f_last_visit: "April 23rd 2008"
-f_location: "Quezon City,Philippines,Asia,Planet Earth,Solar System,Milky Way Galaxy,Universe,5th dimension,?????"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +32,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-ligayasu@yahoo.com
+(redacted: email)
 Posted on Thursday 7.32am, April 24th, 2008
 Posted on Thursday 3.06pm, June 29th, 2006
 Posted on Friday 1.40am, February 11th, 2005

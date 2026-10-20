@@ -15,7 +15,7 @@ comments_present: 0
 handle: "xTransworldx"
 f_joined: "February 14th 2004"
 f_last_visit: "January 25th 2007"
-f_location: "my butt"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "xTransworldx"

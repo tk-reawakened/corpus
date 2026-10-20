@@ -13,11 +13,10 @@ repliers: []
 authors: ["Mephare"]
 comments_present: 0
 handle: "Mephare"
-f_age: "16 - 20"
 f_interests: "Game development, Photograpy, Music, Writing, Philiosophy"
 f_joined: "February 5th 2007"
 f_last_visit: "February 19th 2007"
-f_location: "New Jersey, US"
+f_location: "(redacted: location)"
 f_name: "Adam"
 f_rank: "Member"
 f_rankings: "No rankings."

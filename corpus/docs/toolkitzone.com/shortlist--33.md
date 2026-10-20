@@ -14,7 +14,7 @@ authors: ["Xavier"]
 comments_present: 0
 f_author: "Xavier"
 f_date: "August 20, 2005, 1:33 pm"
-f_description: "After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by Cyrus Martin inside."
+f_description: "After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by (redacted: name) inside."
 f_section: "Fiction > Short Story Contest: Summer 05"
 f_title: "Short Story Contest: Final Shortlist"
 converter_version: "1"
@@ -29,14 +29,14 @@ source_captures:
 
 Short Story Contest
 Summer 2005
-Thank you to all those who voted over the past three days, the booth is now closed. The shortlist results are as follows in alphabetical order, these five stories will now be critically reviewed by Cyrus Martin with the announcement of the winners on the frontpage sometime next week.
+Thank you to all those who voted over the past three days, the booth is now closed. The shortlist results are as follows in alphabetical order, these five stories will now be critically reviewed by (redacted: name) with the announcement of the winners on the frontpage sometime next week.
 **Shortlist**
 Blob Dude Ersuis Moonews Ryukenshen UltimaWizard
 I must add a huge thanks to all those unfortunate enough not to make the final shortlist, there were a lot of great entries and hopefully you guys will be back come the winter contest.
 Stephen
 August 21, 2005, 4:13 pm
 Good stuff, Xaviamphilz
-After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by Cyrus Martin inside.
+After three days of voting we have shortened our list of twenty authors to just five for the final stage of the contest. Check out who will have their story reviewed by (redacted: name) inside.
 Aug 22, '05
 Aug 17, '05
 Aug 16, '05

@@ -313,4 +313,4 @@ Credits
 - Colin Fitzpatrick: RPGCode subsystem (including threaded RPGCode), most file readers, most RPGCode functions, plugin subsystem, most plugin callbacks, battle system subsystem, RPGCode update wizard, various trivial things
 - Jonathan Hughes (Delano): Board editor, animation wizard, project file tree, sprite graphics window, subfolder file selection. Vector collision, vector movement and pathfinding, coordinate systems, partial sprite translucency, layered images.
 - Samuel Bedwell (Occasionally Correct): RPGCode help pages.
-- Lorie-Jay Gutierrez (Khin): Board editor icons.
+- (redacted: name) (Khin): Board editor icons.

@@ -34,7 +34,7 @@ links:
 
 ### Dominea · 2006-06-06 04:21 · #B325254
 
-So heres the deal: I am currently on a development team for a development cycle of 5 months. We will be submitting this game for the IGF student competition. We cannot offer you any monetary rewards/pay but this is a big, BIG, oppurtunity to show off your stuff. We have an 80% chance of being selected into the student showcase based off curent statistical anylasis to show off the game on the floor of the Game Developers Conference. This game WILL get done! In fact is has to for me to graduate Wink So if your interested in joining our asset team please contact me at RaymondChandler@avengersoft.com so that I can discuss further details with you.
+So heres the deal: I am currently on a development team for a development cycle of 5 months. We will be submitting this game for the IGF student competition. We cannot offer you any monetary rewards/pay but this is a big, BIG, oppurtunity to show off your stuff. We have an 80% chance of being selected into the student showcase based off curent statistical anylasis to show off the game on the floor of the Game Developers Conference. This game WILL get done! In fact is has to for me to graduate Wink So if your interested in joining our asset team please contact me at (redacted: email) so that I can discuss further details with you.
 Thank you,
 Raymond Chandler III
 Independant Game Developer

@@ -13,7 +13,7 @@ repliers: []
 authors: ["marcos"]
 comments_present: 0
 f_joined: "June 17, 2004"
-f_location: "Florianópolis, SC, Brazil"
+f_location: "(redacted: location)"
 f_username: "marcos"
 converter_version: "1"
 source_captures:

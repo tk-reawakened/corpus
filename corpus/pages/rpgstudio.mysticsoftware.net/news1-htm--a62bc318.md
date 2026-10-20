@@ -29,5 +29,5 @@ Current News:
 The server is up and running, and we have many players online all the time. But as many has noticed, there is some bugs in the game. So I might turn the server off tomorrow. Just to work on my own to solve them, and add some more maps, and hopefully finish the whole first world. Don't worry, your accounts will remain. :) **2005-03-26, by William:**
 Why not join this game NOW, so you can become high level and help the other players online, or you can kill them and take therre items and become even stronger. This game is always Online.
 R -Bjorn Johansson-
-Mail and MSN:Johansson_Tk@hotmail.com
+Mail and MSN:(redacted: email)
 [![Total Trolley](http://www.free-counter-plus.com/counter/?id=33739&style=7)](http://www.asseenontv.com/prod-pages/total_trolley.html)

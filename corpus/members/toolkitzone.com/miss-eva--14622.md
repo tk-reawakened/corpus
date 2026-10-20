@@ -13,12 +13,11 @@ repliers: []
 authors: ["miss_eva"]
 comments_present: 0
 handle: "miss_eva"
-f_age: "16 - 20"
 f_interests: "writing, drawing...stuff"
 f_joined: "December 5th 2006"
 f_last_visit: "January 6th 2007"
-f_location: "Texas"
-f_name: "Miss Eva"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Bookseller"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -38,5 +37,5 @@ Talented artist for hire...if you can afford my services. *mwah* ;o
 **AIM:**
 **YIM:**
 **MSN:**
-eheeke@txwi.net
+(redacted: email)
 Posted on Thursday 2.30am, December 14th, 2006

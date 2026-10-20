@@ -16,7 +16,7 @@ handle: "Eeveechan"
 f_interests: "RPG Building & Web Designing"
 f_joined: "June 3rd 2005"
 f_last_visit: "October 17th 2005"
-f_location: "Fyuro - The land of Pokemon!"
+f_location: "(redacted: location)"
 f_occupation: "Web Designer, RPG Builder"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,6 +30,6 @@ source_captures:
 
 ![Avatar](forum/images/avatars/148510804442a1c14af3cb7.png)
 **MSN:**
-torchic_k@hotmail.com
+(redacted: email)
 Posted on Sunday 6.08pm, June 5th, 2005
 Who's Online: , , , , , , , , , , [7LegionArmy](community.php?user=7614) [Alex](community.php?user=893) [cadc](community.php?user=16058) [Colin](community.php?user=226) [Devastation](community.php?user=4234) [Moo Of Doom](community.php?user=334) [Mr Picso](community.php?user=3699) [Oyerth](community.php?user=37) [RainboKat](community.php?user=9667) [Seafroggys](community.php?user=141) [Shinn](community.php?user=16052)

@@ -12,10 +12,9 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_joined: "January 29th 2004"
 f_last_visit: "April 2nd 2008"
-f_location: "NY, USA"
+f_location: "(redacted: location)"
 f_name: "Brandon"
 f_occupation: "Student"
 f_rank: "Member"
@@ -36,7 +35,6 @@ Student
 Arr!
 **AIM:**
 **YIM:**
-brpeterman@gmail.com
 Added on Friday 8.16pm, November 9th, 2007
 ARRRRGH! I was supposed to register for classes this morning. I got up an hour earlier than usual. The server was down. Fuck. I got an e-mail. Sorry, we're down. Register at 2:00. Okay. 2:00: Linguistics: CLOSED Studio Art: CLOSED Fuck. That's 8 of my 16 needed credit hours gone. ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5557)
 Added on Friday 8.10pm, June 22nd, 2007

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "littledark1"
 f_joined: "November 28th 2005"
 f_last_visit: "April 15th 2006"
-f_location: "Wales, UK"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "littledark1"

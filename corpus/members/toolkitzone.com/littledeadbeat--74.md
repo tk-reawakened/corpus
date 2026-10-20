@@ -15,7 +15,7 @@ comments_present: 0
 handle: "LittleDeadBeat"
 f_joined: "January 28th 2004"
 f_last_visit: "July 21st 2004"
-f_location: "Indiana"
+f_location: "(redacted: location)"
 f_occupation: "Travling"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-LittleDeadBeat@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Somthing Diffrent](forum/viewtopic.php?p=61408#61408)
 Posted on Monday 5.25am, July 19th, 2004
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Where would the world be with google???](forum/viewtopic.php?p=61406#61406)

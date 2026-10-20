@@ -56,7 +56,7 @@ en cambio , con rpg toolkit podes hacer CUALQUIER COSA, aunque con un poco mas d
 Aguante el toolkit!!!
 -Un amante del toolkit
 -M@xee
-maxi441@hotmail.com ---icq: 147346554
+(redacted: email) ---icq: 147346554
 
 ### ireng · 2002-05-06 19:41 · #A1005-1098
 
@@ -77,10 +77,10 @@ Por eso se lo bajan todos los boluditos porque es el creador de rpg´s mas facil
 en cambio usando visual c++ con el toolkit podes hacer CUALQUIER COSA que pueda hacer una computadora, lo unico tenes que saber c++, como yo.
 Por último, en el rpg maker, no podes hacer tus characters, entonces los boluditos que usan el maker, usan siempre los mismos personajes (Los predeterminados del maker), y caeda juego del rpg maker que jueges va a tener los mismos personajes y tilesets.
 Bueno, esta es mi explicacion
-maxi441@hotmail.com
+(redacted: email)
 icq: 1473465544
 !!Aguante Boca, loco!!
-maxi441@hotmail.com ---icq: 147346554
+(redacted: email) ---icq: 147346554
 
 ### ireng · 2002-05-08 22:07 · #A1005-1100
 
@@ -95,7 +95,7 @@ Ireng, the Soultaker
 
 ...tenes toda la razon, esos tarados van a casgrse de hambre mientras nosotros vamos a progresar, jajajajaa
 JAJAJAJA
-maxi441@hotmail.com ---icq: 147346554
+(redacted: email) ---icq: 147346554
 
 ### ireng · 2002-05-13 17:05 · #A1005-1106
 
@@ -143,8 +143,8 @@ perfectionist; dashing; imaginative
 
 *Do you want to know what i'm working on? my secret project? Well... I can only tell you that I am replicating something. Thats all...*
 AIM: OpticalExplosion
-AOL: Mallow98027@aol.com
-MSN: Mallow98027@aol.com
+AOL: (redacted: email)
+MSN: (redacted: email)
 Boy Meets World...nazi enthusiast?
 Some may spectulate...
 **B**oy **M**eets **W**orld...

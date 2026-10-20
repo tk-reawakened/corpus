@@ -88,7 +88,7 @@ The next step is to put your game into a zip file. To do this, you need a progra
 First, go into WinZip, and select ‘New Archive’ from the ‘File’ menu. It will ask you for a filename for the new archive. Give it one, and remember what directory you put it in. This will open up a new window asking you what files you want to put into your zip file. In the file dialogue, locate your directory (c:\Jewel, or whatever), and go into it. Below the list of directories is a ‘File Name’ box. Put *.* into this box.
 Make sure the following options is turned on: ‘Include Subdirectories’. Make sure ‘Include extra folder info’ is turned on (actually, that’s more a matter of preference). Then hit the button labeled ‘Add With Wildcards’. This will compress all of your files, and create a new zipped up file, ready to use. **not**
 The zipped up file is the file that you will upload onto your website, put on a disk, or whatever. It includes all the files required to play your game.
-That’s all. If you have any questions, don’t hesitate to email me (asoft@rocketmail.com). Remember to abide by the rules of distribution as outlined in the file ‘eula.txt’- you may not distribute games . **commercially**
+That’s all. If you have any questions, don’t hesitate to email me ((redacted: email)). Remember to abide by the rules of distribution as outlined in the file ‘eula.txt’- you may not distribute games . **commercially**
 Christopher B. Matthews
 April 10, 1999.
 *Updated August 7, 1999*

@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 18th, 2008"
-f_location: "My Home!"
+f_location: "(redacted: location)"
 f_name: "Cory"
 converter_version: "1"
 source_captures:

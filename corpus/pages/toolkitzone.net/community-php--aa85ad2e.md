@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "guitar playing and original reallity-inspired stories"
 f_joined: "April 26th 2009"
 f_last_visit: "October 10th 2010"
-f_location: "werever strange things happen"
+f_location: "(redacted: location)"
 f_name: "DAISUKENOJO BITO, just call me BEAT"
 f_occupation: "Punishing the stupidity"
 f_rank: "Member"

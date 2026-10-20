@@ -12,7 +12,7 @@ author: "Dana Tagalon Harris"
 repliers: []
 authors: ["Dana Tagalon Harris"]
 comments_present: 0
-f_author_source: "Dana Harris"
+f_author_source: "(redacted: name)"
 f_name: "Character Profile"
 f_submitted_by: "Dana Tagalon Harris"
 converter_version: "1"

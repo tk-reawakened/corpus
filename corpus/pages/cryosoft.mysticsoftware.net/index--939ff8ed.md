@@ -22,5 +22,5 @@ source_captures:
 
 ```
 25-Oct-2007 08:05 - 07-Sep-2007 12:32 - 01-Oct-2006 17:47 - 09-Oct-2007 05:52 2k 26-Aug-2007 23:52 1022k 26-Aug-2007 23:53 538k 26-Aug-2007 23:41 638k 26-Aug-2007 23:41 475k 26-Aug-2007 23:40 512k 26-Aug-2007 23:40 524k 26-Aug-2007 23:41 522k 26-Aug-2007 23:41 514k![](/icons/blank.gif) Name Last modified Size Description
-![[DIR]](/icons/back.gif) Parent Directory![[DIR]](/icons/folder.gif) Guild_Website/![[DIR]](/icons/folder.gif) TenjikuRounin/![[TXT]](/icons/text.gif) Vocab unit 2A.rtf![[IMG]](/icons/image2.gif) gw030.jpg![[IMG]](/icons/image2.gif) gw035.jpg![[IMG]](/icons/image2.gif) gw046.jpg![[IMG]](/icons/image2.gif) gw047.jpg![[IMG]](/icons/image2.gif) gw048.jpg![[IMG]](/icons/image2.gif) gw049.jpg![[IMG]](/icons/image2.gif) gw050.jpg![[IMG]](/icons/image2.gif) gw051.jpg
+![[DIR]](/icons/back.gif) Parent Directory![[DIR]](/icons/folder.gif) Guild_Website/![[DIR]](/icons/folder.gif) TenjikuRounin/![[TXT]](/icons/text.gif) Vocab (redacted: address).rtf![[IMG]](/icons/image2.gif) gw030.jpg![[IMG]](/icons/image2.gif) gw035.jpg![[IMG]](/icons/image2.gif) gw046.jpg![[IMG]](/icons/image2.gif) gw047.jpg![[IMG]](/icons/image2.gif) gw048.jpg![[IMG]](/icons/image2.gif) gw049.jpg![[IMG]](/icons/image2.gif) gw050.jpg![[IMG]](/icons/image2.gif) gw051.jpg
 ```

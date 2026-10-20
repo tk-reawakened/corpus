@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 rockin' the night away
 Posted by - Thu 12 August, 2004 4:53am [Serge](forums/profile.php?mode=viewprofile&u=354)
 I just got back from a Bleach farewell tour concert. They're is pretty good. Casting Pearls and Remedy played as openers. They're local bands, but Casting Pearls especially is moving up in the ranks! I really like them a lot. I bought a Casting Pearls CD (and am listening to it right now). Right now I'm pretty hungry, tired, and have to get up in 8 hours. Earlier in the day I went to school to get my picture taken for my ID, a schedule change, and turn in some papers. I accidentally forgot I had a knife in my pocket and brought it in with me. That was pretty dangeresque... I better stop carrying it with me now that school is starting =P I like knives though. I also like guns. Including paintball guns =D I get my driver's license in... a couple weeks! Whooo! September 1st. I renewed the flash actionscript book I'm reading at the library yesterday. I wonder if I'll actually go through any more of the tutorials, though. I'm kind of lazy; in general I want to go through them but I never feel like it, since I know enough basics to work on the Mortalis battle system just fine. God bless, and good night!

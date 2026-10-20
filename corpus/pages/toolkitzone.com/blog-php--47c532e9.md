@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 Part 2
 Posted by - Sun 16 May, 2004 6:23pm [EvilguymakinRPGs](forums/profile.php?mode=viewprofile&u=1594)
 (Devil spins on his head on the floor) Tune in next time for the ongoing cronicals of this weird story **D: well You should pick me because I can stand on my head and spin like this!!**

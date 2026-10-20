@@ -154,7 +154,7 @@ No, these are guidelines for people who actually know what they are doing, but d
 People who ask you how to make a bs, well... the only thing you can tell them is to go learn the RPG code.
 _________________
 http://www.toolkitzone.com/mygames/images/121/893.jpg <http://img17.exs.cx/img17/3476/Drink7E.jpg>
-:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.seveneternal@gmail.com.:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
+:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.(redacted: email).:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
 
 ### TK Game Boy · 2004-08-10 16:50 · #B72712
 

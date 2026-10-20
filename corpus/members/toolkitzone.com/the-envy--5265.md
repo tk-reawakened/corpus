@@ -15,7 +15,7 @@ comments_present: 0
 handle: "The Envy"
 f_joined: "February 18th 2005"
 f_last_visit: "December 21st 2006"
-f_location: "Turn around..."
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "The Envy"

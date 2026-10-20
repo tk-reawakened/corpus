@@ -13,7 +13,6 @@ repliers: []
 authors: ["aligerwithskills"]
 comments_present: 0
 handle: "aligerwithskills"
-f_age: "16 - 20"
 f_interests: "Playing music, video games, movies, sports, and RPG Toolkit"
 f_joined: "March 17th 2007"
 f_last_visit: "November 25th 2007"

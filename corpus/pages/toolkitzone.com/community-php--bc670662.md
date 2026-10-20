@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "June 30th, 2004"
-f_location: "Connecticut"
+f_location: "(redacted: location)"
 f_name: "Zack"
 converter_version: "1"
 source_captures:

@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 **
 Creative Writing
 Session 3:
@@ -41,7 +41,7 @@ There are many other factors that you may wish to consider when writing your tal
 How you write and what you write are up to you.
 These are but words of advice
 Thank you.
-**Cyrus Martin**
+**(redacted: name)**
 ** Author of Deceit and Conquest
 **
 Writer/Director of Dawn of Twilight

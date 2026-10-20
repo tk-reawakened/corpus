@@ -15,7 +15,7 @@ comments_present: 0
 handle: "bound4ct"
 f_joined: "September 26th 2004"
 f_last_visit: "August 4th 2006"
-f_location: "My Own Little (Super Mario) World"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "bound4ct"

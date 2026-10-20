@@ -16,7 +16,7 @@ handle: "whiteyboi"
 f_interests: "errm you no that thing ppl do"
 f_joined: "March 12th 2006"
 f_last_visit: "October 14th 2006"
-f_location: "here"
+f_location: "(redacted: location)"
 f_occupation: "fit, young and a heart breaker"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/1124758952453130b41058c.jpg)
 **MSN:**
-whiteyboi@hotmail.com
+(redacted: email)
 Posted on Saturday 8.58pm, October 14th, 2006
 Posted on Saturday 4.26pm, October 14th, 2006
 hmmmm looks good but it also looks familiar?!?!?!?!?!?!?!?!?!?!?!?!?!? *_* EDIT:it looks like freelancer thats what it looks like [more![More](templates/default/images/icons/more.gif)](games.php?image=7627#c29234)

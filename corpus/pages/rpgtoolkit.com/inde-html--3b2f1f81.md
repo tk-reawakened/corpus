@@ -39,7 +39,7 @@ toolkit 3.x > news
 **Latest Documents**
 First version of Marz's Editor FAQ, featuring many of the common questions concerning the editor and creating your game in general. Questions include; "How do I make my character fight more than 1 enemy?" and "When my character moves on the board, its surrounded in white. Whats wrong?".
 The second edition of the now popular pixelling contest from way back in July. Within you can find all the entries plus the eventual winner and runners-up after voting on the forums.
-A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
+A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
 **Latest Resources**
 submitted by Dana Tagalon Harris
 Simple step-by-step tutorial aimed at helping you draw those original character profiles that can light up a games menu or message windows. Each step is accompanied by a progressing example to help illustrate the explanation.

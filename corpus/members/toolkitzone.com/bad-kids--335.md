@@ -15,8 +15,8 @@ comments_present: 0
 handle: "Bad Kids"
 f_joined: "February 14th 2004"
 f_last_visit: "March 26th 2007"
-f_location: "BC, Canada"
-f_name: "Tarandeep Singh Shergill"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Bad Kids"
@@ -33,7 +33,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-badkids83@msn.com
+(redacted: email)
 ![Newbie Haven](../templates/default/images/icons/forums/forum_newbie.gif) [New..sort of.](forum/viewtopic.php?p=386968#386968)
 Posted on Sunday 4.18am, March 25th, 2007
 Nice to meet you I'm Bad Kids, welcome to TKZ! (and good luck ...:P) [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=386968#386968)

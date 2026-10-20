@@ -13,7 +13,6 @@ repliers: []
 authors: ["Pancake Stack / Asimir"]
 comments_present: 0
 handle: "Pancake Stack / Asimir"
-f_age: "26+"
 f_country: "United States"
 f_occupation: "Software Engineer"
 f_username: "Pancake Stack / Asimir"

@@ -263,7 +263,7 @@ Well, that's pretty much the basics of it. Here are some tips that may help you 
 - Try out other software if you want. If you think you can handle GIMP, by all means, go for it. But if you realize that it's too hard, then you can always come back to MS Paint. I did that once. Still sticking with MS Paint.
 - Post your stuff on the forums. Usually when you think you've gotten to a point where you think you've reached a peak in an area, get conformation of it by posting your piece on the forums. You can get more feedback and see if you are ready to go to the next level or are still in need of training. Though don't take criticism too harshly. Learn from it. Only then you will succeed.
 [5.1] Then-End
-Sionara Baby. If you got any questions, you can try to e-mail me at tk_game_boy@programming.net, or if you want fast results, try PM'ng me on the forums.
+Sionara Baby. If you got any questions, you can try to e-mail me at (redacted: email), or if you want fast results, try PM'ng me on the forums.
 [5.1] Credits
 Microsoft for making the software and hardly changing it. Google image search for the Sonic Sprite. http://ggxlol.highervoltage.net/ for the Guilty Gear sprites. RPGMaker 2000 (Don't look at me like that) for the background image. Khin for letting me permission for using his sprites. http://fightersgeneration.com/ for the Garou: Mark of the Wolves background.
 ![](vault/images/23_107.gif)

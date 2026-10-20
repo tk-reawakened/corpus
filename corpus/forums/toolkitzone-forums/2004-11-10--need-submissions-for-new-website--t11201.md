@@ -34,7 +34,7 @@ links:
 ### Levi · 2004-11-10 13:59 · #B123381
 
 Hello all of you writers of stories and poetry, I've developed a website dedicated to all forms of fiction, from stories and drawings to poetry. And I'd like your help to make it great.
-Just submit any work you'd like displayed on my site to Submition@LevisFiction.tk
+Just submit any work you'd like displayed on my site to (redacted: email)
 Just give me a name you'd like me to use as your author name, the title of the piece and a summary and I'll take that and begin posting it on my site. Keep in mind I only accept stories, poetry, and art that can be rated no higher than PG-13
 Sure probably no one will show up to actually look at the stuff, but its about content before consumer use.
 Check out the general look of my site, I hope to have this improved by quite a bit within the coming months. Mainly using ASP to make everything smaller and load faster. I'm also planning on making a review board for each piece submitted. So that author's can get direct access to how people think about their works.

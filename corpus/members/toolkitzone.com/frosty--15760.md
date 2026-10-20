@@ -13,10 +13,9 @@ repliers: []
 authors: ["Frosty"]
 comments_present: 0
 handle: "Frosty"
-f_age: "16 - 20"
 f_joined: "February 21st 2007"
 f_last_visit: "February 26th 2007"
-f_name: "Steven Frostwick"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Frosty"

@@ -13,12 +13,11 @@ repliers: []
 authors: ["Cuzit"]
 comments_present: 0
 handle: "Cuzit"
-f_age: "10 - 15"
 f_interests: "Skateboarding, Rapping, Toolkit, Games, Gurls"
 f_joined: "April 29th 2004"
 f_last_visit: "February 20th 2007"
-f_location: "Fort Payne, AL"
-f_name: "Matt Silvey"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Video Game Expert"
 f_rank: "Member"
 f_rankings: "No rankings."

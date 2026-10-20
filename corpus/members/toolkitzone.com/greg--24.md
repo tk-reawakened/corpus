@@ -13,7 +13,6 @@ repliers: []
 authors: ["Greg"]
 comments_present: 0
 handle: "Greg"
-f_age: "16 - 20"
 f_joined: "January 28th 2004"
 f_last_visit: "February 24th 2007"
 f_rank: "Member"
@@ -40,7 +39,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-hk_xm29_oicw@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Oh dear lord](forum/viewtopic.php?p=382396#382396)
 Posted on Sunday 12.15am, February 25th, 2007
 Sephy wrote: In the evolution theory things are supposed to get bigger are they not? There is evidence that it fluctuates... Thus proving it wrong.... No. Things aren't supposed to "get bigger." They become better adapted to their environment. What ignorance... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=382396#382396)

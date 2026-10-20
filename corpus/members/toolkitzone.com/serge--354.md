@@ -16,7 +16,7 @@ handle: "Serge"
 f_interests: "9% APR"
 f_joined: "February 15th 2004"
 f_last_visit: "October 25th 2006"
-f_location: "Nebraska"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_username: "Serge"
 converter_version: "1"
@@ -32,7 +32,7 @@ Total of 16 places and 47 users.
 **AIM:**
 **YIM:**
 **MSN:**
-calvin4life99@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (4)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/23.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=16)

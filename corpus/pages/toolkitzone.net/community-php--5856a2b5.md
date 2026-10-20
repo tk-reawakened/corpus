@@ -15,7 +15,7 @@ comments_present: 0
 f_interests: "[n/a]"
 f_joined: "November 29th 2006"
 f_last_visit: "April 2nd 2008"
-f_location: "INSIDE THE OuTINGS OF IN."
+f_location: "(redacted: location)"
 f_name: "[N/A]"
 f_occupation: "[N/A]"
 f_rank: "Member"

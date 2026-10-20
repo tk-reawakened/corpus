@@ -13,11 +13,10 @@ repliers: []
 authors: ["Montai"]
 comments_present: 0
 handle: "Montai"
-f_age: "16 - 20"
 f_interests: "games, computers, art, music, people."
 f_joined: "January 28th 2004"
 f_last_visit: "December 31st 2009"
-f_name: "Monta McLaughlin"
+f_name: "(redacted: name)"
 f_occupation: "none"
 f_rank: "Member"
 f_username: "Montai"
@@ -41,7 +40,7 @@ Total of 23 places and 66 users.
 **AIM:**
 **YIM:**
 **MSN:**
-mmcflamestar@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Files (19)**
 Recent Files
 [View All Files By User](files.php?search&user=39)![View All](templates/default/images/icons/more.gif)

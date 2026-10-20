@@ -53,7 +53,7 @@ I wrote a good little dos program and I thought I'd share it with all of you for
 The program is called Text-World and it is a game maker program that will allow you to make your own text adventure games without programming. I know it may not be as advanced as the toolkit but give it a try! It's fun to use and has the ability to make huge text based games very quickly. You have a limit of 500 rooms that you can create for the players to explore.
 My friends and I have been using this program I wrote for weeks now non stop! We are all making are own style games and then we trade them for each other to beat. I find it quite addicting. It's modeled after a text game editor known as CIA (Create Interactive Adventures). My program however can do the same as CIA and much more... Well Merry Christmas and have fun. Tell me what you think of the program if you give it a try. Also send your games to me if you make any! I might make a site and post all the games on it some day...
 [Click Here](http://whiteboy.zyfect.com/textworld.html) - To go to the download page! It's a 199KB download size!
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [<small](http://www.rpgtoolkit.com/cgi-bin/<small)
 
 ### White Divine · 2001-12-15 15:38 · #A1000-7516
@@ -61,7 +61,7 @@ White Divine - (MSN - WhiteBoyOnline@hotmail.com)
 **Sorry about that...**
 
 For some reason the install program doesn't work right now. I'll try fixing it and then post again once it is fixed.
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [<small](http://www.rpgtoolkit.com/cgi-bin/<small)
 
 ### White Divine · 2001-12-15 15:47 · #A1000-7517
@@ -69,7 +69,7 @@ White Divine - (MSN - WhiteBoyOnline@hotmail.com)
 **Okay... Here is the download (more)**
 
 **[Click Here](http://www16.brinkster.com/chicogames/textworld.html) to go to the download site to download Text-World!**
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [<small](http://www.rpgtoolkit.com/cgi-bin/<small)
 
 ### White Divine · 2001-12-15 16:20 · #A1000-7521
@@ -77,7 +77,7 @@ White Divine - (MSN - WhiteBoyOnline@hotmail.com)
 **lol, Is that what you say when someone gives you a christmas gift? (more)**
 
 Someone gets you something for christmas so you say thanks but I like something else? lol =P
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [<small](http://www.rpgtoolkit.com/cgi-bin/<small)
 
 ### MrX · 2001-12-15 17:08 · #A1000-7529
@@ -97,7 +97,7 @@ White Divine - (MSN - WhiteBoyOnline@hotmail.com)
 **Thanks =) -nt-**
 
 nt
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [<small](http://www.rpgtoolkit.com/cgi-bin/<small)
 
 ### forgottenfew · 2003-08-13 18:33 · #A1001-7509

@@ -72,10 +72,10 @@ tnx again:)
 
 ---
 **Contacts**
-E-mail: piartsco@yahoo.com
+E-mail: (redacted: email)
 ICQ: 346048923
 AIM aergheiz
-Landline: [redacted: phone number](I'm from the Philippines so this is a loooong distance call)
-Mobile: [redacted: phone number](txt or call me)
+Landline: (redacted: phone number)(I'm from the Philippines so this is a loooong distance call)
+Mobile: (redacted: phone number)(txt or call me)
 
 ---

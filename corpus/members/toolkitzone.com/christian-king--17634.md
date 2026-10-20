@@ -13,11 +13,10 @@ repliers: []
 authors: ["Christian_King"]
 comments_present: 0
 handle: "Christian_King"
-f_age: "16 - 20"
 f_interests: "xxx I Love Sarah 4Eva xxx"
 f_joined: "July 16th 2007"
 f_last_visit: "April 20th 2008"
-f_location: "Salisbury"
+f_location: "(redacted: location)"
 f_name: "Christian"
 f_rank: "Member"
 f_rankings: "No rankings."

@@ -38,5 +38,5 @@ links: []
 
 mines in the sig.
 Pubilc Declare Function DoAllMyWorkForMe Lib "iamlazy.dll" (ByVal Time as Long, ByVal Quality As Long) as Executable
-MSN: jason_detchevery@hotmail.com
+MSN: (redacted: email)
 Website: I'm far too lazy to make one of those....yet.....

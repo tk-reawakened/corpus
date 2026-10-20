@@ -14,7 +14,7 @@ authors: ["Cyrus"]
 comments_present: 0
 f_author: "Cyrus"
 f_date: "April 19, 2005, 8:04 pm"
-f_description: "Cyrus Martin continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers."
+f_description: "(redacted: name) continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers."
 f_title: "A Weekly Word #3 \\\"Filmmaking\\\""
 converter_version: "1"
 source_captures:
@@ -24,7 +24,7 @@ source_captures:
 # "Filmmaking"
 
 A Weekly Word
-from Cyrus Martin
+from (redacted: name)
 **"Filmmaking"**
 **Part 2**
 > Ok so this is part 2. I'm a little late in getting this written because of the release of my book (Deceit and Conquest Volume 1: SEOR). I apologize for being tardy but I guess there's just never enough time for everything.
@@ -102,7 +102,7 @@ April 23, 2005, 7:14 pm
 I do have to agree with Ivan. Very intresting. I have had no such experiance being the HEAD of something like that. I've always been the crew :P. I remember on one such event with the Golden Girl Pagent where all the practices went perfect but the real thing was um... bad! :P
 **Column**
 Community > A Weekly Word
-Cyrus Martin continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
+(redacted: name) continues to look back at his debut directing experience, including the quick guide to turning your bedroom into a government interrogation room. Great insight for all you would-be film makers.
 **Past Columns**
 Apr 6, '05
 Mar 31, '05

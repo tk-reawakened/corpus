@@ -13,7 +13,6 @@ repliers: []
 authors: ["super_mecha_girl"]
 comments_present: 0
 handle: "super_mecha_girl"
-f_age: "26+"
 f_interests: "Art, Writing, and Science-Fiction."
 f_joined: "October 5th 2009"
 f_last_visit: "October 8th 2009"

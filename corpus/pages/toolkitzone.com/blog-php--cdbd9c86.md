@@ -14,7 +14,7 @@ authors: ["Whist"]
 comments_present: 0
 f_interests: "Fun things and some things that aren't fun, and in my spare time I like to go to the TK Evolution site.......:D"
 f_joined: "May 12, 2004"
-f_location: "Ottawa,Ontario Post count: 810"
+f_location: "(redacted: location)"
 f_username: "Whist"
 converter_version: "1"
 source_captures:

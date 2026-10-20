@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 a dungleberry
 Posted by - Sat 05 June, 2004 10:03pm [cboje](profile.php?mode=viewprofile&u=1741)
 the dungleberry is the mysterious fruit of the forefathers of the elderland.

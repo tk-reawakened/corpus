@@ -15,7 +15,7 @@ comments_present: 0
 handle: "roy boy"
 f_joined: "February 16th 2005"
 f_last_visit: "February 17th 2005"
-f_location: "netherlands"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "roy boy"
@@ -27,5 +27,5 @@ source_captures:
 # roy boy
 
 **MSN:**
-het_roy@hotmail.com
+(redacted: email)
 Posted on Thursday 12.26pm, February 17th, 2005

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Chaos"
 f_joined: "May 3rd 2004"
 f_last_visit: "February 1st 2006"
-f_location: "England"
+f_location: "(redacted: location)"
 f_occupation: "Music Composer"
 f_rank: "Member"
 f_username: "Chaos"
@@ -30,7 +30,7 @@ source_captures:
 **Awards:**
 Total of 16 places and 41 users.
 **MSN:**
-ChaosBlade@fsmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (2)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/18.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=23)

@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "March 11th, 2004"
-f_location: "Anytown, USA"
+f_location: "(redacted: location)"
 f_name: "Christian"
 converter_version: "1"
 source_captures:

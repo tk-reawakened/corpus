@@ -13,7 +13,7 @@ repliers: []
 authors: ["Angel of Death"]
 comments_present: 0
 f_joined: "August 10, 2004"
-f_location: "The boundaries of insanity."
+f_location: "(redacted: location)"
 f_username: "Angel of Death"
 converter_version: "1"
 source_captures:

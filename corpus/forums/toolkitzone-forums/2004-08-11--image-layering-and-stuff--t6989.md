@@ -50,7 +50,7 @@ Something like that.... I think it would be useful for menu or battle systems th
 Also enables you to have images on screen when moving around... maybe useful for a timer or a special menu...
 _________________
 http://www.toolkitzone.com/mygames/images/121/893.jpg <http://img17.exs.cx/img17/3476/Drink7E.jpg>
-:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.seveneternal@gmail.com.:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
+:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.(redacted: email).:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
 
 ### Woozy · 2004-08-11 10:14 · #B73145
 

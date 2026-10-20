@@ -58,7 +58,7 @@ any way i drew this----> <http://www.imaginationatwork.com/Imagine?_nolivecache&
 
 ### zzz · 2004-12-05 19:10 · #B135136
 
-<http://admin3.imaginationatwork.com/LaunchPage?aFileType=&_nolivecache&aDrawingID=20041205_135512864_982621944_usa&from_email=zzzurdeadzzz@hotmail.com&from_name=zzz&to_email=zzzurdeadzzz@hotmail.com&to_name=&_lscid=184982417>
+<http://admin3.imaginationatwork.com/LaunchPage?aFileType=&_nolivecache&aDrawingID=20041205_135512864_982621944_usa&from_email=(redacted: email)&from_name=zzz&to_email=(redacted: email)&to_name=&_lscid=184982417>
 
 ### Slasher · 2004-12-05 21:32 · #B135198
 
@@ -71,9 +71,9 @@ i know ;;
 ### Pezzer · 2004-12-14 22:54 · #B139695
 
 This is something stupid I tried, so hard doing it on computer...
-<http://admin3.imaginationatwork.com/LaunchPage?aFileType=&_nolivecache&sessionID=&message=&room_email=&from_email=pezzer@gmail.com&from_name=Perry+Swain&to_email=pezzer@gmail.com&to_name=&aDrawingID=20041214_174945203_726934884_gbr&transcript=&_lscid=>
+<http://admin3.imaginationatwork.com/LaunchPage?aFileType=&_nolivecache&sessionID=&message=&room_email=&from_email=(redacted: email)&from_name=Perry+Swain&to_email=(redacted: email)&to_name=&aDrawingID=20041214_174945203_726934884_gbr&transcript=&_lscid=>
 
 ### Disrupter · 2005-01-03 07:45 · #B150413
 
-<http://admin3.imaginationatwork.com/LaunchPage?aFileType=&_nolivecache&aDrawingID=20050102_233803205_1423601174_usa&from_email=caddiedude@hotmail.com&from_name=Tony+Lisowski&to_email=caddiedude@Hotmail.com&to_name=&_lscid=184982417#>
+<http://admin3.imaginationatwork.com/LaunchPage?aFileType=&_nolivecache&aDrawingID=20050102_233803205_1423601174_usa&from_email=(redacted: email)&from_name=Tony+Lisowski&to_email=(redacted: email)&to_name=&_lscid=184982417#>
 Its a short horror film!

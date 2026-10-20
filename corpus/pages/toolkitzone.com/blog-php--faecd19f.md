@@ -13,7 +13,7 @@ repliers: []
 authors: ["Joao"]
 comments_present: 0
 f_joined: "June 23, 2004"
-f_location: "Finally at home"
+f_location: "(redacted: location)"
 f_username: "Joao"
 converter_version: "1"
 source_captures:

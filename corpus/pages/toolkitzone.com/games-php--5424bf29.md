@@ -32,7 +32,7 @@ An adventure game based on myst, using puzzles and problems instead of battles. 
 [Click here to start downloading!](http://www.toolkitzone.com/games/1777/SythiaDemoVr1.0.zip)
 > Sythia Demo Version 1.0 [Demo Folder](games.php?mode=files&view=1&game=1777)
 February 11 2006, 1:18 pm
-The first demo is up. This is area two of the game. I am going to put the game manual on this profile as a page. Feedback much appreciated. I am working on area one of the game, when this is finished i will upload version 2.0 Version 1.1 will be the next upload, this will have all the graphics upgraded to shadowoflinux's graphics. (i can't draw to save my life). The piano currently can only be used to play crotchets, i have not yet worked out a way to play different length notes. Hope you enjoy! Joe Pearson
+The first demo is up. This is area two of the game. I am going to put the game manual on this profile as a page. Feedback much appreciated. I am working on area one of the game, when this is finished i will upload version 2.0 Version 1.1 will be the next upload, this will have all the graphics upgraded to shadowoflinux's graphics. (i can't draw to save my life). The piano currently can only be used to play crotchets, i have not yet worked out a way to play different length notes. Hope you enjoy! (redacted: name)
 No votes cast
 (11) **Download Tracker**
 v = has voted on file | f = given project feedback | c = commented on file

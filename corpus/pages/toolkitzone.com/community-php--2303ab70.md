@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "May 24th, 2004"
-f_location: "Los Angeles"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_500", captured: "20070321215506", sha256: "0ba049a6d91242c37f016e0f34f06184cb51a6b17dfc091e69c70c819baf1bee", wayback_url: "https://web.archive.org/web/20070321215506/http://toolkitzone.com/community.php?blog=500"}

@@ -14,7 +14,7 @@ authors: ["eternal gladiator"]
 comments_present: 0
 f_interests: "killing things and martial arts"
 f_joined: "July 1, 2004"
-f_location: "I live in a coliseum"
+f_location: "(redacted: location)"
 f_username: "eternal gladiator"
 converter_version: "1"
 source_captures:

@@ -13,7 +13,6 @@ repliers: []
 authors: ["Soapdish / Lotusware & k-hos"]
 comments_present: 0
 handle: "Soapdish / Lotusware & k-hos"
-f_age: "21-25"
 f_country: "United States"
 f_occupation: "Student"
 f_username: "Soapdish / Lotusware & k-hos"

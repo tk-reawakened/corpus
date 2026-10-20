@@ -47,7 +47,7 @@ results per page
 5 10 15 20
 March 13, 2005, 4:25 pm
 status: development - toolkit: 3.x - images: 5 - pages: 2 - news: 2 - files: 1
-Mystic Quest is an RPG which allows you to do many things.The main character of the game is Azrad who goes on a quest to explor more than he knows.Guest apperances in this game will be: Bam Margera, System of a Down, Nirvana, Indie, a Dead Kurt Cobain,and my girlfriend Taylor.EMAIL ME WITH ANY QUESTIONS! nirvana.cobain@gmail.com
+Mystic Quest is an RPG which allows you to do many things.The main character of the game is Azrad who goes on a quest to explor more than he knows.Guest apperances in this game will be: Bam Margera, System of a Down, Nirvana, Indie, a Dead Kurt Cobain,and my girlfriend Taylor.EMAIL ME WITH ANY QUESTIONS! (redacted: email)
 **QUICK SEARCH**
 **Keyword(s)**
 **Search In**

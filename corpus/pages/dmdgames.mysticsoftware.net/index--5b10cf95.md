@@ -29,25 +29,25 @@ Okay, dudes and babes! I've totally rewritten the story for The Black Walkway! E
 UPDATE: A cool improvement on Super Dude Man Adventure! Download now, to be amazed!
 ***Staff***
 Screen Name: Dippy
-Real Name: ??????
+Real Name: (redacted: name)
 Rank: Manager
 Forgotten
 Status: Alive
 Screen Name: Dude Man
-Real Name: Tim
+Real Name: (redacted: name)
 Rank: Overlord Manager
-dudeman@mysticsoftware.net
-icewarrior68@hotmail.com
+(redacted: email)
+(redacted: email)
 Status: Alive
 Screen Name: Mark Of The Dragon
-Real Name: Kenneth Howard
+Real Name: (redacted: name)
 Rank: Art & Forum Administrator
-zeroentity@msn.com
+(redacted: email)
 Status: Alive
 Screen Name: Galaton
-Real Name: Tim
+Real Name: (redacted: name)
 Rank: Box Exporter
-snowagumon@hotmail.com
-icewarrior68@hotmail.com
+(redacted: email)
+(redacted: email)
 Status: Dead
 Moods

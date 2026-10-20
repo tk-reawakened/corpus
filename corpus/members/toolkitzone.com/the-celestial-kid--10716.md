@@ -13,11 +13,10 @@ repliers: []
 authors: ["the_celestial_kid"]
 comments_present: 0
 handle: "the_celestial_kid"
-f_age: "16 - 20"
 f_interests: "Lancing, Drawing, Fencing, Writing, Eating, and Saving the World"
 f_joined: "March 17th 2006"
 f_last_visit: "February 5th 2007"
-f_location: "Midgar"
+f_location: "(redacted: location)"
 f_name: "Chris"
 f_occupation: "Dragoon"
 f_rank: "Member"

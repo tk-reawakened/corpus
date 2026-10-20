@@ -14,7 +14,7 @@ authors: ["Caliber Mengsk"]
 comments_present: 0
 f_interests: ".... everything that I like."
 f_joined: "March 12, 2004"
-f_location: "home as usual."
+f_location: "(redacted: location)"
 f_username: "Caliber Mengsk"
 converter_version: "1"
 source_captures:

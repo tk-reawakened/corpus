@@ -47,7 +47,7 @@ Click [here](http://mysticsoftware.net/tilesets/tilesets_1.htm) to view the list
 Outlines the file format specs for the TST file format. Some tips to good RPG design. Some techniques for good pixel-based art. The license for version 2 Powerhouse Edition owners. A guide for creating new language translations of the Toolkit. If you wish to create media that will be included with the main RPG Toolkit distribution, it must be accompanied by a similar EULA and give users of the media the same rights as outlined in this file
 TST file format specification (for developers)
 The Art of RPG Production
-Author:Cyrus Martin
+Author:(redacted: name)
 Tile Art
 Author:Head Taker
 Powerhouse Edition License (version 2) (does not apply to Standard Edition)

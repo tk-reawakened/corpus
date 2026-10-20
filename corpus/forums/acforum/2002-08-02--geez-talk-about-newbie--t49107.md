@@ -39,4 +39,4 @@ links:
 
 And I quote; "ALL tiles will be original, and I am estimating at least 10000 different tiles for the game"
 Haha! I bet.
-The #1 Place To Be - [Mystic Software](http://mysticsoftware.net)
+The #(redacted: address) To Be - [Mystic Software](http://mysticsoftware.net)

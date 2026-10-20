@@ -12,10 +12,9 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_joined: "January 28th 2004"
 f_last_visit: "October 9th 2010"
-f_location: "VA, USA"
+f_location: "(redacted: location)"
 f_name: "Sam"
 f_rank: "Member"
 f_rankings: "No rankings."

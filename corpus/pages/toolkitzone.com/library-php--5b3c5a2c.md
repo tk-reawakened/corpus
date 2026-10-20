@@ -30,7 +30,7 @@ sort by
 author date added title type
 Library > Creativity > Creative Writing
 November 22 2004, 9:54 am
-Cyrus Martin explains the importance of consistancy in your writing in the fourth article of the series.
+(redacted: name) explains the importance of consistancy in your writing in the fourth article of the series.
 Library > Creativity > Creative Writing
 November 22 2004, 9:52 am
 Third installment of Cyrus Martin's series on creative writing considers your target audience and what impact this will have on your writing style.

@@ -14,7 +14,7 @@ authors: ["zzz"]
 comments_present: 0
 f_interests: "Games, programming, art"
 f_joined: "February 17, 2004"
-f_location: "USA, MO, Near STL :P"
+f_location: "(redacted: location)"
 f_username: "zzz"
 converter_version: "1"
 source_captures:

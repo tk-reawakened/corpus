@@ -29,7 +29,7 @@ sort by
 author date added title type
 Library > Creativity > Creative Writing
 November 22 2004, 9:58 am
-Cyrus Martin looks at the importance of pace and timing in the latest installment of his creative writing series.
+(redacted: name) looks at the importance of pace and timing in the latest installment of his creative writing series.
 Library > Creativity > Creative Writing
 November 22 2004, 9:56 am
 Session six, titled "Crafting Your Words", concentrates on aspects such as narrative tone and intellectual targeting.
@@ -38,7 +38,7 @@ November 22 2004, 9:55 am
 Suspension of disbelief is the topic for the latest installment of Cyrus Martin's creative writing series.
 Library > Creativity > Creative Writing
 November 22 2004, 9:54 am
-Cyrus Martin explains the importance of consistancy in your writing in the fourth article of the series.
+(redacted: name) explains the importance of consistancy in your writing in the fourth article of the series.
 Library > Creativity > Creative Writing
 November 22 2004, 9:52 am
 Third installment of Cyrus Martin's series on creative writing considers your target audience and what impact this will have on your writing style.

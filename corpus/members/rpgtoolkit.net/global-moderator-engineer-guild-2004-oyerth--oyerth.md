@@ -13,9 +13,8 @@ repliers: []
 authors: ["Global Moderator, Engineer Guild 2004 Oyerth"]
 comments_present: 0
 handle: "Global Moderator, Engineer Guild 2004 Oyerth"
-f_age: "21-25"
 f_country: "United States"
-f_name: "Michael J. Gajewski"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_username: "Global Moderator, Engineer Guild 2004 Oyerth"
 converter_version: "1"

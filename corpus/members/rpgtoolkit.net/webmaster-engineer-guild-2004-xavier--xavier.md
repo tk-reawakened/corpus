@@ -13,9 +13,8 @@ repliers: []
 authors: ["Webmaster, Engineer Guild 2004 Xavier"]
 comments_present: 0
 handle: "Webmaster, Engineer Guild 2004 Xavier"
-f_age: "26+"
 f_country: "Korea, Republic of"
-f_name: "Phil Carty"
+f_name: "(redacted: name)"
 f_username: "Webmaster, Engineer Guild 2004 Xavier"
 f_website: "codelish.com"
 converter_version: "1"

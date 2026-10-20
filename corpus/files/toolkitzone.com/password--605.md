@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 **The Dragon of Zadran**
 ** Developed by bradsequin Review by Brad Forbes (MrB)
 **Introductory Impressions**

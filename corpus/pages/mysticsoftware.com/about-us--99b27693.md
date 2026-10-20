@@ -65,8 +65,8 @@ About Us
 ***Other desktop/LAN support and services (please inquire)***
 Company
 Contact Information
-Phone: (949) 595-7980 Fax: (949) 666-7763
-Mystic Software, Inc. 24592 Christina Court, Laguna Hills, CA 92653
+Phone: (redacted: phone number) 595-7980 Fax: (redacted: phone number)
+Mystic Software, Inc. (redacted: address), Laguna Hills, CA 92653
 Customer Support
 Connect
 - [![](/portals/0/Images/connect_linkedin.png)](http://www.linkedin.com/groups?gid=35599)

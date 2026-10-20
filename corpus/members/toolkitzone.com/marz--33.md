@@ -27,7 +27,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/86425383345de15b08496f.jpg)
 **MSN:**
-forsakenmarz@msn.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 5.12am, September 1st, 2004
 I thought I'd give this whole blog deally a try... although I'm not entirely comfortable revealing my "feelings" to you internet folks, especially someone like R who lurks around here more often than he does outside ... anyway, here's what I got to do today After waking my ass up at 10 am, I wen... [more![More](templates/default/images/icons/more.gif)](community.php?blog=1186)

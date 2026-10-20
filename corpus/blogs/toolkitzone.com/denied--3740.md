@@ -14,7 +14,7 @@ authors: ["Buzzkill2000"]
 comments_present: 0
 f_interests: "Internet and many other things"
 f_joined: "August 14, 2004"
-f_location: "No where possible"
+f_location: "(redacted: location)"
 f_username: "Buzzkill2000"
 converter_version: "1"
 source_captures:

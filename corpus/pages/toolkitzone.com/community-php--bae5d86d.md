@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "April 17th, 2007"
-f_location: "California"
+f_location: "(redacted: location)"
 f_name: "Jon"
 converter_version: "1"
 source_captures:

@@ -33,6 +33,6 @@ links: []
 ### evilchronochuck · 2002-08-01 30:49 · #A1000-49047
 
 Im back if you dont know me eh who gives right. Anyway Im in my newest game looking for help anyone intrested e-mail me at
-chronic_cross@hotmail.com
+(redacted: email)
 Looking foward to toolkit again hopefuuly it will all work out.
 ~Chronic The Dark Knight~

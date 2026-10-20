@@ -32,4 +32,4 @@ by Fuzzman **Or not.**
 December 9 2005, 5:50 pm
 I know I'm being wishy washy, but maby I won't save the battle system and menu untill the end of the game. The menu system was going along pretty well, and I've got an idea for a realtime battle system that, if doesn't make it into this game, will make it into Fuzzball 2. Merry Christmas!
 No comments.
-[![Cave 1 (room 2)](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)
+[![Cave 1 ((redacted: address))](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)

@@ -52,7 +52,7 @@ preordered the book and will be availible for sale to
 everyone else.
 All entries will be judged by the quality of the artwork
 and also by the relavence to the novel. These judgements
-will be made soley by Cyrus Martin.
+will be made soley by (redacted: name).
 ---------------------------------------------
 Contest Details:
 ---------------------------------------------
@@ -84,7 +84,7 @@ Color is preferred but Black and white images will be accepted.
 Images should be emailed in either jpeg format or png format.
 No BMP or Gif images please.
 Please do not submit sketches. I prefer to only review completed works.
-All submissions ahould be emailed to: cyrusmartin@yahoo.com
+All submissions ahould be emailed to: (redacted: email)
 How many submissions can I send?
 As many as you want.
 Please do not sumbit any artwork that was not created by you though.
@@ -112,12 +112,12 @@ All of the official artwork drawn by Sophia Hsu can be
 found on this page. You may use this to help you understand
 the imagery of this world better. Also, you may ask for
 descritptions of specific characters or details. If I have
-time, I will reply. My email address is: cyrusmartin@yahoo.com
+time, I will reply. My email address is: (redacted: email)
 (Here is the link to Sophia's artwork)
 <http://tarnished.forumsplace.com/message47.html>
 -------------------------------------------------------------------
 All entries are final.
-The images submitted to this contest will not be returned and Cyrus Martin
+The images submitted to this contest will not be returned and (redacted: name)
 shall assume the right to use all submitted works as he sees fit though
 credit will always be given to the individual artist every time an image
 is used. Submission of any artwork that does not adhere to the guidelines
@@ -125,7 +125,7 @@ of this contest or any art that has been submitted unlawfully shall result
 in the disqualification of said participant. The rules and restrictions of
 this contest are final though may be subject to change due to unforseen
 circumstances or to correct any unknown discrepencies. Any changes will be
-at the discretion of Cyrus Martin. Thank you and best of luck.
+at the discretion of (redacted: name). Thank you and best of luck.
 
 ### Alex0Xander · 2005-07-03 04:58 · #B227155
 
@@ -146,7 +146,7 @@ i'll try to work on that Very Happy
 > found on this page. You may use this to help you understand
 > the imagery of this world better. Also, you may ask for
 > descritptions of specific characters or details. If I have
-> time, I will reply. My email address is: cyrusmartin@yahoo.com
+> time, I will reply. My email address is: (redacted: email)
 > (Here is the link to Sophia's artwork)
 > <http://tarnished.forumsplace.com/message47.html>
 > -------------------------------------------------------------------

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "darth duck"
 f_joined: "May 17th 2005"
 f_last_visit: "September 29th 2006"
-f_location: "England"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "darth duck"
@@ -27,7 +27,7 @@ source_captures:
 # darth duck
 
 **MSN:**
-darth_duck@hotmail.co.uk
+(redacted: email)
 Posted on Monday 4.37pm, October 3rd, 2005
 The clouds look like they were made by you but the sea looks real. [more![More](templates/default/images/icons/more.gif)](games.php?image=4591#c24688)
 Posted on Saturday 10.37am, May 28th, 2005

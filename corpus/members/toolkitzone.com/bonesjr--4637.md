@@ -16,7 +16,7 @@ handle: "bonesjr"
 f_interests: "Using RPG Toolkit"
 f_joined: "November 22nd 2004"
 f_last_visit: "November 3rd 2005"
-f_location: "(none)"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -40,4 +40,4 @@ i've added seven more sounds, still pending. hang in there! I will add another c
 Posted on Sunday 7.29pm, November 28th, 2004
 this is my first submit so I'm pretty happy. There will be more sounds added by the period of 48 hours so hang in there those 4 people that downloaded. [more![More](templates/default/images/icons/more.gif)](files.php?file=918#c14663)
 Posted on Thursday 6.17am, November 25th, 2004
-Xavier i think your tiles are the best around, with Linkin's, and I am just asking permisson to use this in a game i am making which could be distributed, though i will give you full credit for the tiles, comment back ASAP or send me an email at jarboy10@hotmail.com, thanks! [more![More](templates/default/images/icons/more.gif)](files.php?file=118#c14307)
+Xavier i think your tiles are the best around, with Linkin's, and I am just asking permisson to use this in a game i am making which could be distributed, though i will give you full credit for the tiles, comment back ASAP or send me an email at (redacted: email), thanks! [more![More](templates/default/images/icons/more.gif)](files.php?file=118#c14307)

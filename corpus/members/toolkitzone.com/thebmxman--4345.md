@@ -29,5 +29,5 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-motoxbmx999@hotmail.com
+(redacted: email)
 Posted on Wednesday 3.03am, September 7th, 2005

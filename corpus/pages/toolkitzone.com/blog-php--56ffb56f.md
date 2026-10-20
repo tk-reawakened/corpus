@@ -14,7 +14,7 @@ authors: ["sephy"]
 comments_present: 0
 f_interests: "drugs and girls"
 f_joined: "October 13, 2004"
-f_location: "Hartland WI"
+f_location: "(redacted: location)"
 f_username: "sephy"
 converter_version: "1"
 source_captures:

@@ -14,7 +14,7 @@ authors: ["Khin"]
 comments_present: 0
 f_interests: "Computer, Basketball, Art, Games"
 f_joined: "January 28, 2004"
-f_location: "Philippines"
+f_location: "(redacted: location)"
 f_username: "Khin"
 converter_version: "1"
 source_captures:

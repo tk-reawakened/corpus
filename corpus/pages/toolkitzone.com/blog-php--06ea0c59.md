@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 A new game....
 Posted by - Mon 28 June, 2004 7:14am [computerdude800](profile.php?mode=viewprofile&u=73)
 Okay, Final Destiny wasnt that great of a game, bad storyline blah, blah, blah right? So I am creating a new game, Dragon Tales! YEA!!! Okay this one I am going through with, its going to have a shit load better storyline, better graphics and custom MS & BS. Right now SpitFire is working on my storyline (I gave a basic outlook of what the game was about and he is doing for me as a favor since he is really good with storylines. Thanks SpitFire) and I have just finished the start program, Since I have 3 months off This is my summer project and I hope I get this done before I enter High School as a Freshman. But dosent matter when I finish it, quality over quanity.

@@ -13,12 +13,11 @@ repliers: []
 authors: ["Talyn"]
 comments_present: 0
 handle: "Talyn"
-f_age: "16 - 20"
 f_interests: "Keira Knightley, Imaging, Coding, Karate, Mountain Biking"
 f_joined: "April 4th 2004"
 f_last_visit: "January 19th 2007"
-f_location: "London, England"
-f_name: "Alex Gisby"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Photography Student"
 f_rank: "Moderators"
 f_username: "Talyn"
@@ -38,7 +37,7 @@ TBD
 **Awards:**
 Total of 15 places and 38 users.
 **MSN:**
-twinkeyblade@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (1)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/31.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=10)

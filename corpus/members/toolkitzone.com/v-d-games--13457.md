@@ -15,7 +15,7 @@ comments_present: 0
 handle: "V_D_Games"
 f_joined: "August 30th 2006"
 f_last_visit: "November 21st 2007"
-f_location: "Some where in your Dreams : )"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "V_D_Games"

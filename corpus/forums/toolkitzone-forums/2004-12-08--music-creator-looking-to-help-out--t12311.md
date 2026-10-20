@@ -32,7 +32,7 @@ links: []
 
 ### Zio · 2004-12-08 06:36 · #B136407
 
-Well I create beats with FruityLoops so if you would like some one to make .wav or .mp3 music for your game e-mail or MSN me , lockezio@hotmail.com. or post here. I'll send you a sample file.
+Well I create beats with FruityLoops so if you would like some one to make .wav or .mp3 music for your game e-mail or MSN me , (redacted: email). or post here. I'll send you a sample file.
 
 ### triLex · 2004-12-08 20:22 · #B136567
 
@@ -40,14 +40,14 @@ Hey i would like some beats for my game....and could you make some hip hop instr
 
 ### Kasai_Ryane · 2004-12-09 02:22 · #B136786
 
-well, im looking for a futuristic techno (similar to pioneer 2 music if you've heard of phantasy star online) to play in our city, if you are interested or know someone who can maybe help email me at sschrembeck@hotmail.com
+well, im looking for a futuristic techno (similar to pioneer 2 music if you've heard of phantasy star online) to play in our city, if you are interested or know someone who can maybe help email me at (redacted: email)
 ~thx, Kasai
 
 ### Koh Wei Zane · 2004-12-09 08:28 · #B136944
 
 **Zio wrote:**
 
-> Well I create beats with FruityLoops so if you would like some one to make .wav or .mp3 music for your game e-mail or MSN me , lockezio@hotmail.com. or post here. I'll send you a sample file.
+> Well I create beats with FruityLoops so if you would like some one to make .wav or .mp3 music for your game e-mail or MSN me , (redacted: email). or post here. I'll send you a sample file.
 >
 
 Fruity Loops is a fine software, the main thing is that, I am still experimenting with it. - Hard to use for me... Just got it.

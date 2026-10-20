@@ -13,7 +13,6 @@ repliers: []
 authors: ["pabloavvocato"]
 comments_present: 0
 handle: "pabloavvocato"
-f_age: "10 - 15"
 f_joined: "October 16th 2006"
 f_last_visit: "January 7th 2007"
 f_rank: "Member"

@@ -30,7 +30,7 @@ The battle system's item menu.
 [![TBD](thumb.php?src=forum/images/avatars/1563807338477295db968d6.gif&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=69)
 Not bad. I'm not to keen on that font, but the battle system is good! Very good!
 [![TBD](thumb.php?src=forum/images/avatars/6265001084283761faaf21.jpg&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=5303)
-Could you send me this exact battle program at my e-mai... mumbojumbobiggyfry@yahoo.coml
+Could you send me this exact battle program at my e-mai... (redacted: email)
 [![TBD](thumb.php?src=forum/images/avatars/1111742230440501f1dee9e.gif&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=4894)
 Very nice background. If it were slightly smaller, as to offset the character's size, it would be better, but still very nice none the less.
 [![TBD](thumb.php?src=forum/images/avatars/18528851284442a6f587290.png&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=1989)

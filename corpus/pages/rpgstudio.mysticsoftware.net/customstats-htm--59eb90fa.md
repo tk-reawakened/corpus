@@ -21,7 +21,7 @@ source_captures:
 # Custom Stats
 
 By William
-Bjorn_djdj@hotmail.com
+(redacted: email)
 I suggest you read my other tutorial about if commands on this site.
 Something that is very popular is custom menu, battle and also stats. Stats is a very important thing in RPG games. So I will help you to start, with your own stats. So lets begin:
 Step 1, What stat shall I use?:
@@ -74,4 +74,4 @@ You think this is crap, but it isnt. You start with two wisdom. And you need 3
 #MwinCls()
 So now you know how to use wisdom, and you use luck the same way. But you put the program on the board so when you step on it, then it runs. And then if you have more then 2 luck, then you gain 20 GP. You can do as you like to. Pretty good.
 Step 4, finish:
-This was just a small tutorial about custom stats, and I will make some update later. Thanks for reading this. MSN and Email: .bjorn_djdj@hotmail.com
+This was just a small tutorial about custom stats, and I will make some update later. Thanks for reading this. MSN and Email: .(redacted: email)

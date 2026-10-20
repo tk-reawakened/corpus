@@ -13,11 +13,10 @@ repliers: []
 authors: ["moua_pao_vue"]
 comments_present: 0
 handle: "moua_pao_vue"
-f_age: "16 - 20"
 f_interests: "Games ofcourse"
 f_joined: "May 9th 2006"
 f_last_visit: "March 21st 2007"
-f_location: "Minnesota"
+f_location: "(redacted: location)"
 f_name: "mouapao"
 f_occupation: "student"
 f_rank: "Member"
@@ -35,7 +34,7 @@ source_captures:
 Male
 **E-Mail:**
 **MSN:**
-moua_pao_vue@hotmail.com
+(redacted: email)
 Posted on Thursday 12.52am, March 22nd, 2007
 Posted on Saturday 8.16pm, February 3rd, 2007
 Posted on Saturday 7.41pm, February 3rd, 2007

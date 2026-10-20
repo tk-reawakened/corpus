@@ -32,7 +32,7 @@ links: []
 
 ### ahriman · 2004-12-07 15:13 · #B136010
 
-Hey, it's me, Ahriman. I need help creating custom graphics for my games. If you feel like helping, E-mail me at: Ahriman_Odin@Yahoo.com.
+Hey, it's me, Ahriman. I need help creating custom graphics for my games. If you feel like helping, E-mail me at: (redacted: email).
 Thanks! Very Happy
 
 ### ahriman · 2004-12-28 11:53 · #B147011

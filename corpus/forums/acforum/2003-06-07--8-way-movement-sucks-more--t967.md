@@ -73,7 +73,7 @@ and if you didn't notice it lets you move through walls.
 
 ---
 
-Can you guess what game this music is from? If so, Email me at zolcosman@hotmail.com If you guess right, you will get recognition in my sig and site.
+Can you guess what game this music is from? If so, Email me at (redacted: email) If you guess right, you will get recognition in my sig and site.
 
 ---
 Those which hath earned mine respect:

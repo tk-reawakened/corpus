@@ -16,7 +16,7 @@ handle: "mjanecki"
 f_interests: "Computers, Beta Testing"
 f_joined: "September 10th 2006"
 f_last_visit: "January 20th 2007"
-f_location: "Vancouver, Wa, USA"
+f_location: "(redacted: location)"
 f_occupation: "Security Supervisor"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -36,7 +36,7 @@ Posted on Wednesday 9.29pm, November 1st, 2006
 I am sorry to hear that Well then I guess I will have to convert it in honor of our beloved lost creator of JoD :( Mark [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=357753#357753)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Toolkit 2 The Jewel Of Destiny](forum/viewtopic.php?p=357740#357740)
 Posted on Wednesday 8.37pm, November 1st, 2006
-I am looking for a Toolkit 3 version of the Toolkit 2 demo The Jewel Of Destiny :? Mark Janecki mjanecki@comcast.net [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=357740#357740)
+I am looking for a Toolkit 3 version of the Toolkit 2 demo The Jewel Of Destiny :? Mark Janecki (redacted: email) [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=357740#357740)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Oh my God. The stingrays are rebelling.](forum/viewtopic.php?p=357722#357722)
 Posted on Wednesday 7.18pm, November 1st, 2006
 I believe that Steve Irwin was stabbed directly in the heart while the older man was stabbed in the in the chest area and not the heart [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=357722#357722)

@@ -14,7 +14,7 @@ authors: ["DrJ"]
 comments_present: 0
 f_interests: "Physics,history,computers, TK, sports, and more..."
 f_joined: "February 23, 2005"
-f_location: "Tecumseh Township, Kansas--Poster Formerly Known as Toplizards8"
+f_location: "(redacted: location)"
 f_username: "DrJ"
 converter_version: "1"
 source_captures:

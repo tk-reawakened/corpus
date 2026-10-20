@@ -27,7 +27,7 @@ source_captures:
 # Dolphin
 
 **MSN:**
-lajaro@hotmail.co.uk
+(redacted: email)
 Posted on Sunday 1.15pm, July 23rd, 2006
 I think it looks really good nd the only thing id say is yeh it is leaning slightly but i think evrithing else looks great, especially the pun nd it does make u want to stroke the horse or give it a kiss cuz it looks so friendly lol [more![More](templates/default/images/icons/more.gif)](games.php?image=6858#c27861)
 Who's Online: , , , , , , , , , , [7LegionArmy](community.php?user=7614) [Bad Kids](community.php?user=335) [cloud13](community.php?user=16110) [decker666](community.php?user=5071) [Desh](community.php?user=11101) [Icbim](community.php?user=3770) [kainismine](community.php?user=15078) [Night_Elf](community.php?user=69) [Piper730](community.php?user=15602) [Reck](community.php?user=536) [ViperX](community.php?user=14679)

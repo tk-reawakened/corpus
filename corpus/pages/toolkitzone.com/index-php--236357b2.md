@@ -27,12 +27,12 @@ Second article in the series, continuing to discuss the thought process behind g
 submitted by on 2004-02-23 19:34:18 [Cyrus](forums/profile.php?mode=viewprofile&u=61)
 Third installment of Cyrus Martin's series on creative writing considers your target audience and what impact this will have on your writing style.
 submitted by on 2004-02-25 17:50:59 [Cyrus](forums/profile.php?mode=viewprofile&u=61)
-Cyrus Martin explains the importance of consistancy in your writing in the fourth article of the series.
+(redacted: name) explains the importance of consistancy in your writing in the fourth article of the series.
 submitted by on 2004-02-25 22:06:13 [Cyrus](forums/profile.php?mode=viewprofile&u=61)
 Suspension of disbelief is the topic for the latest installment of Cyrus Martin's creative writing series.
 submitted by on 2004-03-06 13:29:07 [Cyrus](forums/profile.php?mode=viewprofile&u=61)
 Session six, titled "Crafting Your Words", concentrates on aspects such as narrative tone and intellectual targeting.
 submitted by on 2004-03-06 13:31:35 [Cyrus](forums/profile.php?mode=viewprofile&u=61)
-Cyrus Martin looks at the importance of pace and timing in the latest installment of his creative writing series.
+(redacted: name) looks at the importance of pace and timing in the latest installment of his creative writing series.
 **welcome to creative writing series**
-Series of articles written by Cyrus Martin explaining the various elements of creative writing. Cyrus himself is writing novels based on his Toolkit games.
+Series of articles written by (redacted: name) explaining the various elements of creative writing. Cyrus himself is writing novels based on his Toolkit games.

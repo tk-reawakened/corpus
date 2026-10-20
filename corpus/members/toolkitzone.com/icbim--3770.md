@@ -13,11 +13,10 @@ repliers: []
 authors: ["Icbim"]
 comments_present: 0
 handle: "Icbim"
-f_age: "16 - 20"
 f_interests: "Guitar, drums, singing, acting, art, writing stories/lyrics/poetry, swimming, hackey sack, soccer"
 f_joined: "August 7th 2004"
 f_last_visit: "February 24th 2007"
-f_location: "Awesomeville and i'm mayor of it."
+f_location: "(redacted: location)"
 f_name: "Ryan"
 f_occupation: "Musician [In a band and help other bands], Actor on a TV show [Amatuer show though]"
 f_rank: "Member"
@@ -56,7 +55,7 @@ Total of 16 places and 41 users.
 **AIM:**
 **YIM:**
 **MSN:**
-icbim@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [The average intelligence of a Toolkit Zone poster](forum/viewtopic.php?p=382348#382348)
 Posted on Saturday 7.25pm, February 24th, 2007
 Mr Picso wrote: Ersuis wrote: Because, obviously, some people are inherently better than others. Due to their spelling, you know. I know I am. He was obviously talking about me. :roll: [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=382348#382348)

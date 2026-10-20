@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 7th, 2005"
-f_location: "America"
-f_name: "Matt Gajewski"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5201", captured: "20070227002730", sha256: "88f7e0948d16189aa05a4699a4f0483c85e72bd382657d6cc339c7524b1c92fb", wayback_url: "https://web.archive.org/web/20070227002730/http://www.toolkitzone.com/community.php?blog=5201"}
@@ -33,7 +33,7 @@ I've been wearing shorts since mid-January. California ftw.TBD
 Its snowing again; getting colder. Still in shorts though.TBD
 About Juice
 [![Juice](forum/images/avatars/177645351945dfc65a12cb3.png)](community.php?user=7931)
-Matt Gajewski
+(redacted: name)
 America
 September 7th, 2005
 Who's Online: , , , , , , , , , , , , , , , , , , , [7LegionArmy](community.php?user=7614) [Bad Kids](community.php?user=335) [Bagel](community.php?user=4798) [catwhowalksbyhimself](community.php?user=3452) [crazydrivr](community.php?user=13049) [fraud182](community.php?user=12966) [Gamerdude](community.php?user=13174) [gcn_zelda](community.php?user=18) [Kizuku Kanshi](community.php?user=15727) [Lotusware](community.php?user=3630) [Mephare](community.php?user=15477) [Mick](community.php?user=799) [Montai](community.php?user=39) [Moo Of Doom](community.php?user=334) [Occasionally_Correct](community.php?user=94) [Piper730](community.php?user=15602) [RPGLand2000](community.php?user=557) [Ryukenshen](community.php?user=5726) [seveneternal](community.php?user=1377) [slipknot42388](community.php?user=9204)

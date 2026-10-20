@@ -13,7 +13,6 @@ repliers: []
 authors: ["Engineer Guild 2009 aurum34"]
 comments_present: 0
 handle: "Engineer Guild 2009 aurum34"
-f_age: "16-20"
 f_country: "Venezuela"
 f_name: "Incognito"
 f_occupation: "Student"

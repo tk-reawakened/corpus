@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Lukkas"
 f_joined: "July 11th 2006"
 f_last_visit: "January 27th 2007"
-f_location: "United States"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Lukkas"
@@ -28,7 +28,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/12695658644cd0778327f4.gif)
 **MSN:**
-tkcyberwolf1@hotmail.com
+(redacted: email)
 Posted on Wednesday 11.27pm, November 22nd, 2006
 How come we cannot see the back wall in this shot? Unless this is a completely top-down angle, the back wall should be visible. Not having it there makes the room look very odd. You also need a wall to hang the painting you're talking about on, yes? Other than that, and the really ugly looking f... [more![More](templates/default/images/icons/more.gif)](games.php?image=7949#c27659)
 Posted on Tuesday 7.03pm, August 8th, 2006

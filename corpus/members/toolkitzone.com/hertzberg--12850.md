@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Hertzberg"
 f_joined: "July 2nd 2006"
 f_last_visit: "July 12th 2006"
-f_location: "Sweden"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Hertzberg"

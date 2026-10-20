@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Andrelius"
 f_joined: "August 27th 2004"
 f_last_visit: "September 2nd 2004"
-f_location: "Look outside your window."
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Andrelius"

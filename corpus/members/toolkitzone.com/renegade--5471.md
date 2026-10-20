@@ -16,7 +16,7 @@ handle: "Renegade"
 f_interests: "Lots of stuff, especially music"
 f_joined: "March 17th 2005"
 f_last_visit: "February 11th 2007"
-f_location: "Don't ask..."
+f_location: "(redacted: location)"
 f_occupation: "Guitar playah! (student)"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/29063795242fe584f1c4c8.jpg)
 **MSN:**
-raama@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Thursday 7.27am, September 29th, 2005
 I watched TV the evening before yesterday, and I remember that I turned it off, but when I woke up on the next day, it was on! And yesterday, I turned on my alarm clock, but I can't remember turning it off this morning... [more![More](templates/default/images/icons/more.gif)](community.php?blog=3411)

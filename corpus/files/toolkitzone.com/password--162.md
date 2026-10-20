@@ -26,7 +26,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 **Rpg Code tutorial**
 This tutorial will learn you how to make a custom shop program using commands. It's best to first try the normal shop tutorial. At first, the commands we will use: **#while()**
 ** #getgp() #colorrgb() #fillrect() #drawline() #fontsize() #text() #while() #wait() #if() #branch() #giveitem() #takegp() #delay() #clearbuffer()

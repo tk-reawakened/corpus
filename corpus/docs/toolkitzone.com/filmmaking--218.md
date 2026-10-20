@@ -24,7 +24,7 @@ source_captures:
 # "Filmmaking"
 
 A Weekly Word
-from Cyrus Martin
+from (redacted: name)
 **"Filmmaking"**
 **Part 1**
 > Have you ever dreamed of making a movie?

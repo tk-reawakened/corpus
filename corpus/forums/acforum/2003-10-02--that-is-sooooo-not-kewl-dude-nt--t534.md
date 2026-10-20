@@ -55,9 +55,9 @@ Mmcflamestar
 Eternal Flaivies
 YIM
 Mmcfirestar2001\Mmcflamestar
-E-mails-Mmcflamestar@aol.com
-Mmcflamestar@yahoo.com
-Mmcfirestar2001@yahoo.com
+(redacted: email)
+(redacted: email)
+(redacted: email)
 [![Free Web Counters](http://bar.freelogs.com/counter/index.php?u=montie&s=bauhaus)
 
 ### r043482 · 2003-10-02 30:11 · #A1000-535

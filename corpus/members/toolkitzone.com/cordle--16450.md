@@ -13,12 +13,11 @@ repliers: []
 authors: ["Cordle"]
 comments_present: 0
 handle: "Cordle"
-f_age: "21 - 25"
 f_interests: "Video games, golf, geocaching, football, soccer, and game development"
 f_joined: "April 13th 2007"
 f_last_visit: "January 3rd 2009"
-f_location: "Central Florida"
-f_name: "Chris Cordle"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Computer Technician"
 f_rank: "Member"
 f_rankings: "No rankings."

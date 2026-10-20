@@ -38,7 +38,7 @@ That's all you'll want to know.
 Please report all broken links,
 spelling, grammatical errors,
 or incorrect information to
-darkforcer@mysticsoftware.net.
+(redacted: email).
 Enjoy.
 
 ### Bad Kids · 2004-12-15 04:18 · #B139988

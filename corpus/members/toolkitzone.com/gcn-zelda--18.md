@@ -13,10 +13,9 @@ repliers: []
 authors: ["gcn_zelda"]
 comments_present: 0
 handle: "gcn_zelda"
-f_age: "16 - 20"
 f_joined: "January 28th 2004"
 f_last_visit: "July 19th 2008"
-f_location: "USA"
+f_location: "(redacted: location)"
 f_name: "Stephen"
 f_rank: "Member"
 f_username: "gcn_zelda"
@@ -37,7 +36,7 @@ Total of 23 places and 66 users.
 **AIM:**
 **YIM:**
 **MSN:**
-gcn_zelda@hotmail.com
+(redacted: email)
 ![My Things](../templates/default/images/icons/forums/forum_mythings.gif) [Game Poster - Fixed](forum/viewtopic.php?p=432907#432907)
 Posted on Tuesday 6.39pm, March 4th, 2008
 I agree with Ryu. It's a nice attention-getter, but there's no hook, nothing that draws you in and makes you say, "I need to play this game." At this point, I don't believe I do. [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=432907#432907)

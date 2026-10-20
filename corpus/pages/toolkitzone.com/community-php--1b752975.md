@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Columbia, MD"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_343", captured: "20070314143907", sha256: "1f0d1e32699445925e419382a9463865e58653257d07312614891d1be08255a2", wayback_url: "https://web.archive.org/web/20070314143907/http://toolkitzone.com/community.php?blog=343"}

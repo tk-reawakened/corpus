@@ -13,10 +13,9 @@ repliers: []
 authors: ["Dylan RPG"]
 comments_present: 0
 handle: "Dylan RPG"
-f_age: "21 - 25"
 f_joined: "December 23rd 2009"
 f_last_visit: "December 30th 2009"
-f_location: "Southern California"
+f_location: "(redacted: location)"
 f_name: "Dylan"
 f_occupation: "Massage Therapist"
 f_rank: "Member"

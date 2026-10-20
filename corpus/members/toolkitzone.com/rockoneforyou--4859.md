@@ -13,10 +13,9 @@ repliers: []
 authors: ["rockoneforyou"]
 comments_present: 0
 handle: "rockoneforyou"
-f_age: "16 - 20"
 f_joined: "December 24th 2004"
 f_last_visit: "January 18th 2007"
-f_location: "Somewhere among the living..."
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "rockoneforyou"
@@ -31,7 +30,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-rockoneforyou@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 6.01pm, June 14th, 2005
 Well, today started out as almost every day of my summer vacation so far has started out; I've had to wake up about three hours earlier than I wanted to, I had to do some housework, and...well, that's about it. I haven't got to see Cady in a few days, but I'll be at her basketball games today before... [more![More](templates/default/images/icons/more.gif)](community.php?blog=2763)

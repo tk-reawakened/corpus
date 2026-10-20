@@ -36,8 +36,8 @@ links:
 
 ### razor · 2002-08-16 31:26 · #A1002-3989
 
-I think it will be good, maybe after it is finish, it could be intigrated into the toolkit. I am already anticipating the plug. I am already creating a game for it. (I don't know how I could do the multiquesting, but I will get to it) I would like some help on this project, if anyone wants to help. I will get a webpage up for the project after a little while. It will be for the best online rpg in the world, with the ability to talk to others on a quest in the same world. (multi worlds set with a max of 50-100 ppl so there is less lag or bandwith) If you like my ideas, send an email my way, Razor0019@hotmail.com I will post the website in the general section under massive multiplayer. I would appreciate any help with .prg's, and charactor pics.
-Once again, my email is Razor0019@hotmail.com
+I think it will be good, maybe after it is finish, it could be intigrated into the toolkit. I am already anticipating the plug. I am already creating a game for it. (I don't know how I could do the multiquesting, but I will get to it) I would like some help on this project, if anyone wants to help. I will get a webpage up for the project after a little while. It will be for the best online rpg in the world, with the ability to talk to others on a quest in the same world. (multi worlds set with a max of 50-100 ppl so there is less lag or bandwith) If you like my ideas, send an email my way, (redacted: email) I will post the website in the general section under massive multiplayer. I would appreciate any help with .prg's, and charactor pics.
+Once again, my email is (redacted: email)
 Razor of http://www.freewebs.com/razoredgeanime/ and http://www.freewebs.com/massivemultiplaytk/ Both are work in progress
 
 ### razor · 2002-08-17 20:20 · #A1002-3993

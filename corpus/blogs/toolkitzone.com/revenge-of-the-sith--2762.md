@@ -13,7 +13,7 @@ repliers: []
 authors: ["Colin"]
 comments_present: 0
 f_joined: "January 28, 2004"
-f_location: "Edmonton, Alberta, Canada"
+f_location: "(redacted: location)"
 f_username: "Colin"
 converter_version: "1"
 source_captures:

@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "10 - 15"
 f_joined: "October 16th 2006"
 f_last_visit: "April 4th 2008"
 f_name: "Pablo Marc-Anthony Vincente-Pedro Avvoacato"

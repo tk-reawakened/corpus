@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 **Rpg-code tutorial**
 In this tutorial I will show you how to make a Inn program. It's a tutorial for beginners so if you are not a beginner don't waste your time on this.
 Here are the commands I will use in this tutorial:

@@ -13,7 +13,7 @@ repliers: []
 authors: ["LonelyShaman"]
 comments_present: 0
 f_joined: "April 29, 2006"
-f_location: "Lincolnton North"
+f_location: "(redacted: location)"
 f_username: "LonelyShaman"
 converter_version: "1"
 source_captures:

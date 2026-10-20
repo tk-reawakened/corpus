@@ -13,12 +13,11 @@ repliers: []
 authors: ["jpsmtm"]
 comments_present: 0
 handle: "jpsmtm"
-f_age: "16 - 20"
 f_interests: "Archery, Gaming, Music"
 f_joined: "May 25th 2004"
 f_last_visit: "February 16th 2007"
-f_location: "Norwich England"
-f_name: "Joe Pearson"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_username: "jpsmtm"
 converter_version: "1"
@@ -36,7 +35,7 @@ I am he as you are he as you are me and we are all together.
 **Awards:**
 Total of 16 places and 41 users.
 **MSN:**
-you_talking_to_me1991@hotmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (3)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/40.gif&iar=1&aoe=1&bw=1&h=80)](../community.php?award=39)

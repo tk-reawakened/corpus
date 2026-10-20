@@ -15,7 +15,7 @@ comments_present: 0
 handle: "What's_my_name_again?"
 f_joined: "February 13th 2006"
 f_last_visit: "December 8th 2006"
-f_location: "am i here? am i there? i really dont know"
+f_location: "(redacted: location)"
 f_occupation: "a guy with a life. something everyone else here doesnt have."
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -34,7 +34,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/58972703645584625864cb.gif)
 **MSN:**
-worm_reaper@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Colin Ninja Game?](forum/viewtopic.php?p=350018#350018)
 Posted on Thursday 11.37am, September 21st, 2006
 could we make him look like a terrorist? terrorist colin: he could have a machine gun, and six hundred grenades strapped to his chest... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=350018#350018)

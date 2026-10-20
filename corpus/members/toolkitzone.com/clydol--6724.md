@@ -27,7 +27,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/103819209142b0bd4b2f946.gif)
 **MSN:**
-clydol@hotmail.com
+(redacted: email)
 Posted on Wednesday 7.30pm, June 15th, 2005
 this is cool! if i can find a mmorpg maker that lets me create it for free, i'll could use these [more![More](templates/default/images/icons/more.gif)](files.php?file=1033#c15638)
 Who's Online: , , , , , , , , , , , , , , , , , , [Akura_TheDragonBlader](community.php?user=1204) [Avalon](community.php?user=349) [Bad Kids](community.php?user=335) [BlackPanther](community.php?user=297) [Budokizen](community.php?user=10444) [Chicken_Of_Doom](community.php?user=16072) [DarkElite](community.php?user=580) [EB](community.php?user=84) [fantom](community.php?user=15954) [G_Dragon](community.php?user=2147) [Icbim](community.php?user=3770) [marccookie13](community.php?user=13652) [Night_Elf](community.php?user=69) [Occasionally_Correct](community.php?user=94) [Oyerth](community.php?user=37) [RainboKat](community.php?user=9667) [rpg gamer 17](community.php?user=12066) [Talyn](community.php?user=1395) [Vision-Interactive](community.php?user=16033)

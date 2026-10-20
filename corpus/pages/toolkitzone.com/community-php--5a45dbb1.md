@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 10th, 2007"
-f_location: "Las Vegas"
+f_location: "(redacted: location)"
 f_name: "R. Mendez"
 converter_version: "1"
 source_captures:

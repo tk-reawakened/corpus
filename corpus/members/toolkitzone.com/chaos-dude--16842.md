@@ -13,11 +13,10 @@ repliers: []
 authors: ["Chaos Dude"]
 comments_present: 0
 handle: "Chaos Dude"
-f_age: "16 - 20"
 f_interests: "Video Games, drawing, ...."
 f_joined: "May 16th 2007"
 f_last_visit: "October 23rd 2007"
-f_location: "Louisiana"
+f_location: "(redacted: location)"
 f_name: "Josh"
 f_occupation: "Student"
 f_rank: "Member"

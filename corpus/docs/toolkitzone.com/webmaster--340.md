@@ -29,7 +29,7 @@ Saturday, 12.42pm GMT: "While I fight to get the .com back, tell everyone the .n
 Saturday, 5.53pm GMT: "I've now e-mailed enom.com, appears my company are (were) a reseller for them, and asked them to give me the EPP codes required to transfer. See what happens."
 Monday, 9.31pm GMT: "Luckily, I tracked down the company my registrar resells for and sent a letter to their legal deparment. Three days later they sent an apology for the registrar's behaviour and sent me the EPP codes I need to transfer my domains out. The frustration doesn't end there though, since it'll take a few days for the transfers to clear and I have to pay a small fee. But there's now light at the end of the tunnel."
 Wednesday, 8.29pm GMT: " I managed to expediate the domain transfer since the registrar that apparently now owns my domain (the registrar that, bizarrely, wanted me to transfer the domains *to* them at the start of the week) allowed me to confirm the transfers before the 5-day deadline. Also eNom gave me an extra year's free renewal, which is nice. So .com should be back, depending where you are in the world, within 12 hours. As a result I have to switch over the cookie settings, so you may not be able to stay logged in using the .net address."
-Phil Carty (Xavier),
+(redacted: name) (Xavier),
 *Webmaster.*
 [![TBD](thumb.php?src=forum/images/avatars/42619274844250d6db4794.jpg&w=60&h=60&iar=false&bw=1)](forum/profile.php?mode=viewprofile&u=157)
 I really believe this isn't the first time you expressed your ill-fondness towards your provider's customer support and this also isn't the first time you said you don't look forward on working with them in the future.TBD

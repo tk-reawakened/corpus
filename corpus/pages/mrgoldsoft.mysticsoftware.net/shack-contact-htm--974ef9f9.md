@@ -20,7 +20,7 @@ source_captures:
 # - Get In Touch -
 
 ![](contact.gif)
-*MrG:*MrG@mysticsoftware.net
+*MrG:*(redacted: email)
 MrG is our resident RPGCode guru and site manager. He used to throw together the RPGCode resources at the TKZ, so he has a bit of experience in that. Contact him with all your resources, tutorials, and general help questions on the site.
-*Stalfospk:*Stalfospk@aol.com
+*Stalfospk:*(redacted: email)
 Stalfospk is another RPGCode expert who helps with his massive submissions to the site and his general friendly assistance. Give him a shout for any questions, and forewarned is foreadviced, he's probably a better bet than MrG for battle system requests.. ;)

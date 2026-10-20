@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "May 9th, 2004"
-f_location: "Canada"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5191", captured: "20070302062419", sha256: "6b02a7176248ae2b3fc66a5a756d8da8cecf008055cc96ed785ade563e8e6a37", wayback_url: "https://web.archive.org/web/20070302062419/http://www.toolkitzone.com/community.php?blog=5191"}

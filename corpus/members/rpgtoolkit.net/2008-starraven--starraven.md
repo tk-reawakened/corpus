@@ -13,7 +13,6 @@ repliers: []
 authors: ["2008 StarRaven"]
 comments_present: 0
 handle: "2008 StarRaven"
-f_age: "21-25"
 f_country: "United States"
 f_occupation: "Student"
 f_username: "2008 StarRaven"

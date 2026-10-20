@@ -54,8 +54,8 @@ Just practice RPG Code and make a custom BS. If you are really stuck, i can help
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 Pattern? =P
 -Ever wanted to know what Kronspik means?
 Kron: The first part of my username

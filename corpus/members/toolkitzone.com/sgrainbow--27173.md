@@ -13,11 +13,10 @@ repliers: []
 authors: ["SGrainbow"]
 comments_present: 0
 handle: "SGrainbow"
-f_age: "10 - 15"
 f_interests: "Photography, Photo Editing, Writing, Music, Poetry, Guitar, Drums, Outdoors =DD"
 f_joined: "July 25th 2009"
 f_last_visit: "September 13th 2009"
-f_location: "Canada =3"
+f_location: "(redacted: location)"
 f_name: "Sisley or Stacey =3"
 f_occupation: "Junior High Student"
 f_rank: "Member"

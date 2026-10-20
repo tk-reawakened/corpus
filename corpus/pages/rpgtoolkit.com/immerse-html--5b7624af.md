@@ -41,4 +41,4 @@ What is Immerse? It's a new game engine that is currently in the very early stag
 So, Immerse is sort of a vague concept of an engine. Like I said, it'll be able to create first-person Myst-style games easily, but it'll be able to do a lot more. Fighting, ImmerseCode, Text commands (you could revert the whole thing back to a text adventure, if you wanted), and loads of other stuff. And it's all optional. You can turn any one thing on or off.
 Immerse is in such early stages that it'll be interesting to see the direction it leads me in. Perhaps elements out of the RPG Toolkit could be lifted up and placed right into Immerse (ie Enemies could be compatible with the Toolkit, for example). Anyway, Immerse will become more defined as time moves on. Until then, just be patient. I will provide regular updates on Immerse on this site.
 When will it be done? I'm sure I don't know.
-cbm@cs.dal.ca
+(redacted: email)

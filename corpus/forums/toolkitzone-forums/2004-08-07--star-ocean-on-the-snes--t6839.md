@@ -59,7 +59,7 @@ _________________
 ![](http://www.toolkitzone.com/stuff/files/48/nyaminyami.jpg)
 Active Members Of The Dragon Alliance
 The_Sleeping_Dragon
-E-mail Commander_Idaeus@hotmail.com
+E-mail (redacted: email)
 Grey Hair
 No E-mail
 Setu Firestorm
@@ -113,7 +113,7 @@ Emulators are legal. Copyright infringed ROMs are not.
 _________________
 .:: [Get Firefox!](http://www.mozilla.org/products/firefox/)::.
 .:: [Off-Topicness!](http://cywh.com/ot/)::.
-.::smc42190@gmail.com::.
+.::(redacted: email)::.
 [
 ![](http://www.mg.geahost.com/small_theproject.gif)
 ![](http://rpgtoolkithole.000k2.com/images/antianti.png)
@@ -133,7 +133,7 @@ _________________
 ![](http://www.toolkitzone.com/stuff/files/48/nyaminyami.jpg)
 Active Members Of The Dragon Alliance
 The_Sleeping_Dragon
-E-mail Commander_Idaeus@hotmail.com
+E-mail (redacted: email)
 Grey Hair
 No E-mail
 Setu Firestorm

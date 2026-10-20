@@ -15,7 +15,7 @@ comments_present: 0
 handle: "G_Dragon"
 f_joined: "May 9th 2004"
 f_last_visit: "January 18th 2007"
-f_location: "Canada"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "G_Dragon"

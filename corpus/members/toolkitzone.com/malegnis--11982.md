@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Malegnis"
 f_joined: "May 25th 2006"
 f_last_visit: "December 3rd 2006"
-f_location: "a little cubical all over the world"
+f_location: "(redacted: location)"
 f_occupation: "1337 }{4><0|2"
 f_rank: "Member"
 f_rankings: "No rankings."

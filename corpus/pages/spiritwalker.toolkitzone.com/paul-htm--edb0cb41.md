@@ -20,7 +20,7 @@ source_captures:
 # PAUL TURNER
 
 tsmpaul
-tsm_australia@yahoo.com.au
+(redacted: email)
 The creator of this game does graphics, music, sound, animation, etc. Likes to paint landscapes and seascapes in pastel, plays guitar (acoustic and electric) and bass, and knows a few chords on the piano. Favourite fiction universe is Battletech. Loves to read and write, enjoying books such as The Wheel Of Time series, Wizard of Earthsea Quartet, The Belgariad, and every book written by Louis Macmaster Bujold - I just love the character of Miles Vorkosigan. Also like the Obernewtyn Chronicles by Isabelle Carmody. (I met her once!) Can't wait until the last book in the series comes out, it's been years waiting!
 Favourite computer games: Role playing games, and console 3D platform games. Most played ever game: Mechcommander (If I couldn't sleep, I would just stay up all night and finish the game by morning) I love the Star Wars KOTOR games too. I also love the Donkey Kong Country games on the Super Nintendo.
 First Computer: Commodore 64 back in '82. Been programming in Basic ever since, though now it's Visual Basic. Still remember Ultima IV and V - best classic era rpg games ever. Ultima 7 was awesome, though graphics are a bit dated these days. Lol - I still play it from time to time.

@@ -13,11 +13,10 @@ repliers: []
 authors: ["sephirot7"]
 comments_present: 0
 handle: "sephirot7"
-f_age: "10 - 15"
 f_interests: "game programming ,soccer ,games ,guitar"
 f_joined: "May 12th 2007"
 f_last_visit: "May 17th 2007"
-f_location: "the states"
+f_location: "(redacted: location)"
 f_name: "matteo"
 f_occupation: "programmer"
 f_rank: "Member"

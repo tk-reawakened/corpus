@@ -14,7 +14,7 @@ authors: ["l3lue"]
 comments_present: 0
 f_interests: "Art related stuff, gaming and manga~"
 f_joined: "July 5, 2004"
-f_location: "USA"
+f_location: "(redacted: location)"
 f_username: "l3lue"
 converter_version: "1"
 source_captures:

@@ -14,7 +14,7 @@ authors: ["Talyn"]
 comments_present: 0
 f_interests: "Keira Knightley, Imaging, Coding."
 f_joined: "April 4, 2004"
-f_location: "Ipswich, England"
+f_location: "(redacted: location)"
 f_username: "Talyn"
 converter_version: "1"
 source_captures:

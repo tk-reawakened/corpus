@@ -13,7 +13,6 @@ repliers: []
 authors: ["there are currently online two members"]
 comments_present: 0
 handle: "there are currently online two members"
-f_age: "21-25"
 f_country: "United States"
 f_name: "Joe"
 f_username: "there are currently online two members"

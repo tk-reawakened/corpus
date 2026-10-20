@@ -13,7 +13,7 @@ repliers: []
 authors: ["Grandpa"]
 comments_present: 0
 f_joined: "February 8, 2005"
-f_location: "The Front Porch of Glory"
+f_location: "(redacted: location)"
 f_username: "Grandpa"
 converter_version: "1"
 source_captures:

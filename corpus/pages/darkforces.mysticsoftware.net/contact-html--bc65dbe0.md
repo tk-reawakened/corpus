@@ -19,4 +19,4 @@ source_captures:
 
 # (untitled)
 
-If you wish to contact me about Dark Forces, RPGCode or HTML programming help, or any other reason, you can Email me by clicking . If you have trouble with the link , you may Email me yourself at Lightmage26@aol.com for your problem, and please also inform me of the error, thanks!Here
+If you wish to contact me about Dark Forces, RPGCode or HTML programming help, or any other reason, you can Email me by clicking . If you have trouble with the link , you may Email me yourself at (redacted: email) for your problem, and please also inform me of the error, thanks!Here

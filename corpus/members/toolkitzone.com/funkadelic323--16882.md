@@ -13,11 +13,10 @@ repliers: []
 authors: ["funkadelic323"]
 comments_present: 0
 handle: "funkadelic323"
-f_age: "10 - 15"
 f_interests: "Game design , Guitar, drums, bass, Led Zeppelin"
 f_joined: "May 18th 2007"
 f_last_visit: "May 25th 2007"
-f_name: "Brett Martin"
+f_name: "(redacted: name)"
 f_occupation: "Guitarist"
 f_rank: "Member"
 f_rankings: "No rankings."

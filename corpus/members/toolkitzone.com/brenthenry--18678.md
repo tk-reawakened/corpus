@@ -14,8 +14,8 @@ authors: ["brenthenry"]
 comments_present: 0
 handle: "brenthenry"
 f_joined: "January 12th, 2008"
-f_location: "California."
-f_name: "Fill Karty"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_username: "brenthenry"
 converter_version: "1"
 source_captures:

@@ -21,7 +21,7 @@ source_captures:
 
 [Gear for Sale![*](/jailhouserockers/images/breadcrumb.gif)](/jailhouserockers/Default.aspx?tabid=112)
 JHR T-Shirts
-To order. Go to 'Contact Us' and specify what size, how many, and your name and address. You may snail mail it to P.O. Box 862 Dana Point, Ca 92629 with a piece of paper saying what size, and quantity. If you send a check, make it payable to Russ Myers. Price includes shipping and handling. Thanx.
+To order. Go to 'Contact Us' and specify what size, how many, and your name and address. You may snail mail it to (redacted: address) Dana Point, Ca 92629 with a piece of paper saying what size, and quantity. If you send a check, make it payable to Russ Myers. Price includes shipping and handling. Thanx.
 JHR Overspray. Men's S, M, LG, X-LG $6
 ![](/jailhouserockers/Portals/3/000_0531.JPG)
 The words Jail House Rockers are spray painted on in black. These shirts wash, and it takes a lot of trips to the washing machine for them to fade.

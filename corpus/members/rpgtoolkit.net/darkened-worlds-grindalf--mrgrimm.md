@@ -13,7 +13,6 @@ repliers: []
 authors: ["Darkened Worlds / Grindalf"]
 comments_present: 0
 handle: "Darkened Worlds / Grindalf"
-f_age: "21-25"
 f_country: "United States"
 f_name: "Thomas"
 f_occupation: "Writer"

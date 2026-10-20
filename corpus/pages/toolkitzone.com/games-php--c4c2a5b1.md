@@ -32,4 +32,4 @@ by Fuzzman **Joy oh joy.**
 December 24 2005, 10:33 pm
 I'm attempting to code a battle system for another game, and so far its not going too well. I still plan on making one for Fuzzball, but its going to be a while.
 No comments.
-[![Cave 1 (room 2)](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)
+[![Cave 1 ((redacted: address))](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)

@@ -13,11 +13,10 @@ repliers: []
 authors: ["Tetsuo"]
 comments_present: 0
 handle: "Tetsuo"
-f_age: "10 - 15"
 f_interests: "I am uniteresting."
 f_joined: "February 25th 2004"
 f_last_visit: "January 18th 2007"
-f_location: "Butfuckalo Wyoming...."
+f_location: "(redacted: location)"
 f_name: "Arthur"
 f_occupation: "I'm a jobless hobo..."
 f_rank: "Member"

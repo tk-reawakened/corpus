@@ -13,12 +13,11 @@ repliers: []
 authors: ["shadow scythe"]
 comments_present: 0
 handle: "shadow scythe"
-f_age: "10 - 15"
 f_interests: "TK3"
 f_joined: "June 19th 2008"
 f_last_visit: "March 9th 2009"
-f_location: "Australia"
-f_name: "Riley Braden"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -37,7 +36,7 @@ Male
 About 5 years ago I moved to Tasmania only because I had to, I like sport, drawing, photography, games and TK3 along with other stuff. I'm still reading the users guide though.
 **E-Mail:**
 **MSN:**
-shadow_scythe@live.com.au
+(redacted: email)
 Posted on Wednesday 9.35am, July 30th, 2008
 Well I think that they are good for any game, if you know how to use them properly. [more![More](templates/default/images/icons/more.gif)](files.php?file=1628#c46628)
 Posted on Thursday 7.13am, June 26th, 2008

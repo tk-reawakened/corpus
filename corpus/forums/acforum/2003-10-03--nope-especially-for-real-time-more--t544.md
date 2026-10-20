@@ -43,8 +43,8 @@ HELO!1111 OMG MAH NMA IS KR0NICUL AND I PREFER CHIKEN OV3R PEI!111!!11 WTF I DON
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 

@@ -13,9 +13,8 @@ repliers: []
 authors: ["2011 SamuelEarl666"]
 comments_present: 0
 handle: "2011 SamuelEarl666"
-f_age: "16-20"
 f_country: "United Kingdom"
-f_name: "Sam Earl"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_username: "2011 SamuelEarl666"
 converter_version: "1"

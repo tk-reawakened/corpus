@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 17th, 2004"
-f_location: "USA, MO, Near STLTBD"
-f_name: "Lewis N. Reed"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_5645", captured: "20100102003856", sha256: "a5c30d2e42130c99b6255e3a13b2bbae7229db84ca5e7789c4ba863dd78d3490", wayback_url: "https://web.archive.org/web/20100102003856/http://toolkitzone.com/community.php?blog=5645"}
@@ -34,7 +34,7 @@ Congrats. Personally, I went to Jeffco, but meh. Your closer to Mizzou then I am
 TBD
 About zzz
 [![zzz](forum/images/avatars/28573802249a527d07d547.jpg)](community.php?user=428)
-Lewis N. Reed
+(redacted: name)
 USA, MO, Near STLTBD
 February 17th, 2004
 Site:

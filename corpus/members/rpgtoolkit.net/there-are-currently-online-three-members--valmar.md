@@ -13,9 +13,8 @@ repliers: []
 authors: ["there are currently online three members"]
 comments_present: 0
 handle: "there are currently online three members"
-f_age: "16-20"
 f_country: "Australia"
-f_name: "Kyle De'vir"
+f_name: "(redacted: name)"
 f_occupation: "Accountant"
 f_username: "there are currently online three members"
 converter_version: "1"

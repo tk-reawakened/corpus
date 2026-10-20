@@ -13,10 +13,9 @@ repliers: []
 authors: ["Lawck"]
 comments_present: 0
 handle: "Lawck"
-f_age: "16 - 20"
 f_joined: "June 23rd 2004"
 f_last_visit: "January 1st 2010"
-f_location: "Unknown."
+f_location: "(redacted: location)"
 f_name: "Joao"
 f_occupation: "Student & Programmer."
 f_rank: "Member"

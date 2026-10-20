@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Noob From The Grave"
 f_joined: "May 30th 2005"
 f_last_visit: "July 10th 2006"
-f_location: "x x x x x x x Post Count:999.9"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Noob From The Grave"
@@ -28,7 +28,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/191206285442f0e0e3e4466.gif)
 **MSN:**
-trixsta69er@hotmail.com
+(redacted: email)
 Posted on Sunday 4.41pm, October 9th, 2005
 Looking amazing are you gonna import that into your game, or turn it into a sprite? [more![More](templates/default/images/icons/more.gif)](games.php?image=4638#c26584)
 Who's Online: , , , , , , , , , , [7LegionArmy](community.php?user=7614) [Bad Kids](community.php?user=335) [cloud13](community.php?user=16110) [decker666](community.php?user=5071) [Desh](community.php?user=11101) [Icbim](community.php?user=3770) [kainismine](community.php?user=15078) [Night_Elf](community.php?user=69) [Piper730](community.php?user=15602) [Reck](community.php?user=536) [ViperX](community.php?user=14679)

@@ -12,8 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "20"
-f_name: "Iris Machivel"
+f_name: "(redacted: name)"
 f_occupation: "Demon Slayer"
 converter_version: "1"
 source_captures:
@@ -26,7 +25,7 @@ source_captures:
 Last modified: June 15 2002
 ***********
 ![](chara/Iris.gif)
-Name: Iris Machivel
+Name: (redacted: name)
 Age: 20
 Height: 57"
 Weapon/Element: Sword

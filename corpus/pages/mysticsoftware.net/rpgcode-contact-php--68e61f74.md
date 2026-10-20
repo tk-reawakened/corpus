@@ -21,9 +21,9 @@ source_captures:
 
 Mystic Software }.net{
 RPG Code Contacts
-Having trouble with your code? Send it to me and I'll take a look at it. **Xorlak:**xorlak@mysticsoftware.net
+Having trouble with your code? Send it to me and I'll take a look at it. **Xorlak:**(redacted: email)
 ***Other experienced coders:***
-**KSNiloc:**ksniloc@loggerdelta.tk
-**Mark of the Dragon:**zeroentity01@yahoo.com
+**KSNiloc:**(redacted: email)
+**Mark of the Dragon:**(redacted: email)
 Not the official forum for this site, but I answer a lot of Toolkit related questions here. [Dark Age Message Board](http://darkage.mysticsoftware.net/message.php)
 Want to help out? If you're an RPG Coder and want to answer programming questions, send me your email address and I'll put it up!

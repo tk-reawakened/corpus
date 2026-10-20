@@ -13,11 +13,10 @@ repliers: []
 authors: ["Fabian"]
 comments_present: 0
 handle: "Fabian"
-f_age: "21 - 25"
 f_interests: "God, my wife and child, church, games, reading, history"
 f_joined: "February 1st 2006"
 f_last_visit: "May 31st 2007"
-f_location: "Amersfoort"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

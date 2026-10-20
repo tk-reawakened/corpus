@@ -13,10 +13,9 @@ repliers: []
 authors: ["Moonews"]
 comments_present: 0
 handle: "Moonews"
-f_age: "16 - 20"
 f_joined: "January 28th 2004"
 f_last_visit: "March 2nd 2007"
-f_location: "The Armpit of America"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_username: "Moonews"
 converter_version: "1"

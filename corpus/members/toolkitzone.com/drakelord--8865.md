@@ -13,12 +13,11 @@ repliers: []
 authors: ["DrakeLord"]
 comments_present: 0
 handle: "DrakeLord"
-f_age: "10 - 15"
 f_interests: "You people should know by now"
 f_joined: "November 6th 2005"
 f_last_visit: "December 28th 2006"
-f_location: "In front of my computer...where else?"
-f_name: "Ryan Kilgore"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Amateur Computer Game Developer Guy"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -39,7 +38,7 @@ I'm 14, and tend to prefer computer games over console games, even though my com
 **AIM:**
 **YIM:**
 **MSN:**
-drakelord14@yahoo.com
+(redacted: email)
 Recent Blog Entries
 Added on Monday 7.56pm, November 6th, 2006
 Yep. I turned one today. Yay for me. Do I get a birthday present? ... Or at least a cookie? [more![More](templates/default/images/icons/more.gif)](community.php?blog=4922)

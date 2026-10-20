@@ -16,7 +16,7 @@ handle: "Marc"
 f_interests: "Girls, videogames, music, stuff"
 f_joined: "February 15th 2004"
 f_last_visit: "January 5th 2007"
-f_location: "Detroit, Michigan, USA, NorthAmerica"
+f_location: "(redacted: location)"
 f_occupation: "student, programmer"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -32,7 +32,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-marcdobek01@yahoo.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 4.41pm, April 19th, 2006
 Well, it is official. On friday morning I will be leaving Detroit Michigan to go to Toronto for a hockey game. My dad's hockey team is playing there and I am going because I'm the assistaint coach and the web-master. See Vampz, webmastering DOES give you free stuff . But enough show boating. I'll be... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4228)

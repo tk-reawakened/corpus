@@ -13,12 +13,11 @@ repliers: []
 authors: ["Spyder"]
 comments_present: 0
 handle: "Spyder"
-f_age: "21 - 25"
 f_interests: "Music, Photography, Computers, Video Games, Camping, Hiking, and much more."
 f_joined: "January 28th 2004"
 f_last_visit: "January 21st 2007"
-f_location: "Glendale, AZ, USA"
-f_name: "John Barber"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Bowne of Phoenix - Typesetter"
 f_rank: "Moderators"
 f_rankings: "No rankings."

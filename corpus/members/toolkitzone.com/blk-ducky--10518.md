@@ -13,7 +13,6 @@ repliers: []
 authors: ["Blk_Ducky"]
 comments_present: 0
 handle: "Blk_Ducky"
-f_age: "10 - 15"
 f_interests: "Reading, gaming, writing when I can be bothered."
 f_joined: "March 4th 2006"
 f_last_visit: "July 6th 2008"

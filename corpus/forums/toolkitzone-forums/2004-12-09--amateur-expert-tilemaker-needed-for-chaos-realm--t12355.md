@@ -32,5 +32,5 @@ links: []
 
 ### Kasai_Ryane · 2004-12-09 02:06 · #B136774
 
-hey, we are just pulling together the ideals for our unique rpg, Chaos Realm. I would like to get together our entire crew before the project starts to get to know each other. Should this rpg get completed(and the cahnces are good) it will promise to be a one unlike no other. Me and the team are currently thinking up ideas that will make this game unique, and enjoyable. If you have at least 5 hours of experience with tile making. pm me, msg me at Kasai Ryane on AIM, or sschrembeck@hotmail.com on MSN messenger.
+hey, we are just pulling together the ideals for our unique rpg, Chaos Realm. I would like to get together our entire crew before the project starts to get to know each other. Should this rpg get completed(and the cahnces are good) it will promise to be a one unlike no other. Me and the team are currently thinking up ideas that will make this game unique, and enjoyable. If you have at least 5 hours of experience with tile making. pm me, msg me at Kasai Ryane on AIM, or (redacted: email) on MSN messenger.
 ~thx, kasai

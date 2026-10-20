@@ -54,7 +54,7 @@ A special thanks to Sophia for the avatar, visit her site [here](http://gamestud
 **Ok, you're not online.. :P -nt-**
 
 **Contact info**
-**MSN** zbctfc@hotmail.com
+**MSN** (redacted: email)
 **AIM** zbretrodude
 
 - [Supernova games](http://sngames.tk)

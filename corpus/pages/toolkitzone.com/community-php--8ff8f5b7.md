@@ -21,7 +21,7 @@ source_captures:
 # Contests
 
 - Results of our first ever music competition, including short reviews of each entry and, of course, eventual runner-ups and winner. **[Music Competition - Results](library.php?doc=140&page=1)** (March 20th, 2006)
-- A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close! [![Click for more details.](vault/documents/1096.jpg)](library.php?doc=50&page=1) **[Short Story Contest: The Results](library.php?doc=50&page=1)** (August 21st, 2005)
+- A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close! [![Click for more details.](vault/documents/1096.jpg)](library.php?doc=50&page=1) **[Short Story Contest: The Results](library.php?doc=50&page=1)** (August 21st, 2005)
 Current Contest
 The titans of pixel art clash heads in the first ever knockout competition; Sprite Off. Contestants are randomly drawn against eachother and given a sprite concept, the contestant with the most votes advances to the next round. January 1st - January 31st
 Recent Winners

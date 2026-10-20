@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "21 - 25"
 f_interests: "Waffles"
 f_joined: "February 22nd 2004"
 f_last_visit: "April 8th 2008"
-f_location: "B E L G I U M"
-f_name: "Martin Pierlot"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Making waffles"
 f_rank: "Member"
 converter_version: "1"
@@ -30,14 +29,13 @@ source_captures:
 ![Avatar](forum/images/avatars/100401041647f4ed1922854.jpg)
 February 22nd 2004
 April 8th 2008
-Martin Pierlot
+(redacted: name)
 B E L G I U M
 Making waffles
 Waffles
 **Awards:**
 Total of 17 places and 56 users.
 **E-Mail:**
-mespoir@hotmail.com
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/18.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=23)
 Runner-Up

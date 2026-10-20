@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "Height"
 f_name: "Zets"
 converter_version: "1"
 source_captures:

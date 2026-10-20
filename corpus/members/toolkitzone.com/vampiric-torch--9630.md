@@ -16,7 +16,7 @@ handle: "Vampiric-Torch"
 f_interests: "Skate Boarding, Roller Bladeing, Computer Games, Snow Boarding, Arcade Games, Driveing Around"
 f_joined: "January 3rd 2006"
 f_last_visit: "March 26th 2006"
-f_location: "Kansas"
+f_location: "(redacted: location)"
 f_occupation: "Small Town Game Designing Vampiric Torch .Inc"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-Green_Dragon1@Msn.com
+(redacted: email)
 Posted on Thursday 7.13pm, January 12th, 2006
 ah dispite what you all say i can use them in my game there ok but the look may be a little off i can resize them to fit my game only one that looks kind of dirky is the 2d inside of a village house to me that one wont be in my game lol [more![More](templates/default/images/icons/more.gif)](files.php?file=807#c14918)
 Posted on Thursday 7.03pm, January 12th, 2006

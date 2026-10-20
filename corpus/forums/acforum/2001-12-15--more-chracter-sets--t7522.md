@@ -43,7 +43,7 @@ links:
 **Your welcome =P -nt-**
 
 nt
-White Divine - (MSN - WhiteBoyOnline@hotmail.com)
+White Divine - (MSN - (redacted: email))
 [<small](http://www.rpgtoolkit.com/cgi-bin/<small)
 
 ### Moonews · 2001-12-15 16:26 · #A1000-7524
@@ -61,7 +61,7 @@ White Divine - (MSN - WhiteBoyOnline@hotmail.com)
 
 ### Vampz · 2001-12-15 16:29 · #A1000-7526
 
-**...to mrgoldsoft@tkzone.net**
+**...to (redacted: email)**
 
 - Vampz
 [The Toolkit Zone Network](http://tkzone.net)

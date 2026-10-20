@@ -15,7 +15,7 @@ comments_present: 0
 handle: "voldemortriddle"
 f_joined: "October 31st 2004"
 f_last_visit: "November 4th 2004"
-f_location: "Minnesota"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "voldemortriddle"
@@ -32,7 +32,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-voldemortriddle1@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [NOTE: Free TKZ Signature >> APPLY IT NOW.](forum/viewtopic.php?p=120615#120615)
 Posted on Wednesday 1.32am, November 3rd, 2004
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [New Battle System Demo Up for Grabs =)](forum/viewtopic.php?p=120054#120054)

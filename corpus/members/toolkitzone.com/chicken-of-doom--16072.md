@@ -13,11 +13,10 @@ repliers: []
 authors: ["Chicken_Of_Doom"]
 comments_present: 0
 handle: "Chicken_Of_Doom"
-f_age: "10 - 15"
 f_interests: "nothing"
 f_joined: "March 16th 2007"
 f_last_visit: "March 19th 2007"
-f_location: "Somewere"
+f_location: "(redacted: location)"
 f_occupation: "Nothing"
 f_rank: "Member"
 f_rankings: "No rankings."

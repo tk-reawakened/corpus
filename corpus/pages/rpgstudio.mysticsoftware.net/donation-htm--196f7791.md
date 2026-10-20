@@ -31,4 +31,4 @@ But what do you get if you make a donation?
 - *I can help you with programming.*
 - *I can also give you a space on this webpage for your game.*
 - *And some other things...*
-Mail:Johansson_Tk@hotmail.com
+Mail:(redacted: email)

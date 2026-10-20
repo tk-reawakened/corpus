@@ -13,11 +13,10 @@ repliers: []
 authors: ["ASHBAD_ALVIN"]
 comments_present: 0
 handle: "ASHBAD_ALVIN"
-f_age: "10 - 15"
 f_interests: "Metal, Chipmunks, Cartoons, Fantasy RPGs, C++"
 f_joined: "January 21st 2010"
 f_last_visit: "March 13th 2010"
-f_location: "right here, right now"
+f_location: "(redacted: location)"
 f_name: "asdflkjh"
 f_occupation: "Student"
 f_rank: "Member"

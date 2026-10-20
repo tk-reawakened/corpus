@@ -47,4 +47,4 @@ I am another one of those people who found it slightly confusing using the TK3..
 
 [![](http://gra.midco.net/johnk/graphics_vs/logo.png)](http://www.vagrantsoftware.com)
 [![](http://gra.midco.net/johnk/graphics_tk/tkgamer3.jpg)](http://tkgamer.vagrantsoftware.com)
-Contact me on **MSN: kosker@hotmail.com** or **AIM: mastervagrant**
+Contact me on **MSN: (redacted: email)** or **AIM: mastervagrant**

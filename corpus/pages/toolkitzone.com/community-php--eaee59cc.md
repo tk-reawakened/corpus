@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 18th, 2005"
-f_location: "Turn around..."
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2236", captured: "20070312092007", sha256: "f6efb52de027691800095ece9aa149e5ba204722f301508f4d28aab489d5d35a", wayback_url: "https://web.archive.org/web/20070312092007/http://toolkitzone.com/community.php?blog=2236"}

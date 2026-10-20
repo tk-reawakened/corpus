@@ -15,7 +15,7 @@ comments_present: 0
 handle: "BigFish"
 f_joined: "March 31st 2006"
 f_last_visit: "December 29th 2006"
-f_location: "In the ocean!!! Wooowooowoo!!"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "BigFish"

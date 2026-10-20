@@ -13,11 +13,10 @@ repliers: []
 authors: ["Antimime"]
 comments_present: 0
 handle: "Antimime"
-f_age: "21 - 25"
 f_interests: "video games, music, and global domination. oh, and space."
 f_joined: "February 14th 2007"
 f_last_visit: "February 15th 2007"
-f_location: "Beavercreek, OH"
+f_location: "(redacted: location)"
 f_name: "Garret"
 f_occupation: "Rocket Scientist (seriously, I'm an Aerospace Engineer)"
 f_rank: "Member"

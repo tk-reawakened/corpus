@@ -13,12 +13,11 @@ repliers: []
 authors: ["Tengaku"]
 comments_present: 0
 handle: "Tengaku"
-f_age: "10 - 15"
 f_interests: "RPG Creating, Music, Art"
 f_joined: "February 17th 2007"
 f_last_visit: "February 28th 2007"
-f_location: "Tampa, Florida"
-f_name: "Christian Alexander Brady"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

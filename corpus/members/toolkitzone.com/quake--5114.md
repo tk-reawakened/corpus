@@ -33,7 +33,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/128425566446f4a0d7218e.gif)
 **MSN:**
-samson505@msn.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [The average intelligence of a Toolkit Zone poster](forum/viewtopic.php?p=382193#382193)
 Posted on Friday 11.02pm, February 23rd, 2007
 I find appreviating alot easier to do especially on msn, but here everyone so picky so i might aswell use full sentences. And about the intelligence i don't think thats the case, we all make spelling mistakes its human but some posters may be dyslexic or very young so you need to take things like ... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=382193#382193)

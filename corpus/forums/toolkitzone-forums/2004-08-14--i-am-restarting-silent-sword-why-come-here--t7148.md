@@ -172,7 +172,7 @@ This signature is a trademark of Evil Global Conglomerate. We own your soul.
 [
 ![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 im speshul
 
 ### zzz · 2004-08-14 02:10 · #B75026

@@ -43,6 +43,6 @@ Also I need a good game title. Suggestions are appreciated. Needs to fit with th
 I'm not bad, some would probably disagree with that. If you can't find someone better (yeah, like that'll be hard) I can show you something that I once started writing in hopes of creating a game from the general idea. It later turned into a short story and I gave up. I can only make the plot not the actual game whenever I try. SO for plot line creation I'm not too terrible at it.
 <http://www.freewebs.com/levis_fiction/vrking.htm>
 That's a sample of what I made when I tried. Actually if you like it take it. If not and would like my help. Just email me. I have three but I would recommend my Yahoo address.
-Talin1_2000@yahoo.com
+(redacted: email)
 The one currently attached to this site is not checked very often. So the one supplied is your best bet.
 Well good luck to you. Later days

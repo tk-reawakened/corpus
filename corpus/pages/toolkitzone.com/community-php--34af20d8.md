@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 23rd, 2005"
-f_location: "Kansas--Poster Formerly Known as Toplizards8"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_3907", captured: "20070524030323", sha256: "2a6db253eb613f4cc4469f27d1a400e2c7d3d512bbce441c5b610f4c7e8a61cc", wayback_url: "https://web.archive.org/web/20070524030323/http://www.toolkitzone.com/community.php?blog=3907"}

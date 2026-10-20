@@ -13,11 +13,10 @@ repliers: []
 authors: ["Alex"]
 comments_present: 0
 handle: "Alex"
-f_age: "16 - 20"
 f_interests: "Aggie Football, Baseball (Dodgers, Rangers, and Marlins), Movies, and Rock"
 f_joined: "March 11th 2004"
 f_last_visit: "February 1st 2007"
-f_location: "Anytown, USA"
+f_location: "(redacted: location)"
 f_name: "Christian"
 f_occupation: "TKZ Libertarian (Call me conservative or liberal and I will stab you in the jaw)"
 f_rank: "Member"

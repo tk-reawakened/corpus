@@ -13,9 +13,8 @@ repliers: []
 authors: ["Trio of Destruction / Khin"]
 comments_present: 0
 handle: "Trio of Destruction / Khin"
-f_age: "26+"
 f_country: "United States"
-f_name: "Justin Radford"
+f_name: "(redacted: name)"
 f_occupation: "Teacher"
 f_username: "Trio of Destruction / Khin"
 f_website: "Imaginative Studios"

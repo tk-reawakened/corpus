@@ -81,4 +81,4 @@ source_captures:
 > range oast anaged are ervices, nc.![](images/DiamondSm.gif) **O** **C** **M** **C** **S** **I**
 >
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

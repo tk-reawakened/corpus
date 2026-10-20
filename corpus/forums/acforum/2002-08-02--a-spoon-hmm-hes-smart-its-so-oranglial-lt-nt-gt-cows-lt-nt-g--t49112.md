@@ -55,7 +55,7 @@ My site is the best! Okay so maybe not but who cares, I'll whack anyone who trys
 ...at pole dancing, that is.
 Ahem.
 Why am I posting on these boards again? Sheesh. I managed 4 months though.
-The #1 Place To Be - [Mystic Software](http://mysticsoftware.net)
+The #(redacted: address) To Be - [Mystic Software](http://mysticsoftware.net)
 
 ### dan · 2002-08-02 14:53 · #A1000-49115
 

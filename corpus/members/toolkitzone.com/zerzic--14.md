@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Zerzic"
 f_joined: "January 28th 2004"
 f_last_visit: "June 20th 2009"
-f_location: "victoria"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Zerzic"
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/3864195047ebf9a8a919d.png)
 **MSN:**
-ethanbowes@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Any new achievements at TK?](forum/viewtopic.php?p=476348#476348)
 Posted on Saturday 9.40pm, June 20th, 2009
 Asimir, the Pancake Stack game looks quirky, I'll try it. Now, Anders Journey.. those graphics look delicious. Anyways, no one has answered my question. Is their a point for me to spend hours working on an acrylic/watercolor game? If it is even better than Heraldry:Freija, how many people will... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=476348#476348)

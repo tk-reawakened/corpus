@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Mr Picso"
 f_joined: "August 1st 2004"
 f_last_visit: "May 23rd 2007"
-f_location: "OT Republic"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Mr Picso"

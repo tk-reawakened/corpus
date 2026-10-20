@@ -14,7 +14,7 @@ authors: ["The Envy"]
 comments_present: 0
 f_interests: "Spriting, movies, singing (Though I'm no good), writing"
 f_joined: "February 18, 2005"
-f_location: "Anywhere that you aren't."
+f_location: "(redacted: location)"
 f_username: "The Envy"
 converter_version: "1"
 source_captures:

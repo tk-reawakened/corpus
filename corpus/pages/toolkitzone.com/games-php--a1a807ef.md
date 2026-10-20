@@ -31,6 +31,6 @@ Quintessence is an rpg set in a fantasy world, created with isometrics in TK3. Y
 **Quintessence**
 **Dominea**
 February 8 2005, 8:14 pm
-I am really looking forward to seeing how this game turns out for you. The graphics look amazing who is your artist? I might want to use them for a 2d RP I am going to be making in SDL and C++. Hook me up with some info mate. Animegalore1985@yahoo.com I deffinantly want to see it and play it once it is done.
+I am really looking forward to seeing how this game turns out for you. The graphics look amazing who is your artist? I might want to use them for a 2d RP I am going to be making in SDL and C++. Hook me up with some info mate. (redacted: email) I deffinantly want to see it and play it once it is done.
 No Replies
 [![Stone bridge](games/phpThumb.php?src=../mygames/images/100/1449.jpg&w=175)](games.php?image=1449)

@@ -38,7 +38,7 @@ PLEASE LOWER THE COST OF THE REGISTERED VERSION!
 I am 14 so its not like i can get a job and my parents ain't rich so i can't afford it!
 or...Please donate money to the give money to jer1400 so he can get the registered version national foundation.
 And if your actually that nice to donate some money to me no matter how little...please e-mail me for my address.
-avonlady1992@prodigy.net
+(redacted: email)
 
 ### Ersuis · 2001-12-11 23:05 · #A1002-1449
 

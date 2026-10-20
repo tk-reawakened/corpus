@@ -13,11 +13,10 @@ repliers: []
 authors: ["siegeviperx"]
 comments_present: 0
 handle: "siegeviperx"
-f_age: "21 - 25"
 f_interests: "Game Design, and LOTS of Video games"
 f_joined: "February 12th 2007"
 f_last_visit: "March 2nd 2007"
-f_location: "Florida"
+f_location: "(redacted: location)"
 f_name: "Siegeviper"
 f_occupation: "Computer Tech"
 f_rank: "Member"

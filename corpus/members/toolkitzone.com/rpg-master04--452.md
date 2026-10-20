@@ -15,7 +15,7 @@ comments_present: 0
 handle: "rpg_master04"
 f_joined: "February 18th 2004"
 f_last_visit: "February 18th 2004"
-f_location: "Missouri"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "rpg_master04"

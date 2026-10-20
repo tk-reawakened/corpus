@@ -93,7 +93,7 @@ Screw Asimir, he changed the image that my avatar is from. Sad
 You guys wanna play sometime? Like...Today?
 I always wanted to shoot you Cesque...
 Add me to MSN or AIM
-I_Smell_Pickles@hotmail.com
+(redacted: email)
 AIM: Lal1me
 _________________
 [MY AWESOME SUPERB LIFE BLOG](http://www.toolkitzone.com/blog.php?id=2233)

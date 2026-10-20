@@ -13,11 +13,10 @@ repliers: []
 authors: ["Dredogol"]
 comments_present: 0
 handle: "Dredogol"
-f_age: "21 - 25"
 f_interests: "Programming, Counter-Strike, more games"
 f_joined: "October 21st 2004"
 f_last_visit: "October 27th 2007"
-f_location: "N/A"
+f_location: "(redacted: location)"
 f_occupation: "(Junior) Computer Information Sciences and Data Analysis"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -39,7 +38,7 @@ Well, I'm trying to program games using C++ rather than RPGCode. 1) Make a simpl
 **AIM:**
 **YIM:**
 **MSN:**
-Dredogol@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Monday 2.52am, March 14th, 2005
 MEH!!! AHHH!!! THE ALL MIGHTY DREADED FINALS!!!!! LOL...boy, I sure can't wait to screw up my grades this quarter. Trust me...NEVER take the Math here at OSU...you guys'll regret it if you do...LOL Also, Computer Information Sciences 221 is CRAP! this book tought me absolutly nothing other ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=2303)

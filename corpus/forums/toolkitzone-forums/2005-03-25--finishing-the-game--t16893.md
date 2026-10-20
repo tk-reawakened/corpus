@@ -43,7 +43,7 @@ How can I make the game playable for others?
 (Such as an executable :: which I noticed required Powerhouse version)
 Whenever I try to make a setup file, it never works as one.
 Please email me back.
-elven_archers2004@yahoo.com
+(redacted: email)
 Thanks a lot.
 
 ### SonodroidStar · 2005-04-20 14:55 · #B197334
@@ -54,7 +54,7 @@ Thanks a lot.
 > (Such as an executable :: which I noticed required Powerhouse version)
 > Whenever I try to make a setup file, it never works as one.
 > Please email me back.
-> elven_archers2004@yahoo.com
+> (redacted: email)
 > Thanks a lot.
 >
 

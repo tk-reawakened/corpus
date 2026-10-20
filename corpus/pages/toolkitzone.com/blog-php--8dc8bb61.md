@@ -13,7 +13,7 @@ repliers: []
 authors: ["Hamster"]
 comments_present: 0
 f_joined: "March 12, 2004"
-f_location: "College Station,Texas"
+f_location: "(redacted: location)"
 f_username: "Hamster"
 converter_version: "1"
 source_captures:

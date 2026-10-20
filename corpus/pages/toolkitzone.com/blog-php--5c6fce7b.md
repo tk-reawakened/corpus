@@ -13,7 +13,7 @@ repliers: []
 authors: ["Grant"]
 comments_present: 0
 f_joined: "June 2, 2004"
-f_location: "Florida"
+f_location: "(redacted: location)"
 f_username: "Grant"
 converter_version: "1"
 source_captures:

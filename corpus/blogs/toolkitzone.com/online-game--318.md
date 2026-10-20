@@ -14,7 +14,7 @@ authors: ["US Patriot"]
 comments_present: 0
 f_interests: "Texas A&M, USA, Air Force, and Politics"
 f_joined: "March 11, 2004"
-f_location: "College Station, Texas - Home of Aggieland"
+f_location: "(redacted: location)"
 f_username: "US Patriot"
 converter_version: "1"
 source_captures:

@@ -13,11 +13,10 @@ repliers: []
 authors: ["izumichan31"]
 comments_present: 0
 handle: "izumichan31"
-f_age: "16 - 20"
 f_interests: "anime, video games, writing, drawing, reading"
 f_joined: "October 21st 2007"
 f_last_visit: "November 21st 2007"
-f_location: "Under your bed"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -38,7 +37,7 @@ I'm an 18 year old college student who wants to design games for a living. I enj
 **AIM:**
 **YIM:**
 **MSN:**
-izzyizumisan@yahoo.com
+(redacted: email)
 Recent Blog Entries
 Added on Monday 6.32pm, November 19th, 2007
 Today is such a bad day. I'm stuck in computer class, starving, and I only got like two hours of sleep because of an ever lasting headache. The day ish evil. Sooooo hungry. Oh well on the bright side I gegt BBQ later on. Hurray for the restaurants. I don't think I spelled that right... oh well. ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5574)

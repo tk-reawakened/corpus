@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "21 - 25"
 f_interests: "reading, writing (in a grammatically incorrect way of course), chess (i stink), some programming"
 f_joined: "June 8th 2007"
 f_last_visit: "April 1st 2008"
-f_location: "Minnesota"
+f_location: "(redacted: location)"
 f_name: "Jacky"
 f_occupation: "Student"
 f_rank: "Member"

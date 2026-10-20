@@ -21,7 +21,7 @@ source_captures:
 
 ![](img/folder_open.gif) zone account
 **password**
-report any problems to dan@toolkitzone.com
+report any problems to (redacted: email)
 Thursday 17th June
 Posted by - Fri 18 June, 2004 1:23am [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
 OK well, sorry for the lack of updates, been kinda busy lately with college rehersals which leaves me quite tired at the end of the day to bother typing all that has happened! [Actual performances next week! woo at last :D] But yeh, I'll do a quick summary of the ast few days: On the saturday I was meanto call Emma; I got up late, was kinda nervous to call her for first time so put it off [kinda stupid really] then whenI did call she thought I lost the number or something and had made plans to do something else! Later found out if I had called earlier on, she would have been free! grr.. So since then I been asking her to go out again but she always seems to be busy! Yesterday I asked another of my friends that knows Emma too to try and slyly fnd out if she does actually like me, so now I'm wating for the answer from her. Tuesday night or wednesday night [I dunno, time doesn't hold much meaning in my life!] I did something for the first time in years.. i actually cried! That's a first for me in a long time, so long that I had actually forgot what it felt like! Crazy stuff. Feels like my emotion barrior is fnally breaking down and; allowing me to actually feel emotions again properly! woo! Ok well I'm flling asleep typing here, so that is all I can say atm.. so stay tuned or whatever..! :P -Enjoy!

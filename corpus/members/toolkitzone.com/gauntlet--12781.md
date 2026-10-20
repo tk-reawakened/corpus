@@ -13,11 +13,10 @@ repliers: []
 authors: ["Gauntlet"]
 comments_present: 0
 handle: "Gauntlet"
-f_age: "16 - 20"
 f_interests: "music (rock), guitar, drink, girls etc..."
 f_joined: "June 29th 2006"
 f_last_visit: "January 5th 2007"
-f_location: "England"
+f_location: "(redacted: location)"
 f_occupation: "monkey"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -32,7 +31,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-mr_andy8@hotmail.com
+(redacted: email)
 ![Coding](../templates/default/images/icons/forums/forum_coding.gif) [Custom shop " selling " code](forum/viewtopic.php?p=353612#353612)
 Posted on Sunday 11.28pm, October 8th, 2006
 hey, this is my first game so i dont have much clue about how i am to go about making custom anythings, but i decided to make my first game completly origonal that way i will learn coding etc... i have created the "buy" section of the shop and am now onto the "sell" section of the shop, so far i... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=353612#353612)

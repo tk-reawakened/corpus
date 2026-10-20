@@ -13,7 +13,7 @@ repliers: []
 authors: ["Scott92002000"]
 comments_present: 0
 f_joined: "February 15, 2005"
-f_location: "Wouldnt YOU like to know!"
+f_location: "(redacted: location)"
 f_username: "Scott92002000"
 converter_version: "1"
 source_captures:

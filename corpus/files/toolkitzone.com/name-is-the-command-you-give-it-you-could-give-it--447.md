@@ -228,6 +228,6 @@ I don't know what this does. If you do, contact me.
 Yup. Here are some suggestions:
 1.)Read the reference and primer and study them. 2.)Practice making methods without paremeters first. 3.)Study up on useful commands such as #If and #While. 4.)Download other methods and use them even if its just for one minute or two.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Tadah!
-Well thats it. Wish to contact me? E-mail plz: tk_game_boy@programmer.net
+Well thats it. Wish to contact me? E-mail plz: (redacted: email)
 TKGB
 - o L ____ \__/

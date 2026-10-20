@@ -31,6 +31,6 @@ The water poisoned, and the little hope that had time to build waining... Those 
 July 23 2005, 3:27 pm
 This is the last immage of cave 1 I'm going to post. The arrows act like "one-way streets" in maze games. They push you along the walls in the direction they are pointing. I still need to add enemies...
 No votes cast
-![Cave 1 (room 2)](/mygames/images/1377/3746.JPG)
+![Cave 1 ((redacted: address))](/mygames/images/1377/3746.JPG)
 No comments.
-[![Cave 1 (room 2)](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)
+[![Cave 1 ((redacted: address))](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)

@@ -13,7 +13,7 @@ repliers: []
 authors: ["Trent"]
 comments_present: 0
 f_joined: "February 14, 2004"
-f_location: "Burlington, KY"
+f_location: "(redacted: location)"
 f_username: "Trent"
 converter_version: "1"
 source_captures:

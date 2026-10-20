@@ -12,9 +12,9 @@ written: "2001-12-10T30:53:00"
 last_post: "2001-12-11T19:32:00"
 date_confidence: "exact"
 captured: ["20011230231648", "20011230232328"]
-author: "paulcalabro@hotmail.com"
+author: "(redacted: email)"
 repliers: ["Darq"]
-authors: ["paulcalabro@hotmail.com", "Darq"]
+authors: ["(redacted: email)", "Darq"]
 posts_present: 2
 pages_present: []
 pages_total: null
@@ -32,7 +32,7 @@ links:
 
 # Audio problems
 
-### paulcalabro@hotmail.com · 2001-12-10 30:53 · #A1002-1443
+### (redacted: email) · 2001-12-10 30:53 · #A1002-1443
 
 I have a problem with the audio during part of my game. The audio just stops when the titles start. Try this code out if you can see what I mean. If you take out the empty TExt("")in the beginning the audio stops.
 *******************************************************

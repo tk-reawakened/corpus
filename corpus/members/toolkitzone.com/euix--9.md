@@ -13,12 +13,11 @@ repliers: []
 authors: ["Euix"]
 comments_present: 0
 handle: "Euix"
-f_age: "16 - 20"
 f_interests: "Programming, Games, Music"
 f_joined: "January 28th 2004"
 f_last_visit: "March 22nd 2007"
-f_location: "United States"
-f_name: "Chris Hutchinson"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Euix"
@@ -35,7 +34,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-ooeuixoo@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Friday 2.02am, December 29th, 2006
 Christmas has passed, and presents were given. Sure. I received an Xbox 360, and later bought Gears of War. I have to say It's an incredible game. It deserves quite a bit of the hype it has received, that's for sure. The single player campaign is great, at least the first time through. Consecutiv... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5069)

@@ -13,7 +13,6 @@ repliers: []
 authors: ["Cactus"]
 comments_present: 0
 handle: "Cactus"
-f_age: "21 - 25"
 f_joined: "November 1st 2007"
 f_last_visit: "November 16th 2007"
 f_rank: "Member"

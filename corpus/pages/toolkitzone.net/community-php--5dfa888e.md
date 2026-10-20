@@ -12,11 +12,10 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Games, Anime, Computer, Girls, more..."
 f_joined: "December 9th 2007"
 f_last_visit: "April 2nd 2008"
-f_location: "Behind You!!!"
+f_location: "(redacted: location)"
 f_name: "Arie"
 f_occupation: "Taco Bell Employee..."
 f_rank: "Member"
@@ -37,7 +36,6 @@ Taco Bell Employee...
 Games, Anime, Computer, Girls, more...
 **AIM:**
 **YIM:**
-cooldud12314@hotmail.com
 ![Box](templates/default/images/icons/more.gif) **Posts (37)**
 [View All Posts By User](forum/search.php?user=18499)![View All](templates/default/images/icons/more.gif)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [Dead Fantasy](forum/viewtopic.php?p=435743#435743)

@@ -13,11 +13,10 @@ repliers: []
 authors: ["TK Game Boy"]
 comments_present: 0
 handle: "TK Game Boy"
-f_age: "21 - 25"
 f_interests: "lots of stuff"
 f_joined: "February 9th 2004"
 f_last_visit: "January 1st 2010"
-f_location: "Los Angeles"
+f_location: "(redacted: location)"
 f_name: "Juan"
 f_occupation: "Being TK Game Boy"
 f_rank: "Über Members"

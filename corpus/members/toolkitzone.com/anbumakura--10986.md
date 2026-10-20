@@ -13,12 +13,11 @@ repliers: []
 authors: ["anbumakura"]
 comments_present: 0
 handle: "anbumakura"
-f_age: "16 - 20"
 f_interests: "RPGs, Anime, music"
 f_joined: "April 3rd 2006"
 f_last_visit: "February 20th 2009"
-f_location: "Minneapolis, Minnesota"
-f_name: "Ben Schnagl"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

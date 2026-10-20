@@ -51,7 +51,7 @@ BTW: This post isn't entirely off topic, the proggie I'm making could be of use 
 Thanks.
 - Jason D.
 Pubilc Declare Function DoAllMyWorkForMe Lib "iamlazy.dll" (ByVal Time as Long, ByVal Quality As Long) as Executable
-MSN: jason_detchevery@hotmail.com
+MSN: (redacted: email)
 Website: I'm far too lazy to make one of those....yet.....
 
 ### cy · 2003-07-15 23:07 · #A1000-28184
@@ -86,7 +86,7 @@ And yeah, the DragOver and DragDrop events are only for doing OLE Automation and
 Thanks anyway,
 - Jason D.
 Pubilc Declare Function DoAllMyWorkForMe Lib "iamlazy.dll" (ByVal Time as Long, ByVal Quality As Long) as Executable
-MSN: jason_detchevery@hotmail.com
+MSN: (redacted: email)
 Website: I'm far too lazy to make one of those....yet.....
 
 ### john@aljo · 2003-07-15 24:00 · #A1000-28193

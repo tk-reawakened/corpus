@@ -13,7 +13,7 @@ repliers: []
 authors: ["Colosseus"]
 comments_present: 0
 f_joined: "March 2, 2004"
-f_location: "Norway"
+f_location: "(redacted: location)"
 f_username: "Colosseus"
 converter_version: "1"
 source_captures:

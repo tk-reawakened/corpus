@@ -52,10 +52,10 @@ This tile is simple but effective in any RPG game. This tutorial will teach you 
 **Telling Off**
 Now I don't want to see a bunch of tiles like these pop up on the forums. I did this to show how easy tile making can be, but please try to keep your tiles original.
 **Other Notes**
-I need suggestions for the upcoming chapters (check out the Contact Section for more info). Any Spelling/Grammatical errors can be sent to akira_blank@hotmail.com (please do, I am bad at the Englandish).
+I need suggestions for the upcoming chapters (check out the Contact Section for more info). Any Spelling/Grammatical errors can be sent to (redacted: email) (please do, I am bad at the Englandish).
 **More Tutorials**
 For more tile goodness go to (not my site) And for a bunch of gaming related tutorials check out (not my site) the only problem being there a few with the TK in mind (that's why mine rocks so much). <www.pixeltutorial.cjb.net>
 <www.gamingw.net>
 **Updates**
 Chapter 3 coming soon so stay tuned, Same Bat-time, same Bat-channel,
-I can be reached at (yes I have msn) or by PM at the RPGToolkit forums (username: Akira) for any questions, comments, suggestions, or criticism you may have.akira_blank@hotmail.com
+I can be reached at (yes I have msn) or by PM at the RPGToolkit forums (username: Akira) for any questions, comments, suggestions, or criticism you may (redacted: email)

@@ -13,11 +13,10 @@ repliers: []
 authors: ["*insert name here*"]
 comments_present: 0
 handle: "*insert name here*"
-f_age: "16 - 20"
 f_interests: "Computers. Skateboarding. Heavy Metal."
 f_joined: "October 5th 2005"
 f_last_visit: "February 20th 2007"
-f_location: "New Zealand."
+f_location: "(redacted: location)"
 f_name: "Damian."
 f_occupation: "Toilet Cleaner."
 f_rank: "Member"

@@ -13,10 +13,9 @@ repliers: []
 authors: ["Lightning"]
 comments_present: 0
 handle: "Lightning"
-f_age: "10 - 15"
 f_joined: "September 4th 2007"
 f_last_visit: "December 7th 2007"
-f_location: "nottingham"
+f_location: "(redacted: location)"
 f_name: "James"
 f_rank: "Member"
 f_rankings: "No rankings."

@@ -43,8 +43,8 @@ This is kool nice forsaken i wanna join you team or whateva im real interested i
 
 im good with making sites my self, but ya sure you can join my team contact me on aim, msn or email me.
 Aim: zDarkestSoul
-Msn: Forlothar@yahoo.com
-Email: ForsakenBlade@direstratis.com
+Msn: (redacted: email)
+Email: (redacted: email)
 
 ### Caliber Mengsk · 2004-11-29 23:52 · #B131814
 

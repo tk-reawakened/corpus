@@ -12,7 +12,7 @@ author: "Kurt Cobain"
 repliers: []
 authors: ["Kurt Cobain"]
 comments_present: 0
-f_description: "Mystic Quest is an RPG which allows you to do many things.The main character of the game is Azrad who goes on a quest to explor more than he knows.Guest apperances in this game will be: Bam Margera, System of a Down, Nirvana, Indie, a Dead Kurt Cobain,and my girlfriend Taylor.EMAIL ME WITH ANY QUESTIONS! nirvana.cobain@gmail.com"
+f_description: "Mystic Quest is an RPG which allows you to do many things.The main character of the game is Azrad who goes on a quest to explor more than he knows.Guest apperances in this game will be: Bam Margera, System of a Down, Nirvana, Indie, a Dead Kurt Cobain,and my girlfriend Taylor.EMAIL ME WITH ANY QUESTIONS! (redacted: email)"
 f_led_by: "Kurt Cobain"
 f_other_members: "ericdog18"
 f_rating: "15 votes cast"
@@ -27,7 +27,7 @@ source_captures:
 
 March 13, 2005, 4:25 pm
 Development
-Mystic Quest is an RPG which allows you to do many things.The main character of the game is Azrad who goes on a quest to explor more than he knows.Guest apperances in this game will be: Bam Margera, System of a Down, Nirvana, Indie, a Dead Kurt Cobain,and my girlfriend Taylor.EMAIL ME WITH ANY QUESTIONS! nirvana.cobain@gmail.com
+Mystic Quest is an RPG which allows you to do many things.The main character of the game is Azrad who goes on a quest to explor more than he knows.Guest apperances in this game will be: Bam Margera, System of a Down, Nirvana, Indie, a Dead Kurt Cobain,and my girlfriend Taylor.EMAIL ME WITH ANY QUESTIONS! (redacted: email)
 **Mystic Quest**
 March 13 2005, 4:25 pm
 This Demo was created in late October of '04 so it has a lot of bugs and isn't anything like the version I have now I will get the new version up soon.

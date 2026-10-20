@@ -25,6 +25,6 @@ Viewing profile - Haraldur
 Administrators Global moderators Registered users
 **Southampton, England**
 **<http://haraldur.mysticsoftware.net>**
-[http://haraldur.mysticsoftware.net](http://haraldur.mysticsoftware.net) My E-Mail address is \[EMAIL=haraldur_tristan_gunnarsson@hotmail.com\]haraldur_tristan_gunnarsson@hotmail.com\[/EMAIL\]![Image](http://haraldur.mysticsoftware.net/logo2.jpg)
+[http://haraldur.mysticsoftware.net](http://haraldur.mysticsoftware.net) My E-Mail address is \[EMAIL=(redacted: email)\](redacted: email)\[/EMAIL\]![Image](http://haraldur.mysticsoftware.net/logo2.jpg)
 ![Image](http://haraldur.mysticsoftware.net/tongue.gif)
 ![Image](http://technocracy.ca/modules/PNphpBB2/files/networkofeuropeantechnocrats7.png)

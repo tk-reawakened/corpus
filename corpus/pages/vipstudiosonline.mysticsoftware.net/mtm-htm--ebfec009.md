@@ -21,7 +21,7 @@ source_captures:
 
 Welcome to our new service here at Mystic Software! This service will allow you to send us any MIDI file from anywhere (as long as there is no viruses, and we haven't already serviced the MIDI) and we will turn it into a downloadable, usable, very high quality MP3 file. Just email me, Craig Reeves, or contact me on AIM. Oh and **please don't upload** **anything but MIDI files, or else YOU will no longer be able to take part in this service.**
 AIM: CraigReeves1230 E-Mail:
-craig.reeves@verizon.net
+(redacted: email)
 **Timing...**
 We usually make an effort into getting the music done in a maximum of 3 days.
 **Serviced Songs**

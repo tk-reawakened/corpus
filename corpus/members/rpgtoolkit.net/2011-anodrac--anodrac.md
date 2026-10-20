@@ -13,9 +13,8 @@ repliers: []
 authors: ["2011 Anodrac"]
 comments_present: 0
 handle: "2011 Anodrac"
-f_age: "16-20"
 f_country: "United States"
-f_name: "Blamyris Cardona"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_username: "2011 Anodrac"
 f_website: "Celestial Star Productions"

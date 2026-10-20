@@ -113,7 +113,7 @@ And we like people who don't use so much whitespace on phpBB forums. It's okay o
 _________________
 .:: [Get Firefox!](http://www.mozilla.org/products/firefox/)::.
 .:: [Off-Topicness!](http://cywh.com/ot/)::.
-.::smc42190@gmail.com::.
+.::(redacted: email)::.
 
 ### Xavier · 2004-08-08 20:27 · #B71794
 

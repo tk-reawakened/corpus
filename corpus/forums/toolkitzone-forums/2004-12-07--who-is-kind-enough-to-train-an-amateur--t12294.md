@@ -38,7 +38,7 @@ wel...i've spent around 10 hours of time with RPGcode, and i havecloe to to know
 ### TheCPPFreak220 · 2004-12-07 23:33 · #B136201
 
 I could help, I'm not that bad at it.
-TheCPPFreak220@hotmail.com
+(redacted: email)
 
 ### Kasai_Ryane · 2004-12-07 23:37 · #B136207
 
@@ -68,12 +68,12 @@ ok...well. what is your AIM screen name if you have one? that way i can contact 
 
 ### TheCPPFreak220 · 2004-12-08 02:11 · #B136312
 
-Ok, i do not have AIM, but i do have msn, which i amalmost always on. It's TheCPPFreak220@hotmail.com
+Ok, i do not have AIM, but i do have msn, which i amalmost always on. It's (redacted: email)
 You did not post any code.
 
 ### Kasai_Ryane · 2004-12-08 02:40 · #B136343
 
-thanks! I added you to my contacts, and mine is sschrembeck@hotmail.com.
+thanks! I added you to my contacts, and mine is (redacted: email).
 and here is the code...somehow i forgot to put it in, sry.
 
 **rpgcode:**

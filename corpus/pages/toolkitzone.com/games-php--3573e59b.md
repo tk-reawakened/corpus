@@ -42,7 +42,7 @@ i- Thanks playtesters
 Cheers guys, this is actually my first demo of any of my games ive finished, so its important people like it. Cheers you all, and feedback on what i could improve.
 ii- The Team
 Me! Haha
-Joe Pearson (jpsmtm) RayGlass Gaming (Designer and Developer)
+(redacted: name) (jpsmtm) RayGlass Gaming (Designer and Developer)
 Dan (shadowoflinux) BlueZero Design (Graphical Design and Playtester)
 Alex Daniels AD Corp (from what i can remember) (Playtester)
 John Pearson (Playtester)
@@ -79,6 +79,6 @@ DONT NICK MY CODE ALEX :P or Dan come to think of it, if you wanna know how i di
 Thanks to my Dad as well for playtesting and advice.
 2nd Demo will be done after the feedback has been recieved. I will next work on area one, (the temple in the demo is area 2), which is the island that the temple rests on.
 Spose i should also thank infogrames and unreal for they're lovely editor i used for the backgrounds.
-Joe Pearson RayGlass Games
+(redacted: name) RayGlass Games
 No comments.
 [![The Piano](games/phpThumb.php?src=../mygames/images/1777/5575.png&w=175)](games.php?image=5575)

@@ -14,7 +14,7 @@ authors: ["Jinw"]
 comments_present: 0
 f_interests: "Game designing"
 f_joined: "April 17, 2005"
-f_location: "Oak Creek, Wisconsin"
+f_location: "(redacted: location)"
 f_username: "Jinw"
 converter_version: "1"
 source_captures:

@@ -21,7 +21,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 Ideas and Suggestions
 It’s not easy to create a game, or even know what the game shall be about. So I have some suggestion. So what shall your game be about?
 -
@@ -130,4 +130,4 @@ Try to play the Zelda games, they have a lot of great ideas.
 It’s important to have a lot of secret areas, so make some in your game.
 I know it’s not easy to find out good things to a game. Because there are thousands of games created. But you have to think a lot. It’s very important.
 Thank you for reading this tutorial created by William, 2004-02-29.
-If you have some questions, email me:bjorn_djdj@hotmail.com
+If you have some questions, email me:(redacted: email)

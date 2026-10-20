@@ -13,11 +13,10 @@ repliers: []
 authors: ["iFrog"]
 comments_present: 0
 handle: "iFrog"
-f_age: "21 - 25"
 f_interests: "Computers, guns, nudist monkeys and knives. >=D"
 f_joined: "November 27th 2005"
 f_last_visit: "February 27th 2007"
-f_location: "California"
+f_location: "(redacted: location)"
 f_name: "James"
 f_occupation: "[censored by Elvis]"
 f_rank: "Member"

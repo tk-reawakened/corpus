@@ -26,7 +26,7 @@ source_captures:
 # RPG Freak
 
 **MSN:**
-game_master_me@hotmail.com
+(redacted: email)
 Posted on Tuesday 10.42am, December 20th, 2005
 Nice man, I think you could make it a little more colorful and maybe include the characters Profiles on the right, but other than that keep up the good work, Love it. [more![More](templates/default/images/icons/more.gif)](files.php?file=513#c14961)
 Who's Online: , , , , , , , , , [7LegionArmy](community.php?user=7614) [Alex](community.php?user=893) [Colin](community.php?user=226) [Devastation](community.php?user=4234) [Moo Of Doom](community.php?user=334) [Mr Picso](community.php?user=3699) [Oyerth](community.php?user=37) [RainboKat](community.php?user=9667) [Seafroggys](community.php?user=141) [Shinn](community.php?user=16052)

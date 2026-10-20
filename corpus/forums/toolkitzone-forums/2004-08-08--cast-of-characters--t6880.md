@@ -83,7 +83,7 @@ Crap... I thought I was the only one who was awsome enough to come up with such 
 Nice job. They all seem kind of stiff however. When someone stands, their arm is usually not separated from their body.
 _________________
 http://www.toolkitzone.com/mygames/images/121/893.jpg <http://img17.exs.cx/img17/3476/Drink7E.jpg>
-:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.seveneternal@gmail.com.:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
+:.::.:...:.:.:..:.:.:..:::..:.:.:....:..:..::::..::.:.::..:.(redacted: email).:.:.:.:.:::.:.::.:.::.:.:.:.::.:.:::.:.:..:..:..:.:::::.:.::
 
 ### soc · 2004-08-08 05:32 · #B71594
 

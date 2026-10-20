@@ -13,7 +13,7 @@ repliers: []
 authors: ["What's_my_name_again?"]
 comments_present: 0
 f_joined: "February 13, 2006"
-f_location: "am i here? am i there? i really dont know"
+f_location: "(redacted: location)"
 f_username: "What's_my_name_again?"
 converter_version: "1"
 source_captures:

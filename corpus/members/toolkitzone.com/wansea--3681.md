@@ -28,7 +28,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-Waker_of_souls@hotmail.com
+(redacted: email)
 Posted on Tuesday 12.08pm, October 11th, 2005
 I have not downloaded it,but if it does not have one, maybe a help file is needed? [more![More](templates/default/images/icons/more.gif)](files.php?file=180#c14119)
 Posted on Monday 5.05pm, December 27th, 2004

@@ -14,7 +14,7 @@ authors: ["OBCT"]
 comments_present: 0
 f_interests: "Programming, RPGs"
 f_joined: "February 16, 2004"
-f_location: "Pennsylvania"
+f_location: "(redacted: location)"
 f_username: "OBCT"
 converter_version: "1"
 source_captures:

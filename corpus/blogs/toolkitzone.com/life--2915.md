@@ -14,7 +14,7 @@ authors: ["Symphonia"]
 comments_present: 0
 f_interests: "Nothing"
 f_joined: "May 1, 2004"
-f_location: "British Columbia (Canada)"
+f_location: "(redacted: location)"
 f_username: "Symphonia"
 converter_version: "1"
 source_captures:

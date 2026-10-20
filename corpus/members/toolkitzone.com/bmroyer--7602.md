@@ -16,7 +16,7 @@ handle: "bmroyer"
 f_interests: "writing, guitar, books, games"
 f_joined: "August 15th 2005"
 f_last_visit: "March 1st 2007"
-f_location: "Pennsylvania"
+f_location: "(redacted: location)"
 f_occupation: "Carpenter"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -29,7 +29,7 @@ source_captures:
 # bmroyer
 
 **MSN:**
-kid69stang@hotmail.com
+(redacted: email)
 Posted on Monday 3.40am, October 23rd, 2006
 the shadow under the trees are too dark, try to make them lighter [more![More](templates/default/images/icons/more.gif)](games.php?image=7736#c29446)
 Posted on Saturday 6.03pm, August 5th, 2006

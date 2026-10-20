@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "20"
 f_name: "Mark"
 converter_version: "1"
 source_captures:

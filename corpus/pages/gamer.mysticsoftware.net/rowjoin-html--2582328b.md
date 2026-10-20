@@ -21,7 +21,7 @@ source_captures:
 # Time
 
 Join the Guild
-If you wish to join the guild, please send the following information to After sending the email, please register at the forums using the name you specified for the last question in the email. Romar will private message you shortly after that. If you can not be reached by private message, he will email you.rowguildleader@fastmail.fm Note: Clicking on the link to email will bring up your default mail client. If you wish not to use this client, then copy the email address into your preferred email client.
+If you wish to join the guild, please send the following information to After sending the email, please register at the forums using the name you specified for the last question in the email. Romar will private message you shortly after that. If you can not be reached by private message, he will email (redacted: email) Note: Clicking on the link to email will bring up your default mail client. If you wish not to use this client, then copy the email address into your preferred email client.
 - Why you wish to join the guild
 - For what game you wish to join
 - Your character name

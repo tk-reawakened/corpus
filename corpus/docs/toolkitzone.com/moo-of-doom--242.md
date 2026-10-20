@@ -37,7 +37,7 @@ June 15, 2005, 12:25 am
 I think Freddy should enter the Off-Topic Republic and get his head cut off by a rabid Colin, while Dont_Think_So goes on to become the greatest TK-Mon master of them all.
 Hamster
 June 15, 2005, 2:34 am
-Still awesome... ive made my email consolTKmon@Hotmail.com
+Still awesome... ive made my email (redacted: email)
 TK Game Boy
 June 15, 2005, 1:16 pm
 w00t! 900d 9011y |\/||55 |\/|011y! INSANE BABY!

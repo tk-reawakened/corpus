@@ -31,6 +31,6 @@ Hi. I just fixed some bugs in 2.10 (simple bugs), but mainly a major bug with th
 It's here. Go to the downloads section and get it. A good number of bugs have been fixed, and the new graphics engine has been implemented. Some new features include: mp3 integration for sound effects (not background music), new commands, full Windows NT compatability (tested under Win2000) Not much else to say right now. Just go download it!
 **status of version 2.10 -- May 17, 2000**
 Version 2.10 (yes, I decided upon using 2.10) is coming along nicely. Hopefully it'll be released next week. The new graphics engine has been tested to be 27% faster than the old graphcs engine (on my Athlon 650). That's a pretty good speed increase. And good news for NT users (Martin!) Windows NT will now be able to use the hi-speed graphics engine as well. Yesterday I went thruough the Bug Board and printed off all the bugs. You don't have to worry about re-posting old bugs. I have them all on paper now, and marked according to their priorities. I hope to have the Very High priority bugs fixed for the next release (well, I'd like to have them *all* fixed, but we'll see). I have a new site to announce. The is the most comprehensive archive site I've seen yet. It's definitely worth a visit! I've updated the rest of the website, to fix the links and stuff.
-cbm@cs.dal.ca
+(redacted: email)
 [![](images/gfx_by_gimp.png)](http://www.gimp.org)
 [![](http://fastcounter.linkexchange.com/fastcounter?913381+1826769)](http://member.linkexchange.com/cgi-bin/fc/fastcounter-login?913381)

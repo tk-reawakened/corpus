@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 9th, 2004"
-f_location: "Los Angeles"
+f_location: "(redacted: location)"
 f_name: "Juan"
 converter_version: "1"
 source_captures:

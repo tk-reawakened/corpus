@@ -40,7 +40,7 @@ Stop by if you get a chance.
 <http://www.tarnishedheart.com/>
 Take care.
 -Cy
-Cyrus Martin
+(redacted: name)
 Executive Producer
 Tarnished Heart Films
 [www.tarnishedheart.com](http://www.tarnishedheart.com)

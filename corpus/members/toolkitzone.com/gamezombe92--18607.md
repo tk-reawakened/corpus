@@ -13,11 +13,10 @@ repliers: []
 authors: ["gamezombe92"]
 comments_present: 0
 handle: "gamezombe92"
-f_age: "16 - 20"
 f_interests: "Shooting,slicing,dicing,tenderizing,ya know, the works"
 f_joined: "December 30th 2007"
 f_last_visit: "July 22nd 2008"
-f_location: "Florida"
+f_location: "(redacted: location)"
 f_name: "Gilgamesh"
 f_occupation: "Deranged"
 f_rank: "Member"

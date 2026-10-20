@@ -12,7 +12,6 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "32"
 f_occupation: "None - sent into exile."
 converter_version: "1"
 source_captures:

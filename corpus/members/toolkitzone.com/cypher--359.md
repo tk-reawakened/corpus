@@ -13,11 +13,10 @@ repliers: []
 authors: ["Cypher"]
 comments_present: 0
 handle: "Cypher"
-f_age: "21 - 25"
 f_interests: "..."
 f_joined: "February 15th 2004"
 f_last_visit: "March 3rd 2007"
-f_location: "New Zealand."
+f_location: "(redacted: location)"
 f_occupation: "Web/Graphic Designer"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +32,7 @@ source_captures:
 **Sex:**
 Male
 **MSN:**
-lag@g33k.net.nz
+(redacted: email)
 Posted on Friday 11.20am, January 12th, 2007
 Montai wrote:There is a gap where her vagina should be. It would lool weird uncensored. Elling my Ay-Oh. ... [more![More](templates/default/images/icons/more.gif)](games.php?image=8239#c33159)
 Posted on Wednesday 7.43am, December 13th, 2006

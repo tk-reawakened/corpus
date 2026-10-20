@@ -21,7 +21,7 @@ source_captures:
 # Links - Sites that I find useful or just like
 
 Note*: If you would like your site on this list or if you want me to edit hwat I say about your site then please e-mail me at
-haraldur_tristan_gunnarsson@hotmail.com
+(redacted: email)
 Note*: I am in the process of trying to get a banner for most sites. If you do not have a banner available, but you want me to use one, then please send it by e-mail
 - Site by Spyder with resources and website hosting for game developers using RPG Toolkit. [Mystic Software![](mysticsoftwarelogo.PNG)](http://www.mysticsoftware.net)
 - Site by Sophia, contains information and downloads of her games, as well as comics. [Game Studio 43![](Bannergamestudio43.jpg)](http://gamestudio43.mysticsoftware.net)
@@ -38,7 +38,7 @@ Note*: I am in the process of trying to get a banner for most sites. If you do n
 - Ezine for RPG Toolkit and Gamer Maker users, the editor is Vagrant. [indieGAMING](http://indie.vagrantsoftware.com/)
 - Site by Quoaz about his games etc. His main current project is "The Legend of Lost Souls" which is worked on by Quoaz, AlienDude, Cesque and Haraldur (myself lol) [Quoaz-SoftWare](http://www.freewebs.com/quoaz-softwere/)
 - Site by Reuben and his games (The Mages Trilogy). Fourth dimension is good. [The Mages Trilogy![](mages.PNG)](http://mages.mysticsoftware.net/)
-- Site by Martin Pierlot which review games made with the RPG Toolkit. [ToolKit Game Reviews![](tkgrb.jpg)](http://tkgr.mysticsoftware.net/)
+- Site by (redacted: name) which review games made with the RPG Toolkit. [ToolKit Game Reviews![](tkgrb.jpg)](http://tkgr.mysticsoftware.net/)
 - Site by Spyder about his games etc. [Godiva![](godivatitle.gif)](http://www.godivaalpha.com/)
 - Obviously the official website of the Red Hot Chili Peppers. [The Official Red Hot Chili Peppers Website](http://www.redhotchilipeppers.com)
 - By William about his games. Nice screenshots. Here is his - Comic by John Boyle (concept) and Sophia Y. Hsu (art). [Williams Site](http://www.mysticsoftware.net.rpgstudio/) [Inner Res![](innerres486.gif)](http://www.marovia.20fr.com</p> <p><a href=)

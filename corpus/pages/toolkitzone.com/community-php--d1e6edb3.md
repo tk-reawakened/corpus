@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 15th, 2004"
-f_location: "Detroit, Michigan, USA, NorthAmerica"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2511", captured: "20070311075045", sha256: "5913d3d98f124eee9f8ac0748a7a57790b46c7ae19ff640509ce647c0b3f6556", wayback_url: "https://web.archive.org/web/20070311075045/http://toolkitzone.com/community.php?blog=2511"}

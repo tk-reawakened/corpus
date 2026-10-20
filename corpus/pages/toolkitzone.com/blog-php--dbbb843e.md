@@ -14,7 +14,7 @@ authors: ["Alex0Xander"]
 comments_present: 0
 f_interests: "Many"
 f_joined: "January 28, 2004"
-f_location: "SepTerra|USA"
+f_location: "(redacted: location)"
 f_username: "Alex0Xander"
 converter_version: "1"
 source_captures:

@@ -13,11 +13,10 @@ repliers: []
 authors: ["Dragen"]
 comments_present: 0
 handle: "Dragen"
-f_age: "16 - 20"
 f_interests: "Computers, games, music, my daughter"
 f_joined: "May 27th 2005"
 f_last_visit: "February 18th 2007"
-f_location: "Devon, England"
+f_location: "(redacted: location)"
 f_name: "Lee"
 f_occupation: "Website design Uni student"
 f_rank: "Member"

@@ -12,7 +12,7 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_email: "joeyshunia@aol.com"
+f_email: "(redacted: email)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/mysticsoftware.net/darkage.mysticsoftware.net/user.php__mode_6_name_Cylence", captured: "20050503180841", sha256: "9366292dffbe96e18067c3131d1cd7751002f3e1fc57ea05603abcf66fef721f", wayback_url: "https://web.archive.org/web/20050503180841/http://darkage.mysticsoftware.net/user.php?mode=6&name=Cylence"}

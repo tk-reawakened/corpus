@@ -21,15 +21,15 @@ source_captures:
 
 Contact Information
 Telephone
-: (949) 595-7980
+: (redacted: phone number)
 **Fax**
-**: (949) 595-7982**
+**: (redacted: phone number)**
 Address :
 **
 22471 Aspan Lake Forest, CA 92630
 **Electronic mail** **:**
 General Information: Sales: Customer Support: Webmaster:
-Info@MysticSoftware.com
-Sales@MysticSoftware.com
-Support@MysticSoftware.com
-webmaster@MysticSoftware.com
+(redacted: email)
+(redacted: email)
+(redacted: email)
+(redacted: email)

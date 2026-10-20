@@ -13,12 +13,11 @@ repliers: []
 authors: ["Juice"]
 comments_present: 0
 handle: "Juice"
-f_age: "16 - 20"
 f_interests: "Music, Game Dev, Concept Art"
 f_joined: "September 7th 2005"
 f_last_visit: "February 24th 2007"
-f_location: "America"
-f_name: "Matt Gajewski"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Staff"
 f_rankings: "No rankings."
@@ -45,7 +44,7 @@ I'm 16 years old, Live in the US, and love making music, and the occasional piec
 **AIM:**
 **YIM:**
 **MSN:**
-steubyjr@hotmail.com
+(redacted: email)
 ![General Chat](../templates/default/images/icons/forums/forum_general.gif) [Godiva Alpha - Alpha Male (TKRemix)](forum/viewtopic.php?p=382288#382288)
 Posted on Saturday 5.01am, February 24th, 2007
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [It's my Birthday](forum/viewtopic.php?p=381961#381961)

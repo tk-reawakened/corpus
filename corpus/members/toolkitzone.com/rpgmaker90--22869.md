@@ -13,11 +13,10 @@ repliers: []
 authors: ["rpgmaker90"]
 comments_present: 0
 handle: "rpgmaker90"
-f_age: "16 - 20"
 f_interests: "Gaming, Programming, Art, My Girl!"
 f_joined: "September 18th 2008"
 f_last_visit: "July 28th 2009"
-f_location: "My Home!"
+f_location: "(redacted: location)"
 f_name: "Cory"
 f_occupation: "College Freshman(Art Major)"
 f_rank: "Member"

@@ -13,11 +13,10 @@ repliers: []
 authors: ["samoscadeira"]
 comments_present: 0
 handle: "samoscadeira"
-f_age: "10 - 15"
 f_interests: "Game Designing, Graphics Design and Anime"
 f_joined: "February 17th 2008"
 f_last_visit: "May 8th 2008"
-f_location: "Australia"
+f_location: "(redacted: location)"
 f_name: "Jordan"
 f_occupation: "High School Freshman"
 f_rank: "Member"

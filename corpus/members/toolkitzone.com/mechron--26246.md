@@ -13,7 +13,6 @@ repliers: []
 authors: ["Mechron[]"]
 comments_present: 0
 handle: "Mechron[]"
-f_age: "10 - 15"
 f_interests: "playing/reading/imagining the future"
 f_joined: "May 22nd 2009"
 f_last_visit: "December 29th 2009"

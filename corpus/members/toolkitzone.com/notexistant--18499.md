@@ -13,11 +13,10 @@ repliers: []
 authors: ["NotExistant"]
 comments_present: 0
 handle: "NotExistant"
-f_age: "16 - 20"
 f_interests: "Games, Anime, Computer, Girls, more..."
 f_joined: "December 9th 2007"
 f_last_visit: "June 12th 2008"
-f_location: "Behind You!!!"
+f_location: "(redacted: location)"
 f_name: "Arie"
 f_occupation: "Taco Bell Employee..."
 f_rank: "Member"
@@ -36,7 +35,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-cooldud12314@hotmail.com
+(redacted: email)
 Posted on Tuesday 8.16pm, June 10th, 2008
 lol I guess I rate better game with a more strict set of rules. Your game is better than this one but I rated it according to the bracket it was in or something like that for a noob game its pretty good and he fixed a lot of the bugs in the previous versions.more![More](templates/default/images/icons/more.gif)
 Posted on Tuesday 8.14pm, June 10th, 2008

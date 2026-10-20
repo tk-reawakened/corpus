@@ -25,7 +25,7 @@ source_captures:
 Home of the RPG Toolkit Development System for the Creation and Play of your own RPG Games
 >Game Dev<
 **Game Dev Section**
-This section of the site is devoted to helping one another design better games. Here you can find tilesets, enemy and character sets as well as articles specific to proper development. So, go ahead and navigate your way though. Also, I welcome submissions to this section. Just email any articles you have written or any tilesets you have compiled to -- we need to help each other to make the best games possible, so come on and do your part!cbm@cs.dal.ca
+This section of the site is devoted to helping one another design better games. Here you can find tilesets, enemy and character sets as well as articles specific to proper development. So, go ahead and navigate your way though. Also, I welcome submissions to this section. Just email any articles you have written or any tilesets you have compiled to -- we need to help each other to make the best games possible, so come on and do your part!(redacted: email)
 ***Tilesets***
 **Filename**
 **Size/Type**
@@ -121,4 +121,4 @@ Chris Reeves
 [Music_Truckload.zip](dev_repo/Music_Truckload.zip)
 Chris Reeves
 **Article**
-cbm@cs.dal.ca
+(redacted: email)

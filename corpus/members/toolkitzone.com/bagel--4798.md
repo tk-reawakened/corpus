@@ -14,8 +14,8 @@ authors: ["Bagel"]
 comments_present: 0
 handle: "Bagel"
 f_joined: "December 13th, 2004"
-f_location: "Wisconsin"
-f_name: "Clay Schlegel"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_username: "Bagel"
 converter_version: "1"
 source_captures:

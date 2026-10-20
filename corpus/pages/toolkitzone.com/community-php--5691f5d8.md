@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 28th, 2004"
-f_location: "Edmonton, Alberta, Canada"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4807", captured: "20070225010841", sha256: "cd0bd2962c4325c5003505a6552f3ca25cf49bafd86fdc4f499caab8a7f5455d", wayback_url: "https://web.archive.org/web/20070225010841/http://www.toolkitzone.com/community.php?blog=4807"}

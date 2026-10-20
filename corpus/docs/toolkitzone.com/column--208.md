@@ -14,7 +14,7 @@ authors: ["Cyrus"]
 comments_present: 0
 f_author: "Cyrus"
 f_date: "March 31, 2005, 8:35 am"
-f_description: "New weekly column from author and film maker Cyrus Martin, who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business."
+f_description: "New weekly column from author and film maker (redacted: name), who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business."
 f_title: "A Weekly Word: Boredom"
 converter_version: "1"
 source_captures:
@@ -23,7 +23,7 @@ source_captures:
 
 # Column
 
-Boredom A Weekly Word By Cyrus Martin
+Boredom A Weekly Word By (redacted: name)
 Welcome to the first weekly column that I will be writing for toolkitzone.com Yeah I know * y a w n * Woopdeedoo Another article. Wow. How exciting
 Whats that? Bored by this already? Good. Glad to hear it.
 You have just enthusiastically volunteered to take part in my first topic of interest Boredom.
@@ -51,7 +51,7 @@ March 31, 2005, 8:09 pm
 *falls asleep* Oh, right, nice article. I'd give it two thumbs up, but I'm just too tired... :P
 **Column**
 Community > A Weekly Word
-New weekly column from author and film maker Cyrus Martin, who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business.
+New weekly column from author and film maker (redacted: name), who each week will be choosing a word to summarise a topic before discussing it. This week it's boredom and the entertainment business.
 **Past Columns**
 Apr 19, '05
 Apr 6, '05

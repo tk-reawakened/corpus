@@ -28,5 +28,5 @@ Hey all I changed the time limit to login, a month seemed short so I made it 4 m
 | Friday | January 3, 2003 | 3:06.47 AM |
 Finally the new TK Community!
 Grandma got run over by... THE EVIL SPACE BUNNIES!!!
-I finally decided to wake up and make the new site, this is the best yet, you can now submit humor through the submit script, sorry again for deleting the user list, I had to due to the new features, also if you don't login here at least once every month it won't display your name in the community list, that way it will stay more updated, also I am looking for mods, if you are interested email me at matt72186@hotmail.com, make sure you visit the TK Community forums at Mystic Software.net and tell me what you think! Thanks!
+I finally decided to wake up and make the new site, this is the best yet, you can now submit humor through the submit script, sorry again for deleting the user list, I had to due to the new features, also if you don't login here at least once every month it won't display your name in the community list, that way it will stay more updated, also I am looking for mods, if you are interested email me at (redacted: email), make sure you visit the TK Community forums at Mystic Software.net and tell me what you think! Thanks!
 | Thursday | January 2, 2003 | 3:29.20 PM |

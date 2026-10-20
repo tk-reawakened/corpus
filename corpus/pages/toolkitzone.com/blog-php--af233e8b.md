@@ -14,7 +14,7 @@ authors: ["threefjefff"]
 comments_present: 0
 f_interests: "i like pointy things. hehehehehe"
 f_joined: "May 17, 2004"
-f_location: "the bowels of an ice cream bowl"
+f_location: "(redacted: location)"
 f_username: "threefjefff"
 converter_version: "1"
 source_captures:

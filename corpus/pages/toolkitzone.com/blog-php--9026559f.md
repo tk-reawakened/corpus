@@ -14,7 +14,7 @@ authors: ["drcrazy4"]
 comments_present: 0
 f_interests: "PHP, Flash, RPG Toolkit, Multimedia"
 f_joined: "June 18, 2005"
-f_location: "Up yours. Only kidding. Exeter UK."
+f_location: "(redacted: location)"
 f_username: "drcrazy4"
 converter_version: "1"
 source_captures:

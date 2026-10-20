@@ -13,7 +13,6 @@ repliers: []
 authors: ["Artist Guild 2006 Niltiac_Zuahn"]
 comments_present: 0
 handle: "Artist Guild 2006 Niltiac_Zuahn"
-f_age: "16-20"
 f_country: "United States"
 f_occupation: "Student"
 f_username: "Artist Guild 2006 Niltiac_Zuahn"

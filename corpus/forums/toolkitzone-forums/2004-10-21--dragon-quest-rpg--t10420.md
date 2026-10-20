@@ -96,7 +96,7 @@ we r so starting up again!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### Ishimilli · 2004-12-31 23:41 · #B149008
 
-here is the bs read it through so u get the grasp of it........ if you have any questions plz e-mail me at Austinsol@hotmail.com
+here is the bs read it through so u get the grasp of it........ if you have any questions plz e-mail me at (redacted: email)
 ...
 1. Racial Bonuses = the following is what bonuses different races get
 Human +2atk. +2def. +0speed +8HP +4MP

@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "January 2nd, 2005"
-f_location: "Candy Land"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2483", captured: "20070323045700", sha256: "9bfc2301f81cb8533e502b8fb66186c9cd5bc675e19a8ba3e79c06562e7dfa99", wayback_url: "https://web.archive.org/web/20070323045700/http://toolkitzone.com/community.php?blog=2483"}

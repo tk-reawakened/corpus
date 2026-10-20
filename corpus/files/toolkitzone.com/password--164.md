@@ -27,7 +27,7 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 Rpg Code tutorial
 In this tutorial I will show you how to make a custom menu system. There are many ways to make a menu system, and there are many different menu systems, but in this tutorial I will show you how to make one of the easiest menu systems. Here are the things available in the menu:
 Characters Status Abilities Equipment Items Load Save Continue Quit

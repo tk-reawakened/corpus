@@ -13,11 +13,10 @@ repliers: []
 authors: ["taco"]
 comments_present: 0
 handle: "taco"
-f_age: "16 - 20"
 f_interests: "arts visuelle"
 f_joined: "February 16th 2004"
 f_last_visit: "February 26th 2007"
-f_location: "Canberra"
+f_location: "(redacted: location)"
 f_name: "i'm so much prettier than colin"
 f_occupation: "layabout"
 f_rank: "Member"
@@ -35,7 +34,7 @@ source_captures:
 Male
 **About Me:**
 **MSN:**
-tacofernandez@gmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 10.37am, February 21st, 2007
 there was lightning right outside of my house fuckfuck cufkcf it was loud and scary ): i mean, i expect this at the coast, but not in my sleepy valley ): now i'm unreasonably scared yet wearing headphones. i think thor is angry because i told him jormungandr would kill him with poison during... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5202)

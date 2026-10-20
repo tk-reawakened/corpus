@@ -33,5 +33,5 @@ links: []
 ### Guest · 2004-11-29 14:56 · #B131579
 
 So, I've been following the toolkit for a while, and I stopped following when CBM made it open source. Well..i want to come back! Sad I went to register, only to find out that I already did a while ago. I logged in, and changed my email to my new one, then I was logged out for some reason. It says the normal wrong password message, but then when i try to get my password sent to me, it says that it won't because my account is expired or something.
-So, now, here I am..looking for help. My old account name was BahamutG, and my new email is jrdnbaade@yahoo.com. I think thats all the info you should require.
+So, now, here I am..looking for help. My old account name was BahamutG, and my new email is (redacted: email). I think thats all the info you should require.
 Thanks

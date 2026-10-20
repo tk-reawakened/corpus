@@ -13,11 +13,10 @@ repliers: []
 authors: ["Wii Make stuff"]
 comments_present: 0
 handle: "Wii Make stuff"
-f_age: "16 - 20"
 f_interests: "goat cloning"
 f_joined: "July 21st 2007"
 f_last_visit: "December 24th 2008"
-f_location: "my own little world"
+f_location: "(redacted: location)"
 f_occupation: "useless couch potato"
 f_rank: "Member"
 f_rankings: "No rankings."

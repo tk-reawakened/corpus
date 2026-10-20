@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "March 23rd, 2004"
-f_location: "Nowhere & Everywhere. Could be right behind you."
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_2989", captured: "20070324042650", sha256: "4f3ba67a0d8a0e78c4a7bedddcab00b5255ce5c9b7e3521d31827ce561e928bf", wayback_url: "https://web.archive.org/web/20070324042650/http://toolkitzone.com/community.php?blog=2989"}

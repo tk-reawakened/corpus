@@ -13,11 +13,10 @@ repliers: []
 authors: ["Tao-Kun"]
 comments_present: 0
 handle: "Tao-Kun"
-f_age: "16 - 20"
 f_interests: "http://www.letsgo-outsets.com/"
 f_joined: "May 20th 2004"
 f_last_visit: "July 17th 2009"
-f_location: "http://www.letsgo-outsets.com/"
+f_location: "(redacted: location)"
 f_occupation: "College Student, Web Admin"
 f_rank: "Member"
 f_username: "Tao-Kun"
@@ -41,7 +40,7 @@ Total of 23 places and 66 users.
 **AIM:**
 **YIM:**
 **MSN:**
-Legionaries_neko@hotmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [For-loop problem [Javascript]](forum/viewtopic.php?p=367980#367980)
 Posted on Sunday 2.28pm, December 24th, 2006
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [For-loop problem [Javascript]](forum/viewtopic.php?p=367944#367944)

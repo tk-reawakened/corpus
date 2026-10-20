@@ -64,8 +64,8 @@ Custom Battle System: Not Done
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 You would probally have a better chance of contacting me on AIM. Im usually on and off between 4:00PM - 9:00AM EST. (Heh... Im becoming nocturnal =P)
 *Note: If you want me to write you a program or debug something, send the (wanted) program to my email address and contact me on AIM.
 
@@ -89,7 +89,7 @@ friendly newbie
 
 Conatct Me!
 AOL SN= danwr91
-MSN= dan_quickcat@hotmail.com
+MSN= (redacted: email)
 ![Hecate](http://images.quizilla.com/T/truly-dippy/1061402444_ktopmagic2.gif)
 ![Smirk](http://images.quizilla.com/V/vinacross/1045377151_StuffSmirk.gif)
 You're the smirk,a frown-smile hybrid that's a
@@ -153,7 +153,7 @@ My Toilet (you put up with so much crap!)
 
 Conatct Me!
 AOL SN= danwr91
-MSN= dan_quickcat@hotmail.com
+MSN= (redacted: email)
 ![Hecate](http://images.quizilla.com/T/truly-dippy/1061402444_ktopmagic2.gif)
 ![Smirk](http://images.quizilla.com/V/vinacross/1045377151_StuffSmirk.gif)
 You're the smirk,a frown-smile hybrid that's a

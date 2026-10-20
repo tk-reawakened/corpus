@@ -13,7 +13,7 @@ repliers: []
 authors: ["Spyder"]
 comments_present: 0
 f_joined: "January 28, 2004"
-f_location: "Phoenix, AZ, USA"
+f_location: "(redacted: location)"
 f_username: "Spyder"
 converter_version: "1"
 source_captures:

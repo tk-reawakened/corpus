@@ -56,8 +56,8 @@ Zip / Postal Code (*)
 Country (*)
 **Please send this filled out order form and an money order (in USD or CAD) in the above amount to: international made out to Christopher B. Matthews**
 Christopher B. Matthews
-PO Box 126
-9 Endale Dr.
+(redacted: address)
+(redacted: address)
 Elmsdale, Nova Scotia
 B0N 1M0
 Canada

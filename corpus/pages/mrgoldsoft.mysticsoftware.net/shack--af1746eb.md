@@ -20,7 +20,7 @@ source_captures:
 # - RPGCode In A Nice Blue Shack -
 
 *October 30th:* Stalfospk says: Hello everyone, and welcome to the shack. In case you haven't heard, MrG will no longer be running the shack, instead I will be managing it. I plan to add a links section very soon. Want your site on it? Well, just contribute something (yes, I am resorting to bribing people for contributions)! Expect a new contest as well. If you would like to e-mail me, just pop me a message at
-[ stalfospk@aol.com
+[ (redacted: email)
 ![](/cgi-sys/Count.cgi?df=G's Shack.dat|display=Counter|ft=6|md=5|frgb=36;34;71|dd=E)
 4. 5. 6. 7. 8. 9. 10.![](topfiles.gif)
 ![](goldenrod.gif) [Dragbattle *(BS)*](files/dragbattle3new.zip)

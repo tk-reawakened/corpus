@@ -44,7 +44,7 @@ links:
 ### matt72186 · 2002-08-01 30:13 · #A1000-49032
 
 There are 6-7 people constantly in these AIM group chats... a peacful orgy of people...
-| [Email Me](maito:matt72186@hotmail.com) | [RPG Makers Anonymous](http://rma.mysticsoftware.net/) | [TK Community](http://tkcommunity.mysticsoftware.net/) | [Double Negative Productions](http://www.tkarea.d2g.com/DNP/) |
+| [Email Me](maito:(redacted: email)) | [RPG Makers Anonymous](http://rma.mysticsoftware.net/) | [TK Community](http://tkcommunity.mysticsoftware.net/) | [Double Negative Productions](http://www.tkarea.d2g.com/DNP/) |
 [![My Online Status](http://12.232.241.200/onlinestatus.gif)](http://12.232.241.200/screens/)
 
 ### r043482 · 2002-08-01 30:19 · #A1000-49034

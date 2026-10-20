@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Avalon"
 f_joined: "February 15th 2004"
 f_last_visit: "February 18th 2007"
-f_location: "Pennsylvania. Ick."
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Avalon"

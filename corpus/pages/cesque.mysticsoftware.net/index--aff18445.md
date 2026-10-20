@@ -69,4 +69,4 @@ Basic information
 Yippie! I've got a site at Mysticsoftware. That's something. My old site was at http://www.freewebs.com/cesque but I'm going to delete it soon. I hope. Or maybe not. Time will tell.
 The game I am making is still unnamed, but is a grand project, generally. It features custom BS, custom item system with in-game generated items, skill system and many other things.
 The story is... well, a hell of a story. It's extremely complicated. The world has been shattered by an Accident which merged spiritual and physical worlds and altered almost everything. The people live in such world, not even knowing world could look somehow else... I'll put up story a bit later.
-Site by Cesque - grandcezque@hotmail.com
+Site by Cesque - (redacted: email)

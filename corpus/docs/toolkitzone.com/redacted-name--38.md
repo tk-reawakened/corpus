@@ -2,7 +2,7 @@
 kind: doc
 id: "toolkitzone.com/38"
 site: "toolkitzone.com"
-title: "Cyrus Martin"
+title: "(redacted: name)"
 original_url: "http://toolkitzone.com/library.php?mode=read&doc=38"
 written: "2004-11-21T17:05:00"
 date_confidence: "exact"
@@ -22,7 +22,7 @@ source_captures:
   - {path: "wayback/toolkitzone.com/library.php__mode_read_doc_38", captured: "20060312230224", sha256: "4de2072d00072a610aacfc121ce8f7fd5684d2c69c961f36d29130352d5b21cc", wayback_url: "https://web.archive.org/web/20060312230224/http://toolkitzone.com:80/library.php?mode=read&doc=38&PHPSESSID=bdcceeefceef8ff863ad82d0d089ece4"}
 ---
 
-# Cyrus Martin
+# (redacted: name)
 
 **
 Creative Writing
@@ -43,7 +43,7 @@ Find a purpose. Look for a goal. Once you know why you are writing, you will und
 How you write and what you write are up to you.
 These are but words of advice
 Thank you.
-**Cyrus Martin**
+**(redacted: name)**
 ** Author of Deceit and Conquest
 **
 Writer/Director of Dawn of Twilight

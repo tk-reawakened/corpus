@@ -16,7 +16,7 @@ handle: "John@aljo"
 f_interests: "puters"
 f_joined: "January 28th 2004"
 f_last_visit: "January 23rd 2007"
-f_location: "Dallas Tx"
+f_location: "(redacted: location)"
 f_occupation: "General Man in General Merchandise Department of Albertsons"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -36,7 +36,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-john@aljo.afraid.org
+(redacted: email)
 ![Coding](../templates/default/images/icons/forums/forum_coding.gif) [2 questions](forum/viewtopic.php?p=350684#350684)
 Posted on Sunday 3.57pm, September 24th, 2006
 you would set a program that runs while the board is shown. The program will be something like this [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=350684#350684)

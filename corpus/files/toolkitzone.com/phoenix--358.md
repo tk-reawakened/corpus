@@ -36,7 +36,7 @@ Not too bad. Looks promising if more features are added in future releases. Howe
 posted by on 2004-03-06 18:45:10 [Colosseus](forums/profile.php?mode=viewprofile&u=718)
 It's a great editor, but it's got poor error handling... Dunno if it's only me, but when I try to open paint or calculator I get runtime errors and the program shuts down. Same if I try to add a command from the list to the right... Other than that, it's just as good as it should be to kick some Vortex arse.
 posted by on 2004-03-08 21:27:53 [computerdude800](forums/profile.php?mode=viewprofile&u=73)
-hey If you guys find errors and crap like some of you posted above than email me the error number and the promblem ocuring. my email adress is or if that dosent work than computerdude800@aol.com. Thanks
+hey If you guys find errors and crap like some of you posted above than email me the error number and the promblem ocuring. my email adress is or if that dosent work than (redacted: email). Thanks
 posted by on 2004-03-09 10:33:51 [Colosseus](forums/profile.php?mode=viewprofile&u=718)
 Uhm, another thing, the line numbers seem to be overlapping the code... Dunno if it's just Windows 98 again (damn piece of crap), but it's annoying. Btw the errors I've experienced are: When I double-click on a command on the right this is what I get up: Run-time error '91': Object variable or With block variable not set And when I try to run paint or calculator from it, I get this: Run-time error '53': File not found ... But those are the only flaws I can see (except from the line numbers of course). Good job with the rest.
 posted by on 2004-03-11 20:21:54 [computerdude800](forums/profile.php?mode=viewprofile&u=73)
@@ -68,7 +68,7 @@ You do that. It oughta be a success! My media player named Bluerose was actually
 posted by on 2004-03-19 20:39:47 [computerdude800](forums/profile.php?mode=viewprofile&u=73)
 I might do it. Hey do you have AIM? If you do can I have your sn, I would like to talke to you some time.
 posted by on 2004-03-19 20:47:53 [Colosseus](forums/profile.php?mode=viewprofile&u=718)
-Don't have AIM, but I got MSN Messenger... wedvich@hotmail.com I'm downloading AIM now - should be up in a minute!
+Don't have AIM, but I got MSN Messenger... (redacted: email) I'm downloading AIM now - should be up in a minute!
 posted by on 2004-03-19 20:51:52 [computerdude800](forums/profile.php?mode=viewprofile&u=73)
 alright cool, when you get AIM just tell me your SN
 posted by on 2004-03-19 22:50:51 [Colosseus](forums/profile.php?mode=viewprofile&u=718)

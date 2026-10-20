@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_about: "part"
-f_location: "soon"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/rpgtoolkit.net/member/zyrshnikashnu/mindmap/index", captured: "20150429133220", sha256: "3fc5b06cb45628434895603c0b639010a8900d370b10a7b2a13e1439f4ebb2b4", wayback_url: "https://web.archive.org/web/20150429133220/http://rpgtoolkit.net/member/zyrshnikashnu/mindmap/"}

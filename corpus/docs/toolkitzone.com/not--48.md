@@ -14,7 +14,7 @@ authors: ["Cyrus"]
 comments_present: 0
 f_author: "Cyrus"
 f_date: "November 22, 2004, 9:58 am"
-f_description: "Cyrus Martin looks at the importance of pace and timing in the latest installment of his creative writing series."
+f_description: "(redacted: name) looks at the importance of pace and timing in the latest installment of his creative writing series."
 f_section: "Creativity > Creative Writing"
 f_title: "Session 7"
 converter_version: "1"
@@ -46,11 +46,11 @@ Life is about learning. Dont let the complications of the process overwhelm yo
 How you write and what you write are up to you.
 These are but words of advice
 Thank you.
-**Cyrus Martin**
+**(redacted: name)**
 ** Author of Deceit and Conquest
 **
 Writer/Director of Dawn of Twilight
-Cyrus Martin looks at the importance of pace and timing in the latest installment of his creative writing series.
+(redacted: name) looks at the importance of pace and timing in the latest installment of his creative writing series.
 Nov 22, '04
 Nov 22, '04
 Nov 22, '04

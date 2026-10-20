@@ -27,7 +27,7 @@ source_captures:
 # Gooseboy
 
 **MSN:**
-duquefam@hotmail.com
+(redacted: email)
 Posted on Monday 4.44pm, February 19th, 2007
 Omnioni wrote:Is this tile based? I don't think so...just curious... isometric ftw [more![More](templates/default/images/icons/more.gif)](games.php?image=8538#c34367)
 Posted on Sunday 6.29pm, October 29th, 2006

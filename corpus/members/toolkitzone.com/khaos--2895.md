@@ -16,7 +16,7 @@ handle: "-*khaos*-"
 f_interests: "Things"
 f_joined: "June 19th 2004"
 f_last_visit: "February 14th 2007"
-f_location: "Rand McNally."
+f_location: "(redacted: location)"
 f_occupation: "Astronaut"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -30,7 +30,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/11999144654372ac5ba1c15.gif)
 **MSN:**
-khaosknight@gmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Friday 2.43am, March 25th, 2005
 My god how school sucks, luckily is will end for 2 weeks soon..... then it starts back up, i mean why do we have to go to school, couldnt they invent something to inject into your brain so you are knowlegdeable..... its takes up too much time... I also need a new computer.. too bad im to young to fu... [more![More](templates/default/images/icons/more.gif)](community.php?blog=2349)

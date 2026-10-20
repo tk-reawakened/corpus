@@ -13,12 +13,11 @@ repliers: []
 authors: ["Zhadda"]
 comments_present: 0
 handle: "Zhadda"
-f_age: "16 - 20"
 f_interests: "Computer programming"
 f_joined: "March 19th 2007"
 f_last_visit: "March 23rd 2007"
-f_location: "Kentucky"
-f_name: "Dale Smith"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."

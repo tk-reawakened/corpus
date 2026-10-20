@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "September 4th, 2009"
-f_location: "Who knows? Not me!"
+f_location: "(redacted: location)"
 f_name: "Nah, Don't feel like telling you!"
 converter_version: "1"
 source_captures:

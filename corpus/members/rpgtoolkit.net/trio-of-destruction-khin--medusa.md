@@ -13,7 +13,6 @@ repliers: []
 authors: ["Trio of Destruction / Khin"]
 comments_present: 0
 handle: "Trio of Destruction / Khin"
-f_age: "21-25"
 f_occupation: "Accountant"
 f_username: "Trio of Destruction / Khin"
 f_website: "animexx"

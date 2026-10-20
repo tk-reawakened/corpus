@@ -14,7 +14,7 @@ authors: ["Slasher"]
 comments_present: 0
 f_interests: "Drawing, Reading, Learning Languages"
 f_joined: "August 18, 2004"
-f_location: "The States"
+f_location: "(redacted: location)"
 f_username: "Slasher"
 converter_version: "1"
 source_captures:
@@ -25,7 +25,7 @@ source_captures:
 # Scholarship...But For The Craziest Reason
 
 by Slasher on November 2, 2004
-...You'd think a private school would give someone a full scholarship until graduation because they were the best of the best, the brightest of the bunch, and all those other strange sayings teachers label intelligent students with. Well, about 2 days ago, I asked my Counselor if I could get a small extention on my school year, because I was just making the final corrections on my Geometry course, and I was supposed to finish everything by October 31st. In her exact words: "Yes, an extension is fine. I have attempted to your father on Friday but was unable to get through. We would like to offer a full scholarship to you. We know you might want to go back to regular school. We will leave your account open if you wish to do some courses with us also. If you would like to extend your time with us just call our office and speak with me or Stan. Our toll free phone number is 866.291.7040". Wow, I thought. Sure enough, my mother telephoned the Counselor, and asked why I was being given this scholarship. Do you know what she replied? "Your son is very level-headed and nice on our forums. We like the way he handles himself with other students, and his topics are informative." ...What?! I just got the ability to finish 11th and 12th grade for FREE because of how I speak on the School Forums? ... Even more strange is the fact that she failed to mention that I had aced all my coursework so far, save Career Planning, which I got a B+ on.
+...You'd think a private school would give someone a full scholarship until graduation because they were the best of the best, the brightest of the bunch, and all those other strange sayings teachers label intelligent students with. Well, about 2 days ago, I asked my Counselor if I could get a small extention on my school year, because I was just making the final corrections on my Geometry course, and I was supposed to finish everything by October 31st. In her exact words: "Yes, an extension is fine. I have attempted to your father on Friday but was unable to get through. We would like to offer a full scholarship to you. We know you might want to go back to regular school. We will leave your account open if you wish to do some courses with us also. If you would like to extend your time with us just call our office and speak with me or Stan. Our toll free phone number is (redacted: phone number)". Wow, I thought. Sure enough, my mother telephoned the Counselor, and asked why I was being given this scholarship. Do you know what she replied? "Your son is very level-headed and nice on our forums. We like the way he handles himself with other students, and his topics are informative." ...What?! I just got the ability to finish 11th and 12th grade for FREE because of how I speak on the School Forums? ... Even more strange is the fact that she failed to mention that I had aced all my coursework so far, save Career Planning, which I got a B+ on.
 November 2 2004, 4:28 pm
 Oi. Why not go all the way and ask, no, demand Xavier to give you mod privelages. :-))
 November 2 2004, 5:25 pm

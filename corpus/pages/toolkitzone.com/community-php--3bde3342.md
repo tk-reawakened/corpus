@@ -13,8 +13,8 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "June 18th, 2005"
-f_location: "Wouldn't you like to know....."
-f_name: "Joe Stephens"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4996", captured: "20070302062359", sha256: "bc4986d362df1c80b735649a93a5929ccdced6a916ed10ad1ad39628c6810126", wayback_url: "https://web.archive.org/web/20070302062359/http://www.toolkitzone.com/community.php?blog=4996"}
@@ -39,7 +39,7 @@ Cosmology is a vast subject. There are many ways we can asses the number of plan
 *information*
 About drcrazy4
 [![drcrazy4](forum/images/avatars/37206857457afeffc0795.gif)](community.php?user=6764)
-Joe Stephens
+(redacted: name)
 Wouldn't you like to know.....
 June 18th, 2005
 Site:

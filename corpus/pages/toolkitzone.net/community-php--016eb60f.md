@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Music, Game Dev, Concept Art"
 f_joined: "September 7th 2005"
 f_last_visit: "April 2nd 2008"
-f_location: "America"
-f_name: "Matt Gajewski"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Staff"
 f_rankings: "No rankings."
@@ -32,7 +31,7 @@ source_captures:
 Staff
 September 7th 2005
 April 2nd 2008
-Matt Gajewski
+(redacted: name)
 America
 Student
 Music, Game Dev, Concept Art
@@ -40,7 +39,6 @@ weee
 **E-Mail:**
 **AIM:**
 **YIM:**
-steubyjr@hotmail.com
 Added on Wednesday 3.37am, April 2nd, 2008
 How could i forget to blog such a wonderful moment. Short and sweet; hard to explain, you just had to be there. Theres this senior names gianluca in my spanish class, he does absolutely nothing. But today, he didnt a little somefin somefin Shes up front teaching about verbs and whatnot, a... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5712)
 Added on Tuesday 1.11am, April 1st, 2008

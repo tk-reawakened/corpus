@@ -13,11 +13,10 @@ repliers: []
 authors: ["Sir Pimpalot"]
 comments_present: 0
 handle: "Sir Pimpalot"
-f_age: "10 - 15"
 f_interests: "Art, Basketball..."
 f_joined: "June 25th 2006"
 f_last_visit: "January 7th 2007"
-f_location: "North Carolina"
+f_location: "(redacted: location)"
 f_name: "Dillon"
 f_occupation: "9th Grade..."
 f_rank: "Member"

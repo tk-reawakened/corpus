@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Grindalf"
 f_joined: "August 18th 2005"
 f_last_visit: "January 1st 2010"
-f_location: "tenerife"
+f_location: "(redacted: location)"
 f_name: "Paul"
 f_occupation: "doing nothing"
 f_rank: "Member"

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "Nick"
 f_joined: "January 28th 2004"
 f_last_visit: "July 25th 2005"
-f_location: "Tucson, Arizona"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "Nick"
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-stadsport@gmail.com
+(redacted: email)
 ![Other](../templates/default/images/icons/forums/forum_other.gif) [aim and internet on iPod?](forum/viewtopic.php?p=203524#203524)
 Posted on Wednesday 10.00am, May 4th, 2005
 ninjaboy@azeroth wrote: hmmm nope there would have to be someone who has modded it and made an adapter for it. i know someone who has made the nintendo ds into a palm pilot that has internet capabilities, he had to make an adapter for that too so it could hook up to his wireless router, ewither way,... [more![More](templates/default/images/icons/more.gif)](forum/viewtopic.php?p=203524#203524)

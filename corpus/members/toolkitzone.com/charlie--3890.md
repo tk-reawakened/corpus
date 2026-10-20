@@ -16,7 +16,7 @@ handle: "Charlie"
 f_interests: "DJing, girls, etc."
 f_joined: "August 14th 2004"
 f_last_visit: "December 29th 2006"
-f_location: "Iowa"
+f_location: "(redacted: location)"
 f_occupation: "Still In School"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -33,7 +33,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-fireforce92@charter.net
+(redacted: email)
 Recent Blog Entries
 Added on Tuesday 3.27am, May 9th, 2006
 I don't have time for much, but I have few things to say so it all works out. E3 has begun and yet again I regret not applying for press passes, but I'm thrilled with the amount of news, and this of all things has made me smile today: If you haven't heard, Sony appears to be including a manda... [more![More](templates/default/images/icons/more.gif)](community.php?blog=4337)

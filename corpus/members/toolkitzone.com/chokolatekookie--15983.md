@@ -13,12 +13,11 @@ repliers: []
 authors: ["chokolatekookie"]
 comments_present: 0
 handle: "chokolatekookie"
-f_age: "10 - 15"
 f_interests: "playin basketball, music, sum reading, talking mostly."
 f_joined: "March 9th 2007"
 f_last_visit: "March 12th 2007"
-f_location: "Nuevo Leon, MX"
-f_name: "Adriana Torres"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "workin hard 2 keep it kool"
 f_rank: "Member"
 f_rankings: "No rankings."

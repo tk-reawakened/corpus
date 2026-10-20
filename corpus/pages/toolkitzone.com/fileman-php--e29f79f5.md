@@ -19,6 +19,6 @@ source_captures:
 
 # password
 
-beta version - report any problems to filemanager@toolkitzone.com
+beta version - report any problems to (redacted: email)
 ![](fileman/images/47.JPG)
 Sample of tiles.

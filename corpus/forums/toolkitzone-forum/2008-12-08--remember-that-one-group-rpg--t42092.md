@@ -320,7 +320,7 @@ Woo. Congrats, jackyboy. Very Happy
 
 Hello Asimir.
 Group 1
-Harris_Damian@hotmail.com
+(redacted: email)
 
 ### Lotusware · 2008-12-08 01:23 · #K460090
 
@@ -333,14 +333,14 @@ as long as everyone has fun thats all that matters
 **TK All Nighter - 27th of December**
 
 Group 1 so I can bug juice :3
-kotholos@gmail.com
+(redacted: email)
 
 ### seveneternal · 2008-12-08 01:55 · #K460103
 
 **TK All Nighter - 27th of December**
 
 Group one please!
-ys.park.7e@gmail.com
+(redacted: email)
 I think we should just have one large group. It probably won't be too crowded after taking into account the no-shows and the non-talkers.
 .......
 

@@ -48,7 +48,7 @@ I' am closing this topic because I have hardly any time on this computer until I
 
 ### Kasai_Ryane · 2004-12-09 02:13 · #B136778
 
-yes, well. i need a little more than just one thing...see i need an entire enviroment. A furturistic Pioneer 2 looking place (if you've ever played phantasy star online) email me at sschrembeck@hotmail.com if yoou are even interested in being the tilemaker of our entire futuristic city (not horribly large, and there will only be one).
+yes, well. i need a little more than just one thing...see i need an entire enviroment. A furturistic Pioneer 2 looking place (if you've ever played phantasy star online) email me at (redacted: email) if yoou are even interested in being the tilemaker of our entire futuristic city (not horribly large, and there will only be one).
 ~thx, Kasai
 
 ### Tetsuo · 2004-12-10 23:04 · #B137698
@@ -100,7 +100,7 @@ He's asking to do level design not programing
 ### ahriman · 2005-01-13 15:13 · #B155195
 
 Could you make a shop for me? You can use any tileset you want.
-My E-mail adress is: ahriman_odin@yahoo.com
+My E-mail adress is: (redacted: email)
 P.S:If you want to make graphics for me afterward, check out the "Panzer development" post.We still need board designers!
 
 ### Tetsuo · 2005-01-15 03:49 · #B155833

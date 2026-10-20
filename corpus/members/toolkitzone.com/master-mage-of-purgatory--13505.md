@@ -13,11 +13,10 @@ repliers: []
 authors: ["Master Mage Of Purgatory"]
 comments_present: 0
 handle: "Master Mage Of Purgatory"
-f_age: "16 - 20"
 f_interests: "Video Games..."
 f_joined: "September 4th 2006"
 f_last_visit: "January 20th 2007"
-f_location: "A house, in a town, in a county, in a state, in a country, in a continent, on a planet, etc."
+f_location: "(redacted: location)"
 f_name: "Timothy Floyd Marshall Junior"
 f_occupation: "High School Student"
 f_rank: "Member"

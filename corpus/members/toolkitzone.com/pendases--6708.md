@@ -28,6 +28,6 @@ source_captures:
 # Pendases
 
 **MSN:**
-despenase@hotmail.com
+(redacted: email)
 Posted on Wednesday 7.01pm, June 15th, 2005
 How can u use the items in the game i am making i dont get it......how do u set them, use them, and pick them up,.....can ne1 explain it to me it would be great thanks.....P [more![More](templates/default/images/icons/more.gif)](library.php?doc=237#c31546)

@@ -13,7 +13,6 @@ repliers: []
 authors: ["TK Wars / Grindalf"]
 comments_present: 0
 handle: "TK Wars / Grindalf"
-f_age: "16-20"
 f_country: "Ireland"
 f_name: "Wolfsin"
 f_occupation: "Accountant"

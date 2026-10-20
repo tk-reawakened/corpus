@@ -15,7 +15,7 @@ comments_present: 0
 handle: "marccookie13"
 f_joined: "September 15th 2006"
 f_last_visit: "September 8th 2008"
-f_location: "Inside a cookie jar..."
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "marccookie13"

@@ -15,7 +15,7 @@ comments_present: 0
 handle: "bracken"
 f_joined: "May 9th 2004"
 f_last_visit: "January 20th 2007"
-f_location: "Denver, CO"
+f_location: "(redacted: location)"
 f_occupation: "In School: Computer Science"
 f_rank: "Member"
 f_rankings: "No rankings."

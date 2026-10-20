@@ -13,7 +13,7 @@ repliers: []
 authors: ["akura davis"]
 comments_present: 0
 f_joined: "June 22, 2004"
-f_location: "'Planet: Arkins'-'Place: Ruithia Tower'"
+f_location: "(redacted: location)"
 f_username: "akura davis"
 converter_version: "1"
 source_captures:

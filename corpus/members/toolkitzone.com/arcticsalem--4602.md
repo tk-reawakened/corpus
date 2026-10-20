@@ -15,7 +15,7 @@ comments_present: 0
 handle: "arcticsalem"
 f_joined: "November 17th 2004"
 f_last_visit: "October 14th 2005"
-f_location: "Airdrie, Alberta, Canada"
+f_location: "(redacted: location)"
 f_occupation: "Game developer"
 f_rank: "Member"
 f_rankings: "No rankings."

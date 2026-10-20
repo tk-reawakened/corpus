@@ -16,7 +16,7 @@ handle: "homerthegreat"
 f_interests: "gaming"
 f_joined: "August 17th 2006"
 f_last_visit: "August 18th 2006"
-f_location: "don`t know"
+f_location: "(redacted: location)"
 f_occupation: "none"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -31,7 +31,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-nerdlingboy@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Friday 9.49pm, August 18th, 2006
 i don`t really have a favourit food right know that`s why i`m asking all of you.Really i can`t decide on i favourite food.I now that souns kind of weird. [more![More](templates/default/images/icons/more.gif)](community.php?blog=4718)

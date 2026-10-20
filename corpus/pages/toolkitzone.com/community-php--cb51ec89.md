@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "June 23rd, 2004"
-f_location: "Why do you want to know? Huh?"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_701", captured: "20070321215539", sha256: "0e38ac0693c7854b4149bfbd82a9d46c1b6bd5d1e4d9a7d9dd1f2e221aa0cf79", wayback_url: "https://web.archive.org/web/20070321215539/http://toolkitzone.com/community.php?blog=701"}

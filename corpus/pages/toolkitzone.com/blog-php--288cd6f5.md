@@ -14,7 +14,7 @@ authors: ["zyrshnikashnu"]
 comments_present: 0
 f_interests: "stuff"
 f_joined: "January 29, 2004"
-f_location: "ny, usa"
+f_location: "(redacted: location)"
 f_username: "zyrshnikashnu"
 converter_version: "1"
 source_captures:

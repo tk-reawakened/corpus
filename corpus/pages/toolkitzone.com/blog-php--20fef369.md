@@ -13,7 +13,7 @@ repliers: []
 authors: ["sivart"]
 comments_present: 0
 f_joined: "May 3, 2004"
-f_location: "Ontario Canada"
+f_location: "(redacted: location)"
 f_username: "sivart"
 converter_version: "1"
 source_captures:

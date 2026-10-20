@@ -14,7 +14,7 @@ authors: ["spitfire"]
 comments_present: 0
 f_interests: "Girls, Computers, Music, Gaming"
 f_joined: "January 28, 2004"
-f_location: "Northern Minnesota"
+f_location: "(redacted: location)"
 f_username: "spitfire"
 converter_version: "1"
 source_captures:

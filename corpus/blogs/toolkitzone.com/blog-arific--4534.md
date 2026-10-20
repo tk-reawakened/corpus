@@ -13,7 +13,7 @@ repliers: []
 authors: ["Wii"]
 comments_present: 0
 f_joined: "July 20, 2005"
-f_location: "::::::::::"
+f_location: "(redacted: location)"
 f_username: "Wii"
 converter_version: "1"
 source_captures:

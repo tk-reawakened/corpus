@@ -13,7 +13,6 @@ repliers: []
 authors: ["Sky Adventure / Lotusware"]
 comments_present: 0
 handle: "Sky Adventure / Lotusware"
-f_age: "21-25"
 f_country: "United States"
 f_occupation: "Student"
 f_username: "Sky Adventure / Lotusware"

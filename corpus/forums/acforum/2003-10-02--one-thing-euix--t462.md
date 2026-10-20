@@ -120,7 +120,7 @@ perfectionist; dashing; imaginative
 **[ [Final Fantasy Tactics Job Class](http://www.insomniel.com/quizzes/ffclassesquiz.html)]**
 
 Death comes and goes but it never stays.
-MSN: johnallan15@hotmail.com
+MSN: (redacted: email)
 
 ### comfox · 2003-10-02 24:15 · #A1000-464
 
@@ -147,8 +147,8 @@ HELO!1111 OMG MAH NMA IS KR0NICUL AND I PREFER CHIKEN OV3R PEI!111!!11 WTF I DON
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 
 ---
 

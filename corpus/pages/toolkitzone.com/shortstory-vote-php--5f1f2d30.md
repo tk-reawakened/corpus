@@ -21,7 +21,7 @@ source_captures:
 
 Short Story Contest
 Summer 2005
-Thank you to all those who voted over the past three days, the booth is now closed. The shortlist results are as follows in alphabetical order, these five stories will now be critically reviewed by Cyrus Martin with the announcement of the winners on the frontpage sometime next week.
+Thank you to all those who voted over the past three days, the booth is now closed. The shortlist results are as follows in alphabetical order, these five stories will now be critically reviewed by (redacted: name) with the announcement of the winners on the frontpage sometime next week.
 **Shortlist**
 Blob Dude Ersuis Moonews Ryukenshen UltimaWizard
 Click to open the writing forum and view the list of stories. [here](http://www.toolkitzone.com/forums/viewforum.php?f=181)

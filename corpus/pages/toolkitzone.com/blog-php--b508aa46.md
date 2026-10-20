@@ -14,7 +14,7 @@ authors: ["Horizon"]
 comments_present: 0
 f_interests: "RPG's, fantasy (and fantasy RPG's :P), castrating Marc"
 f_joined: "January 28, 2004"
-f_location: "In the doghouse"
+f_location: "(redacted: location)"
 f_username: "Horizon"
 converter_version: "1"
 source_captures:

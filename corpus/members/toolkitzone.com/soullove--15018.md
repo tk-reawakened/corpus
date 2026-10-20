@@ -13,12 +13,11 @@ repliers: []
 authors: ["soullove"]
 comments_present: 0
 handle: "soullove"
-f_age: "16 - 20"
 f_interests: "Gaming ^_~"
 f_joined: "January 5th 2007"
 f_last_visit: "January 7th 2007"
-f_location: "Australia"
-f_name: "Brandon Gibson"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Currently doing mums job (Admin at QFRS)"
 f_rank: "Member"
 f_rankings: "No rankings."

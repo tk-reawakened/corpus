@@ -189,7 +189,7 @@ ROFL no, I did it right. here, let me send you the files if you have MSN.
 
 ### ddl2829 · 2005-08-20 00:34 · #B248137
 
-i dont have msn but you can send them to yahoo right? if you can its ddd2829@yahoo.com
+i dont have msn but you can send them to yahoo right? if you can its (redacted: email)
 
 ### p90m16mp5a4 · 2005-08-20 00:38 · #B248140
 

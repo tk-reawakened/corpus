@@ -25,7 +25,7 @@ I try to make constructive critics, but if you're offended by any of my reviews 
 - u p d a t e s - last update : 13rd of August 2004
 - new reviews: and games have been updated, with new reviews [3 stars](3starNEW.html) [2 stars](2stargames.html)
 - updates: I had some time for TKGR so I tried some new games (still have to test some) and added reviews. Finnally it looks much more complete !
-- The 1/2 stars still have to be updated. Besides, I have to test every other non-reviewed game. I don't think it's realistic because I don't have much free time. Anyone wishing to help can me. [e-mail](nyctasoft@graffiti.net)
+- The 1/2 stars still have to be updated. Besides, I have to test every other non-reviewed game. I don't think it's realistic because I don't have much free time. Anyone wishing to help can me. [e-mail]((redacted: email))
 - Don't forget to check the for more accurate and up-to-date news ! [FORUM](http://ibforums.mysticsoftware.net/index.php?showforum=20)
 > last update : 26th of April 2004
 - new reviews: None

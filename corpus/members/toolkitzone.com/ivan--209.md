@@ -30,7 +30,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-ivanyoddue2001@yahoo.com
+(redacted: email)
 Recent Blog Entries
 Added on Saturday 5.02am, December 9th, 2006
 Spyder if you're reading this, were you able to get yours to capture in 1024x768? I'm a bit disappointed but it's no big deal, just a temporary solution. I spent $20 on the whole package, S+H included. Came in it's original box all packed etc. The video is a bit too fuzzy and the colors "dull". As f... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5009)

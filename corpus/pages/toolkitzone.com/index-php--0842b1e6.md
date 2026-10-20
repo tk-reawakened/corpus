@@ -28,5 +28,5 @@ Check out our thoughts on the latest games to be produced by the community.
 We take a look at forthcoming games which are much anticipated by us at Toolkit Zone.
 Read what the big guns have to say about their sites, projects and the Toolkit community.
 We like to keep a keen eye on the latest goings on, so check out our special features on the latest community or gaming news.
-Series of articles written by Cyrus Martin explaining the various elements of creative writing. Cyrus himself is writing novels based on his Toolkit games.
+Series of articles written by (redacted: name) explaining the various elements of creative writing. Cyrus himself is writing novels based on his Toolkit games.
 New series of articles and tutorials written by Marz to guide you through not only the Toolkits features such as RPG Code but game making in general.

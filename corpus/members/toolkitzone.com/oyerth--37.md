@@ -13,12 +13,11 @@ repliers: []
 authors: ["Oyerth"]
 comments_present: 0
 handle: "Oyerth"
-f_age: "16 - 20"
 f_interests: "Games"
 f_joined: "January 28th 2004"
 f_last_visit: "January 7th 2007"
-f_location: "Steubenville, OH"
-f_name: "Michael J. Gajewski"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Moderators"
 f_username: "Oyerth"
@@ -35,7 +34,7 @@ Male
 **Awards:**
 Total of 15 places and 38 users.
 **MSN:**
-oyerth@gmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (6)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/23.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=16)

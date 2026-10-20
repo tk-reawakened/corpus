@@ -22,4 +22,4 @@ source_captures:
 # The Salvation
 
 The game designer is currently making a game using the rpgtoolkit. The game is the first game of a three game saga. It follows the adventures of a young boy from the port city of Dagnor in the fantasy world of Ganor. Click the download link to try out the demo. The compilation instructions are contained under the instructions link.
-Questions, concerns, or comments? E-mail the maintainer of this site at gamer14@fastmail.fm
+Questions, concerns, or comments? E-mail the maintainer of this site at (redacted: email)

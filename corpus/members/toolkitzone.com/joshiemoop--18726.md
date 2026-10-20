@@ -13,11 +13,10 @@ repliers: []
 authors: ["joshiemoop"]
 comments_present: 0
 handle: "joshiemoop"
-f_age: "10 - 15"
 f_interests: "Games... guns... stuff."
 f_joined: "January 21st 2008"
 f_last_visit: "December 26th 2008"
-f_location: "United States of America"
+f_location: "(redacted: location)"
 f_name: "Josh"
 f_occupation: "School"
 f_rank: "Member"
@@ -38,7 +37,7 @@ Well... lets see I'm new at this! Id LOVE to program and I need help programming
 **AIM:**
 **YIM:**
 **MSN:**
-josh1@itsllc.biz
+(redacted: email)
 Recent Blog Entries
 Added on Monday 7.56pm, January 21st, 2008
 I would like to make a blog about my ideas about my Game I wish to make and look back and give myself a good laugh when I find it is nothing like I could immagine! My idea is that a boy leaves his home to go explore and never comes back! It will have a HUGE world lots of magic and monsters. The ... [more![More](templates/default/images/icons/more.gif)](community.php?blog=5630)

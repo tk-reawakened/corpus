@@ -50,7 +50,7 @@ There was a sensational and signification development when a couple named Betty 
 More Stuff
 Please click for more information on the full discussion of Aliens. [here](http://www.toolkitzone.com/forums/viewtopic.php?t=8948)
 Final Words I did not intend to make this Alien article to be long. Sometimes article that are short won't probably waste your time looking at facts that you have seen before. MMaM only presents unseen and unknown information to you. Again, if you have any enquiries or spotted any errors, please ask/correct and contact me at . Stay healthy.
-bluezane@hotmail.co.uk
+(redacted: email)
  Koh Wei Zane
 Greg
 January 1, 2005, 3:23 am

@@ -13,7 +13,7 @@ repliers: []
 authors: ["Insanity"]
 comments_present: 0
 f_joined: "February 14, 2004"
-f_location: "The border of sanity."
+f_location: "(redacted: location)"
 f_username: "Insanity"
 converter_version: "1"
 source_captures:

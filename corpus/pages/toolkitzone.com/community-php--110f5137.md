@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "July 6th, 2004"
-f_location: "Western New York"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_1378", captured: "20070323045615", sha256: "74755a2dbe1d7b1db1f769ca6fdc2f4ab5d3fb9593f127c9e31c502f1b49f244", wayback_url: "https://web.archive.org/web/20070323045615/http://toolkitzone.com/community.php?blog=1378"}

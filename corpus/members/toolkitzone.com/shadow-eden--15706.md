@@ -13,11 +13,10 @@ repliers: []
 authors: ["Shadow Eden"]
 comments_present: 0
 handle: "Shadow Eden"
-f_age: "16 - 20"
 f_interests: "ancient history, literature, classics, cartography, philosophy"
 f_joined: "February 18th 2007"
 f_last_visit: "February 20th 2007"
-f_location: "East Midlands, UK"
+f_location: "(redacted: location)"
 f_name: "Perky"
 f_occupation: "Student"
 f_rank: "Member"
@@ -36,7 +35,7 @@ Male
 **About Me:**
 I'm currently a full-time student in college, studying English Literature, Language and Media. I like to drink and smoke (hardly a model student) but use my intelligence to contemplate philosophy. I like to spend time programming (TK, HTML, VB, etc...) and gaming (massive AOE and AOM fan). Also love the historical Koei games on PS2. I'm a goth, so naturally DMC is also there. I also enjoy composing music (i'm currently Grade 6 Piano and Grade 8 Theory) but i've not made any RPG tracks, yet. Don't be scared to contact me, if you have any questions about me, or (more importantly) TK. I will be happy to help anyone with whatever I can.
 **MSN:**
-jamie_sephiroth@hotmail.com
+(redacted: email)
 Posted on Tuesday 4.35am, February 20th, 2007
 wow... amazing. I can usually make good codes or fairy decent graphics for my games... but you've nailed both and merged them together so well. It really is of the highest quality. I can't wait to play this... [more![More](templates/default/images/icons/more.gif)](games.php?image=6144#c34386)
 Posted on Tuesday 1.04am, February 20th, 2007

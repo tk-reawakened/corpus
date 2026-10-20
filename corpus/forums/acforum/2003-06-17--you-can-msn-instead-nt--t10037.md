@@ -39,8 +39,8 @@ links:
 
 ---
 AIM: kronspik
-MSN: kronspik@hotmail.com
-EMAIL: kronspik@hotmail.com
+MSN: (redacted: email)
+EMAIL: (redacted: email)
 Pattern? =P
 -Ever wanted to know what Kronspik means?
 Kron: The first part of my username

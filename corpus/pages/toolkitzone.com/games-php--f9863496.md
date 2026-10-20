@@ -41,4 +41,4 @@ Fuzzball, is a laid back smart aleck. He occasionaly calls Redemption 'Red', wic
 Redemption was once a fuzz-creature, but he had been transformed into an evil beast that Fuzzball then slew. Redemption's spirit felt strongly the need to make up for his attack, and he was allowed to resurect in the form of a seed to aid Fuzzball on his quest.
 Redemption and Fuzz struggle to get along throught the game. Their personalities just bounce off each other. Redemtion comments early in the game that he lived up north, but never says much about his past. He has a certain drive that Fuzz lacks, but just what causes that drive Fuzz has yet to learn.
 No comments.
-[![Cave 1 (room 2)](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)
+[![Cave 1 ((redacted: address))](games/phpThumb.php?src=../mygames/images/1377/3746.JPG&w=175)](games.php?image=3746)

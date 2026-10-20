@@ -27,4 +27,4 @@ At Mystic Software we are dedicated to providing efficient, sustainable business
 **Our Team**
 Our experienced consultants, programmers, webmasters and designers bring together advanced skills and innovative ideas in Information Technology. With diverse backgrounds in business, programming, Internet and technology environments, our team can offer a wide range of expertise in business management, information systems, network development, Internet design, e-commerce and sales and marketing strategies.
 ![](images/multimedia2.jpg)
-Sales@MysticSoftware.com
+(redacted: email)

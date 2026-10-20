@@ -14,7 +14,7 @@ authors: ["Plasmius"]
 comments_present: 0
 f_interests: "Extreme Pictionary"
 f_joined: "January 2, 2005"
-f_location: "Candy Land"
+f_location: "(redacted: location)"
 f_username: "Plasmius"
 converter_version: "1"
 source_captures:

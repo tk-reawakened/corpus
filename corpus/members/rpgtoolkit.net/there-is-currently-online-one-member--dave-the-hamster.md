@@ -13,7 +13,6 @@ repliers: []
 authors: ["there is currently online one member"]
 comments_present: 0
 handle: "there is currently online one member"
-f_age: "26+"
 f_name: "Jon"
 f_username: "there is currently online one member"
 f_website: "Price of Animation"

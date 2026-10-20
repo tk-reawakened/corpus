@@ -14,7 +14,7 @@ authors: ["Linkin"]
 comments_present: 0
 f_interests: "Motorcycles, Electric Gutiars,Computers, And Money!!"
 f_joined: "February 16, 2004"
-f_location: "Use your imagination"
+f_location: "(redacted: location)"
 f_username: "Linkin"
 converter_version: "1"
 source_captures:

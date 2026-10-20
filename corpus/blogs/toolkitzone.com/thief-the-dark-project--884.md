@@ -14,7 +14,7 @@ authors: ["IQsoftware"]
 comments_present: 0
 f_interests: "Game/web design and playing games"
 f_joined: "July 1, 2004"
-f_location: "England"
+f_location: "(redacted: location)"
 f_username: "IQsoftware"
 converter_version: "1"
 source_captures:

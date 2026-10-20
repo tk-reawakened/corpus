@@ -13,7 +13,6 @@ repliers: []
 authors: ["Lord Qwerty"]
 comments_present: 0
 handle: "Lord Qwerty"
-f_age: "10 - 15"
 f_joined: "August 24th 2006"
 f_last_visit: "February 22nd 2007"
 f_rank: "Member"

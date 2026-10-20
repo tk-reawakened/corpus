@@ -16,7 +16,7 @@ handle: "rpgmaster"
 f_interests: "RPG Toolkit"
 f_joined: "January 28th 2004"
 f_last_visit: "December 8th 2006"
-f_location: "Gravenhurst, ON"
+f_location: "(redacted: location)"
 f_rank: "Member"
 f_rankings: "No rankings."
 f_username: "rpgmaster"
@@ -29,7 +29,7 @@ source_captures:
 
 ![Avatar](forum/images/avatars/80773225245467e9e0c704.gif)
 **MSN:**
-chaosnymh@hotmail.com
+(redacted: email)
 Posted on Tuesday 7.36pm, December 19th, 2006
 There is actually sprite vectors. I guess I never noticed before. Sweet. [more![More](templates/default/images/icons/more.gif)](library.php?doc=246#c32602)
 Posted on Tuesday 7.04pm, February 3rd, 2004

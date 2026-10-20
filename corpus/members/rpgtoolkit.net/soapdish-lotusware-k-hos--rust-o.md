@@ -13,9 +13,8 @@ repliers: []
 authors: ["Soapdish / Lotusware & k-hos"]
 comments_present: 0
 handle: "Soapdish / Lotusware & k-hos"
-f_age: "21-25"
 f_country: "United States"
-f_name: "Rusty Clifton"
+f_name: "(redacted: name)"
 f_occupation: "Salesperson"
 f_username: "Soapdish / Lotusware & k-hos"
 converter_version: "1"

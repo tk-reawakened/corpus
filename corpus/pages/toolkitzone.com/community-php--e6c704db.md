@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "February 13th, 2006"
-f_location: "am i here? am i there? i really dont know"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_4526", captured: "20070312092017", sha256: "766c20aabb1231a8edd2e333fff78cc01e3e35c73e2992f16ed808a32a146e4c", wayback_url: "https://web.archive.org/web/20070312092017/http://toolkitzone.com/community.php?blog=4526"}

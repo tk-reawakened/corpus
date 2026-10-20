@@ -13,10 +13,9 @@ repliers: []
 authors: ["zyrshnikashnu"]
 comments_present: 0
 handle: "zyrshnikashnu"
-f_age: "16 - 20"
 f_joined: "January 29th 2004"
 f_last_visit: "January 22nd 2007"
-f_location: "NY, USA"
+f_location: "(redacted: location)"
 f_occupation: "Student"
 f_rank: "Member"
 f_rankings: "No rankings."
@@ -34,7 +33,7 @@ Male
 **AIM:**
 **YIM:**
 **MSN:**
-brpeterman@gmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Wednesday 6.22pm, January 17th, 2007
 The entire Northeast (and, I hear, the lower Mid-west) is coated in ice, making for some nice scenery. [more![More](templates/default/images/icons/more.gif)](community.php?blog=5122)

@@ -14,7 +14,7 @@ authors: ["Hamster"]
 comments_present: 0
 f_interests: "Simcity 4, rpg tk, anime, free music courtesy of the major P2P networks"
 f_joined: "March 12, 2004"
-f_location: "College Station,Texas"
+f_location: "(redacted: location)"
 f_username: "Hamster"
 converter_version: "1"
 source_captures:

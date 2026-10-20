@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "October 16th, 2006"
-f_location: "In space, gathering power"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/community.php__blog_6141", captured: "20100102025403", sha256: "4997865471e0a6ad2db7611612d49c0503be1499df0b8933247a8981e106fdf9", wayback_url: "https://web.archive.org/web/20100102025403/http://toolkitzone.com/community.php?blog=6141"}

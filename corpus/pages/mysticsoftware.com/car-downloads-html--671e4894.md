@@ -2,7 +2,7 @@
 kind: page
 id: "mysticsoftware.com/mysticsoftware.com/CAR/downloads.html"
 site: "mysticsoftware.com"
-title: "> Sales@MysticSoftware.com"
+title: "> (redacted: email)"
 original_url: "http://www.mysticsoftware.com/CAR/downloads.html"
 written: null
 date_confidence: "unknown"
@@ -17,7 +17,7 @@ source_captures:
   - {path: "wayback/mysticsoftware.com/CAR/downloads.html", captured: "20010311164623", sha256: "93bb2cf7126edfdf1053483f3ed7fecfb2f0bda3df9237aad9c051889dd9ef02", wayback_url: "https://web.archive.org/web/20010311164623/http://www.mysticsoftware.com/CAR/downloads.html"}
 ---
 
-# > Sales@MysticSoftware.com
+# > (redacted: email)
 
 ![](../images/mystic10tm__.jpg)
 ![](Images/B2Csupport.jpg)
@@ -32,4 +32,4 @@ source_captures:
 >
 ![](Images/FileDwnlds.jpg)
 >
-> Sales@MysticSoftware.com
+> (redacted: email)

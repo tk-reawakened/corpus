@@ -32,7 +32,7 @@ Anyone can enter and the rules are as follows;
 - Can be any writing style.
 - Between 500 and 2500 words.
 - Must be your own work and in the English language.
-- Submit entries via e-mail to xavier@toolkitzone.com
+- Submit entries via e-mail to (redacted: email)
 - **Dea dline is April 15th, 10pm GMT**
 If you have any questions then feel free to post them as a comment here or message me, I look forward to receiving your entries.
 Happy writing!

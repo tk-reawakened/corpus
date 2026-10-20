@@ -48,7 +48,7 @@ samples of my work are in the 2 text links below...
 Very cool =D
 - Jason D.
 Pubilc Declare Function DoAllMyWorkForMe Lib "iamlazy.dll" (ByVal Time as Long, ByVal Quality As Long) as Executable
-MSN: jason_detchevery@hotmail.com
+MSN: (redacted: email)
 Website: I'm far too lazy to make one of those....yet.....
 
 ### outlawz · 2003-07-15 21:38 · #A1000-28174

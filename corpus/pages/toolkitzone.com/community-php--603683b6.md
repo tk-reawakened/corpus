@@ -13,7 +13,7 @@ repliers: []
 authors: []
 comments_present: 0
 f_joined: "December 15th, 2006"
-f_location: "unknown"
+f_location: "(redacted: location)"
 f_name: "nyko"
 converter_version: "1"
 source_captures:

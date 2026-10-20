@@ -151,7 +151,7 @@ Donkeys are overrated
 (formerly known as ares)
 [![](http://www.mg.geahost.com/small_rg.gif)](http://mg.geahost.com/rg)[![](http://www.mg.geahost.com/small_theproject2.gif)
 [my deviantart account](http://tacofernandez.deviantart.com)
-tacofernandez@gmail.com
+(redacted: email)
 im speshul
 
 ### EB · 2004-07-14 03:24 · #B58656

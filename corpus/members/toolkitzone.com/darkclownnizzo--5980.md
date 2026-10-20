@@ -29,7 +29,7 @@ source_captures:
 **AIM:**
 **YIM:**
 **MSN:**
-norfuffle@hotmail.com
+(redacted: email)
 Recent Blog Entries
 Added on Friday 3.53am, December 2nd, 2005
 If any of you guys remember TimeLine, it was inspired by an excellent game called Live-A-Live. So, I've decided to make a sort of fan-sequel to Live-A-Live instead, to be more direct in my adoration. There will be STRIPPERS!... You'll like it! ...really! [more![More](templates/default/images/icons/more.gif)](community.php?blog=3714)

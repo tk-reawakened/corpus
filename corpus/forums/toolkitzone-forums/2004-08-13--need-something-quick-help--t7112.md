@@ -78,7 +78,7 @@ _________________
 ![](http://www.toolkitzone.com/stuff/files/48/nyaminyami.jpg)
 Active Members Of The Dragon Alliance
 The_Sleeping_Dragon
-E-mail Commander_Idaeus@hotmail.com
+E-mail (redacted: email)
 Grey Hair
 No E-mail
 Setu Firestorm
@@ -103,7 +103,7 @@ _________________
 ![](http://www.toolkitzone.com/stuff/files/48/nyaminyami.jpg)
 Active Members Of The Dragon Alliance
 The_Sleeping_Dragon
-E-mail Commander_Idaeus@hotmail.com
+E-mail (redacted: email)
 Grey Hair
 No E-mail
 Setu Firestorm

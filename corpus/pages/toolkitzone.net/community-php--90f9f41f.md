@@ -12,12 +12,11 @@ author: null
 repliers: []
 authors: []
 comments_present: 0
-f_age: "16 - 20"
 f_interests: "Sports, video games, writing, drawing, playing guitar, and other stuff."
 f_joined: "December 13th 2004"
 f_last_visit: "April 2nd 2008"
-f_location: "Wisconsin"
-f_name: "Clay Schlegel"
+f_location: "(redacted: location)"
+f_name: "(redacted: name)"
 f_occupation: "Student"
 f_rank: "Staff"
 converter_version: "1"
@@ -31,7 +30,7 @@ source_captures:
 Staff
 December 13th 2004
 April 2nd 2008
-Clay Schlegel
+(redacted: name)
 Wisconsin
 Student
 Sports, video games, writing, drawing, playing guitar, and other stuff.
@@ -40,7 +39,6 @@ Well, what can I say? You can throw anything at me and I'll find a way to just k
 Total of 17 places and 54 users.
 **AIM:**
 **YIM:**
-bagel@centurytel.net
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/39.gif&iar=1&aoe=1&bw=1&h=80)](../community.php?award=41)
 Winner

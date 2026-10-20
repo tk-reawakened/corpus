@@ -13,11 +13,10 @@ repliers: []
 authors: ["Sander"]
 comments_present: 0
 handle: "Sander"
-f_age: "16 - 20"
 f_interests: "Coding, guitar, swimming, music, reading, fitness, squash"
 f_joined: "January 28th 2004"
 f_last_visit: "January 6th 2007"
-f_location: "Netherlands"
+f_location: "(redacted: location)"
 f_occupation: "School"
 f_rank: "Member"
 f_username: "Sander"
@@ -34,7 +33,7 @@ Male
 **Awards:**
 Total of 15 places and 38 users.
 **MSN:**
-hetisik@gmail.com
+(redacted: email)
 ![Box](templates/default/images/icons/more.gif) **Awards (6)**
 My Awards
 [![Thumb](../thumb.php?src=vault/contests/23.png&iar=1&aoe=1&bw=1&h=80)](../community.php?award=16)

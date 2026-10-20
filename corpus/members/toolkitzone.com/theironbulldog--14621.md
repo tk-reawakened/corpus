@@ -13,10 +13,9 @@ repliers: []
 authors: ["theIronBulldog"]
 comments_present: 0
 handle: "theIronBulldog"
-f_age: "16 - 20"
 f_joined: "December 5th 2006"
 f_last_visit: "March 8th 2007"
-f_location: "Maidenhead, England, UK"
+f_location: "(redacted: location)"
 f_name: "Kizza"
 f_occupation: "Meh..."
 f_rank: "Member"

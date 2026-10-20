@@ -14,7 +14,7 @@ authors: ["Z"]
 comments_present: 0
 f_interests: "Computers, music, acting"
 f_joined: "June 29, 2004"
-f_location: "Uhh"
+f_location: "(redacted: location)"
 converter_version: "1"
 source_captures:
   - {path: "wayback/toolkitzone.com/blog.php__mode_view_entry_3960", captured: "20060222123856", sha256: "70bc5b7805e9cb0d28fd733c1e8097ab9e514132a2a7643ff63973f542937639", wayback_url: "https://web.archive.org/web/20060222123856/http://www.toolkitzone.com:80/blog.php?mode=view&entry=3960&PHPSESSID=34d9506eec020b99f6326bd2c7822fcb"}

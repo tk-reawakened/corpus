@@ -124,4 +124,4 @@ Thats just a very quick, whistle stop tour of how to create a credit reel! Hop
 Thanks for reading
 *
 Twin Keyblade
-Got any feedback? Please feel free to e-mail me at and give me your thoughts and suggestions!twin_keyblade@fsmail.net
+Got any feedback? Please feel free to e-mail me at and give me your thoughts and suggestions!(redacted: email)

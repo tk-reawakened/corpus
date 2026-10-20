@@ -14,7 +14,7 @@ authors: ["Cyrus"]
 comments_present: 0
 f_author: "Cyrus"
 f_date: "August 22, 2005, 2:30 pm"
-f_description: "A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!"
+f_description: "A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!"
 f_section: "Fiction > Short Story Contest: Summer 05"
 f_title: "Short Story Contest: The Results"
 converter_version: "1"
@@ -30,7 +30,7 @@ source_captures:
 Short Story Contest
 Summer 2005
 So we've come to the end of the road for our first try at a writing contest here at TKZ, twenty users took up the challenge of writing a short story, those entries were whittled down to a shortlist of five and now we have the final results. Thanks to everyone who entered, we hope to see you again in the next contest this winter. But without further delay, lets get into the results...
-Please understand that these reviews contain the opinions of me, Cyrus Martin and if you do not agree with what is said then I apologize and welcome your comments at cyrusmartin@yahoo.com or talk generally about the contest at the here at TKZ. I rated each entry on a set of categories to determine an average score out of 100. The categories are as follows; [writing forum](http://www.toolkitzone.com/forums/viewforum.php?f=181)
+Please understand that these reviews contain the opinions of me, (redacted: name) and if you do not agree with what is said then I apologize and welcome your comments at (redacted: email) or talk generally about the contest at the here at TKZ. I rated each entry on a set of categories to determine an average score out of 100. The categories are as follows; [writing forum](http://www.toolkitzone.com/forums/viewforum.php?f=181)
 Scoring
 0-100 - Originality 0-100 - Character Design and Development 0-100 - Entertainment Value 0-100 - Technical Composition 0-100 - Artistic Composition and Description Overall Score: Average %
 5th - UltimaWizard
@@ -77,7 +77,7 @@ Cyrus said he was jealous of me. Hell is very cold today. :P You hit the nail on
 Kiren
 August 23, 2005, 10:58 am
 Great job Ryu!
-A month on from launching our inaugural short story contest, the final results are finally in. Our judge Cyrus Martin deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
+A month on from launching our inaugural short story contest, the final results are finally in. Our judge (redacted: name) deliberated over the shortlist and after reviewing each entry gave us his winner and runner-ups and boy was it close!
 Aug 20, '05
 Aug 17, '05
 Aug 16, '05

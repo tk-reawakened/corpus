@@ -14,7 +14,7 @@ authors: ["Charlie"]
 comments_present: 0
 f_interests: "DJing, girls, etc."
 f_joined: "August 14, 2004"
-f_location: "Iowa"
+f_location: "(redacted: location)"
 f_username: "Charlie"
 converter_version: "1"
 source_captures:

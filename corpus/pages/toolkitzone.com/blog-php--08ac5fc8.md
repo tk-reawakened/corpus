@@ -15,7 +15,7 @@ comments_present: 0
 duplicate_of: "toolkitzone.com/toolkitzone.com/blog.php?mode=view&page=1&user=7310&view=user"
 f_interests: "Obviously videogames..."
 f_joined: "July 24, 2005"
-f_location: "The corner of here and there..."
+f_location: "(redacted: location)"
 f_username: "DarkMoon"
 converter_version: "1"
 source_captures:
