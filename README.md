@@ -96,6 +96,17 @@ else — no message was gathered that the forum itself did not publish.
 If you are one of the people in here and would like something removed, open an issue on
 this repository and it will be taken out.
 
+## Please do not crawl this
+
+This is a research copy, not a mirror to index or copy in bulk. The canonical copies of
+these pages are on the Wayback Machine, and every entry here links to the one it came
+from. The site asks search engines not to index it and asks well-behaved crawlers to stay
+away (`robots.txt`, and a `noindex` tag on every page) — that is a request, not a lock, so
+the real courtesy is simply not to take the whole thing.
+
+If you are researching this material and want the corpus, ask: open an issue on this
+repository and it will be made available to you directly.
+
 ## Licence and copyright
 
 The writing, artwork, game descriptions, help text and everything else in `corpus/` remain

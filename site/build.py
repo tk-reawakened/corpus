@@ -217,13 +217,19 @@ def fm_value(fm, key):
 # ---------------------------------------------------------------- templates
 
 def page(title, body, depth=0, extra=""):
+    # noindex/nofollow/noarchive: this is a research copy, not something to
+    # index, cache in a search engine, or scrape in bulk. The canonical copies
+    # are on the Wayback Machine - see /about/.
+    robots = ('<meta name="robots" content="noindex, nofollow, noarchive, '
+              'nosnippet, noimageindex">\n'
+              '<meta name="googlebot" content="noindex, nofollow, noarchive">\n')
     return """<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>%s</title>
-<link rel="stylesheet" href="%sassets/style.css">
+%s<link rel="stylesheet" href="%sassets/style.css">
 %s</head>
 <body>
 <header class="top">
@@ -244,8 +250,8 @@ def page(title, body, depth=0, extra=""):
 </footer>
 </body>
 </html>
-""" % (esc(title), "../" * depth, extra, "../" * depth, "../" * depth, "../" * depth,
-       "../" * depth, "../" * depth, body, TOTAL["entries"], "../" * depth)
+""" % (esc(title), robots, "../" * depth, extra, "../" * depth, "../" * depth,
+       "../" * depth, "../" * depth, "../" * depth, body, TOTAL["entries"], "../" * depth)
 
 
 TOTAL = {"entries": 0}
@@ -514,6 +520,13 @@ def build(corpus, out):
             with open(os.path.join(out, "assets", name), "wb") as f:
                 f.write(data)
 
+    # ---- robots.txt at the site root: GitHub Pages serves it from there
+    robots = os.path.join(HERE, "robots.txt")
+    if os.path.exists(robots):
+        with open(robots, "rb") as f:
+            with open(os.path.join(out, "robots.txt"), "wb") as g:
+                g.write(f.read())
+
     print("wrote %s" % out)
 
 
@@ -681,6 +694,14 @@ def write_about(out, by_kind):
         "Machine, linked from every entry. If you are one of the people in here and would "
         "like something else removed, open an issue on the repository and it will be taken "
         "out.</p>",
+        "<h2>Please do not crawl this</h2>",
+        "<p>This site is a research copy, not a mirror to index or copy in bulk. The "
+        "canonical copies of these pages are on the Wayback Machine, and every entry here "
+        "links to the one it came from. Search engines are asked not to index it, and "
+        "well-behaved crawlers are asked to stay away; that is a request, not a lock, so "
+        "the real courtesy is simply not to take the whole thing.</p>",
+        "<p>If you are researching this material and want the corpus, ask: open an issue on "
+        "the repository and it will be made available to you directly.</p>",
         "<h2>Licence and copyright</h2>",
         "<p>The writing, artwork, game descriptions and everything else in <code>corpus/</code> "
         "remain the property of their original authors. They are reproduced here for "
