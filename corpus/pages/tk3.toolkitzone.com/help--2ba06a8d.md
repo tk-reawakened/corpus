@@ -1,0 +1,39 @@
+---
+kind: page
+id: "tk3.toolkitzone.com/tk3.toolkitzone.com/help/?page=file_report"
+site: "tk3.toolkitzone.com"
+title: "Filing an RPGCode Bug Report"
+original_url: "http://tk3.toolkitzone.com/help/?page=file_report"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20051027215436", "20070123120504"]
+author: null
+repliers: []
+authors: []
+comments_present: 0
+duplicate_of: "tk3.toolkitzone.com/tk3.toolkitzone.com/help/?amp=&page=file_report"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/tk3.toolkitzone.com/help__page_file_report_amp_3BPHPSESSID_4d2b27181080d8d0ed8ea3b5ef2fc21d", captured: "20051027215436", sha256: "45978e5bbe934c301449120338e5df437ac361164aa8eeb793258f4e93365282", wayback_url: "https://web.archive.org/web/20051027215436/http://tk3.toolkitzone.com/help/?page=file_report&amp%3BPHPSESSID=4d2b27181080d8d0ed8ea3b5ef2fc21d"}
+  - {path: "wayback/toolkitzone.com/tk3.toolkitzone.com/help__page_file_report", captured: "20070123120504", sha256: "2f5fcfbb37ff783cea617593540c64857cb207a789ad10090c119fe5d074e7ac", wayback_url: "https://web.archive.org/web/20070123120504/http://tk3.toolkitzone.com/help/?page=file_report"}
+---
+
+# Filing an RPGCode Bug Report
+
+Prelude
+The RPGToolkit's internal scripting language, RPGCode, isn't exactly bug proof. Bugs exist. And they aren't rare. If you've found one, we commend you—and we'd like to fix it. Unfortunately, being told "x command doesn't work" or "my program [ 500 lines here ] has undesired behaviour y" just doesn't do us—or yourself—any good at all. Sometimes what you may be claiming to be a bug isn't even!—Or perhaps, you aren't on the latest version. Before you post a bug, please follow these steps.
+Rationale
+Yes, we're aware the better part of these steps sound may like common sense. However, a general, organized list of common sense is never a bad thing. Especially the earlier steps may sound really obvious, but it's better than hearing "you never told us". Please bear with us.
+1) Have the Latest Version
+If you're planning on filing a bug report, have the latest version of the 3.x series before doing so. Unfortunately, TK2 is long since obsolete and no longer supported, and it is pointless to address problems from outdated versions of 3.x since they may—and probably are—sorted in latter releases. That said, please have the latest version of the RPGToolkit before reporting any bug. If you have the current release, proceed to step two.
+2) Make Sure It's a Bug
+Is the problem in question actually a bug? Find out. Are other people successfully performing a task which you just cannot? If so, ask them if, perhaps, you're doing something wrong. Maybe you're using a feature in a generally incorrect manner; consider reading available material to confirm you are indeed doing everything the intended way.
+3) Narrow it Down
+If your battle system doesn't work, do not post this. Instead, isolate the actual problem; use a method like repeatedly calling debugger() or mwin(). Perhaps, in this stage, you'll realize that it was something completely different than you ever suspected. If you are, without a doubt, confident that you know the actual problem, proceed to the next step.
+4) Create a New Program
+Huge programs are no fun to write. They're even less fun to debug, and we don't want to debug for you. After you've isolated the problem, prepare a whole new program that shows nothing but the problem. This program should be free of superfluous details, and have dependencies on absolutely no other files. Mark the problem area using a comment in a very blatant fashion.
+5) Post a Competent, Useful Report
+After completing the above, please do not just post your bug exploiting program. Instead, logically provide relevant details. Open with how you discovered the bug; cover how, exactly, it was narrowed down; affirm that you have the latest version. Detail what your program is intended to show—point to the (marked) problem area. Describe the behaviour that you are witnessing.
+Conclusion
+Bugs make programming in RPGCode difficult, and this is not good. Being programmers ourselves, we would like to ensure your experience coding in RPGCode is as pleasurable as possible. However, in order to remedy issues you may have, we need to fully understand the problem and speed all our time fixing it, rather than finding it within your programs. A good bug report is filed using the latest version, really does cover a bug, and, in its intelligent post, provides a small program was illustrates the problem. In order to ensure a quick solution to your problem, we appreciate your following this suggested template. Thank you, and good luck programming in RPGCode!

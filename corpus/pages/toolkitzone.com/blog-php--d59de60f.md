@@ -1,0 +1,58 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/blog.php?id=307"
+site: "toolkitzone.com"
+title: "password"
+original_url: "http://toolkitzone.com/blog.php?id=307"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20040702204348"]
+author: null
+repliers: []
+authors: []
+comments_present: 0
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/blog.php__id_307", captured: "20040702204348", sha256: "389df25d3278d367f225de4c160d4b3ce9e8e49c1471d694c417f4b626c397f0", wayback_url: "https://web.archive.org/web/20040702204348/http://toolkitzone.com/blog.php?id=307"}
+---
+
+# password
+
+![](img/folder_open.gif) zone account
+**password**
+report any problems to dan@toolkitzone.com
+Thursday 17th June
+Posted by - Fri 18 June, 2004 1:23am [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+OK well, sorry for the lack of updates, been kinda busy lately with college rehersals which leaves me quite tired at the end of the day to bother typing all that has happened! [Actual performances next week! woo at last :D] But yeh, I'll do a quick summary of the ast few days: On the saturday I was meanto call Emma; I got up late, was kinda nervous to call her for first time so put it off [kinda stupid really] then whenI did call she thought I lost the number or something and had made plans to do something else! Later found out if I had called earlier on, she would have been free! grr.. So since then I been asking her to go out again but she always seems to be busy! Yesterday I asked another of my friends that knows Emma too to try and slyly fnd out if she does actually like me, so now I'm wating for the answer from her. Tuesday night or wednesday night [I dunno, time doesn't hold much meaning in my life!] I did something for the first time in years.. i actually cried! That's a first for me in a long time, so long that I had actually forgot what it felt like! Crazy stuff. Feels like my emotion barrior is fnally breaking down and; allowing me to actually feel emotions again properly! woo! Ok well I'm flling asleep typing here, so that is all I can say atm.. so stay tuned or whatever..! :P -Enjoy!
+Wednesday the 9th
+Posted by - Thu 10 June, 2004 1:54am [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Well today I saw that girl again [Emma is her name] and she wasn't too sure on what she is doing on saturday night, so I got her number at least to be able to call her on the friday or sat morning to try arrange something! So here's hoping! Other than that, not a whole lot has happened since the last blog entry on sunday, except more rehersals at college and a test I had this afternoon. Fun. Oh..well I say up till 1am last night doing course work that had to be in today. That was fun. Anyways I'm tired so I'm off to bed! -Night.
+Woo! I FINALLY DID IT! [6/6/04]
+Posted by - Mon 07 June, 2004 1:22am [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Yep, that's right! I did it! I asked out the girl I like today :D And all went well :) Now when I see her again on wednesday, we are going to arrange a time and day to meet up properly! woo! So today was a good day, and I'm now very happy! :DD **finally**
+The 5th day of June
+Posted by - Sat 05 June, 2004 3:57pm [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Well nothing has happened today. Probably cuz it's only 3.30pm. But yesterday is where the fun was at! [and some annoyance..] So here's goes my story of the day before today: The day started with me on the train to Exeter where on thursday at college me, Si and Jez had arranged to meet up and go to Riley's [a snooker/pool place]. Well on the train I get a phone call from Jez saying "do you wanna come to Dawlish instead cuz there's some basketball people there..blah blah" [Dawlish is some crappy little town half way to Exeter, where Jez girlfriend lives] Anyways, I was like 'no cuz I just bought a ticket to exeter' etc so I get to Exeter and meet up with Si and tell him what Jez said and Si was annoyed then cuz we had arranged to do stuff in Exeter. So after a phone call back to Jez to say that we ain't going to Dawlish, me and Si carry on as planned and on the way I bought some new jeans [woo!] Then I remembered that Nikki was in town that day so I rang her and asked if she wanted to meet and she said she was going to meet Terri-ann and then they would come meet us in Riley's. So me and Si get to Riley's around midday and payed for an allday session then started our game of pool. I was kicking his ass for the first 6 games then he started to catch up and then started winning :( Later on the girls arrived and we played doubles. Was funy to watch the girls play beacause they couldn't really! Plus Terri kept slipping balls into the pockets while the others weren't watching! :P At around 7pm we left [yes, 7 hours of playing pool!] and Terri had to leave to meet her boyfriend, so me Si and Nik went to hire a film and get a chinese then we went back to hers to watch it. The film we got was 'Cheaper by the dozen'. It was an OK film, but it did seem to drag on abit sometimes. By then it was about 11pm so Simons mum came to pick me and him up form Nikkis and I stayed at his cuz it was too late to get the train back. And now here I am at home writing this. It was a fun day :) On the best days I had in a long time with friends! Doesn't sound much in writing, had to have been there really :P
+**Friday 4th**
+Yesterday [2nd June]
+Posted by - Thu 03 June, 2004 9:13pm [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+I PASSED MY DRIVING THEORY TEST!!! woo! Now to do my practical and I'm all set! That should be easy enough though. All I gotta do now is get a car :D
+31st day of May in the 2004th year!
+Posted by - Mon 31 May, 2004 5:38pm [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Hm well, been a bit of gap with the updates just recenlty! Not sure why though..apart from TKZ going down the other day. Anyways, not exactly done loads in the last few days to write about really... although there was 2 notable things; finally coloured page 2 of my new comic [see it ], but the second thing is a bit more exciting for me! Seems the girl I like and been getting to know, likes me [or so it appears] so I plan to ask her out next week when I see her again! I just hope it allgoes well :D Oh and also, if you saw the poster I made few days ago.. didn't get chose to be put up around college :( damn..
+Wednesday's Day. 26/5/04
+Posted by - Wed 26 May, 2004 10:19pm [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Well today was an average day really. Attempted to revise for my theory driving test which I'm taking next week [2nd June!] Note the word ! :P Didn't do much else after that really, just messed about the house with my brother and sister. In the evening I went to 'Deeper' a youth group at my Church. Was just a social evening tonight so we all went down the park and played games all night which was fun! I somehow ended up with the tug-of-war rope around my legs at one point and then got dragged around by the other guys! Was quite fun really :P Now I'm at home with grass stains on my clothes! About 10.30pm now, so I don't expect I'll be doing anything more now apart from watching TV or going to the pub later. Maybe tomorrow will hold some fun and games to write about!
+*attempted*
+Bizarre...
+Posted by - Wed 26 May, 2004 1:29pm [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Hm, well I just got really confused cuz my computer said it was the 27th for some reason, and that made me wonder where wednesday went and that I should be at college right now if it were the 27th! But now that I know it is still wednesday, I'll tell you about tuesday! (didn't get time to write it last night) Well, it wasn't much of a day really.. went to college where we just helped set up the studio theatre for some performance that night, then we were all measured up for our costumes for our play we doing in about 5 weeks. I get to be dressed like some hip hop type of guy :P After that we just did some writing then went and lay about in the sun on the grass. It was only a half day so we were finished by then. The day just flew by really. Watched TV in the evening and had to lock up the pub later on. And that was tuesday. Fun. ----- Now today (wednesday) has only just started really, so not alot has happened just yet, but I can say what I to do today! :P Well I would, but I don't feel like it, so I'll just say today.. or tonight even, should be a good fun night! [I get to see the girl I like again and hopefully make some advances toward getting with her ;) ] So.. I'll update later on with how the day went!
+*expect*
+Monday the 24th!
+Posted by - Tue 25 May, 2004 2:18am [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+Today went off to a bad start cuz the trains had all changed their timetables making me [and my friends] late to college cuz none of us knew it had changed! Apart from that, the day got better really, cuz normally we are in till 4pm but today only till 12! We were only in till 12 cuz Nige [my tutor] had booked us all in to see the Nationals do their play/performance. (Nationals are a year higher than I am in college) It was a great performance! The singing was grest and everyhitng was cool. After college I came home, did bugger all and then watched a film on the movie channels - The League Of Extra Ordinary Gentlemen! Was a good film! :D After that tho I had to go and lock up he pub etc Also today, or the other day (can't remember which) I got bord and decided to find out was PSP can do. Here is a picture: :P **EDIT - I think I must have been drunk when I wrote this! So many typos :P Tidied it up now**
+![](http://www.impossibleprod.geahost.com/Extra/Me%20with%20new%20found%20powers!.PNG)
+Aha! The day of Sunday - a good day!
+Posted by - Mon 24 May, 2004 12:55am [Blob Dude](forums/profile.php?mode=viewprofile&u=307)
+w00p~! ..Is my word of the moment. Not sure why though, just expect to see it in many of my posts! :P Other than that, today was a good day! And it's not often you will hear me say that and mean it! Here is how it went..... 'Twas a normal Sunday morn.. the sun was shining and I didn't really want to wake up. I went to church, sung and all that and some guy came and told me just what I needed to hear to fix my past. Which was nice. Now I just gotta figure it out and work on it! Nothing much happened during the afternoon.. dossed about mainly. Later in the evening there was a church BBQ and baptism service at the beach, which was cool. Never seen a full immersion baptism in the sea before! The BBQ was nice, spoke to my new friends (only been going to this church a few months so I'm still trying to get to know people) and through ways and means they figured out I like one the girls there [apparently some one else had found out I liked her and told them - no idea how he knew though!] So now, maybe hopefully I can work on getting together with her now if she likes me too! As well as that it's her b'day soon, and as she like pink alot, everyone thought it be good to wear something pink on the day.. so they decided they gonna dye my pink! Should be fun.. something new anyway! :P I also found out, that someone else I know from the church lives where our new house is, and only 2 mins down the road from it! So now I have one reason to like where we are moving to at least! Then I came home later and watched Alias [which is cool! See it on Bravo if you got it :P] went on the PC for a bit then went to lock up the pub and now here I am, ready to go bed for so I can wake up for college tomorrow! yay. Anyways, that was my good day. Hopefully they will get better :D w00p!

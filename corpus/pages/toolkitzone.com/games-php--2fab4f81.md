@@ -1,0 +1,53 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/games.php?file=118"
+site: "toolkitzone.com"
+title: "Heraldry: Freija"
+original_url: "http://www.toolkitzone.com/games.php?file=118"
+written: "2005-03-14T00:43:00"
+date_confidence: "exact"
+updated: "2005-03-14T00:43:00"
+captured: ["20050317215602"]
+author: "khin"
+repliers: []
+authors: ["khin"]
+comments_present: 0
+f_description: "The first from the the four-volume HERALDRY series. The game promises to raise the standards of RPG TOOLKIT games--graphically, and gameplay-wise. You play the role of Freija Moonault, a highschool kickout and daughter of the great Moonault carthographers. As Freija, your goal is to rediscover the world and disprove of the historical lies that your government has fed to the people."
+f_led_by: "khin"
+f_rating: "41 votes cast"
+f_status: "Demo"
+f_toolkit_version: "3.x"
+f_website: "Pigments Arts Company"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/games.php__file_118", captured: "20050317215602", sha256: "441be0810068a3c73af18988377c9a3852746cfe9ba56db728ea4ad0fa221842", wayback_url: "https://web.archive.org/web/20050317215602/http://www.toolkitzone.com:80/games.php?file=118&PHPSESSID=3605250452432953efa1ff97935bec2f"}
+---
+
+# Heraldry: Freija
+
+GAMES
+March 14, 2005, 12:43 am
+Demo
+The first from the the four-volume HERALDRY series. The game promises to raise the standards of RPG TOOLKIT games--graphically, and gameplay-wise. You play the role of Freija Moonault, a highschool kickout and daughter of the great Moonault carthographers. As Freija, your goal is to rediscover the world and disprove of the historical lies that your government has fed to the people.
+**Heraldry: Freija**
+> Heraldry: Freija Demo 1 [Demo Folder](games.php?mode=files&view=1&game=69)
+March 2 2005, 8:31 pm
+The first demo for the game. Also the first TK3 game released. A graphics demo, with incomplete menu system. Download the patch(v1.1) to ensure best gaming experience. For possible bugs like menu not showing up as well as npcs not interacting, be informed that this game was developed with a very early version of TK3 and was really buggy. If you have downloaded the patch then you'll experience less bugs, but to avoid things mentioned above, avoid all moving npcs. If you want to talk to them wait for them to pause. If you collide with them while moving all programs, warps, and items will stop working. It's out of our hands, really. Thank you for your patronage. :)
+(71) **Download Tracker**
+v = has voted on file | f = given project feedback | c = commented on file
+, , , , , , , , , (v), , , , , , , , , (v), , (f), , , , (v), (f), (v), , (fc), , , , , , , , (c), , , , , , , (vf), (v), , (v), , , , , , , (f), (vf), (vfc), , , , , (f), (f), (vc), , , (v), , , , (v), [Andruth2](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5142) [bbreidt1](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5264) [blackpanther6389](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=297) [bluerevan](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5133) [Buzzkill2000](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=3887) [Caliber Mengsk](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=924) [Cedrick Bryan Sagum](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4597) [Coredog](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5261) [Crashattack](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5310) [cubed05](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=1853) [Darkhope](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4256) [Dash](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=14) [demonex](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=242) [Devastation](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4234) [eternal gladiator](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=3139) [EVILSrevolution](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5232) [fireemblempridex](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=83) [forsaken](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4480) [FreakyFreak](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5364) [Furimar](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5002) [garnetrising](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4877) [GD](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=2781) [Gundammaniac](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5342) [ifreet](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5137) [Ishimilli](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4381) [I_Cant_Beleive_Its_Me](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=3770) [joao_foscarini](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=2988) [Kahn](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=1790) [khin](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=157) [Kumori the Kitsune](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4640) [Kurt Cobain](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4537) [Lethias](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5187) [Lrin Lenton](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5276) [matt72186](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=31) [Mike](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=37) [Minion](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5098) [moonwolf12](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4025) [mr picso](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=3699) [ob211](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=229) [OrionR23](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=1724) [Plasmius](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4894) [Ranien](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4396) [RDemusX](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=2789) [Risika](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5210) [Ryan](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=1664) [sephiroth_girl](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4424) [sephy](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4390) [Septevar](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5312) [Setu_Firestorm](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4213) [Shino Seathe](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5290) [stanleywuu](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=945) [Stazz](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5375) [Steve-o](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=581) [sumkeep41](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=353) [Talyn](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=1395) [The Envy](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5265) [TheCPPFreak220](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4269) [The_Sleeping_Dragon](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=48) [Timotayo](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5218) [Timothy](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5216) [TK Apprentice](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=1137) [TK Game Boy](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=304) [tsmpaul](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5402) [Uranite](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5228) [VIperX21](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=235) [Xavier](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=6) [Youngguy13](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=5357) [Z](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=3094) [Zechs](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=3148) [zeno](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=644) [Zio](http://www.toolkitzone.com/forums/profile.php?mode=viewprofile&u=4756)
+February 2 2005, 3:21 pm
+The graphics look great. I just wish I knew *how* you plan to make gameplay better.
+February 8 2005, 7:21 pm
+Beautiful graphics. From what i have seen, it offers up one of the most original and UNRIPPED looks I've seen in an online RPG community in a very long time, as well as an interesting story, that for once doesn't jump straight into the cliche "i'm off to save the world from the appocalypse" story that we all know. Look Foreward to seeing more. Again, nice work.
+February 28 2005, 4:17 pm
+What's the action key? I can install the demo and run it, I can start a new game, and move around, but that's it. I can't open the menu, and I can't talk to the other sprite or leave the room (assuming the exit is the blue curtain, top-right). Am I the only one with this problem? Yes, I downloaded the patch.
+March 2 2005, 1:18 am
+No, moonwolf12, you're not alone. I've had the same problem with not always being able to leave. The action key (which is spacebar) doesn't always work either. To open the menu, press enter. To leave the menu, press esc. Also, to quit, use the Q key. As for not always being able to leave (the blue curtain is the exit), I have to just quit the game and reopen it if it doesn't work. Same thing with the action key. Not all the NPC's work all the time. Great graphics though, khin.
+March 2 2005, 8:56 pm
+For possible bugs like menu not showing up as well as npcs not interacting, be informed that this game was developed with a very early version of TK3 and was really buggy. If you have downloaded the patch then you'll experience less bugs, but to avoid things mentioned above, avoid all moving npcs. If you want to talk to them wait for them to pause. If you collide with them while moving all programs, warps, and items will stop working. It's out of our hands, really.
+March 2 2005, 10:51 pm
+Purely astounding.
+March 12 2005, 4:44 am
+This is really, really awesome guys!
+[![Aryx Garden](games/phpThumb.php?src=../mygames/images/69/2066.jpg&w=175)](games.php?image=2066)

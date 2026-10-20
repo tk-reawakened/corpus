@@ -1,0 +1,33 @@
+---
+kind: blog
+id: "toolkitzone.com/4286"
+site: "toolkitzone.com"
+title: "And He Speaks..."
+original_url: "http://www.toolkitzone.com/blog.php?mode=view&entry=4286"
+written: "2006-05-01"
+date_confidence: "day"
+updated: null
+captured: ["20060506150618"]
+author: "Lisha"
+repliers: []
+authors: ["Lisha"]
+comments_present: 0
+f_joined: "February 8, 2006"
+f_location: "On a horse...or at the barn... or...um...thinking about horses somewhere else"
+f_username: "Lisha"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/blog.php__mode_view_entry_4286", captured: "20060506150618", sha256: "822abd1b57a65ffeb1e6e7b787f3a26139c1f4cc2e395386374d32adef452398", wayback_url: "https://web.archive.org/web/20060506150618/http://www.toolkitzone.com:80/blog.php?mode=view&entry=4286&PHPSESSID=3a8228a49817b9a1c23ba87f60366d8d"}
+---
+
+# And He Speaks...
+
+by Lisha on May 1, 2006
+Meh. This one is okay. I liked writing the conversation between Saphyra and Hanev. But I had to make Hanev slightly drunk because he wouldn't talk that much otherwise. ^_~ ***** May 1 Hanev disappeared for the rest of the day yesterday, leaving me to ponder on my own. I didnt want to think about what I had seen, but every time I closed my eyes and tried to go to sleep that night the image of Keyas face, splashed with blood and tears, whispering, Why? is all I can see behind my shuttered eyelids. I replay the vision in my head over and over again, almost like I did the scene of my kidnapping a few days ago. Only there is a difference; this vision scares me, badly, while Hanevs betrayal was something I considered to be done and over with; final. And I know that this is, too. After all, it couldnt have happened less than nine years ago. But for some reason, some reason that I cannot put my finger on, it seems like it still is unfinished, still is ongoing. And the way I think about it, the way I roll the scenes around in my mind, seems to be close to obsession. But would it have to do with me, I wonder? Its over. It was Hanev, not me. It had nothing to do with me. But theres a little part inside of me, at my core, that hisses, I remember that, yes I do, I remember that. But why? Those strange little quirks that I started noticing yesterday (the frustration, the memories that I can almost remember, not being able to concentrate) havent gotten better either. If anything, theyve gotten worse. Those may be just nerves, though, especially the frustration and the lack of concentration. But lack of concentration isnt the best way to describe itIts more than that. Ill do something completely unrelated to what I was doing before, and then Ill barely even notice that Im doing it. Its so strange But anyway. He came back, though. Hanev. He didnt say anything to me; just walked back down the stairs and sat in his chair, head in his hands. But then he finally asked me, without lifting his head, Was that really what I said? Hanev doesnt love anybody anymore. Was that truly what I said? I turned, taken aback, then nodded slowly. He groaned, lifted his head and leaned back instead, eyes closed. The bastard. That must have hurt her so badly. Then he added, in a murmur, But its true, now. I came to the edge of the cage, wrapped my hands around the iron bars. What happened to Brayan? Your parents? I asked, hesitantly. He opened his eyes and looked at me. For a moment he looked angry at me for asking, then he seemed to let go of the anger. Somewhat. He answered wistfully, My mother slit her own throat a week after Keya died. Father followed the next month. Brayan? Pfft, no one knows where is anymore. Probably staggering around drunk somewhere off near the border. Though Hanev himself looked like he might be just a little bit drunk himself. He doesnt usually talk so willingly. Oh I said, not knowing what else to say. He snickered disdainfully. Loss for words, are you? Cant believe I killed my own sister? I wasnt sure how to answer that one either. I was so ready to say, Yes, I can believe it. You killed three others, didnt you? Yet I couldnt. I remained silent. He didnt seem to notice that I didnt answer. Keya he said, sounding as if he was talking to himself rather than me. She wasnt beautiful, but my brother and I, my parents, we all thought she was. Because we loved her so much. Of course we all loved each other, too, but our personalities just didnt mix right. We were like an arched bridge; we needed that one piece right at the top so we wouldnt fall in on each other. Keya was that piece. She forced us to get along. And after so many years of forcing, it began to happen for real. It wasnt as if she was so important that the family would have fallen apart the way it did if she had just died of sickness, though. Half of it - all of it, really, I think - was me. Killing her like that He shook his head slowly, dejectedly. Then he added, in a low, low murmur, so low that I know I wasnt meant to hear, But they didnt understand what really happened. Then he drew his eyes from the ground at aimed them at me again. Sometimes do you feel angry for no reason? Irritated? Do you sometimes start doing something completely different than what you were originally doing, then dont even notice? Or catch edges of memories sometimes, but not the whole thing? Yes, I replied, startled at the accuracy of his questions. Yes, exactly. How did you? He gave a wry smile. My blood was once silver too. Then the smile disappeared as suddenly as it was there, and his face was grim. So that is all true? Yes. He grimaced and sighed. Damn that. And he looked like he meant it. Then he got up and left, without any warning. He was definitely a little drunk, the way he talked and went on. Nonetheless, I learned at least a little. But that comment My blood was once silver too. I still dont know what the silver blood means, yet, and hopefully I wont ever have to know. But now I at least know that Hanev isnt stupid on the subject, and I can pry information from him if I need to. And I know that what has been happening to me is related to the silver blood. Another useful fact. But it makes me uneasy. Now I know the quirks mean something; they arent just nerves. I really am changing, then. Unsettling. But it wont be something horrible. It wont be. It wont be. One last time for luck: It wont be. -Saphyra
+*what*
+*he*
+May 1 2006, 7:42 pm
+Best chapter yet. A bit emotional, intriguing, and downright creepy. You, Lisha, are incredible.
+May 2 2006, 3:00 pm
+@Ryu - O_O Really? Glad you liked it, deinfitely! Just made my day, that's for sure. =D
+![](forums/images/avatars/103844397544138b2464cda.gif)

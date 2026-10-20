@@ -1,0 +1,33 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/games.php?image=5472&view=cadd"
+site: "toolkitzone.com"
+title: "Bad Kids"
+original_url: "http://www.toolkitzone.com/games.php?image=5472&view=cadd"
+written: "2006-05-23T22:32:00"
+date_confidence: "exact"
+updated: "2006-05-23T22:32:00"
+captured: ["20060623093129"]
+author: "Bad Kids"
+repliers: []
+authors: ["Bad Kids"]
+comments_present: 0
+f_description: "Game that takes place in the 21st century, in a world of gangsters and drugs. You explore many lands with characters, and meet others. The game will include many features such as bribing cops, and stealing stuff from stores."
+f_led_by: "Bad Kids"
+f_rating: "8 votes cast"
+f_status: "Design"
+f_toolkit_version: "3.x"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/games.php__image_5472_view_cadd", captured: "20060623093129", sha256: "44b6d397e041113db10f6216fb1bcb63fb08a08b407cad9881c0e28f779a1878", wayback_url: "https://web.archive.org/web/20060623093129/http://www.toolkitzone.com/games.php?image=5472&view=cadd"}
+---
+
+# Bad Kids
+
+May 23, 2006, 10:32 pm
+Design
+Game that takes place in the 21st century, in a world of gangsters and drugs. You explore many lands with characters, and meet others. The game will include many features such as bribing cops, and stealing stuff from stores.
+**Bad Kids**
+**Add Feedback - Error(s) Encountered**
+You must login to add a comment. Please wait while you are taken back to the image...
+[![Loading Screen](games/phpThumb.php?src=../mygames/images/584/4556.PNG&w=175)](games.php?image=4556)

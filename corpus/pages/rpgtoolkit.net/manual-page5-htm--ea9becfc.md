@@ -1,0 +1,123 @@
+---
+kind: page
+id: "rpgtoolkit.net/rpgtoolkit.net/manual/page5.htm"
+site: "rpgtoolkit.net"
+title: "[ | | | ]ToolbarsMenusTile GrabberTileset Editor"
+original_url: "http://rpgtoolkit.net/manual/page5.htm"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20130420032445"]
+author: null
+repliers: []
+authors: []
+comments_present: 0
+converter_version: "1"
+source_captures:
+  - {path: "wayback/rpgtoolkit.net/manual/page5.htm", captured: "20130420032445", sha256: "afe665752145cc4843955aa0cb16cc127d1b77365ca4b6f5cf0568ea0916189e", wayback_url: "https://web.archive.org/web/20130420032445/http://rpgtoolkit.net/manual/page5.htm"}
+---
+
+# [ | | | ]ToolbarsMenusTile GrabberTileset Editor
+
+Tiles are an integral part of Toolkit games and many are available for download all over the internet. If you're feeling artistic, you may want to create your own or edit those you download. One place you can do this is the tile editor, which has a host of features for making and enhancing tiles. You can also create tiles in external graphics editors and import them into the Toolkit using the .Tile Grabber
+Tile Basics
+Tiles are 32x32 pixel square images that are the building blocks of many types of game, not only RPGs. Tiles may depict parts of a building - windows, doors, walls - or treasure chests, or characters - everything in the Toolkit is based on tiles (although standard image types can also be used).
+The tile editor is primarily composed of a picture box that represents an enlarged version the current tile. When the tile editor first loads each pixel appears to be a combination of small white and grey squares - this combination represents the transparent colour for pixels.
+Isometric Tiles
+Isometric tiles are diamond-shaped, 62x32 pixel tiles that can be used on isometric boards. The Toolkit has two methods of producing isometric tiles:
+Firstly, 2D tiles can be placed directly onto isometric boards. The 2D tile is rotated and stretched to give it the right dimensions - this happens 'on the fly' and the tile data is not altered in any way. The effect this generates can be desirable but in general it is very difficult to create tiles specifically for isometrics in this way.
+Hence, the Toolkit has an isometric tile format, in which tiles are diamond-shaped and drawn exactly as they appear. They are edited in the same way as 2D tiles and are placed in their own tilesets (.iso). Isometric tiles can also be imported using the .Tile Grabber
+Tilesets
+Tiles are stored in - a Toolkit format similar to chipsets that can hold a large number of tiles and can be easily edited using the . *tilesets*Tileset Editor
+Tilesets can be viewed using the tileset browser on the right toolbar - you can load a tile into a new editor by clicking. Also, tiles can be loaded into the current editor using the "L" hotkey, which displays a windowed tileset browser. (Both these tools can be used for other editors too.)
+It is also possible to store tiles individually in the .gph format, however this format is slower and larger than .tst and is only maintained for backwards compatibility.
+Around the Editor
+Toolbars
+Different drawing techniques can be found in the toolbar on the left-hand side of the screen.
+Grid On/Off - Draws a grid around the pixels in the tile that may be useful for drawing.
+Redraw - Redraws the tiles - occasionally this may be required when graphics are not automatically updated.
+Isometric View - This switches the tile to/from isometric mode. If a tile is being edited it is rotated and stretched in the same way as it would be for placement on isometric boards. Note that this conversion is permanent! Isometric or converted tiles cannot be converted back to 2D tiles.
+Change Colour - This tool replaces pixels of a certain colour with the currently selected colour.
+Pencil Tool - The basic pixel drawing tool. Pixels are drawn using the currently selected colour.
+Eyedropper Tool - Use this to set the current colour to that of a pixel on the tile.
+Flood Fill Tool - Floods an enclosed region with the current colour.
+Eraser Tool - Erases pixels.
+Line Tool - Draws a single-pixel thick line.
+Ellipse Tool - Draws single-pixel thick ellipses or circles.
+Filled Ellipse Tool - Draws solid ellipses or circles.
+Rectangle Tool - Draws single-pixel thick rectangles.
+Filled Rectangle Tool - Draws solid rectangles.
+The current draw properties are displayed in the lower toolbar.
+Colour - Shows a bank of colours that can be selected by clicking. The tall button at the right end can be used to select the transparent colour. The "Select Colour" and "DOS Palette" are other methods of choosing colours. The "Shade Tile" button pops up a window allowing you to apply a uniform shade to the whole tile in terms of RGB (red, green, blue) components. The resulting colour is displayed in the box. Selecting "Preview" applies the effect to the tile, which is updated in real-time.
+Current Colour/Tile - The first box shows the currently selected colour, which is used when pixels are placed on the tile; the second box shows a preview of the tile. In 2D mode, the third box shows a preview of the tile in isometric view, i.e. after rotation and stretching. In isometric mode this shows a direct preview of the tile and the 2D tile box is empty. The "Import" button is a quick method for importing single tile images (note this is not the tile grabber!) - the imported tile is taken from the first 32x32 pixels of the image file (selected through "Open Image"). With "Go back to tile after opening" selected, this window closes as soon as the image is chosen.
+Scroll - The buttons allow you to move the tile in each of the 4 directions, one row of tiles at a time. Pixels that "disappear" off one side appear back on the other side!
+Menus
+File
+Save Tile - Saves the current tile. If the tile is new, then you can choose to add it to an existing tileset by selecting it in the dialog window, or create a new one.
+Save Tile As - You can choose to add the tile to an existing tileset or create a new one.
+Save Into Tileset - Allows you to save the tile into a tileset at any position, by overwriting the tile at that position. When the chosen set is loaded into the tileset browser, click a tile to select the position to insert the new tile. Warning: this will overwrite the tile at that position! If you want to add a tile into a set without erasing other tiles, use the . [Tileset Editor](page?.htm)
+Edit
+Undo - Causes last action to be undone or redone (subsequent undos are not currently supported).
+Cut Corner - Removes half of the tile, split along a diagonal. A window appears listing the corners to be removed. Select preview to see the effect.
+Skew - Slants the tile to the right at a 45 degree angle. A window appears listing the types of skew. A "Linear Continuous" skew places pixels that are shuffled off the tile to the right back in the space on the left. "Linear Broken" does not replace the lost pixels; half the tile becomes blank.
+Clear - Clears the tile.
+Rotate - Rotates the tile by 90, 180 or 270 degrees. Also has options to flip (top to bottom) or mirror (left to right) the tile.
+Image
+Import Image - As for the "Import" button in the lower toolbar.
+Layer Tile - Allows a second tile to be superimposed on top of the current tile (useful for tiles with transparent areas). Tiles can be layered translucently - that is, the colour values of corresponding pixels are added together to give the final colour, the intensity of the layering tile can be set in the text box (as a percentage). Hit "Preview" to see the effect.
+Grab Tiles - Launches the Tile Grabber - see below.
+Select Colour - Loads a window for selecting the current colour.
+DOS Palette - Loads a DOS colour palette window for selecting the current colour.
+Greyscale - Converts the tile to a greyscale image.
+Draw
+Contains links to the tools in the left-hand toolbar.
+Use Recursive Flooding - If you experience problems with the flood tool, such as transparent pixels turning black, enable this option. This may happen on earlier versions of Windows. This option is linked to the option in the . [Board Editor](page4.htm)
+Effects
+Blur - Creates a simple non-directional blur.
+Motion Blur - Creates a motion blur effect from left to right.
+Light Source - Allows you to create shadows on the tile by selecting pixels to block light from a source. A window appears showing the tile and a dial in the corner. Define pixels that will "cause" the shadow by clicking them in this window - they become highlighted to indicate this. Select the direction and length of the shadows by varying the length and angle of the line on the dial. To see the effect on the tile in the editor (i.e. not in the current window) hit "Preview".
+Texturise - Applies a dithered texture by randomly varying the lightness (but not the hue) of certain pixels. Use the slider to increase or decrease the effect. This effect is useful for creating variation in earth, grass or wall tiles.
+Translucentise - Gives the tile a pseudo-translucent effect (not true translucency) by removing pixels (when viewed at real size). Patterns of pixels are removed with an slider to vary the amount of pixels that are removed. This may be useful for making tiles to place on higher layers on boards.
+Tile Grabber
+The tile grabber allows you to convert parts of or entire images to tilesets. Both 2D and isometric tiles can be grabbed, and also 16x16 tiles (for backwards compatibility).
+To grab tiles from an image, first load the image using the first button in the toolbar and turn on the grid. You can select individual tiles by clicking the image - a blue box appears around the tile and it is previewed in the toolbar box. A selection of tiles can be made by clicking and dragging. The status bar at the bottom shows the dimensions and number of tiles in the selection. To save the tiles in the selection, hit the "Batch Grab 32x32" button, after which you will be prompted to create or select a tileset for the tiles to be placed in.
+To convert the whole image, clear any current selection using the blue arrow button and hit the "Batch Grab 32x32" button. If the image is not exactly divisible into tiles, transparent pixels will pad the edge tiles.
+Right click on the image to move the grid to the mouse point (useful for when images are offset).
+The currently selected tile is loaded into the active tile editor for fast grabbing - save any open tiles before grabbing!
+Open graphic - Loads an image file to be grabbed.
+Reset grid and selection - Clears any selection and realigns the grid to the corner.
+Get transparent colour - Chooses the transparent colour on the image, which appears in the box below this icon.
+Draw gridlines - Turn the grid on or off.
+Set isometric mode - Switches the editor to grab isometric tiles and alters the grid.
+Tile preview - A preview of the currently selected tile, or the first tile in a selection.
+Welcome note - Enables/disables the help window that appears when the grabber loads.
+Ignore edge tiles - In isometric mode this causes the grabber to miss the half- or quarter-tiles created by a rectangular selection around an isometric tile. Disabled in 2D mode.
+Grid offset - Shifts the grid vertically by 16 pixels - useful for isometric mode.
+Ignore blank tiles - When grabbing, tiles containing pixels of only the transparent colour are missed (blank tiles are still counted in the status bar).
+Grid colour - Click the box to alter the colour of the grid lines.
+Selection colour - Click the box to alter the colour of the selection box.
+Batch Grab 32x32 (Batch Isometric) - Grabs the tiles in the current selection and saves them in a tileset, or the whole image if no selection is made.
+Batch Grab 16x16 - Tiles are saved in 16x16 squares rather than 32x32; however when used these tiles are doubled in size.
+Tileset Editor
+The Tileset Editor has several features that can be used to edit and arrange your tilesets. Two of these are "backwards compatibility" functions for adding individual tiles (*.gphs) to tilesets. Although single tiles are still supported, they are superseded by tilesets and you'll probably never come across them whilst making your game.
+Manually (*.gph > *.tst)
+A somewhat redundant function; gph files are added to a set by entering their name in the text field and hitting "Add Files to Tileset". Multiple gphs can be added by using the * wildcard, for instance "forest*.gph".
+Visually (*.gph < > *.tst)
+Allows the conversion from tst tiles to gphs, as well as adding gphs to tilesets. Tiles can also be viewed one at a time. Gphs added to tilesets are added at the end of the set. There are options to delete the gphs once added, or manually delete the gphs ("Delete Selected File" - note this does not delete tiles in the set). The "Remove Duplicates" button searches the tileset for duplicate tiles, and removes any it finds.
+Advanced (*.tst < > *.tst, *.tst > *.iso, *.iso < > *.iso)
+The "advanced" tileset editor is the update to the editor, which allows two tilesets to be opened at a time, and tiles exchanged between them, along with the ability to rearrange and delete tiles and create new sets. Each of the two tilesets has a set of tools next to it's window that can be used to manipulate that set. Information about the set is displayed above it. As well as using the tools, tiles can be around or between sets. *dragged*
+Open Tileset
+Save Tileset - all changes made in the editor are made to copies of the current tilesets, so there is never a danger of losing data from the tilesets.
+Save Tileset As
+Enable Grid
+Isometric View - Tst tilesets can be viewed either isometrically or normally (the actual data is not changed, only the view), but isometric tilesets (*.iso) can only be viewed isometrically.
+Insert current tile - Inserts the selected tile from the other set into the position in front of the selected tile in the current set. If no tile is selected, then the tile is inserted at the end of the set.
+Delete current tile - Deletes the selected tile and shifts the remaining tiles in the set up.
+Insert blank tile - Inserts a transparent tile in front of the selected tile. If no tile is selected, the tile is added to the end of the set.
+Move up - Shifts the selected tile up one entry. Note you can also rearrange tiles by clicking and dragging any tile around the set.
+Move down - Shifts the selected tile down one entry.
+OK - Saves changes to the sets and exits.
+Cancel - Leaves without saving changes.
+Show welcome note - Displays a help window when the editor loads.
+Width - Alters the viewing width of the set. By default, sets are displayed with a width of 9 tiles. You may find it useful to resize sets in order to better display collections of tiles.
+Altering the order of tilesets can cause problems in files where the tiles are already in use. When tiles are used in other files, they are referenced by their index in the tileset, hence if you change the order of the tiles after using the set to create (say, a board) when you return to that board, different tiles will be displayed! **Warning:**

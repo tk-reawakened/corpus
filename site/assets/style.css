@@ -1,0 +1,99 @@
+/* TK Corpus - one stylesheet, no framework. */
+:root {
+  --bg: #fbfaf7;
+  --fg: #24211d;
+  --dim: #6d675e;
+  --line: #e2ddd3;
+  --card: #ffffff;
+  --accent: #8a5a2b;
+  --accent-soft: #f3ece2;
+  --code-bg: #f4f1ea;
+  --max: 60rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16151300; --bg: #161513; --fg: #e8e3d9; --dim: #9a938a;
+    --line: #33302b; --card: #1d1b18; --accent: #d6a56a; --accent-soft: #262119;
+    --code-bg: #221f1b;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.65 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+
+header.top {
+  display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; align-items: baseline;
+  padding: .9rem 1.25rem; border-bottom: 1px solid var(--line); background: var(--card);
+  position: sticky; top: 0; z-index: 10;
+}
+header.top .brand { font-weight: 700; letter-spacing: .01em; text-decoration: none; color: var(--fg); }
+header.top nav { display: flex; gap: 1rem; font-size: .92rem; }
+
+main { max-width: var(--max); margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+footer.foot {
+  max-width: var(--max); margin: 0 auto; padding: 1rem 1.25rem 3rem;
+  color: var(--dim); font-size: .85rem; border-top: 1px solid var(--line);
+}
+
+h1 { font-size: 1.9rem; line-height: 1.2; margin: .2em 0 .5em; }
+h2 { font-size: 1.25rem; margin: 2em 0 .5em; }
+h3 { font-size: 1.02rem; margin: 1.4em 0 .3em; }
+p.lead { font-size: 1.1rem; color: var(--dim); }
+p.intro, p.crumbs { color: var(--dim); font-size: .92rem; }
+p.crumbs { margin-top: -.4em; }
+p.empty { color: var(--dim); font-style: italic; }
+p.src, p.raw, p.note { font-size: .82rem; color: var(--dim); }
+p.note { background: var(--accent-soft); padding: .5rem .7rem; border-radius: 4px; }
+
+table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .93rem; }
+th, td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+table.meta { font-size: .86rem; background: var(--card); border: 1px solid var(--line); border-radius: 6px; }
+table.meta th { width: 11rem; color: var(--dim); font-weight: 500; }
+table.kinds th { color: var(--dim); font-weight: 500; }
+table.games { font-size: .88rem; }
+
+ul.entries, ul.start { list-style: none; padding: 0; margin: .5rem 0 1rem; }
+ul.entries li, ul.start li { padding: .3rem 0; border-bottom: 1px solid var(--line); }
+ul.entries .m, ul.start .m { color: var(--dim); font-size: .84rem; }
+ul.start li { border: 0; }
+
+.entry .body { margin-top: 1.5rem; }
+.entry .body img { max-width: 100%; height: auto; border-radius: 4px; }
+.entry .body blockquote {
+  margin: .8rem 0; padding: .4rem .9rem; border-left: 3px solid var(--line); color: var(--dim);
+}
+.entry .body pre { background: var(--code-bg); padding: .8rem 1rem; overflow-x: auto; border-radius: 6px; }
+.entry .body code { background: var(--code-bg); padding: .1rem .3rem; border-radius: 3px; font-size: .9em; }
+.entry .body pre code { background: none; padding: 0; }
+.entry .body h3 { border-top: 1px solid var(--line); padding-top: .9rem; }
+
+form.search { display: flex; gap: .5rem; margin: 1rem 0; flex-wrap: wrap; }
+form.search input[type=search] {
+  flex: 1 1 22rem; padding: .55rem .7rem; font-size: 1rem;
+  border: 1px solid var(--line); border-radius: 6px; background: var(--card); color: var(--fg);
+}
+form.search button {
+  padding: .55rem 1rem; font-size: 1rem; border: 1px solid var(--line); border-radius: 6px;
+  background: var(--accent); color: #fff; cursor: pointer;
+}
+#scope { color: var(--dim); font-size: .9rem; margin-bottom: 1rem; }
+#stat { font-size: .85rem; }
+#results .hit { padding: .55rem 0; border-bottom: 1px solid var(--line); }
+#results .hit .m { color: var(--dim); font-size: .84rem; }
+#results .hit .x { display: block; color: var(--dim); font-size: .9rem; }
+#results mark { background: var(--accent-soft); color: inherit; padding: 0 .1em; }
+.loading { color: var(--dim); font-style: italic; }
+
+footer a { color: var(--dim); }
+@media (max-width: 40rem) {
+  main { padding: 1rem .9rem 3rem; }
+  h1 { font-size: 1.5rem; }
+  table.meta th { width: 8rem; }
+}

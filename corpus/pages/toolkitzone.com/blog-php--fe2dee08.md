@@ -1,0 +1,38 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/blog.php?mode=view&user=27&view=user"
+site: "toolkitzone.com"
+title: "User Entries (3)"
+original_url: "http://toolkitzone.com/blog.php?mode=view&view=user&user=27"
+written: "2004-01-28"
+date_confidence: "day"
+updated: null
+captured: ["20060616180102"]
+author: "comfox"
+repliers: []
+authors: ["comfox"]
+comments_present: 0
+f_interests: "Everything."
+f_joined: "January 28, 2004"
+f_location: "Deutschland"
+f_username: "comfox"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/blog.php__mode_view_view_user_user_27", captured: "20060616180102", sha256: "c8b7ce84fe3927157f42b5a5bb92367a1f970c3d6e6efa5be677dfc5df480c69", wayback_url: "https://web.archive.org/web/20060616180102/http://toolkitzone.com/blog.php?mode=view&view=user&user=27"}
+---
+
+# User Entries (3)
+
+14 September, 2004
+The purpose of government is commonly said to be "the promotion of order over chaos" (although it's usually phrased more like "TEH ORDER!!11"- but we won't go into that here :S). It can be seen that governments DO promote "order" over "chaos" in that organized societies draw their order from a governmental structure. So what is this "order" and, more importantly (although perhaps more difficult to answer), why is it preferred over "chaos"? Without government, I think we can agree, people each attempt to aquire their personal desires. Anytime a person does what another person wants, that is a form of government. So government is seen to be present when people's actions are curved from their own personal desires to the desires of the government (be it a group or an individual). So chaos is everyone doing what they want to, individually- in such a chaotic system many people will be unable to aquire what they want or need because of others. Order is when people's actions are conformed to one will, or largely conformed to one will. So government's purpose seems to be the creation of this "order", or more precisely "to provide a common will which affects the actions of every governed individual". But, we ask, to what purpose? Here we come to a crossroads in our enquiry. Some governments are seen to affect the actions of individuals in order to provide the greatest good for the greatest number- the purpose of order, in this case, is to minimize the number of people who'se desires and needs are rendered unattainable due to the interference of others. Still other governments, however, are seen to affect the actions of individuals in order to perpetuate the existence of the given government. So which of these is dominant, or are they equal? A government's purpose is to maximize the number of people who achieve what they need and want without being hindered by others. A government's need is self perpetuation, for if the government falls it can no longer accomplish its purpose. Because the latter is necessary for the former, it must be taken as dominant (more important). A government can, after all, exist without fulfilling its purpose- but it cannot fulfill its purpose without existing. Of course, a government without an interest in fulfilling its purpose will often cause HARM rather than simply a lack of GOOD, and chaos is thus preferred. Anarchy over self-serving government. The aquisition of needs is best maximized by providing, the aquisition of wants is best maximized by allowing. People should be guaranteed what they need and allowed to seek what they want. Needs are needs of survival- food, drink, air, protection, shelter (be that shelter clothing, houses, shade, etc- depending on the culture and geography of the region in question). We shall concentrate on the nonvarying needs (food, drink, air, and protection) rather than on the varying need (shelter- for this takes many forms and in some instances is not necessary at all). As needs are dominant over wants, the provision of needs is the top priority in this context. Air is provided by nature, so it can be overlooked for the moment (save for a brief notation that the government carries a responsibility not to compromise the integrity of the air or allow it to become compromised). Food and drink are provided by various types of farmers ("farmers" in this instance includes "true" farmers, ranchers, water extractors, etc). Protection is provided by a Protectorate- police forces for interior protection and a military for exterior protection. Therefore the four fundamental pillars of an ideal society are government officials, farmers, policemen, and soldiers. As providers of nonvarying needs, these four classes of people require the materials and abilities to fulfill their functions above any other classes. Next come the providers of the varying need, shelter. Note that the PROVIDERS are more important than the DESIGNERS- tailors and builders are providers, architects are designers. Basic shelters can be constructed without architects, and thus they are a primary luxury. Farmers, government officials, police forces, and soldiers are groups which already include both providers and designers. Thus the heirarchy of the ideal society, thus far: Government Officals--------------------Monoprimary Class Soldiers, Policemen, Farmers----------Diprimary Class Tailors, Builders-------------------------Triprimary Class Architects--------------------------------Tetraprimary class These needs must be, without question, provided for every governed individual by the government. The problem lies in distributing work evenly throughout the population- there is usually not a large enough percentage of the population willing to belong to one of these classes of people simply for enjoyment. So we must do one of two things; provide extra benifits for the four primary classes, or mandate that every governed individual (henceforth referred to as "citizens") must take a turn as a member of one of these classes. By providing benifits we allow people's wants to be satisfied by providing for the needs of others, by mandating that each person take a turn as a member of the primary classes we do not accomadate wants. Therefore, seeing as the secondary purpose of government is the allowance for the seeking of wants, the logical choice is to provide benifits for the four primary classes. Here we stop to mention that "class" may be a misleading term- in our discussion "class" does not indicate a social class, but a professional division. "Class" is equivilent to "group", "profession", or "industry", but not to "caste".
+16 August, 2004
+SmiLeZx3
+15 July, 2004
+What's a blog?
+comfox
+January 28, 2004
+Deutschland
+Everything.
+Sep 14, 2004
+Aug 16, 2004
+Jul 15, 2004

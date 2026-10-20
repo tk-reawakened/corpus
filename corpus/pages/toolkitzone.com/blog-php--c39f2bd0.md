@@ -1,0 +1,50 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/blog.php?mode=view&user=1395&view=user"
+site: "toolkitzone.com"
+title: "manage"
+original_url: "http://www.toolkitzone.com/blog.php?mode=view&view=user&user=1395"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20041225134528"]
+author: null
+repliers: []
+authors: []
+comments_present: 0
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/blog.php__mode_view_view_user_user_1395", captured: "20041225134528", sha256: "94e14248e7e3340be28b08e8cdaf49aea8ef782898caf4961609240872a4f3da", wayback_url: "https://web.archive.org/web/20041225134528/http://www.toolkitzone.com/blog.php?mode=view&view=user&user=1395"}
+---
+
+# manage
+
+**sort by**
+created comments
+**results per page**
+5 10 20 30 40 50
+**characters shown**
+entire entry 100 200 300 400 500
+blogs > view talyn's entries
+(24) **blog entries**
+24 December, 2004
+I won't be allowed near my computer tomorrow, so I'll say it now. Have a great day and I'll see you all on the 26th December! 3 top tips for Christmas: 1) Eat just enough to make yourself unable to move so that you can't go help wash up, 2) If you get that horrible pair of socks off your Aunty again, feed them to the dog when your Mum's not looking, 3)Cracker jokes are an essential part of the Christmas meal. Without them it's like New Years without all the drunks! Have a good-un!
+*Talyn*
+18 December, 2004
+Hehe. I've really been spending too much time on the internet. Can't wait for the new TK release! I really wanna start work on my first TK3 project as Angel Tears is coming to a close. :-( Still got plenty of work to do on it though. Getting my christmas tree tomorrow. We always leave it stupidly late and end up getting the crappy one with about three branches left on it cos all the little kids have started swinging on it when their parents weren't looking. Tis the season...![](http://www.toolkitzone.com/stuff/files/1395/mactk.png)
+17 December, 2004
+We've finally broken up for the christmas holidays! Not that it'll be much of a holiday, I've got plenty of revision for the January maths exam to be doing. Went late night christmas shopping last night with Helen (my girlfriend). Usually we fight like hell when we go shopping, but we managed to get everyone's pressies within an hour and didn't fight once! I was very impressed with how we did. I'm off to her aunties tonight cos it's her birthday which should be cool. I like Auntie Clair, she's cool. Really bored at the moment. I wanna start my free Napster trial, but I'm gonna wait till after christmas. I thinkI'll go look for pictures of baubles to get me in the christmas mood.
+15 December, 2004
+I was in the mood for a change, so I decided on the new name of Talyn for myself. I like it, and it takes less time to type into the login box! That's about all I wanted to say really...
+14 December, 2004
+Title of that, cos that's what's in my head - Eminem, Toy Soldiers. Passed my karate grading with flying colours yesterday! Yay whoohoo! So I'm now a brown belt. Double edged sword being brown, you get to do the cool moves, but your also expected to enter competitions, and my sparring is crap. I'm on the chapter entitled "Managing Corporate Data" in Visual Basic.NET 2003 step by step. I already know most of the stuff from my other programming book, but it never hurts to revise stuff, especially cos the other book was for VB6! I'm also thinking about getting Visual C++.NET for christmas, but I'm wondering if it's worth waiting for VC++ .NET 2005 to come out... I would get myself Visual C++ 6 and avoid all the .NET crap, but they are gold dust over here and go for upwards of £150. Money which I simply do not have. Anyways, I get a lie in tomorrow (first lesson cancelled) So I'm gonna go finish managing corporate data. Night...
+12 December, 2004
+I was just beetling through the source code to tk3 and was amazed to find myself understanding portions of it! I'm not that experienced as a programmer, but I found myself thinking "I know what that does" and even on occasion "oo that's clever". This has made me draw two conclusions: The documentation on the source code is excellent, I'm getting better at programming! Yay, finally! The only problem is that I have VB.NET 2003, so it has to "Upgrade" all the flippin files. Pointless if you ask me, but there we go. I wish I could get my hands on VB6! VB.NET sucks cos it means that even when I'm eventually good enough, I can't help with the TK3 project. I thought about asking Microsoft for a downgrade, but cos I'm a limey I wouldn't be able to recieve it. Anyways, I'm just looking through tons of source code at the moment, seeing what other people are doing etc. It's fun, and I'm understanding most of it.
+08 December, 2004
+Weird title, but it's the song I got stuck in my head at the moment. Well, what can I say about today? Been better than yesterday, but still not great. Physics was ok, just hard as usual, and Philosophy was ok too. Our Philosophy teacher has got it into his head that The Matrix teaches us everything we'll ever need to know about Philosophy. So we're spending three or four lessons watching and analysing that. Sounds fun, but it's proving to be the slaughter of what was once one of my favourite films. Had this afternoon off, which was cool. Came home and fell asleep with my gf on the sofa, then woke up in a blind panic cos I'd just remembered that we had Physics homework due in tomorrow. Shit. Maths again tomorrow. I've been keeping my head down when it comes to that. Everyone else in my group is saying "Oh I got 89% and didn't even revise!" and I'm sitting there thinking "I revised and only walked away with 19%". I am gonna be so screwed if I don't get this Maths A-level. Oh well. Compiled two new versions of Angel Tears last night. Uploaded them and they both work well, so I'm happy about that. Anyways, it's changeover night tonight (where I move from my Mums house to my Dads) so I'd better pack all my stuff. Not that there's much to pack, I live out of my holdall most of the flipping time. Can't wait for University where I can stay in one place...
+07 December, 2004
+If there's a God/Gods out there, he's pretty annoyed at me at the moment. I got back two mock exams today. DT and Maths. Ungraded in both of them. Basically that means it's too shite to give it a mark. Great. Maths had been going really well, but I dread lessons of it now. DT was a surprise, I thought I'd at least get an E, but nope. A big fat hairy U landed slap bang in the middle of my desk, taunting me... Then, I get home and go up to my room to plat some music really loud to calm down. I lay up there for about an hour, and start to get hungry and decide to go get something to eat. Twist the doorhandle and bang! The metal bit in the middle goes, and I'm stuck in my sodding room! It took my Sister running full pelt at it to break it open. And that was only after shouting for help for 5 mins. At least things with the missus are going ok again now. That's about the only thing at the moment that is going right. The Expo's proving to be a combination of Waste of Time, and Complete and Total Destruction of my Game. That's not quite fair, but it is taking a lot of stick. Fair enough about bugs etc. but where the hell were the 197 or whatever people who played it?! Why was I not told of these things?! I'm happy to fix things, if only I know. Ok, calm down. Time to go play with my new USB Mass Storage device I think. Either that or play a couple of rounds of Snood. Great. Bloody laptops locked up. Fitting end really.
+06 December, 2004
+I've been thinking about this for a while. It would be quite funny to see all these people who you chat to here actually in the flesh, and talk to them and hear voices, not just read words. I reckon that most people probably aren't as you imagine them. both communities span such a big age range, you'd have your little ten year olds running around, the moody teenagers in the corner, the students just milling and the adults trying to fit in with the younger generation! It would be funny to watch. Wow, wonder who I'd want to talk to most? CBM is the obvious choice, but it would be cool to talk to guys like Asimir, Spyder, Xavier, Delano and all the other well known guys and girls in the communities. Then again, it'd be a bugger to organise, considering that the community's spread across the globe. Speaking of which, I was also thinking, do we have any Australian members? Cos I've never seen one....
+03 December, 2004
+Things have just not gone right over the last couple of days. Yesterday me and my girlfriend had our worst fight yet, and actually seriously considered breaking up. The worst thing about it was that the fight was totally my fault. In my usual way I'd taken a joke too far and eneded up really hurting her feelings. Our fights are weird though. We don't get violent, or scream and shout, we just talk and take it it turns to insult/hurt/argue to each other. Usually while hugging. But yesterday was different. Even though we were hugging, she was kinda pulling away at the same time, and that's never happened before. It's a horrible feeling knowing that she's revolted by you for something you did. Anyway, we ended up sorting it out after an hour and a half of talking, but we're both acting very cautiosly around each other at the moment. Then today I get back a bit of work that I've poured my heart and soul into, and I falied it. Purely because the guy who marked it has got his head too far up his own arse to recognise anyone elses viewpoint. So I'm pretty down about that. Then me and my girlfriend have another small argument, and coupled with the pressure she's facing at home/school, she ends up having a panic attack and shaking uncontrollably for the rest of the evening. We're ok again now, but it's still feeling a bit weird. All these fights with her really upset me, cos I care about her a lot. It's even worse when it's blatently my fault, and the situation could have been so easily avoided.

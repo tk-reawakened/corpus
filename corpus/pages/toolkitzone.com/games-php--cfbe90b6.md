@@ -1,0 +1,395 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/games.php?gpage=522"
+site: "toolkitzone.com"
+title: "Heraldry: Freija"
+original_url: "http://www.toolkitzone.com/games.php?gpage=522"
+written: "2006-06-15T13:47:00"
+date_confidence: "exact"
+updated: "2006-06-15T13:47:00"
+captured: ["20060615175515"]
+author: "Khin"
+repliers: []
+authors: ["Khin"]
+comments_present: 0
+f_description: "The first from the the four-volume HERALDRY series. The game promises to raise the standards of RPG TOOLKIT games--graphically, and gameplay-wise. You play the role of Freija Moonault, a highschool kickout and daughter of the great Moonault carthographers. As Freija, your goal is to rediscover the world and disprove of the historical lies that your government has fed to the people."
+f_led_by: "Khin"
+f_other_members: ", , ashe Frei angelis"
+f_rating: "197 votes cast"
+f_status: "Demo"
+f_toolkit_version: "3.x"
+f_website: "Pigments Arts Company"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/games.php__gpage_522", captured: "20060615175515", sha256: "20556345a33d785efbf153534a9532f49333256724971e191dd583007ec66f2e", wayback_url: "https://web.archive.org/web/20060615175515/http://www.toolkitzone.com/games.php?gpage=522"}
+---
+
+# Heraldry: Freija
+
+June 15, 2006, 1:47 pm
+Demo
+The first from the the four-volume HERALDRY series. The game promises to raise the standards of RPG TOOLKIT games--graphically, and gameplay-wise. You play the role of Freija Moonault, a highschool kickout and daughter of the great Moonault carthographers. As Freija, your goal is to rediscover the world and disprove of the historical lies that your government has fed to the people.
+**Heraldry: Freija**
+by Khin **Heraldry Tarot Cards**
+April 26 2005, 12:02 am
+*Heraldry Tarot Cards*
+- **Setting up**
+- 3 major flipped up
+- 5 minor flipped down
+- Players agree on the starting point
+- Draw 1 card from your respective decks and follow the elemental circle (wand->sword->coin->cup->wand) **Who goes first**
+- -used for offense and defense -can only be used in conjunction with the major arcana -only one minor arcana can be used per turn, unless a modifier card is applied -minor arcana cards can only be captured by certain spells -minor arcana cards do not proceed to the graveyard when defeated. they remain in the battle ground -minor card effects last for 3 offensive turns **Minor Arcana**
+- -the users of minor arcana cards -each implies a specific modification to a minor arcana's usage -when defeated, major arcana cards proceed to the graveyard -major arcana cards determine the victor and the loser -normally, only one major arcana can be used per turn, unless of course modified **Major Arcana**
+- **Gameplay**
+- First player will make a turn
+- to make a turn, offensive player declares a major card of choice, plus the minor card for action (normal attack or magic). the player then waits for the defense.
+- Defensive player will declare major card of choice, plus minor card for action (normal attack or magic).
+- Normal attacks can only be countered with normal attacks, magic can only be countered with magic.
+- Normal attacks are calculated by cards' properties.
+- In calculating, elemental circle is followed. in case the elements are unrelated or the same, follow the card damage. ex. 1 of cups > 10 of wands, 10 of wands > 2 of wands, 7 of coins > 4 of wand.
+- Regardless of who wins or losses in an encounter must suffer the appropriate damage dealt.
+- Defeated major cards will go to the graveyard. defeated minor cards remain on the battle ground.
+- Magic actions do not follow the elemental circle.
+- Replacing defeated cards does not cost a turn.
+- Offensive player may use his turn to change a major card and a minor card in one turn. this is considered defense.S
+- Second player will now make a turn. process same as first player.
+- If offensive player does not use an offense, defensive player need not to defend. offensive player's turn ends.
+- **Ending**
+- When there is no more major arcana left, the user is defeated
+- When the player has no more points left, the user is defeated
+- When the player has no more major slots, the user is defeated
+- When the player has no more minor slots, the user is defeated
+- Players can also win by using certain card conjunctions
+- Players can also lose by voluntary declaration of defeat
+- All cards in the graveyard are subject to confiscation by the winner
+- **Card Specs**
+- Minor cards
+- **WANDS**
+- 1 of wands
+- normal: does 1 fire damage
+- special: fool-> effect: "AMBITION" +5 damage bonus to all wand suit cards
+- magician-> offense: does 2 fire damage
+- world-> offense: does 6 fire damage
+- 2 of wands
+- normal: does 2 fire damage
+- special: justice-> effect: "CHOICE" switches any card without using a turn
+- magician-> offense: does 4 fire damage
+- world-> offense: does 7 fire damage
+- 3 of wands
+- normal: does 3 fire damage
+- special: emperor-> effect: "PROGRESS II" player can use 2 major arcana per turn
+- chariot-> effect: "PROGRESS" player can use 2 minor arcana per turn
+- magician-> offense: does 6 fire damage
+- world-> offense: does 8 fire damage
+- 4 of wands
+- normal: does 4 fire damage
+- special: tower-> effect: "FOUNDATION" prevents 1 major arcana from going to the graveyard
+- tower-> defense: "NULL UNDER SEIGE" nullifies/removes UNDER SEIGE
+- magician-> offense: does 8 fire damage
+- world-> offense: does 9 fire damage
+- 5 of wands
+- normal: does 5 fire damage
+- special: strength-> defense: "STRUGGLE" removes CAGE
+- magician-> offense: does 10 fire damage
+- world-> offense: does 10 fire damage
+- 6 of wands
+- normal: does 6 fire damage
+- special: judgment-> effect: "VICTORY" instant win
+- sun-> effect: "VICTORY"
+- moon-> defense: "NULL VICTORY" nullifies VICTORY
+- death-> defense: "NULL VICTORY"
+- all->defense: "NULL FAILURE" prevents FAILURE
+- magician-> offense: does 12 fire damage
+- world-> offense: does 11 fire damage
+- 7 of wands
+- normal: does 7 fire damage
+- special: chariot-> effect: "UNDER SIEGE" repeatedly damages point by 10%
+- emperor-> effect: "UNDER SIEGE II" repeatedly damages point by 20%
+- magician-> offense: does 14 fire damage
+- world-> offense: does 12 fire damage
+- 8 of wands
+- normal: does 8 fire damage
+- special: emperor-> effect: "EXPANSION II" removes 1 major arcana from the opponent's slot and replace it with a desired major card fo your own use (PERMANENT)
+- chariot-> effect: "EXPANSION" removes 1 minor arcana from the opponent's slot and replace it with a desired minor card fo your own use (PERMANENT)
+- magician-> offense: does 16 fire damage
+- world-> offense: does 13 fire damage
+- 9 of wands
+- normal: does 9 fire damage
+- special: empress-> effect: "STAIRCASE" revives all wand cards from the graveyard
+- magician-> offense: does 18 fire damage
+- world-> offense: does 14 fire damage
+- 10 of wands
+- normal: does 10 fire damage
+- special: fool-> effect: "BURDEN" -5 damage penalty to all enemy cards
+- emperor-> effect: "NULL PROGRESS II" remove PROGRESS II from enemy
+- chariot-> effect: "NULL PROGRESS" remove PROGRESS
+- magician-> offense: does 20 fire damage
+- world-> offense: does 15 fire damage
+- Page of wands
+- normal: does 11 fire damage
+- special: empress-> effect: "MESSENGER OF FIRE" revives all dead STAR, MOON, SUN, JUDGMENT and FOOL card
+- magician-> offense: does 22 fire damage
+- world-> offense: does 16 fire damage
+- Knight of wands
+- normal: does 12 fire damage
+- special: emperor-> effect: "CAVALIER OF FIRE" removes all wand minor cards of enemy from slot to graveyard
+- magician-> offense: does 24 fire damage
+- world-> offense: does 17 fire damage
+- Queen of wands
+- normal: does 13 fire damage
+- special: empress-> effect: "MISTRESS OF FIRE" removes all wand effects
+- magician-> offense: does 26 fire damage
+- world-> offense: does 18 fire damage
+- King of wands
+- normal: does 14 fire damage
+- special: emperor-> effect: "LORD OF FIRE" removes all STAR, MOON, SUN, JUDGMENT and FOOL card from enemy's deck
+- magician-> offense: does 28 fire damage
+- world-> offense: does 19 fire damage
+- **CUPS**
+- 1 of cups
+- normal: does 1 water damage
+- special: hanged man-> effect: "EMOTION" +5 damage bonus to all cup suit cards
+- star-> effect: "HEAL" heals 5% points
+- priestess-> offense: does 2 water damage
+- world-> offense: does 6 water damage
+- 2 of cups
+- normal: does 2 water damage
+- special: love-> effect: "RECOGNITION" charms 1 enemy major arcana that player can use
+- justice-> defense: "NULL RECOGNITION" prevents/removes RECOGNITION
+- star-> effect: "HEAL II" heals 10% points
+- priestess-> offense: does 4 water damage
+- world-> offense: does 7 water damage
+- 3 of cups
+- normal: does 3 water damage
+- special: empress-> effect: "NULL STAGNATION" removes STAGNATION and STAGNATION II
+- empress->effect: "CELEBRATION" revives all cup cards in graveyard
+- star-> effect: "HEAL III" heals 15% points
+- priestess-> offense: does 6 water damage
+- world-> offense: does 8 water damage
+- 4 of cups
+- normal: does 4 water damage
+- special: emperor-> effect: "STAGNATION II" prevents enemy from switching major arcana cards
+- chariot-> effect: "STAGNATION" prevents enemy from switching minor arcana cards
+- star-> effect: "HEAL IV" heals 20% points
+- priestess-> offense: does 8 fire damage
+- world-> offense: does 9 fire damage
+- 5 of cups
+- normal: does 5 water damage
+- special: love-> effect: "OBSESSION" enemy can only use 2 of the minor cards
+- justice-> defense: "NULL OBSESSION" removes OBSESSION
+- star-> effect: "HEAL V" heals 25% points
+- priestess-> offense: does 10 water damage
+- world-> offense: does 10 water damage
+- 6 of cups
+- normal: does 6 water damage
+- special: devil-> effect: "JOY" kills user's DEVIL CARD
+- star-> effect: "HEAL VI" heals 30% points
+- priestess-> offense: does 12 water damage
+- world-> offense: does 11 water damage
+- 7 of cups
+- normal: does 7 water damage
+- special: fool-> effect: "SELF ILLUSION" temporarily replaces the fool card and the 7 of cups with another major arcana and minor arcana for free
+- Love-> effect: "ILLUSION" allows user to temporarily replace the other 2 major arcana cards and the other 4 minor arcana cards for free
+- justice-> effect: "NULL ILLUSION" nullifies/removes ILLUSION and SELF ILLUSION
+- star-> effect: "HEAL VII" heals 35% points
+- priestess-> offense: does 14 fire damage
+- world-> offense: does 12 fire damage
+- 8 of cups
+- -normal: does 8 water damage
+- -special: justice-> defense: "SEPARATION" removes OBSESSION
+- star-> effect: "HEAL VIII" heals 40% points
+- priestess-> offense: does 16 water damage
+- world-> offense: does 13 water damage
+- 9 of cups
+- normal: does 9 water damage
+- special: star-> effect: "WISH" initiates WISH
+- star-> effect: "HEAL IX" heals 45% points
+- priestess-> offense: does 18 water damage
+- world-> offense: does 14 water damage
+- 10 of cups
+- normal: does 10 fire damage
+- special: hanged man-> effect: "NULL PERMANENCE" removes PERMANENCE in enemy
+- tower-> effect: "PERMANENCE" prevents removal, locking, charming, disabling and eviction of player's card
+- star-> effect: "HEAL X" heals 50% points
+- priestess-> offense: does 20 water damage
+- world-> offense: does 15 water damage
+- Page of cups
+- normal: does 11 fire damage
+- special: empress-> effect: "MESSENGER OF WATER" revives all dead HANGED MAN, PRIESTESS, TEMPERANCE, STRENGTH and LOVE card
+- priestess-> offense: does 22 water damage
+- world-> offense: does 16 water damage
+- Knight of cups
+- normal: does 12 fire damage
+- special: emperor-> effect: "CAVALIER OF WATER" removes all cup minor cards of enemy from slot to the graveyard
+- priestess-> offense: does 24 water damage
+- world-> offense: does 17 water damage
+- Queen of cups
+- normal: does 13 fire damage
+- special: empress-> effect: "MISTRESS OF WATER" removes all cup effects
+- priestess-> offense: does 26 water damage
+- world-> offense: does 18 water damage
+- King of cups
+- normal: does 14 fire damage
+- special: emperor-> effect: "LORD OF WATER" removes all HANGED MAN, PRIESTESS, TEMPERANCE, STRENGTH and LOVE card from enemy's deck
+- priestess-> offense: does 28 water damage
+- world-> offense: does 19 water damage
+- **SWORDS**
+- 1 of swords
+- normal: does 1 wind damage
+- special: hermit-> effect: "INTELLECT" +5 damage bonus to all sword suit cards
+- chariot-> offense: does 2 wind damage
+- world-> offense: does 6 wind damage
+- 2 of swords
+- normal: does 2 wind damage
+- special: strength-> effect: "CLASH" does 12 wind damage
+- chariot-> offense: does 4 wind damage
+- world-> offense: does 7 wind damage
+- 3 of swords
+- normal: does 3 wind damage
+- special: death-> effect: "PAIN" repeatedly damages by 10% of maximum points
+- chariot-> offense: does 6 wind damage
+- world-> offense: does 8 wind damage
+- 4 of swords
+- normal: does 4 wind damage
+- special: moon-> effect: "REST" exchanges 1 major arcana to another one on the graveyard
+- empress-> effect: "REST II" revives all sword cards in graveyard
+- chariot-> offense: does 8 wind damage
+- world-> offense: does 9 wind damage
+- 5 of swords
+- normal: does 5 wind damage
+- special: judgment-> effect: "FAILURE" causes instant defeat to enemy
+- all-> effect: "FAILURE II" prevents enemy VICTORY
+- chariot-> offense: does 10 wind damage
+- world-> offense: does 10 wind damage
+- 6 of swords
+- normal: does 6 wind damage
+- special: all-> effect: "ESCAPE" leaves game without losing or winning
+- chariot-> offense: does 12 wind damage
+- world-> offense: does 11 wind damage
+- 7 of swords
+- normal: does 7 wind damage
+- special: fool-> effect: "THIEF" user steals 2 random minor cards from enemy
+- hermit->effect: "THIEF II" user steals 2 random major cards from enemy
+- chariot-> offense: does 14 wind damage
+- world-> offense: does 12 wind damage
+- 8 of swords
+- normal: does 8 wind damage
+- special: emperor-> effect: "CAGE II" disables 2 major arcana from the opponent's slot
+- chariot-> effect: "CAGE" disables 1 major arcana from the opponent's slot
+- chariot-> offense: does 16 wind damage
+- world-> offense: does 13 wind damage
+- 9 of swords
+- normal: does 9 wind damage
+- special: empress-> effect: "NIGHTMARE" kills user's wheel card
+- chariot-> offense: does 18 wind damage
+- world-> offense: does 14 wind damage
+- 10 of swords
+- normal: does 10 wind damage
+- special: death-> effect: "END" kills all 3 enemy major arcana in slot
+- sun-> defense: "NULL END" nullifies end
+- chariot-> offense: does 20 wind damage
+- world-> offense: does 15 wind damage
+- Page of swords
+- normal: does 11 wind damage
+- special: empress-> effect: "MESSENGER OF WIND" revives all dead EMPRESS, EMPEROR, CHARIOT, HERMIT and JUSTICE card
+- chariot-> offense: does 22 wind damage
+- world-> offense: does 16 wind damage
+- Knight of swords
+- normal: does 12 wind damage
+- special: emperor-> effect: "CAVALIER OF WIND" removes all sword minor cards of enemy from slot to graveyard
+- chariot-> offense: does 24 fire damage
+- world-> offense: does 17 fire damage
+- Queen of swords
+- normal: does 13 wind damage
+- special: empress-> effect: "MISTRESS OF WIND" removes all sword effects
+- chariot-> offense: does 26 wind damage
+- world-> offense: does 18 wind damage
+- King of swords
+- normal: does 14 wind damage
+- special: emperor-> effect: "LORD OF WIND" removes all EMPRESS, EMPEROR, CHARIOT, HERMIT and JUSTICE card from enemy's deck
+- chariot-> offense: does 28 wind damage
+- world-> offense: does 19 wind damage
+- **COINS**
+- 1 of coins
+- normal: does 1 earth damage
+- special: hierophant-> effect: "LUCK" +5 damage bonus to all coin suit cards
+- tower-> offense: does 2 earth damage
+- world-> offense: does 6 earth damage
+- 2 of coins
+- normal: does 2 earth damage
+- special: fool-> effect: "JUGGLE" replaces enemy's 3 major arcana with 3 random arcanas from his deck
+- tower-> offense: does 4 earth damage
+- world-> offense: does 7 earth damage
+- 3 of coins
+- normal: does 3 earth damage
+- special: all-> effect: "FRUIT" revives 1 major arcana from the graveyard
+- tower-> offense: does 6 earth damage
+- world-> offense: does 8 earth damage
+- 4 of coins
+- normal: does 4 earth damage
+- special: all-> offense/defense: "MISER" when this card loses, the miser will instead go to the graveyard, not the major arcana
+- tower-> offense: does 8 earth damage
+- world-> offense: does 9 earth damage
+- 5 of coins
+- normal: does 5 earth damage
+- special: death-> effect: "LOSS" puts enemy's 3 minor cards from slot to graveyard
+- tower-> offense: does 10 earth damage
+- world-> offense: does 10 earth damage
+- 6 of coins
+- normal: does 6 earth damage
+- special: all-> offense/defense: "SHARING" user inflicts additional damage equal to 50% damage the user s ustained
+- tower-> offense: does 12 earth damage
+- world-> offense: does 11 earth damage
+- 7 of coins
+- normal: does 7 earth damage ---special: hermit, star, sun, hierophant-> effect: "PATIENCE" regenerates 10% of maximum points every offensive turn
+- tower-> offense: does 14 earth damage
+- world-> offense: does 12 earth damage
+- 8 of coins
+- normal: does 8 earth damage
+- special: fool-> effect: "APPRENTICE" +2 damage bonus to all cards
+- tower-> offense: does 16 earth damage
+- world-> offense: does 13 earth damage
+- 9 of coins
+- normal: does 9 earth damage
+- special: hermit-> effect: "RETREAT" instead of losing the major arcana, a chosen minor arcana is lost instead
+- tower-> offense: does 18 earth damage
+- world-> offense: does 14 earth damage
+- 10 of coins
+- normal: does 10 earth damage
+- special: star-> effect: "PROSPERITY" completely heals user's points
+- tower-> offense: does 20 earth damage
+- world-> offense: does 15 earth damage
+- Page of coins
+- normal: does 11 earth damage
+- special: empress-> effect: "MESSENGER OF EARTH" revives all dead HIEROPHANT, MAGICIAN, DEATH, TOWER nd WORLD card
+- tower-> offense: does 22 earth damage
+- world-> offense: does 16 earth damage
+- Knight of coins
+- normal: does 12 earth damage
+- special: emperor-> effect: "CAVALIER OF EARTH" removes all coin minor cards of enemy from slot to graveyard
+- tower-> offense: does 24 earth damage
+- world-> offense: does 17 earth damage
+- Queen of coins
+- normal: does 13 earth damage
+- special: empress-> effect: "MISTRESS OF EARTH" removes all coin effects
+- tower-> offense: does 26 earth damage
+- world-> offense: does 18 earth damage
+- King of coins
+- normal: does 14 earth damage
+- special: emperor-> effect: "LORD OF EARTH" removes all HIEROPHANT, MAGICIAN, DEATH, TOWER and WORLD card from enemy's deck
+- tower-> offense: does 28 earth damage
+- world-> offense: does 19 earth damage
+- Special Cards
+Special cards are major arcanas that can attack even without minor cards.
+- **Wheel of Fortune**
+- When the Wheel of Fortune is used, the user draws one random minor card from his own deck. he then chooses the desired effect of the card. If the chosen card has a specific effect for the wheel, the user has no choice but to execute it.
+- **The Devil**
+- When the Devil card is used, the user draws one random minor card from his enemy's deck. he then chooses the desired effect of the card. If the chosen card has a specific effect for the devil, the user has no choice but to execute it.
+- **Temperance**
+- When the Temperance card is used, all effects, whether supportive or harmful, will be negated. After usage, the Temperance card will then go back to the deck.
+**Images**
+April 26 2005, 12:41 am
+VERY NICE!! I want to play it now, even though my parents are against tarots...
+July 28 2005, 8:51 pm
+This tarot game sounds really cool!! Are you going to realease a demo of it, because I really want to try it?!? Pls pls pls pls pls.......
+[![Options Menu Complete](games/phpThumb.php?src=../mygames/images/69/3500.jpg&w=175)](games.php?image=3500)

@@ -1,0 +1,9 @@
+{
+  "name": "tk-corpus-site",
+  "private": true,
+  "description": "Build tooling for the TK Corpus site",
+  "type": "module",
+  "dependencies": {
+    "minisearch": "^7.2.0"
+  }
+}

@@ -1,0 +1,24 @@
+---
+kind: review
+id: "mysticsoftware.net/84"
+site: "mysticsoftware.net"
+title: "Blatozord"
+original_url: "http://www.mysticsoftware.net/reviews.php?mode=1&review=84"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20041124102312"]
+author: "TKGB"
+repliers: []
+authors: ["TKGB"]
+comments_present: 0
+reviewer: "TKGB"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/mysticsoftware.net/reviews.php__mode_1_review_84", captured: "20041124102312", sha256: "f856d6faaeb35b917c025f4c66c4ecbbba657d674fca6245b92403433a8cc4dc", wayback_url: "https://web.archive.org/web/20041124102312/http://www.mysticsoftware.net/reviews.php?mode=1&review=84"}
+---
+
+# Blatozord
+
+> *Review by TKGB*
+> When I saw the title for this I thought I was gonna ride a tank on a terrain of a desert and blast away aliens or terrorist. Instead I get...uhh...I don't even know what I got. Plot (0) - One day you are turned into a weirdo blob thing and your cousins were kidnapped. Now you have to go and save them. ... ... What? That's it. That's the entire story. Unless you count the part of the scruple babbling about his dead monkey and how he hates toffee, thats about it. -------------------------------------------------------------------------------- Art (1) - The art is WeIrD! So why did I give it a point? Unlike other crappy TK games who just plop anything onto the board editor, the graphics are nice here. Look at Zoltoid's house. Doesn't it look nice? Though I suspect they are ripped but at least they look like stuff. -------------------------------------------------------------------------------- Music (0) - No music. Nothing. Not even the default VIP fo sho pack. What happened? I was expecting some music here. This game could of been better with at least one catchy tune. Then again what kind of music would you give to this weird creation. The SFX were the ripped ones from Jewel of Destiny so they suck. -------------------------------------------------------------------------------- Enviroment (1) - Well not everything is weird, err I think. The enviroment is like 6 boards big. It takes place on a snow mountain and you can walk on ice water without a worry in the world (yes even on cracks). But still it's nicer than the other games have put in. -------------------------------------------------------------------------------- Programming (0) - Basic stuff like conversations and boy are there weird. Ironically no typos. No fancy battle system or menu system. Heck this game don't need a menu system since it's short and you don't use anything for anything. Just the spider baby you eat to restore HP (what the hell is that about). -------------------------------------------------------------------------------- Characters (1) - You play the role of Zoltoid. A mix of pac-man and the green dude from Monsters Inc. You are to find your cousin who ironically you fight in the end (Now what's THAT about?). There's a ghost who's purpose is useless then again, everyone's purpose don't look good. What about the scupple? Well he's not graphically shown as in not a character. He's a scruple so he tells you about your cousin. But why doesn't he tell you why you became a glob? Heck, what were you to begin with? -------------------------------------------------------------------------------- Menu (0) - POINTLESS as I stated. You get nothing but a spider baby. This game could of done without it since it's short and you only get one item. Saving is completely trivial. You can pass this game in 5 minutes. So no point there. -------------------------------------------------------------------------------- Fight (1) - Well who doesn't want to fight Artic Poodles? -------------------------------------------------------------------------------- Game Play (1) - The game play aint so bad. Zoltoid bounces as he walks. Pretty neat. In the battle he is animated really nice. It may not be the fancies of anime's but it is good. -------------------------------------------------------------------------------- Fun Factor (1) - This game is so short but so funny and strange. What keeps you playing is the weird conversations that take place that lead to nowhere. Makes the show Seinfield actually have a purpose. So it is pretty fun to play. -------------------------------------------------------------------------------- Conclusion (6/10) - This is the weirdest game I have EVER played. If this were created from a video game company, it would be the adventure of a boy to find his cousin only to find the bad guy's fishing on the lake nearby. Though the real gem (considering this is a diamond in the rough) is the weird conversations. I don't recommend you downloading it, heck it's pretty much a waist of diskspace, but just play it and see for yourself cuz this review don't explain the weirdness of it.

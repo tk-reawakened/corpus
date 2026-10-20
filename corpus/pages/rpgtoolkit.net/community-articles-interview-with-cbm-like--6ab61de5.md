@@ -1,0 +1,51 @@
+---
+kind: page
+id: "rpgtoolkit.net/rpgtoolkit.net/community/articles/interview-with-cbm/like/"
+site: "rpgtoolkit.net"
+title: "January 3rd, 2005"
+original_url: "http://rpgtoolkit.net/community/articles/interview-with-cbm/like/"
+written: "2005-01-03"
+date_confidence: "day"
+updated: null
+captured: ["20150429151113"]
+author: null
+repliers: []
+authors: []
+comments_present: 0
+converter_version: "1"
+source_captures:
+  - {path: "wayback/rpgtoolkit.net/community/articles/interview-with-cbm/like/index", captured: "20150429151113", sha256: "c561c244cf1f711bceba276fcd132b4c2c6dcefcf9719cde8e9fb50ae568e736", wayback_url: "https://web.archive.org/web/20150429151113/http://rpgtoolkit.net/community/articles/interview-with-cbm/like/"}
+---
+
+# January 3rd, 2005
+
+Soapdish / Lotusware & k-hos
+there are no other members currently online
+[![Xavier](thumb/80/community/images/avatars/upload/202350491243172dcbd2811.png)](member/xavier/)
+Published
+**January 3rd, 2005**
+Read times **355**
+Written by Xavier
+Interview with CBM
+**Rare interview with the founder of the Toolkit to kick off the new year, answering questions about the past, present and future...and Hilary Duff.**
+I am a software developer/analyst for an insurance company. Although that sounds boring, it really isn't. It's nice to be able to wake up every day and just do what I love-- software development. I've also been given an opportunity to hone my design skills and expand my exposure to proper development practices. I still have a special place in my heart for game development (or anything graphic related, really) but in the end, any kind of software development will keep me interested. Life is very good. I have been recently married and I bought a house, so I'm a 'grown-up' now (even though I tell my wife that I would like her to get me an old Voltron toy for our anniversary). Once you move out and start living your own life, the world seems a lot different. I really like married life, and I'm starting to feel more settled down than I did before. I like to play video games when I have the time. Beyond that, I have really become interested in generating electricity by alternative means. I kinda got into that when I first visited this site: http://www.otherpower.com/ It basically explains how you would go about building windmills, hydro generators, and the like if you wanted to go off-grid. I'm certainly not off-the-grid, but it's an interested hobby to tinker around with. For the past year and a half, I have taken up learning French. In Canada, French can be a useful second language. The city I live in is also very bilingual (although English is the language of the majority here). When I started to learn the language, I treated it as I would when learning a new programming language. I just got a textbook and learned the rules and syntax. The more I use it, the more things fall into place. Even if I never used it, a knowledge of the French language has given me a much better understanding of the English language, since many of our words come directly from French, or have French influence (although the influence is going in the other direction these days). I also just enjoy hanging out with my family and friends. My brother probably has a bigger idea than anyone else, but my wife understands what I have built up on the internet. Of course, I can never take full credit for the community. I think of myself more as a catalyst. Ultimately, it's the work of the individuals *in* the community that has really made the community. And now that I'm taking a smaller role, it really is the community (and the new dev team) that can take real credit for the way things are now. Never. Actually, when TK1 was released, the message board only ever had about 2 or 3 faithful posters. When TK2 was released, I never really knew things would grow so large. But as I said before, the credit goes more to the community for its own growth. It is the community itself that contains a great pool of talent and passion. I just lent my own passion and talent along with it. As much time as I could get. I love programming, so during high school and university, I would work on the Toolkit for a couple of hours each night, if I could. Although, once TK2 was well established, the major development time was all pushed closer to the release. The is a loaded question, because I'm sure to forget someone. But here's a try... Cyrus, MrG, Spyder, Vampz, Triuken, R# (you know what I mean), Lance (and his oft-hoped for 'comebacks'). Lots of good memories really, from all of the old community members. Sometimes, I glance at the forus today and I'm suprised to see an old name. I also find it interesting when someone posts a 'remember me' message, and very few people remember the person except for a few. Once I had finished university, I took up a contract with a company doing development work from my home. That would have been January, 2003. After that, I found it very hard to keep on track with two projects going at the same time. Had it been up to me, I would have done the Toolkit, but in the end, you have to make your living. I open-sourced TK3 in Jue or July of that same year. I struggled with the idea for awhile. After being with the Toolkit for so long, it was hard to let go of the 'creative control'. But after *a lot* of thinking, I came to the realisation that I made the Toolkit for all the people in the community, and that they really are the ones who know best what they want and in what direction they'd like to see the thing go. I thought at the time that it was a gamble, that maybe nothing would come of an open-source Toolkit. For awhile, that almost seemed true. But thanks to the dedication of a few people, the open-source version started to get some real traction. Today, I'm happy to say that it looks like the gamble paid off. At first, yes, but after a bit, I realised that it would take awhile for people to get a good handle on the codebase, to understand what I was trying to do. And I have to admit, there were big parts of the codebase that were not pretty, either due to the complexity of what I was trying to write, or inexperience on my part, or both. In the end, it really took some organization to get things rolling, and I'm greatful to those who took the initiative. A few things came to bare. First, rpgtoolkit.com was running from an old P-133 in my basement (actually, the same computer I used to develop TK2 all those years ago). I knew that machine wasnt going to last forever (in fact, the power supply did give out a few months after the official switch to TKZ). Second, I didn't have the time or the web-design talent to keep a decent community site going any longer. I was afraid the community would suffer just because *I* didn't have time (kinda like the kingdom being lost for want of a nail). TKZ was established, and was being kept well up-to-date, so I suggested it to Vampz (Xavier). My homepage is rpgtoolkit.com, which redirects to toolkitzone.com. I also check the forums periodically, but I don't post very much anymore. I'm a lurker. Uhh, sure. Actually, my brother thinks he has a decent chance with her, too. No. That as been a long standing debate. Oldbies vs Newbies. Eventually, the newbies will become oldbies. And those who don't will just leave the community anyway. Yes, although I never found time even when TK2 was at its height of development. I see myself these days as more of a figurehead. Like the queen of England. Just not so old... or female. 3.0.5 was the first release that didn't come from 'me' officially. The other community releases were ultimately compiled my me. But the dev team has a really good handle on things now, and I'm happy (and greatful) for all their hard work. Yes. There's enogh stuff in there to keep the hardcore users happy (like object oriented RPGCode), and enough stuff to keep new users happy (like a growing help system and 'convenience features' like laying down multiple tiles). And things seem to be getting more stable, too. I'd like to see TK3 take off a bit more. I'd like to see more games for TK3 being released. But we all know that creating decent games is a lot of work. And a lot of that will be tied to TK3s own growth and stability, too. Not for the forseeable future. *CBM, the creator of the Toolkit, recently agreed to take part in what I think might be his first interview, so here are his answers to the questions posed, including some asked by community members. Enjoy.*
+**Ross L: What do you do for a living now?**
+**Allan@aljo: How is life in general?**
+**Xavier: What are your hobbies now you no longer devote so much time to the Toolkit?**
+**Xavier: Do your friends and family realise the community and world you have helped create on the internet?**
+**Koh Wei Zane: Did you think the TK and community would grow to be as big as it is when you started TK1?**
+**Xavier: How much time would you find yourself spending on the development of the Toolkit during the prime of TK2?**
+**Xavier: Which community names do you remember most from the early days of community?**
+**Xavier: When did you become to realise that you didn't have the time and/or motivation to carry TK3 on your shoulders alone?**
+**Talyn: How hard was it to let go of TK3 and make it Open Source?**
+**Xavier: Were you disappointed by the initial lack of development?**
+**Xavier: Why did you decide to make TKZ the official site instead of your own?**
+**the_slasher07: Do you check around the community periodically to see how things are going?**
+**Xavier: One of our community members, Master Tamer, has an obsession with Hilary Duff, we suspect he's crazy. Do you endorse Ms.Duff?**
+**Xavier: Do you agree with some that an influx in new users is detremental to the community as a whole?**
+**Xavier: Have you had an interest to try any TK games recently?**
+**Woozy: Any chance you will become a bit more active in the community > as a whole?**
+**Allan@aljo: Do you think the TK3 is growing in the direction you > wanted it to?**
+**joao_foscarini: Where do your expectations lie for the future of the TK?**
+**Ross L: Do you plan to return to active developing with the development team?**
+*Thank you to CBM for taking time out to answer our questions, and also thank you to the community for their response in providing many of them.*

@@ -1,0 +1,10 @@
+# macOS Finder metadata
+.DS_Store
+._*
+
+# the generated site (built by the workflow, not committed)
+_site/
+
+# node
+node_modules/
+package-lock.json

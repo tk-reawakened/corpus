@@ -1,0 +1,38 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/games.php?news=3209"
+site: "toolkitzone.com"
+title: "Coins"
+original_url: "http://www.toolkitzone.com/games.php?news=3209"
+written: "2006-05-01T18:42:00"
+date_confidence: "exact"
+updated: "2006-05-01T18:42:00"
+captured: ["20060513213334"]
+author: "TK Game Boy"
+repliers: []
+authors: ["TK Game Boy"]
+comments_present: 0
+f_description: "A Puyo-Puyo style game featuring characters from Dark Age and Heraldry:Freija. This game will be made to commemorate the TK's 10th anniversary."
+f_led_by: "TK Game Boy"
+f_rating: "0 votes cast"
+f_status: "Development"
+f_toolkit_version: "3.x"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/games.php__news_3209", captured: "20060513213334", sha256: "21a9b284171e603fbbea884ec83110d6950e61744bb8c9e2e26b68d23e2661ed", wayback_url: "https://web.archive.org/web/20060513213334/http://www.toolkitzone.com:80/games.php?news=3209&PHPSESSID=41f26e06b8b6a891a15d685e59e58c0d"}
+---
+
+# Coins
+
+May 1, 2006, 6:42 pm
+Development
+A Puyo-Puyo style game featuring characters from Dark Age and Heraldry:Freija. This game will be made to commemorate the TK's 10th anniversary.
+**Coins**
+by TK Game Boy **May**
+May 1 2006, 6:42 pm
+The project has been redone and it is now better than ever. First, the current features: +Coins can Drop +Coins can Stack +Coins can pop when 3-5 are stacked +Coins can pop when 3-5 are lined +Whites are wild +Purple destroys all +Opponent's side works +Performs the same deeds +Blue coins fall on opponents +Can pop blue coins Some notes about the interface: Originally, it all ran on two canvases only but I changed it to 4-5 to make things easier to draw and redraw. Also there is now an opponent that works like the first player only the computer controls it. A.I. is still needed to make it better. I am currently working on character designs and a demo so stay tune. This month will surely promise some good news.
+May 1 2006, 7:10 pm
+Congrats! Looks like the game's shaping up nicely. I'm looking forward to this game. Keep up the great work.
+May 1 2006, 7:53 pm
+I'ld like to add my own congrats to Moos bellowing...
+[![Coin popping](games/phpThumb.php?src=../mygames/images/1804/5933.gif&w=175)](games.php?image=5933)

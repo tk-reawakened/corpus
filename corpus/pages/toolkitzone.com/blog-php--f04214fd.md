@@ -1,0 +1,53 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/blog.php?mode=view&user=1634&view=user"
+site: "toolkitzone.com"
+title: "maybe"
+original_url: "http://www.toolkitzone.com/blog.php?mode=view&view=user&user=1634"
+written: "2004-04-14"
+date_confidence: "day"
+updated: null
+captured: ["20051030205524"]
+author: "Rueben"
+repliers: []
+authors: ["Rueben"]
+comments_present: 0
+f_interests: "Not really appropriate for a \"family-friendly\" forum ... \"stabs Marz\""
+f_joined: "April 14, 2004"
+f_location: "UK - Huddersfield/Shrewsbury"
+f_username: "Rueben"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/blog.php__mode_view_view_user_user_1634", captured: "20051030205524", sha256: "20c6fe1d516ea7d9bc3fd57fb64c989a9cfa9fa8e8c9315bac478cbe132f027d", wayback_url: "https://web.archive.org/web/20051030205524/http://www.toolkitzone.com/blog.php?mode=view&view=user&user=1634"}
+---
+
+# maybe
+
+**User Entries** (10)
+06 June, 2004
+Well, it seems that I "did not" get drunk as I thought I might get on Friday. Whether this is down to my increasing resistance to alcohol or the fact that the bar at the hotel was shut and refused to open when we got back is probably no mystery at all. But nevermind, it meant I could actually get up the following morning and enjoy a hotel breakfast. Woo-Hoo! So, being an instrumentalist (and more-specifically, a brass-bander), I am going to a rehearsal with the tomorrow. This comes about a month after I was kicked out of my old band for various reasons. Mostly due to the fact that I wasn't local and would be spending a good deal of time away from Yorkshire during holidays. Too many bands are willing to adopt the "Hire and Fire" attitude nowadays ... there's no sense of respect or loyalty. I have been frantically playing (well, more leisurely) Final Fantasy VI - being that it is a great game. I am now on the World of Ruin following this deeply fascinating plot. I can see why it was put as the greatest Square game of all time at . Truly epic and except for the graphics, it far surpasses many games of the modern era. Unfortunately, I'm not going to be posting very often for the time being in this blog ... simply because ... well, at the moment my life isn't particularly interesting. I'm going home for the weekend on Thursday, and then a coupla' weeks after that. Uni this term hasd been so bloody boring.
+04 June, 2004
+Today I'm off to Manchester before heading to some random village to play in a marching band. Followed by food, beer, women and more beer. Should be a good night. I'll let you all know how it went once I've recovered from my hangover! :-)
+01 June, 2004
+Being Brit and a tennis fan, I have to suffer the tremendous euphoria and downright frustration that is watching Tim Henman play tennis. Fortunately I don't have Sky TV (or a TV for that matter!) so 50 weeks of the year I have to accept following his progress via the website. Tim Henman is naturally pathetic on clay. Period. He is a grass court player who constantly comes up trumps at Wimbledon (before bottling at it the quarters or the semis). The other 50 weeks of the year is just average for him. So now that he has reached the semi-finals of the French Open, I am seriously worried for him. Hopefully Wimbledon will return some normality for him. In other news, I got approximately 2 hours sleep last night. The flipside of this is the inevitability I will get about 10 times that amount tonight and get a "sensible" routine back. I submitted my composition tutorial I wrote quite a long time ago, slightly updated, a few days ago and it is now available to download. It was there before, but the link didn't work, forcing me to do some work. Finally, I am still without alcohol, I have not been drunk since I was hospitalised 3 weeks ago. Proabably for obvious reasons. That doesn't mean I don't want a drink damnit!!! Regards Drink - err, I mean Dave. [BBC Sport](http://www.bbc.co.uk/sport)
+*maybe*
+31 May, 2004
+Whoops, an attempted "get up" at 10-11 this morning turned into 3:30 this afternoon! I really need to sort out my sleeping habits ... :- Oh well, I finished Chrono Trigger yesterday, and I can't be bothered to play and see all the endings, so I'm now playing Final Fantasy VI/III ... But tomorrow I'm back into the full swing of university ensemble rehearsals, so that might get me into action. Jeez, my life must be really boring if I can't think of anything else to put into it! Meh, go to for the most twisted and sadistic comic in the world ... well, my head anyway.
+27 May, 2004
+For the music types out there (although don't feel that you're not allowed to read just because I said that!) ... I went to band practise this morning - university, don't ask, morning indeed ... - and I took an instrument I'd borrowed off the uni having had to return my old one. So, sat in the hall, practising while people flock around me arranging themselves for a joyous event in the art of banding. Warm-up fine (tone dodgy though). First piece, about half-way through and my second-valve jams. As anyone who plays a brass instrument to any level will know, the 2nd valve is required for just about every other note you need to play! Wonderful ... Fortunately the issue resolved itself. Well, I haven't done much else today, but I did re-enlighten my love for good old Chrono Trigger, wonderful game. Already quite far through it. Suffice to say, I have something now to fill my days with for a little while. *stabs Marz*
+26 May, 2004
+I started "The Fourth Dimension" again! Check it's (limited) info out in the games section! This gives me something to do while a waste away this enormous amount of free time I have. You know, I actually spend the whole year of working waiting for this, and when I do get free time, I get bored ... The home of a friend of mine and his sadistic (read: funny) friends. The blog entries here are fairly sporadic but usually humorous, worth a read. Today I did a grand total of very little. I practised my euphonium (tenor tuba) - badly ... oh yes, and I got a call this morning asking for me to return an instrument urgently to a band I used to play in. A right pain when I'd been promised it for as long as I needed ... and the fact I need it But alas, life isn't so bad, Henman is actually winning for once in the tennis, which relieves me, and I wonder who won the Champions League Football? (read: Yanks, that's soccer to you, but it's blasphemy that you nicked the name of the beautiful game to christian your rugby-clone anyway!) **CURSE YOU LIFE!**
+*tomorrow morning!!!!!*
+25 May, 2004
+Well, I got home yesterday morning (home as in University home, not home home). Immediately I installed Beyond Good and Evil which I'd borrowed off a friend ... but alas, I was once again struck down by the fact that I need to get a new computer (ie. the frame-rate was veeeeery sloooow). Nevermind, I've got plenty of things to keep myself occupied with ... errr, like play No One Lives Forever! Again!! Whooops, actually I just completed that ... again. OK, so I could play on my PlayStation! Wait no, that's at home. Dang. I am faced with the very real possibility of having to do some work. Damn you life, you win this time ... *goes off to drink alcohol and maybe have some tea*
+21 May, 2004
+I'm home now, leaving university life behind at least for the weekend. Cue endless drunk reminiscing(sp?) with old college friends! Not much else to report on today, but if you'd like to be disturbed, go to . He is (ironically), a friend of mine, who likes to see the world from a darker view point ... or rather ... "I'm not getting laid so I'm gonna be depressed" syndrome. My brother was excluded from school last week! Suprised me as well, fortunately he's at the end of his school time and his exams are just starting (which he is still allowed to take). Mind you, as much as I like dope myself, he's using it as a way to ruin just about every other chance he has on life. Maybe college will beat him into shape (or not ...). Also, in my renewed interest on posting links, my love-affair with hit a new high with some genuinely hilarious sketches from E3 and post-E3. But for some truly disturbing comedy, try ... you'll never return!
+20 May, 2004
+Well, the PS2 saga has come to a shuddering halt. The cheapest retail quote I could get on a PS2 was £90. NINETY F*CKIN' POUNDS!!! I'm not F*CKIN' payin' ninety F*CKIN' pounds!!! :) (for the record Ebay was hardly any cheaper) ... so being the cheapskate student I am, I promptly logged onto Ebay and bought a PS1 for £15. HORRORS! I haven't been a part of the console world for about six years (and that was a mega drive/genesis)! Anyway, I'm looking forward to playing classic RPGs such as FF7/9, Crono Cross and vagrant Story on it. It can be my time-waster since at the moment I don't have time to do much else except get a job (as my mum says) ... NOOOOO! Adios readers ... for now.
+19 May, 2004
+You here that? Disease!?!? Yes that's right, a type of disease that can't grow, but gradually overtakes your mind as you play yet for a few more hours (just another ten minutes) ... Final Fantasy VII came close, boy that was one of the greatest games I ever played (and I played it many times!), but Final Fantasy VIII has inflicted me with FF-mania! Amazingly I only started playing the game about 7 weeks ago, after my mate lent me his PC copy of the game (I am a non-PS owning person). Ouch, the game was bloody brilliant! OK, the gameplay was good (junction system work of genius!), but the story was amazing. Never before (even in some novels) has a love-theme been so well built up. It ripped me apart emotionally. And having completed most of the game now, I am left empty, craving more. The only other Final Fantasy I own is the PS copy of Final Fantasy VII (originally bought for emulation - it is CRAP SLOW!) ... But being as I am desperate now to play also Final Fantasy IX and X ... plus drooling over XII ... I have resolved to get a PS2 (as cheap as possible). Just one pad and a sizeable memory card please! I might get it this afternoon (cue bank balance demolition). It would allow me also to get Vagrant's Story and Crono Cross. This would quite healthily also mean I don't have to spend time doing the far more important composition, transcribing, practising and job-seeking. Plus I'll probably never do more on my novel for another six months as a result! Argh, once again computer games are taking over my life!
+![](forums/images/avatars/133509170641d7701d1fa4b.png)
+Rueben
+April 14, 2004
+UK - Huddersfield/Shrewsbury
+Not really appropriate for a "family-friendly" forum ... "stabs Marz"

@@ -1,0 +1,63 @@
+name: Build and deploy the corpus site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install build dependencies
+        run: |
+          python3 -m pip install --upgrade pip pyyaml
+          npm install --no-audit --no-fund
+
+      - name: Build the site
+        run: |
+          python3 site/build.py
+          node site/build-index.mjs _site/search/documents.json _site/search/index.json
+
+      - name: Check the site is complete
+        run: |
+          pages=$(find _site -name '*.html' | wc -l)
+          echo "html pages: $pages"
+          test "$pages" -gt 15000
+          test -s _site/search/index.json
+          test -s _site/index.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,24 @@
+---
+kind: review
+id: "mysticsoftware.net/46"
+site: "mysticsoftware.net"
+title: "Phenomenal"
+original_url: "http://www.mysticsoftware.net/reviews.php?mode=1&review=46"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20040814154649"]
+author: "R043482"
+repliers: []
+authors: ["R043482"]
+comments_present: 0
+reviewer: "R043482"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/mysticsoftware.net/reviews.php__mode_1_review_46", captured: "20040814154649", sha256: "e9ba649a46f81d3320cff472bceafcae42de56c8a8c9690cdb4de3f50c078830", wayback_url: "https://web.archive.org/web/20040814154649/http://www.mysticsoftware.net/reviews.php?mode=1&review=46"}
+---
+
+# Phenomenal
+
+> *Review by R043482*
+> Phenomenal Reviewer: R043482 Game Author: Dug Web Site: None Reviewed Based on the standards of TK games at: Friday December 14th, 2001 -------------------------------------------------------------------------------- Description: You are a girl named Britney, and you essentially move around, and interact many village folks. You are to venture through strange places such as houses with enemies, and are to fight enemies with ridiculously high life, with high attack status. Strong Point: It's...different! It is definitely different. Life Health points are in the thousands range, and you can easily lose that amount due to the status change. The personality of the characters seems to be realistic, and I guess those are relatively the two only good points of the game. Pictures in the profile are decent as well, as they're probably the only best graphical interest you can get out of it. Weak Point: Weak points? Where to start First off, even if the game consist of 99% ripped tiles, it looks as though the creator has just slapped on tiles together and have put in a half-decent effort. The trees are not placed correctly, and are squared shaped. You can check it to see for yourself, and there aren't a lot of special moves, or anything out of the ordinary besides the stats, and life numbers. The game is extremely buggy as some tiles which are supposed to be normal are either solid or under. (Try moving around a lot in this game you'll notice it) Rating: Story/Plot: 1.5/5 There isn't much of a story here, and it's pretty much straight forward. No details of your purpose, and the quests to this game. You get the story pretty much out of the interaction of characters within the village. There isn't anything else to be said Game Play: 2/5 Game play? If you call, walking around talking to characters, and fighting for with no real purpose is game play, then it isn't! Everything seems to be slapped together in one day, under five minutes at the last moment. Although it is like that, the houses seems oddly out of place, and the objects placed doesn't really fit in with the background realization to this game. Graphics: 2.5/5 Graphics are all ripped, except one profile of Britney. The ripped graphics placed in the games are oddly out of place, and in some, if not most cases, the tiles are incorrectly placed. (Examples: Trees that aren't like trees, because they are placed improperly). Nothing out of the ordinary, but nothing too horrible. Sound/Sound Effects: 2.5/5 I noticed the upbeat music from the very old demo of The Jewel of Destiny. That's pretty much it! The only good song was the intro shown at the beginning of the game. The game pretty much heads down to a down-wards spiral afterwards. Pretty much ordinary music, at best exists in this game. Expect no sound effects, and no extra music feature from this game. Originality: 1/5 It's a cliché: Everything is predictable, and seems to be like any other rpgtoolkit game, yet worse as a half decent effort (maybe a quarter decent effort) is put into this game. Sadly to say, the only original graphics was the one profile of the protagonist (hero) Britney. The stats, and hp the heroes and monsters has is original compared to the rest of the game, but it isn't much. Overall Score: 9.5/25 Percentage: 38% Reviewers Comments: Even though it was made about a year ago, I based my judgement upon today's standards of Rpgtoolkit game as indicated above to reveal the standards I base the toolkit game on. Even for this game, based on the day it was finished, it was still a very poor rpgtoolkit game, as it seems to have little effort put into this. Unfortunately no news has been heard of him, and his site had disappeared altogether. Recent news had revealed that Dug gave up his Rpgtoolkit gaming creation, as he said "it sucks" referring it to the rpgtoolkit (found cnet.com reviews of Rpgtoolkit). With a little more effort, and time, the game would've been more of a success than it would today. If you are very bored, and want to know what not to do, check this game out. Robert Dang (R043482)

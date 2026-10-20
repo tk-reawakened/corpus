@@ -1,0 +1,25 @@
+---
+kind: review
+id: "mysticsoftware.net/111"
+site: "mysticsoftware.net"
+title: "Deminsions"
+original_url: "http://www.mysticsoftware.net/reviews.php?mode=1&review=111"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20050315094915"]
+author: "TKGB"
+repliers: []
+authors: ["TKGB"]
+comments_present: 0
+reviewer: "TKGB"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/mysticsoftware.net/reviews.php__mode_1_review_111", captured: "20050315094915", sha256: "8ea3087803b35e15b92c1ae320855ff2e3a0000b1cb3a73005efae0a95675e26", wayback_url: "https://web.archive.org/web/20050315094915/http://www.mysticsoftware.net/reviews.php?mode=1&review=111"}
+---
+
+# Deminsions
+
+> *Review by TKGB*
+> Here's a game that is never mentioned but should because it is a very good layed out game. Why I am trying to figure out why no one has ever mentioned such a nice game here. It is just what the novice TK member is looking for in a default game. Plot (1) - The game starts as you, Julius, and your sister Jenny. Jenny is eager to get some Baca fruit for the annual festival so you and Jenny go to the cave. After you got some fruit, you decide to hit the hay. During the middle of the night, you are awaken to a rumbling. You go outside to find a Gremlin. The Gremlin wants to take Jenny. You tell him no way but he defeats you and your out cold. One day later, you awaken to find out Jenny is gone. A stranger named Rosso arrives in your town and says the he is after the monster as well. So Julius teams up with Rosso (or the other way around) to find the Gremlin and take him down. Great storyline there. One problem. When Jenny is kidnapped, Julius doesn't seem all the worry. In fact, instead of saying something like "I'm going to kill him!", he goes off theorizing about why he couldn't possibly kill her. Err...well that seems to be the only thing wrong with the story. -------------------------------------------------------------------------------- Art (1) - Ripped tiles but they are fantastically used. Look how lucious the town looks. It's beutiful. Also the over world looks very nice. Everything is given a great country/beach kinda setting which is very original. The only custom art is the title screen and the Mwin. Nothing special but it goes great with everything. -------------------------------------------------------------------------------- Music (1) - The music is ripped from various places. Some of the songs are original scores, but I'm not sure if its from the creator. We got some music from other games but not sure which is which. I know definetly know that there is one song from "Megaman and Bass". Well whether there mix or not, the game follows one particular music style. All the music are smooth, calm songs that is great to listen too. Then we got songs that give suspense but still follows the same style as the others. I tell you, this is great. One point here. -------------------------------------------------------------------------------- Enviroment (1) - The towns are built nicely and are not repetitive to the other towns. They got their own groove going on. -------------------------------------------------------------------------------- Programming (1) - No fancy stuff here. Everthing is default but the programming isn't one to downsize the game. The game functions beutifuly with everything. Nothing seems out of place. It's excellent, even if it doesn't have custom systems. -------------------------------------------------------------------------------- Characters (1) - You have Julius, the protagonist who is searching for his sister Jenny, and Rosso whom is searching for the Gremlin who destroyed his house he was building. These two, in my opinion, make a great team. I love it. -------------------------------------------------------------------------------- Menu (0) - The menu is the same default TK one. No special effects when you use items, and the background is all black. The profile pics are just the ordinary tiles used for the characters. -------------------------------------------------------------------------------- Fight (0) - Oh lord, just as this game was becoming excellent, the battle system ruins it. The enemies are too tough for one thing. I'm talking about the first board enemies. It takes alot of hits to kill the monsters. Also not only are they incredibly strong, you are incredibly weak. A really dilema. -------------------------------------------------------------------------------- Game Play (1) - Julius walks like if he is striding or something. Hmm. Well can't say its bad but can't say its good either. The battles appear at a moderate timing. So it all seems good in this area. -------------------------------------------------------------------------------- Fun Factor (1) - Yes this game is fun. Its a TK game that makes you wonder whats next? It will keep you going, and going till you reach the end. -------------------------------------------------------------------------------- Conclusion (8/10) - Fantastic display of TK gaming. A game that not only needs to be played but acknowledged as well.
+Order it Today!

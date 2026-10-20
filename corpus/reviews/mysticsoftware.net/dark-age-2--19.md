@@ -1,0 +1,24 @@
+---
+kind: review
+id: "mysticsoftware.net/19"
+site: "mysticsoftware.net"
+title: "Dark Age 2"
+original_url: "http://www.mysticsoftware.net/reviews.php?mode=1&review=19"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20040813051405"]
+author: "Rueben"
+repliers: []
+authors: ["Rueben"]
+comments_present: 0
+reviewer: "Rueben"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/mysticsoftware.net/reviews.php__mode_1_review_19", captured: "20040813051405", sha256: "de82c0e3eab7300f989a8fad18eb2d6acb63c61df8ad58fbf182d6528fabb584", wayback_url: "https://web.archive.org/web/20040813051405/http://www.mysticsoftware.net/reviews.php?mode=1&review=19"}
+---
+
+# Dark Age 2
+
+> *Review by Rueben*
+> Perhaps the most anticipated Toolkit game of recent times, alongside MrG's masterpiece of 'Zeo-K'. But while its main rival unfortunately fell away to nothing, Xorlak marched on with dark Age 2, releasing every so often another teaser screenshot or other detail. By the time of its release the audience was panting with excitement. And true to form, Dark Age 2 does not disappoint. Xorlak's previous outing with Dark Age proved how much could be done with the RPG Toolkit by using ripped graphics and default systems. It was a masterpiece and deservedly won the 'Game of the Year' 2001. This time Xorlak decided to take the evolution of the toolkit in to his own hands. Custom battle system, menu system, character-development and graphics to name just a few. What is particularly remarkable about this game is how good each aspect of it works and blends in perfectly with the rest of the game. The battle system perhaps represents the pinnacle of RPG Coding to this very day, close to a year on. It follows the traditional Final Fantasy route of real-time/turn-based combat, but with a twist. You only control one character and you'll face a maximum of two characters. How does that work? One word: exceptionally. Character development is what allows this game to rival loosely along many other hardcore RPGs such as Baldur's gate or Diablo, but with a firm Final Fantasy theme about it. Do you want a hard-hitting, many hit-points warrior capable of downing a wyvern with just a couple of hit? No problem! Do you want a spell-casting genius capable of using magic to manipulate everything the enemy throws at you? Sure! How about a raging inferno of fire which uses the red element to control everything he does? That as well! How about a mixture of everything? Definately! Despite the game's linear storyline, it still holds huge replay value because of this development. Defining the character into what YOU want him to be is what it comes down to. You never have to worry about armour or weapons, just where the next experience points are being allocated. Graphically, the game is sublime. While not ranking especially well against Rudolph's Adventure, Dustball or some forthcoming games such as Heraldry: Freija, it holds its own very well. Everything is consistent, and the enemies and effects are well-drawn. The best way to describe it is to think Final Fantasy VI/III in hi-res and colour. The music is all entirely original composition by (ahem) me, and the talented MrX. While this may remove some of the professional polish you might get by using established themes, it adds to the originality and provides a welcome change to the media Of course, no review is complete without pointing out the flaws of the game in question. These are few and far between, and are certainly over-looked by the superb achievements Xorlak has pulled off, but nevertheless, they are there. The story is a little weak, and although the main badguy, Darken, is very creepy with an intriguing character, the whole experience is mostly material which has been explored before. There are some nice touches, but it is generally predictable. However, probably more concerning is the difficulty. It is one game you will have to work hard at for certain! The enemies are all very tough, and the level of them tends to skyrocket between various story areas. With 35,000 power, I still struggled with the last boss! You will have to be prepared to see a few game over screens before you really get the hang of it. The most annoying thing is the speed of the game. Granted, this is down to the Toolkit rather than the game, but dark Age 2's huge scope slows it down a lot. My Duron 950 with 256Mb RAM chugged along with occasional slow-down, but for a fuller experience you'll want more than that, which really isn't acceptable for a 2D game. But minor gripes these certainly are. The game represents by far the best the Toolkit has offered yet, and is the benchmark for current amateur developers to match or to emulate. The 20 or so hours it will take for you to complete this game will be time well spent. Overall: Pros: - Strong character development - Custom-designed systems - Replayability Cons: - Difficult - Tough on slower systems

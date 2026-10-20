@@ -1,0 +1,23 @@
+---
+kind: page
+id: "mysticsoftware.net/mysticsoftware.net/help.php?article=5&mode=1"
+site: "mysticsoftware.net"
+title: "Mystic Software"
+original_url: "http://mysticsoftware.net/help.php?mode=1&article=5"
+written: null
+date_confidence: "unknown"
+updated: null
+captured: ["20040504142359"]
+author: null
+repliers: []
+authors: []
+comments_present: 0
+converter_version: "1"
+source_captures:
+  - {path: "wayback/mysticsoftware.net/help.php__mode_1_article_5", captured: "20040504142359", sha256: "9ac62cf822cff0eb5af021b4ae260ac7c247f0744e6f733e692ffe4c57a611f2", wayback_url: "https://web.archive.org/web/20040504142359/http://mysticsoftware.net/help.php?mode=1&article=5"}
+---
+
+# Mystic Software
+
+Introduction: Hello friends. It is I, X. Here to bring you a probably much needed article on code commenting. This small guide is directed mostly towards RPGCode, but the concepts here in could be useful for other langauges like Visual Basic, C/C++, or whatever. Well then, shall we get started... Note: I will use the word "he" throughout the article, but that doesn't mean I am just refering to males. So, just to clear any mishap I might get from the growing percentage of female Toolkit users, "he" in this case means "he/she." Thank you. Chapter 1: Why comment my code? Obviously, you must think, "Why comment? It's my program, I'll remember it later!" Wrong. Go write a complex custom battle system, leave it alone for a few months, then come back and try to make changes. By that time, you would have forgotten a lot of the code, so making any changes to it might prove to be tricky. Especially if you write messy code. You see, commenting your code will help you, and anyone that views your code, understand it easier. Take for instance, the start.prg that is given to you when you first make a game. It has a few comments in it so people who are new to the RPG Toolkit can understand the how the code works. It's meant to be helpful. Comments are meant to help the coder not forget what he just did, or what he needs to do. So in a weird, sort of analogy, you could think of comments as sticky notes, placed there for reminders or helpful hints to about how something works. Chapter 2: Ok then, so what's the right way to comment? Well, there really isn't a right or wrong way to comment, but there is such a thing as being consistent and not over-commenting. "What?! Too much commenting?!" Yes, there is such a thing as too much commenting. Too much can lead to reading more comments than code, and that isn't what the programmer that you gave it to had in mind. You want to keep comments to a short and straight forward approach, but don't put too little, then your comments will be too vague for anyone to understand. Consider this example. Example 1: #method INC (var!,num!) { #for (loop!=0;loop! { #var!=var!+1 } #ReturnMethod(var!) #kill(loop!) } Can you tell me what that does just by looking at it? Probably not (And for this articles' sake, you can't. =P). Now, lets add some comments to it. ********************* ** Increment Method ***** ****** By: MrX ********* * var! is the varible to be incremented * num! is the number of times to increment #method INC (var!,num!) { #for(loop!=0;loop! { #var!=var!+1 } * Returns the updated variable, var! #ReturnMethod(var!) * Free up memory #kill(loop!) } Now can you tell me? Probably so. See how commenting can help make understanding code easier? As long as you follow a few simple rules, you and anybody that you give your code to will never get lost in your own code again! Chapter 3: The 5 Commandments of Code Commenting. Well, since there really isn't "rules" for commenting, I figure Commandments work better, since not everybody follows those... Anyway, here they are: 1. Always put comments in your code. 2. Don't put random stuff, explain things, leave notes. 3. Keep it to-the-point. 4. Don't over comment, nobody wants to read more stuff than they have too. 5. Keep in consistent. Don't comment one way, then do it different later. Form your own style or adopt someone elses. Outro: Well folks, that's it for me. I hope this article proved helpful to all aspiring RPGCode GURU's. And remember, even if you have messy code, you could at least have good comments. Appendix A: Cool links http://mrgoldsoft.mysticsoftware.net/ - RPGCode Shack! Ran by resident RPGCode GURU, MrG! http://www.tk-x.com/ - RPGCode forums for all your RPGCode help needs. http://www.mysticsoftware.net/ - Lots of games to play! http://www.rpgtoolkit.com/ - With this place, there would be no RPGCode! Email: mystax@mysticsoftware.net
+- Code Commenting - Written By MrX

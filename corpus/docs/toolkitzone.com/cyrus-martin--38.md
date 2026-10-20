@@ -1,0 +1,60 @@
+---
+kind: doc
+id: "toolkitzone.com/38"
+site: "toolkitzone.com"
+title: "Cyrus Martin"
+original_url: "http://toolkitzone.com/library.php?mode=read&doc=38"
+written: "2004-11-21T17:05:00"
+date_confidence: "exact"
+updated: null
+captured: ["20060312230224"]
+author: "Cyrus"
+repliers: []
+authors: ["Cyrus"]
+comments_present: 0
+f_author: "Cyrus"
+f_date: "November 21, 2004, 5:05 pm"
+f_description: "Opening article in the series, discussing the process of preparing yourself to write and the purpose of writing itself."
+f_section: "Creativity > Creative Writing"
+f_title: "Session 1"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/library.php__mode_read_doc_38", captured: "20060312230224", sha256: "4de2072d00072a610aacfc121ce8f7fd5684d2c69c961f36d29130352d5b21cc", wayback_url: "https://web.archive.org/web/20060312230224/http://toolkitzone.com:80/library.php?mode=read&doc=38&PHPSESSID=bdcceeefceef8ff863ad82d0d089ece4"}
+---
+
+# Cyrus Martin
+
+**
+Creative Writing
+Session 1:
+Finding a Reason to Write
+**
+Purpose:
+The intended purpose of these articles is to explain some of the elements involved in the creative writing process. These elements range from the overall concept of story telling to the most specific details necessary to create a written tale. These articles will each focus on one individual consideration that the writer must master to successfully share a message, ideas or feelings with the audience. This means that it is my intent to help provide you with the wisdom I have gained studying the writing process. It is my intention to make any one feel unintelligent or untalented. My opinions and perspectives are not intended to replace your own nor do I expect anyone to change their minds after reading my words. I love writing and my intent is to help you love it too. I hope you will find this information useful and I hope you will share what you have learned with others who are looking for some insight as a writer. Thank you. **NOT**
+Its often said that the blank page is the most intimidating obstacle to writing. The page is empty and just sits there. Its up to you to fill it with your words. Many writers find this to be quite stressful and emotionally draining but it does not have to be. The key to overcoming the absence on the page is to start writing. The most important step to completing anything is to start it. What you write is not all that important. I know that sounds ridiculous, but you will find that it is much easier to start writing something even if you do not necessarily like it rather than trying to find just the right words. Remember that you can always replace what youve written later on and you probably would any way. Seldom are the first words we write the best choices. That is the reason the term "First Draft" applies to creative writing. The "First Draft" is the version of your story that will spill out on the page first. I like to call this the "Rough-cut". It may not be very good or very clear, but it doesnt have to be. Its more important to get the ideas down on the page so that you can see how the story looks and figure out how to change it. Your first draft is just for you so it can be as messy and disorganized as you like. As long as you can figure it out, that is all that matters. Dont be afraid to write. I promise you that youre going to enjoy this.
+Once youve begun writing, you should go ahead and finish the first draft of your story. It is tempting to quit and start writing the real version before youve finished the Rough-cut but I would advise that you try to get all the way through the first draft before you do anything else. You can write it sloppy and leave out all the details you want. Just get the general ideas down. Once you are done with that, you will have created a road map by which you can build your story. This Rough-cut will help keep you from mixing up the events and details of your story as you begin crafting it all into an artistic work. The more work you do before you begin the final version of your story, the less time you will spend making changes to it later. JRR Tolkien actually had to completely start over several times when he wrote the Lord of the Rings. Obviously, a dedicated writer can do this but such things can often cause a writer to abandon the project. Lets just try to keep from dealing with that situation. If you have to start over then its not the end of the world, but do not set yourself up for failure.
+Dont be afraid to break some rules. If you feel like there is something you could do that might help you with your story then try it. Make note cards. Draw pictures. Write poems. Experiment with different ways of expressing your ideas. Doing so might help you see the very idea you created in a different light and send your story in a whole new direction you never would have imagined. We write what we know. This is an old saying that is absolutely true. If you have never seen a sunrise, how would you describe it? If youve never dug a deep hole in the ground, how could you know what it is like? Sure, there are many things you will write about that youve never physically experienced but writing about what you experienced will help make all of that more real for the readers. Research and experimentation are two powerful tools that will help you write an interesting and compelling story. **have**
+The Purpose of Writing
+Thinking up a cool story idea and jotting down a Rough-cut may come fairly easy to you but writing a carefully crafted literary masterpiece just might be a little more than you bargained for. Many people get to this point and then start stumbling around looking for just the right word or just the perfect structure for the story. Frustration is extremely common to writers. Many of us go insane or just totally give up the writing craft completely because of the stresses we put our brains under during the process of developing our work. There are writers out there that would tell you that writing comes easy to them and its not a big deal at all. They are correct. It does come easy to many people but only those who challenge themselves and push their abilities will ever write a story that they are truly happy with. The joy of writing is finding a purpose in your work and improving as you go. A writer who never improves is a writer who never learns and that is the greatest failure anyone can have.
+What is the purpose of Writing? This is a question that is more complex than you might think. The purpose of writing can vary from writer to writer or from story to story. Often the purpose of Writing can change many times during a single work and sometimes the purpose is never truly clear even to the writer. A lack of purpose may stem from many sources. Perhaps the writer is depressed, unsure or disturbed. Perhaps the writer is uneducated or sloppy. Perhaps the writer is just not talented. In order to write a story that an audience will read there must be some semblance of purpose in the words you write. The true question that must be asked is "Why are you writing this story?" Finding your purpose will help you discover how to tell your tale.
+One possible purpose for telling a story is to share your ideas. These ideas may be your genuine beliefs on important issues or just the way you are feeling that day. You might want to tell others what you think about a concept or theory or even explain a new theory of your own. You may want to talk about your perceptions of famous people or describe people that you have created. You might want to just tell a short story about something personal and private or write a lengthy epic including many characters and multiple story lines. The ideas you share are a reflection of yourself. What you create will tell others about you whether you do it directly or through characters you have generated. Sharing your creative thoughts is one of the most rewarding purposes of Writing.
+You may also approach the art of story telling with the intent to make people think. Perhaps you are not as interested in sharing your ideas as you are with trying to get others to form their own ideas. Spurring the creative spark in others can be an extremely satisfying goal. Many writers will create characters and stories with more than one purpose. Perhaps they are trying to share their ideas at first and then later in the story the goal changes. This is not unheard of and is actually very common. A skilled writer often has many purposes and many goals. Discovering your purposes and goals will guide you towards finishing the work you have begun and reward you for all of your labor.
+Find a purpose. Look for a goal. Once you know why you are writing, you will understand how the work should be written. Prepare and experiment before you commit to anything. Before you make a choice, take the time to look at your options and your goals. You will find less frustration and more satisfaction in your writing if you just make the effort. Get excited about your work. Talk with someone you trust about the story. The more you talk about it, the more youll think about it. Listen to what other people think. You dont have to take their advice, but pay attention to what they tell you and think about why they say it. Use every advantage you have. Tap every resource. Youll never be happy with "good enough" so dont talk yourself into laziness and never ever give up.
+How you write and what you write are up to you.
+These are but words of advice
+Thank you.
+**Cyrus Martin**
+** Author of Deceit and Conquest
+**
+Writer/Director of Dawn of Twilight
+Opening article in the series, discussing the process of preparing yourself to write and the purpose of writing itself.
+Nov 22, '04
+Nov 22, '04
+Nov 22, '04
+Nov 22, '04
+Nov 22, '04
+Aug 22, '05
+Apr 19, '05
+Apr 6, '05
+Mar 31, '05
+Nov 22, '04

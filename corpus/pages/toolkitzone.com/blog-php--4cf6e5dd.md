@@ -1,0 +1,55 @@
+---
+kind: page
+id: "toolkitzone.com/toolkitzone.com/blog.php?mode=view&user=397&view=user"
+site: "toolkitzone.com"
+title: "User Entries (44)"
+original_url: "http://www.toolkitzone.com/blog.php?mode=view&view=user&user=397"
+written: "2004-02-16"
+date_confidence: "day"
+updated: null
+captured: ["20060110143755"]
+author: "Linkin"
+repliers: []
+authors: ["Linkin"]
+comments_present: 0
+f_interests: "Motorcycles, Electric Gutiars,Computers, And Money!!"
+f_joined: "February 16, 2004"
+f_location: "Use your imagination"
+f_username: "Linkin"
+converter_version: "1"
+source_captures:
+  - {path: "wayback/toolkitzone.com/blog.php__mode_view_view_user_user_397", captured: "20060110143755", sha256: "8f51c78d3ab4685a2dce00fae648b0c3a67bff47f9a5c6ac324d46a22d78e885", wayback_url: "https://web.archive.org/web/20060110143755/http://www.toolkitzone.com/blog.php?mode=view&view=user&user=397"}
+---
+
+# User Entries (44)
+
+28 November, 2004
+jeez theres alot to write about im in edmonton now been here for about a week, school im going is massive compared to my last one like 800 students at my last school, this one has about 2400 pple, althou what looks bad is the fact this is my 6th school in the last fith years, so pple think im a badass, althou im not its kool thou cause pple think im dangerous, the grade 10 area, every one looks away or walks faster, or watches me go by then starts to talk, either they think im a freak or im dangerous, prolly frerak, im wearing a trench coat so i dunno wha theyr thinkin met some new ppple here alot actually aint gonna play guitar for a bit cause of how badly my fingers are chopped up from playing, my gf doesnt like me playing till my fingers bleed, i dunno why i do it, just want to be good at it i guess my sis has been a bitch since she moved here, but thats my sis, my other sis is playign guitar now, and at the end of this year, il have hopefully two new guitar's, looks like my parents might only one, i want a BC Rich Warlock, Bronze Series, looks hot (if the image doesnt appear just copy and paste the URL) http://www.bcrich.com/images/hi_res/Bronze_Warlock_Black.jpg anyways thats all i got to say Linkin - witness to insanitity
+01 November, 2004
+they are, im moving to edmonton: for those who live in canada, they know where that is after i move theyr for the year, i plan on moving down south to fernie, to live with my gf that and guitar have been keeping me of alot, plus ive been working alot lately, also with school, packing, and everything else i havent really had time to put stuff on the site, i came with the goall of having a hundred files on the site, owell looks like a fell short of about 11, well maybe ill finish my goal just not lately 89 files, thats still pretty good, isnt it? school sucks in a way cause im starting to wear myself out, especially with my last night foolish idea, tie a board to a tube and get pulled by a quad and go about 70 mph till u die sounds like fun eh? it was till i chopped my hand up on the ice got dragged about seven feet. my hand is shit it hurts to type or pay guitar or use it period, althou its my left so i can still do somethings i got the pc version of ff7 now so its all fun i wanted to send in a few more file packs but i dont really see a point anymore when 3.5 comes out cause of the auto tiles. too bad i dont have vb6 yet, i want to learn it. just cant yet. last night we also jammed for a fwe hours, four guitars, drums and a violin. it was awesome, our ears were ringing im writing this in class Linkin -witness to insanitity
+12 October, 2004
+well we won against fort st john, it was a fun victory, 14 - 28 afterwards we crashed near walmart, got food, and stuff, we also passed around a bunch of maxims on the bus ( we ride a charter bus, theres only 20 pple in our team ) it was fun time. kat worried me other day while i was talking to her on the phone, she got sick and started to throw up, worried the f*** outta me. mwhahaha, im going to have a business in three days :P o ya im writng this about 5 in the morning cause my f***ing sister stole my alarm clock so i woke up way to early, for soem reason if the clock is set o a time my body will get up then but it has to be beside me, but when im not near it, ill get up at ridicolous hours, i went to slepp last night at 1 so u do the math. and because she stole my alarm clock, im going to color on her face with permanent marker, and today is picture day, o well we have soap one thing ive noticed lately is that my bus driver is picking on the ppple whom he doesnt like and doesnt use the rules on every one just them most of the time, i had my window open the other day the entire trip and he gets mad at anther guy, and sends him to front for the week, not i, i had my window open the entire time. bus drivers suck, get a f***ing life thats about it for now except i can play awhole shit load off things on my guitar now, that and im going to a party for halloween, my mom said she just buy us all the candy a day after halloween, and i could care less. Linkin - ytitnasi ot ssentiw ps that wasnt as hard as i thought it would be
+07 October, 2004
+nothing really has been happening except a little more trianing in footabll, we had a card blitz which is our fundraiser. it was fun. went door to door. some place in town i went to was having a chick slumber party.*** sweet. other than that i havent been doing much else. i was shooting crows the ther day with a .308. like nuking a fish in a barrel. i havent spoken to kat lately, i was readiing her blog at blogspot.com. sounds like shes been having shitty days lately. cant wait to see her. Linkin - witness to insanitity
+02 October, 2004
+yesterdays practice was brutal, when i woke up this mornin i couldnt move my neck, i was completely imoblie, i didnt even go to school because it hurt so much, all day ive been forceing my head to move, having my brother hold my shoulder while mysister slowly moves my head around. It hurts like abitch hopefully im fully joy for tomorrow's game. other then that, nothing's really happened, except i think imy sister doesnt liek the fact the fact that ive never taken a single lesson on anything ive learned and im better at it all, ie horseback riding, snowboarding, skiing, using the com, guitar, driving ( i learned by watch and learn, she had my mom sit beside her ) Linkin - witness to insanitity
+30 September, 2004
+i still dont have my laptop and im making this entry in the middle of the night [ not really its like 10;02 ] kat wasnt online tonight which bums me out also in football practice, i dislocated my right thumb and can bend it around alot ore then i used to be able to, i got bunch of bruises on my back and chest, and my right leg got smacked really hard by noble hard enough to become numb, but all in all, no pain no gain. and ash doesnt really uynderstands why cody wants me dead Linkin - wintess to insanitity
+28 September, 2004
+y? parents have been fighting alot lately, i wouldnt be surprised if they got a divroce soon, anyways im writing this from a school com, in the librairy. because of theyr relentless fighting, my siblings and i have become refugee's in a large war. so alot of my things have been takin and hidden (go figure). i apologize to travis barker because i will not be able to complete his tilesets for a while, if you want man, email me or pm. ill give the recipe so u can do them yourself or you can keep waiting and ill finish them when the parent war is over. other then that i ahjvent done much else, the vets are trainin for footbal, so i aint gonna be playing this weekend against peace river. but owell, ll survive, and they's always next year. i havent spoke to cat for while, not since whitecourt anyways thats it Linkin - wintess to insanitity ps this keyboard sucks, my laptop keys are closer together so pressing the keys is alittle harder
+27 September, 2004
+on the field, the battle field, the penguins kick some ass!! on the field, the battle field, the penguins kick some ass!! that was the song we sang when we came into town, reason being we won three games and tied the first one, we rule also on the way back, the rookies (i am one) had to go the front of the bus, announce their full name, number, and position played, and a joke, i did a robin williams monolog, i was great, the vets said we should go on trips just to hear me other then that nothing really, except one of my ex's ex's wants to kill me, cause one of the girls i kno liked me, and my ex's ex, liked her, but she wouldnt go out with him cause she liked me, she still does i think. anyways because of all that, he wants to kil me. one of the strings snapped on my guitar, so i have to wait till i get some more to continue playing, its the high e too, i was practicing thunderstruck, prolly had it too tight or something, also three of the guys in my football team are guitarist's well one of them is a bassis. but whatever. Linkin - witness to insanitity
+24 September, 2004
+tomorrow, four games at junior jam, our plan win em all, when we do the peace bowl is even closer in our grip, football, ur now my sport, running too, but football is the major thing. ive been getting better at the guitar, and so is my brother. other then that i aint got much to else to say Linkin - witness to insanitity ps - why is it we back away and blame it on other pple, and not look at ourselves and ask ourself if we are the problem or cause to it?
+23 September, 2004
+defense, half back, thats my position, for the unedacated it means when the oppenet quarterback throws the ball they either pass it over to a reciever or the slots. my job is to stop the slots or receiver, depending on the play, depends on who im gonna be blocking, anyways its fun. we play the saturday, so no blog entry friday i may be a little dead on tkz activity besides my blog, the odd rip npw and then other then that im pushing myself to finish the tenth grade this term and do grade 11 next term but i may not do it like that ill work and do four subjects insttead of three this term, freeing one of my next term slots most likely before i did my football practice i did my twenty minute run in pe, so im like ' yah im a god, nothings gonna stop me, im invincible' the game will kick ass, im a bit sore but im gonna have fun at whitecourt, two days left till victory my class made chili today in the home ec room during the time we were suppose to work, it was fun, this huge bugger named laytin had this massive inch wide, centimeter thick elastic and he was givin everyone hornets, aussie would hold u, then laytin come and belt u in the leg or chest, and the stupid teacher always looker after it happened. other then that im feeling great Linkin - witness to insanitity PS < it means PostScript < i learned that from the ann rice novel im reading
+![](forums/images/avatars/664148653419da35c201e0.jpg)
+Linkin
+February 16, 2004
+Use your imagination
+Motorcycles, Electric Gutiars,Computers, And Money!!
+Nov 28, 2004
+Nov 1, 2004
+Oct 12, 2004
+Oct 7, 2004
+Oct 2, 2004
